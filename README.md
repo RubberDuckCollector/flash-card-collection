@@ -11,6 +11,7 @@ My flash cards are stored in this repo.
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
 
 **These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you** 
+
 For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
 
 <details>
