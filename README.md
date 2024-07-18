@@ -13,10 +13,11 @@ Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderu
 **These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you** 
 For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
 
-Technical note:
-
->! I didn't use JSON to store the flash cards because the `term|definition` is sufficient, and it's so simple it's easily machine-readable by simple program code.
->! It's also really quick and simple to write this way, and I could write vim remaps to easily find the | and put extra data in the flash card using the remap like `(reflexive)` and `(starts with <letter>)`. Writing with remaps and vim is much quicker than on the quizlet webiste at least
+<details>
+    <summary>Technical note:</summary>
+    I didn't use JSON to store the flash cards because the `term|definition` is sufficient, and it's so simple it's easily machine-readable by simple program code.
+    It's also really quick and simple to write this way, and I could write vim remaps to easily find the | and put extra data in the flash card using the remap like `(reflexive)` and `(starts with <letter>)`. Writing with remaps and vim is much quicker than on the quizlet webiste at least
+</details>
 
 **If you see an error, submit a pull request and I'll try to figure out how that works or manually fix the error**
 
