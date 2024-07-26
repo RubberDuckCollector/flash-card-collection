@@ -34,7 +34,7 @@ the role model|das Rollenbild(er)
 to keep calm|Ruhe bewahren
 to swallow, supress|runterschlucken
 the self-help group|die Selbsthilfegrupe(n)
-to take care of yourself (reflexive)|für sich selbst sorgen
+to take care of oneself (reflexive)|für sich selbst sorgen
 to argue|streiten
 strict|streng
 to dare (reflexive)|sich trauen
@@ -64,7 +64,7 @@ the survey respondent (male)|der Befragte(n)
 the survey respondent (female)|die Befragte(n)
 to announce|bekanntgeben
 the professional life|das Berufsleben(-)
-to be based on|beruhen auf (+ dat)
+to be based on (+ case)|beruhen auf (+ dat)
 capable of maintaining a relationship|beziehungsfähig
 the breadwinner (male)|der Brotverdiener(-)
 the breadwinner (female)|die Brotverdienerin(nen)
@@ -106,7 +106,7 @@ the (online dating, or otherwise online) profile|das Profil(e)
 the concept of people's roles|das Rollenverstädnis(se)
 the divorce|die Scheidung(en)
 the divorce rate|die Scheidungsrate(n)
-to fail due to|scheitern an (+ dat)
+to fail due to (+ case)|scheitern an (+ dat)
 to give up your career|seine Karriere aufgeben
 the normal thing, matter of course|die Selbstverständlichkeit(en)
 the self-fulfilment|die Selbstverwirklichung
@@ -121,34 +121,63 @@ married|verheiratet
 understanding|verstädnisvoll
 to trust someone|jemandem vertrauen
 trust|das Vertrauen(-)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+the value|der Wert(e)
+the economic loss|die wirtschaftliche Voraussetzung
+wealthy|wohlhabend
+as a couple, the two of us|zu zweit
+to slow down, hold back|zurückstecken
+to get together (romantically)|zusammenkommen
+responsible for|zuständig für
+to be accepted|Akzeptanz erfahren
+the elderly care|die Altersversorgung
+to promote|anpreisen
+the proportion|der Anteil(e)
+open-minded|aufgeschlossen
+the attention|die Aufmerksamkeit
+the school place|der Ausbildungsplatz(¨e)
+extremely|äußerst
+the burden|die Belastung(en)
+to consist of (+ case)|bestehen aus (+ dat)
+to overcome|bewältigen
+affordable|bezahlbar
+to take the initiative|die Initiative ergreifen
+to maintain privacy|die Privatsphäre bewahren
+on average|durchschnittlich
+honest(ly)|ehrich
+to interfere (reflexive)|sich einmischen
+to be sensitive|empfindlich reagieren
+to develop, work out|erarbeiten
+to take a day off work (reflexive)|sich frei nehmen
+to be needed|gebraucht werden
+the birth rate|das Geburtenniveau(s)
+the birth trend, fertility pattern|das Geburtenverhalten(-)
+communally, together (starts with g)|gemeinsam
+legal|gesetzlich
+to get used to (+ case)|sich gewöhnen an (+ acc)
+of the same age|gleichaltrig
+the same-sex relationship|die gleichgeschlechtliche Beziehung
+helpful|hilfsbereit
+in an ideal scenario|im Idealfall
+the nuclear family|die Kernfamilie(n)
+the childcare|die Kinderbetreuung
+the healthcare|die Krankenversorgung
+suffer due to (+ case)|leiden unter (+ dat)
+the surrogate mother|die Leihmutter(¨)
+the household made up of several generations of the same family|das Mehrgenerationenhaus(¨er)
+the offspring|der Nachwuchs
+the blended family|die Patchworkfamilie(n)
+the child of gay parents|die Regenbogenkind(er)
+the in-laws (pl)|die Schwiegereltern
+the playmate|der Spielkamerad(en)
+the step-brother|der Stiefbruder(¨)
+the step-sister (has "die")|die Stiefschwester(n)
+maintaining the (socio-political) system|systemerhaltend
+uncomprehending(ly)|unverständlich
+the relationship (starts with V)|das Verhältnis(se)
+to neglect|vernachlässigen
+diverse|vielfältig
+the concept, idea (starts with V)|die Vorstellung(en)
+the wanted child|das Wunschkind(er)
+the foster child|das Ziehkind(er)
+to be due to (+ case)|zurückgehen auf (+ acc)
+to hold oneself back|sich zurückziehen
