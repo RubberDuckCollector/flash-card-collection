@@ -50,7 +50,7 @@ the competition (starts with W)|die Wettbewerb(e)
 competitive|wettbewerbsfähig
 the economy (starts with W)|die Wirtschaft(en)
 to find one's way (reflexive)|sich zurechtfinden
-to ensure, guarantee|zusichern
+to ensure, guarantee (starts with z)|zusichern
 to be in charge of (3 words)|zuständig sein für
 the immigration legislation|das Zuwanderungsgesetz(e)
 to deter|abschrecken
@@ -71,13 +71,13 @@ to deny, dispute, contest|bestreiten
 the (academic) education|die Bildung
 the academic qualification, degree|der Bildungsabschluss(¨e)
 the custom, tradition (starts with B)|der Brauch(¨e)
-to need|brauchen
+to need (starts with "br")|brauchen
 local, indigenous|einheimisch
 the attitude|die Einstellung(en)
 accordingly|entsprechend
 unemployed|erwerbslos
 the teacher, someone working in education (starts with E)|der Erzieher(-)
-as a consequence of|als Folge von
+as a consequence of (has "von")|als Folge von
 abroad, in a foreign place (3 words) (1st word is "in")|in der Fremde
 someone invited to work in Germany during the economic boom in the late 1950s and 1960s (answer this with definite article) (male)|der Gastarbeiter(-)
 someone invited to work in Germany during the economic boom in the late 1950s and 1960s (answer this with definite article) (female)|die Gastarbeiterin(nen)
@@ -95,7 +95,7 @@ low (starts with n)|niedrig
 in need of care (starts with p)|pflegebedürftig
 to get rid of (4 words)|aus dem Weg räunen
 to be right|Recht haben
-to estimate|schätzen
+to estimate (starts with s)|schätzen
 the safety, security|die Sicherheit
 the custom (starts with S)|die Sitte(n)
 the fact (starts with T)|die Tatsache(n)
