@@ -49,7 +49,7 @@ the conference|die Tagung(en)
 to cross (starts with ü)|überqueren
 the local area|das Umfeld(er)
 vice versa|umgekehrt
-undisputed|unbestritten
+undisputed (starts with "unb")|unbestritten
 the joint enterprise, venture|der Unternehmensverein
 the event|die Veranstaltung(en)
 to strengthen|verstärken

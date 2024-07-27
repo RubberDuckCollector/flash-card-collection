@@ -29,7 +29,7 @@ the petition|die Unterschriftenliste(n)
 the constitution|die Verfassung(en)
 to represent|vertreten
 confused|verworren
-to happen (starts with v)|vorkommen
+to happen (starts with "vor")|vorkommen
 to plan, undertake to|sich vornehmen
 the chairman|der Vorsitzende(n)
 the chairwoman|der Vorsitzende(n)
@@ -106,51 +106,62 @@ to comprise|umfassen
 insufficient|unzureichend
 the event (starts with V)|die Veranstaltung(en)
 the benefit|die Vergünstigung(en)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+the responsibility|die Verpflichtung(en)
+to realise|verwirklichen
+to give up, renounce (+ case)|verzichten auf (+ acc)
+the multitude|die Vielzahl
+the access|der Zugang(¨e)
+tailored to something|zugeschnitten auf etwas sein
+to compile|zusammentragen
+the activist (male)|der Aktivist(en)
+the activist (female)|die Aktivistin(nen)
+apparent|anscheinend
+the poverty|die Armut
+the poverty line|die Armutsgrenze
+the attention|die Aufmerksamkeit
+to grow up (starts with "auf")|aufwaschen
+the exclusion|die Ausgrenzung(en)
+to run out of control|außer Kontrolle geraten
+the effect|die Auswirkung(en)
+the stress, burden|die Belastung(en)
+to bring about, achieve|bewirken
+the education system|das Bildungswesen(-)
+nationwide (in Germany)|bundesweit
+the civic action group|die Bürgerinitiative(n)
+clear(ly) (starts with d)|deutlich
+voluntary work (answer this without article)|ehrenamtliches Engagement
+to complement|ergänzen
+to awaken|erwecken
+the flyer|das Flugblatt(¨er)
+the volunteer (male)|der Freiwillige(n)
+the volunteer (female)|die Freiwillige(n)
+peaceful(ly)|friedlich
+to endanger|gefährden
+the justice|die Gerechtigkeit
+low, small (starts with g)|gering
+the equality|die Gleichberechtigung(en)
+the interest group|der Interessenverband(¨e)
+to make a comment|einen Kommentar abgeben
+the consumer society|die Konsumgesellschaft(en)
+the agriculture|der Landbau
+long-term|langfristig
+the achievement|die Leistung(en)
+the pressure to achieve|der Leistungsdruck
+the letter to the editor|der Leserbrief(e)
+the torture|die Qual(en)
+the self-fulfilment|die Selbstverwirklichung
+to make people aware|sensibilisieren
+thrifty|sparsam
+the donation|die Spende(n)
+to feel (starts with s)|spüren
+indispensable|unentbehrlich
+unbearable|unerträglich
+undisputed (starts with "unu")|unumstritten
+connected with (1st word starts with v)|verbunden mit
+to neglect (starts with v)|vernachlässigen
+the meals, board (starts with V)|die Verpflegung(en)
+to give preference to|vorziehen
+to take priority (3 words)|den Vorrag haben
+repeated(ly)|wiederholt
+weekly|wöchentlich
+prosperous|wohlhabend
