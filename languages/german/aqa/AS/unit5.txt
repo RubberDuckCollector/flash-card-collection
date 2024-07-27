@@ -165,6 +165,6 @@ to represent|vertreten
 to devote yourself to (+ case) (reflexive)|sich widmen (+ dat)
 the reproduction, rendering|die Wiedergabe(n)
 the concept for living, home design|das Wohnkonzept(e)
-the quote|das Zitat(e)
+the quote (starts with Z)|das Zitat(e)
 to quote|zitieren
 the future (starts with Z)|die Zukunft

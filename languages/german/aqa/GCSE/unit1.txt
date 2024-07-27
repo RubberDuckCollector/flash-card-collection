@@ -61,7 +61,7 @@ relaxed|entspannt
 the freedom|die Freiheit
 the circle of friends|der Freundeskreis (-e)
 the friendship|die Freundschaft (-en)
-to feel (reflexive)|sich fühlen
+to feel (starts with f) (reflexive)|sich fühlen
 the violin|die Geige (-n)
 mean|gemein
 the reason|der Grund (-e)
