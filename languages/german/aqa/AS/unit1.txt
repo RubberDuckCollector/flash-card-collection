@@ -3,7 +3,7 @@ the single parent (ends in "de") (female)|die Alleinerziehende
 the single parent (male)|der Alleinerzieher (-)
 the single parent (female)|die Alleinerzieherin(nen)
 the attitude, view|die Auffassung(en)
-the job, task|die Aufgabe(n)
+the job, task (starts with "Auf")|die Aufgabe(n)
 to look after someone (3 words)|auf jemanden aufpassen
 to stay out|ausbleiben
 to know about something (reflexive)|sich mit etwas auskennen
@@ -34,7 +34,7 @@ the role model|das Rollenbild(er)
 to keep calm|Ruhe bewahren
 to swallow, supress|runterschlucken
 the self-help group|die Selbsthilfegrupe(n)
-to take care of oneself (reflexive)|für sich selbst sorgen
+to take care of oneself (4 words) (reflexive)|für sich selbst sorgen
 to argue|streiten
 strict|streng
 to dare (reflexive)|sich trauen

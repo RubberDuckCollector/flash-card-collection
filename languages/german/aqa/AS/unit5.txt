@@ -1,5 +1,5 @@
 the architecture|die Architektur
-as a consequence of|als Folge davon
+as a consequence of (has "davon")|als Folge davon
 the applied art|die angewandte Kunst
 the demand|der Anspruch(¨e)
 the expressiveness|die Ausdruckskraft
