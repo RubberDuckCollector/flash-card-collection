@@ -67,7 +67,7 @@ mean|gemein
 the reason|der Grund (-e)
 helpful|hilfsbereit
 to be interested in (reflexive)|sich interessieren für
-to take care of, to look after (reflexive)|sich kümmern um
+to take care of, to look after (3 words) (reflexive)|sich kümmern um
 to suffer, to stand|leiden
 the solution|die Lösung (-en)
 with each other, together|miteinander
@@ -90,7 +90,7 @@ reliable|zuverlässig
 different, differently, in a different way|anders
 excited|aufgeregt
 definite, definitely, certain, certainly (starts with b)|bestimmt
-to need|brauchen
+to need (starts with "br")|brauchen
 against, opposed to something|dagegen
 to last|dauern
 the married couple|das Ehepaar (-e)

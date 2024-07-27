@@ -19,7 +19,7 @@ the soldier (male)|der Soldat (-en)
 the soldier (female)|die Soldatin (-nen)
 the voice|die Stimme (-n)
 to practise|üben
-the job interview|das Vorstellungsgespräch (-e)
+the job interview (starts with V)|das Vorstellungsgespräch (-e)
 the tap|der Wasserhahn (-¨e)
 the work experience|das Arbeitspraktikum (-practika)
 the pause for breath|die Atempause (-n)
@@ -34,6 +34,6 @@ the wage (starts with L)|der Lohn (-¨e)
 rotten, lousy|mies
 the radio presenter (male)|der Radiomoderator (-en)
 the radio presenter (female)|die Radiomoderatorin (-nen)
-the dream job|der Traumjob (-s)
+the dream job (starts with T)|der Traumjob (-s)
 unbelieveable, incredible|unglaublich
 the support, help|die Unterstützung (-en)

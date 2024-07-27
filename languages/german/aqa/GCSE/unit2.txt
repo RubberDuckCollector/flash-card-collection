@@ -1,8 +1,8 @@
-to accept|akzeptieren
+to accept (starts with "ak")|akzeptieren
 to change (starts with ä)|ändern
 to pay attention, to watch out, to take care (starts with a)|aufpassen
 popular|beliebt
-the job, profession|der Beruf (-e)
+the job, profession (starts with "Ber")|der Beruf (-e)
 famous|berühmt
 the data (plual form, answer this without an article)|Daten
 therefore, because of that (starts with d)|deshalb

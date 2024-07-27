@@ -1,6 +1,6 @@
 the working day|der Arbeitstag (-e)
 poor|arm
-the task, job|die Aufgabe (-n)
+the task, job (starts with A)|die Aufgabe (-n)
 to tidy up|aufräumen
 actually, really (starts with e)|eigentlich
 simple|einfach

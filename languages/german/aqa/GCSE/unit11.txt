@@ -1,5 +1,5 @@
 the age|das Alter
-the (job) training|die Ausbildung (-en)
+the (job) training (starts with "Aus")|die Ausbildung (-en)
 the apprentice, trainee (male)|der Azubi (-s) (Auszubildende)
 the apprentice, trainee (female)|die Azubi (-s) (Auszubildende)
 the construction worker (male)|der Bauarbeiter (-)
@@ -8,7 +8,7 @@ the work experience (starts with B)|die Berufspraxis (-praxen)
 the vocational training school|die Berufsschule (-n)
 the application|die Bewerbung (-en)
 single, only|einzig
-to (do casual) work|jobben
+to (do casual) work (starts with j)|jobben
 the young person (male)|der Jugendliche (-n)
 the young person (female)|die Jugendliche (-n)
 to succeed, to work (starts with k)|klappen
@@ -28,7 +28,8 @@ the experience of work|die Arbeitserfahrung (-)
 the baked goods (pl) (no article)|Backwaren
 to serve|bedienen
 to treat, to handle|behandeln
-the careers adviser|der Berufsberater (-)
+the careers adviser (male)|der Berufsberater (-)
+the careers adviser (female)|die Berufsberaterin (-nen)
 the bookshop|die Buchhandlung (-)
 the office worker (male)|der Büroangestellte (-n)
 the office worker (female)|die Büroangestellte (-n)
@@ -60,4 +61,4 @@ the attempt|der Versuch (-e)
 to introduce|vorstellen
 to introduce oneself (reflexive)|sich vorstellen
 the garage|die Werkstatt (-¨en)
-to deliver|zustellen
+to deliver (starts with z)|zustellen
