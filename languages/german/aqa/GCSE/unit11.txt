@@ -43,7 +43,7 @@ the plumber (male)|der Klempner(-)
 the plumber (female)|die Klempnerin (-nen)
 the cook (male)|der Koch(¨e)
 the cook (female)|die Kochin(nen)
-the food (pl) (starts with L) (no article)|Lbenesmittel
+the food (pl) (starts with uppercase L) (no article)|Lbenesmittel
 to teach|lehren
 the mechanic (male)|der Mechaniker(-)
 the mechanic (female)|die Mechanikerin(nen)

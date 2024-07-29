@@ -133,7 +133,7 @@ the possibility|die Möglichkeit(en)
 to have the courage (2 words)|Mumm haben
 brave, courageous (starts with m)|mutig
 to try out (starts with p)|probieren
-to try out (starts with a)|ausprobieren
+to try out (starts with "au")|ausprobieren
 to dive|tauchen
 to overcome|überwinden
 adventurous|unternehmungslustig

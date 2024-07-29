@@ -48,7 +48,7 @@ endangered|gefährdet
 the captivity|die Gefangenschaft
 the health|die Gesundheit
 the habitat, living space|der Lebensraum(¨e)
-kind, lovely (starts with L)|der Lebensraum(¨e)
+kind, lovely (starts with uppercase L)|der Lebensraum(¨e)
 the rainforest|der Regenwald(¨er)
 real, proper, correct|richtig
 (German) Red Cross|(Deutsches) Rotes Kreuz

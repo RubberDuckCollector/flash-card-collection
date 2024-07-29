@@ -58,9 +58,9 @@ to keep secret|geheim halten
 to ignore|ignorieren
 isolating|isolierend
 the cold shoulder|die kalte Schulter
-vital (starts with L)|lebensnotwendig
-educational, informative (starts with L)|lehrreich
-unfortunately (starts with L)|leider
+vital (starts with uppercase L)|lebensnotwendig
+educational, informative (starts with lowercase L)|lehrreich
+unfortunately (starts with lowercase L)|leider
 to bully (starts with m)|mobben
 the network|das Netzwerk(e)
 recently|neulich
@@ -91,7 +91,7 @@ at any time (starts with j)|jederzeit
 the diary, calendar|der Kalender()
 to concentrate (reflexive)|sich konzentrieren
 to take with (you)|mitnehmen
-necessary (starts with n)|nötig
+necessary (starts with "nö")|nötig
 that's right/correct|das stimmt
 the study, research|die Studie
 the tariff, scale of charges|der Tarif(e)

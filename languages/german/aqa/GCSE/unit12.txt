@@ -1,4 +1,4 @@
-to test, to try out (starts with a)|ausprobieren
+to test, to try out (starts with "au")|ausprobieren
 to practise (a profession)|ausüben
 to apply for (reflexive)|(sich um) bewerben
 the postman|der Briefträger(-)
@@ -30,7 +30,7 @@ the opportunity|die Gelegenheit(en)
 the engineer (male)|der Ingenieur(e)
 the engineer (female)|die Ingenieurin(nen)
 ridiculous|lächerlich
-the wage (starts with L)|der Lohn(¨e)
+the wage (starts with uppercase L)|der Lohn(¨e)
 rotten, lousy|mies
 the radio presenter (male)|der Radiomoderator(en)
 the radio presenter (female)|die Radiomoderatorin(nen)
