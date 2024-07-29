@@ -23,7 +23,7 @@ the candle|die Kerze(n)
 the queen|die Königin(nen)
 the crib (in a nativity scene)|die krippe(n)
 the bauble|die Kugel(n)
-alive (starts with L)|lebendig
+alive (starts with lowercase L)|lebendig
 to tempt, lure|locken
 the fool, jester|der Narr(en)
 local (starts with o)|ortsansässig
@@ -68,7 +68,7 @@ charitable|karitativ
 tasteless, corny|kitschig
 the doughnut (starts with K)|der krapfen(-)
 the gingerbread|der Lebkuchen(-)
-the effort, performance (starts with L)|die Leistung(en)
+the effort, performance (starts with uppercase L)|die Leistung(en)
 the streamer|die Luftschlange(n)
 the almond|die Mandel(n)
 the chestnut|die Marone(n)

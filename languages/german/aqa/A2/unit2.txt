@@ -87,7 +87,7 @@ the challenge (starts with H)|die Herausforderung(en)
 the obstacle|das Hindernis(se)
 hardly|kaum
 to be able to (4 words)|in der Lage sein
-the camp (starts with L)|das Lager(-)
+the camp (starts with uppercase L)|das Lager(-)
 the way of life|die Lebensweise(n)
 recently (starts with lowercase L)|letztens
 first of all (3 words)|in erster Linie
