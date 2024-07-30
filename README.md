@@ -24,7 +24,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 ### Languages
 
-- my flash card sets are more usable than the ones in the textbook.
+- my flash card sets are more usable than the ones in the textbook for my flash card learning technique
     - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a more explicit format compared to the textbook
     - the male + female versions of nouns like *jefe* and *jefa* are explicit in my flash cards, whereas the Spanish textbooks I've made the cards from don't do this
     - this makes it easier to recall feminine versions of words because they are given equal significance in the flash card set, which is not the case in the textbooks, making my flash cards more usable
