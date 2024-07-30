@@ -1,5 +1,5 @@
 to get on with (2 words)|auskommen mit
-to look like, to appear|aussehen
+to look like, to appear (1 word)|aussehen
 both|beide
 to describe|beschreiben
 the cousin (male)|der Cousin(s)
@@ -9,14 +9,14 @@ the woman, wife|die Frau(en)
 the boyfriend, friend who just so happens to be a boy|der Freund(en)
 the girlfriend, friend who just so happens to be a girl|die Freundin(nen)
 to give|geben
-to like, to please (case)|gefallen (dative)
+to like, to please (+ case)|gefallen (+ dat)
 the community, group|die Gemeinschaft(en)
 the present, gift|das Geschenk(e)
 divorced|geschieden
 there is/there are|es gibt
-to be lucky|Glück haben
-happy|glücklich
-the grandparents|die Großeltern
+to be lucky (2 words)|Glück haben
+happy (starts with g)|glücklich
+the grandparents (this is plural)|die Großeltern
 the grandmother|die Großmutter(¨)
 the grandfather|der Großvater(¨)
 each, every|jeder, jede, jedes
@@ -32,9 +32,9 @@ the partner (female)|die Partnerin(nen)
 the person|die Person(en)
 the town|die Stadt(¨e)
 the step brother|der Stiefbruder(¨)
-the stepmother|der Stiefmutter(¨)
+the stepmother (has "der")|der Stiefmutter(¨)
 the stepsister (has "die")|die Stiefschwester(n)
-the stepfather|die Stiefvater(¨)
+the stepfather|der Stiefvater(¨)
 the aunt|die Tante(n)
 the pocket money|das Taschengeld(er)
 the relationship (starts with v)|das Verhältnis(se)
@@ -43,6 +43,7 @@ engaged (to someone)|verlobt
 get on with (verb starts with v) (reflexive)|sich verstehen mit
 to call in, drop by|vorbeikommen
 the widow|die Witwe(n)
+the widower|der Witwer(-)
 to live, reside|wohnen
 three (of us)|zu dritt
 together|zusammen
@@ -115,7 +116,7 @@ to look for, to search|suchen
 to separate (reflexive)|sich trennen
 outdated|veraltet
 the waste|die Verschwendung
-the understanding (adj, e.g "he/she is understanding, they are understanding")|verständnisvoll
+understanding (adj, e.g "he/she is understanding, they are understanding")|verständnisvoll
 to try (starts with v)|versuchen
 the flat, apartment|die Wohnung(en)
 to decrease, to lose weight|abnehmen
@@ -139,7 +140,7 @@ to lose|verlieren
 the engagement|die Verlobung(en)
 the advantage|der Vorteil(e)
 the reality|die Wirklichkeit(en)
-the period of time|der Zetiraum(¨e)
+the period of time|der Zeitraum(¨e)
 to hesitate|zögern
-the future|die Zukunft
+the future (has "die")|die Zukunft
 to stay together|zusammenbleiben
