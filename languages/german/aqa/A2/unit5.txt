@@ -2,7 +2,7 @@ the MP (male)|der Abgeordnete(n)
 the MP (female)|die Abgeordnete(n)
 to state|angeben
 the committee|der Ausschuss(¨e)
-the need|das Bedürfnis(se)
+the need (starts with B)|das Bedürfnis(se)
 to deal with (reflexive)|sich befassen mit
 the person asked (male)|der Befragte(n)
 the person asked (female)|die Befragte(n)
