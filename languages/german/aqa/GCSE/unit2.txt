@@ -42,7 +42,8 @@ the character (in text)|das Zeichen(-)
 to destroy|zestören
 the purpose (starts with z)|der Zweck(e)
 alarming|alarmierend
-the outsider|der Außenseiter()
+the outsider (male)|der Außenseiter(-)
+the outsider (female)|die Außenseiterin(nen)
 the threat|die Bedrohung(en)
 the insult|die Beleidigung(en)
 worrying|beunruhigend
@@ -66,7 +67,7 @@ the network|das Netzwerk(e)
 recently|neulich
 risky|riskant
 the role|die Rolle(n)
-bad (ends in "-mm")|schlimm
+bad (ends with "-mm")|schlimm
 the protection|der Schutz
 the security settings|die Sicherheitseinstellungen
 immediately, straight away (starts with s)|sofort
