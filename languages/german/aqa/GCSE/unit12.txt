@@ -9,7 +9,7 @@ the firefighter (female)|die Feuerwehrfrau (-en)
 shot (a film)|gedreht
 fully trained|gelernt
 to upload|hochladen
-the cashier, bank clerk (male)|der Kassierer()
+the cashier, bank clerk (male)|der Kassierer(-)
 the cashier, bank clerk (female)|die Kassiererin(nen)
 to care for (starts with p)|pflegen
 to repair|reparieren

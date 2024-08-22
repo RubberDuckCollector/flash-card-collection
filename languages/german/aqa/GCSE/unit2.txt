@@ -1,7 +1,7 @@
 to accept (starts with "ak")|akzeptieren
 to change (starts with ä)|ändern
 to pay attention, to watch out, to take care (starts with a)|aufpassen
-popular|beliebt
+popular (starts with b)|beliebt
 the job, profession (starts with "Ber")|der Beruf(e)
 famous|berühmt
 the data (plual form, answer this without an article)|Daten
@@ -59,7 +59,7 @@ to keep secret|geheim halten
 to ignore|ignorieren
 isolating|isolierend
 the cold shoulder|die kalte Schulter
-vital (starts with uppercase L)|lebensnotwendig
+vital (starts with lowercase L)|lebensnotwendig
 educational, informative (starts with lowercase L)|lehrreich
 unfortunately (starts with lowercase L)|leider
 to bully (starts with m)|mobben
@@ -77,7 +77,6 @@ entertaining (starts with u)|unterhaltsam
 in contact with|in Verbindung mit
 to conceal, to hide|verheimlichen
 to publish|veröffentlichen
-to show|zeigen
 old-fashioned|altmodisch
 the connection|der Anschluss(¨e)
 special, particularly, especially (starts with b)|besonders
@@ -89,15 +88,15 @@ the money|das Geld
 the device, gadget, appliance|das Gerät(e)
 certain (starts with g)|gewiss
 at any time (starts with j)|jederzeit
-the diary, calendar|der Kalender()
+the diary, calendar|der Kalender(-)
 to concentrate (reflexive)|sich konzentrieren
-to take with (you)|mitnehmen
+to take with|mitnehmen
 necessary (starts with "nö")|nötig
 that's right/correct|das stimmt
 the study, research|die Studie
 the tariff, scale of charges|der Tarif(e)
 perhaps (starts with v)|vielleicht
-the alarm clock|der Wecker()
+the alarm clock|der Wecker(-)
 the route, way, path (starts with w)|der Weg(e)
 to show (starts with z)|zeigen
 in every way|in allem
@@ -110,7 +109,7 @@ slim (starts with d)|dünn
 the invention|die Erfindung(en)
 the landline|das Festnetz(e)
 to film|filmen
-the consequence, result, outcome (starts with f)|die Folge(n)
+the consequence, result, outcome (starts with F)|die Folge(n)
 smooth, sleek (starts with g)|glatt
 ugly|hässlich
 the identity theft|der Identitätsklau
@@ -124,7 +123,7 @@ the victim|das Opfer(-)
 to check (starts with p)|prüfen
 in general (last word starts with r)|in der Regel
 to range|reichen
-the thing, stuff (starts with s)|die Sache(n)
+the thing, stuff (starts with S)|die Sache(n)
 the joke (starts with s)|der Scherz(e)
 the fight, brawl|die Schlägerei(en)
 to commit suicide|Selbstmord begehen

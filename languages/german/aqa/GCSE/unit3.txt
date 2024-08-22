@@ -33,7 +33,7 @@ the participant|der Teilnehmer(-)
 dead (starts with t)|tot
 contemporary,-up to date|zeitgemäß
 the eel soup|die Aalsuppe
-the dinner, evening meal|das Abandessen()
+the dinner, evening meal (starts with A)|das Abandessen(-)
 to have no idea (3 words) ("idea" starts with A)|keine Ahnung haben
 the old part of town|die Altstadt
 the roast chicken|das Brathähnchen(-)
@@ -83,7 +83,7 @@ the menu|die Speisekarte(n)
 the piece|das Stück(e)
 I'm sorry.|Das tut mir leid.
 to avoid (starts with v)|vermeiden
-a greeder eater/glutton|der Vielfraß(e)
+a greedy eater/glutton|der Vielfraß(e)
 the starter|die Vorspeise(n)
 to choose|wählen
 to take your time (reflexive)|sich die Zeit nehmen

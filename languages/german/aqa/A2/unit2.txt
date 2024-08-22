@@ -120,7 +120,7 @@ the contact person|der Ansprechpartner(-)
 the employee|die Arbeitskraft(¨e)
 the poverty|die Armut
 the residence permit|die Aufenthaltsgenehmigung(en)
-to use, to take advantage of|ausnutzen
+to use, to take advantage of (starts with a)|ausnutzen
 the exploitation|die Ausnutzung
 to treat (starts with b)|behandeln
 to insist on (2 words)|bestehen auf

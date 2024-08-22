@@ -51,7 +51,7 @@ over-populated|überbevölkert
 to pollute (starts with "verp")|verpesten
 to pollute (starts with "vers")|verschmutzen
 to waste|verschwenden
-to use|verwenden
+to use (starts with v)|verwenden
 to warn about|warnen vor
 the water scarcity|die Wasserknappheit
 the world|die Welt(en)
