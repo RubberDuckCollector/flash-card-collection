@@ -105,7 +105,7 @@ the resource|der Rohstoff(e)
 the settler (male)|der Siedler(-)
 the settler (female)|die Siedlerin(nen)
 to increase|steigern
-to attack|überfallen
+to attack (starts with ü)|überfallen
 superior|überlegen
 to kill (starts with u)|umbringen
 to suppress|unterdrücken
@@ -125,7 +125,6 @@ to destroy (starts with z)|zerstören
 the forced labour|die Zwangsarbeit(en)
 to force|zwingen
 to touch|anfassen
-to attack (starts with "an")|angreifen
 the fan (starts with A) (male)|der Anhänger(-)
 the fan (starts with A) (female)|die Anhängerin(nen)
 to request|auffordern
