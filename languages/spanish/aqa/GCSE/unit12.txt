@@ -79,7 +79,7 @@ the postal worker (female)|la cartera
 the customer (like "client") (ending doesn't change between gender) (male)|el cliente
 the customer (like "client") (ending doesn't change between gender) (female)|la cliente
 the airline|la compañía aérea
-to share|compartir
+to share (starts with c)|compartir
 the accountant (like "countable") (male)|el contable
 the accountant (like "countable") (female)|la contable
 the account|la cuenta
