@@ -8,7 +8,7 @@ the job field|el ámbito laboral
 the gender gap|la brecha de género
 the footwear (starts with c)|el calzado
 the professional post|el cargo profesional
-to share|compartir
+to share (starts with c)|compartir
 the dressmaker/seamstress/tailor (male)|el costurero
 the dressmaker/seamstress/tailor (female)|la costurera
 to look after (has "a" after the word)|cuidar a
