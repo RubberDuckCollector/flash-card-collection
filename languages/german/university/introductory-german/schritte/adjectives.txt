@@ -1,0 +1,17 @@
+thin|dünn
+thick|dick
+big; tall|groß
+small|klein
+long|lang
+short|kurz
+slow(ly)|langsam
+fast, quick(ly)|schnell
+new|neu
+young|jung
+old|alt
+clean; neat|sauber
+dirty|schmutzig
+expensive|teuer
+inexpensive, cheap|billig
+bad|schlecht
+good|gut

@@ -1,0 +1,25 @@
+the classroom|das Klassenzimmer(-)
+the pencil|der Bleistift(e)
+the table|der Tisch(e)
+the chair|der Stuhl(¨e)
+the window|das Fenster(-)
+the chalk|die Kreide(n)
+the pen|der Kuli(s)
+the notebook|das Heft(e)
+the book|das Buch(¨er)
+the paper|das Papier(e)
+to answer|antworten
+to listen|hören
+to listen (to something, somebody)|zuhören
+yellow|gelb
+blue|blau
+light blue|hellblau
+dark blue|dunkelblau
+now|jetzt
+to mean (starts with b)|bedeuten
+the dialogue|das Gespräch
+the blackboard|die Tafel(n)
+the door|die Tür(en)
+the wall|die Wand(¨e)
+the picture|das Bild(er)
+the repitition|die Wiederholung

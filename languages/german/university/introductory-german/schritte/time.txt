@@ -1,0 +1,28 @@
+what time is it (uses "late")|wie spät ist es
+what time is it (uses "o' clock")|wiewiel Uhr ist es
+10 to 8 (10 mins before 8)|zehn vor acht
+dann (starts with d)|then
+the lecture (starts with V)|die Vorlesung(en)
+half past 11 (11:30)|halb zwölf
+half past 12 (12:30)|halb eins
+only (starts with e)|erst
+quarter (starts with V)|Viertel
+quarter past one (13:15)|Viertel nach eins
+why|warum
+at quarter to three|um Viertel vor drei
+late|spät
+the clock; watch|die Uhr(en)
+the quarter (starts with V)|das Viertel
+quarter past|Viertel nach
+quarter to|Viertel vor
+half (adjective without article)|halb
+xx:25|fünf vor halb
+xx:35|fünf nach halb
+the minute|die Minute(n)
+the second|die Sekunde(n)
+the hour|die Stunde(n)
+the time|die Zeit(en)
+in the morning|morgens
+at noon|mittags
+in the afternoon (literally: after midday)|nachmittags
+in the evening|abends

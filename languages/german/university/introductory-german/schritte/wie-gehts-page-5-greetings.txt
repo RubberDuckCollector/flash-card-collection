@@ -1,0 +1,30 @@
+Mr, the gentleman|der Herr
+Mr, the gentlemen|die Herren
+Mrs, the woman|die Frau
+Mrs, the women|die Frauen
+Hello (formal)|Guten Tag
+Good morning|Guten Morgen
+Good evening|Guten Abend
+What's your name? (informal)|Wie heißt du?
+What's your name (formal)|Wie heißen Sie?
+My name is...|Mein Name ist...
+to be called|heißen
+Your name is... ("you're called") (informal)|Du heißt...
+Your name is... ("you're called") (formal)|Sie heißen...
+pleased to meet you|Freut mich
+I'm fine|Es geht mir gut
+good; fine, well|gut
+bad(ly)|schlecht
+wonderful(ly), great (starts with w)|wunderbar
+i'm tired|Ich bin müde
+yes|ja
+no|nein
+thank you|danke
+please; you're welome|bitte
+also, too (starts with a)|auch
+not|nicht
+and|und
+Goodbye (formal) (starts with A)|Auf Wiedersehen
+Goodbye (informal) (starts with T)|Tschüss
+take care (informal) (2 words) (starts with M)|Mach's gut
+see you later (informal) (2 words) (starts with B)|Bis später

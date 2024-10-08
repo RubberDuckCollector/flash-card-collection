@@ -1,0 +1,34 @@
+Germany|Deutschland
+France|Frankreich
+Austria|Österreich
+Czechia|Tschechien
+Poland|Polen
+Denmark|Dänemark
+The Netherlands|Die Niederlande
+Switzerland|Die Schweiz
+Canada|Kanada
+Russia|Russland
+England|England
+Italy|Italien
+Hungary|Ungarn
+Norway|Norwegen
+Sweden|Schweden
+Spain|Spanien
+Portugal|Portugal
+Serbia|Serbien
+Greece|Griechenland
+the Germans|die Deutschen
+the German (male)|der Deutscher
+the German (female)|die Deutscher
+the French|die Franzosen
+the French (male)|der Franzose
+the French (female)|die Französin
+the Austrians|die Österreicher
+the Austrian (male)|der Österreicher
+the Austrian (female)|die Österreicherin
+the Czechs|die Tschechen
+the Czech (male)|der Tscheche
+the Czech (female)|die Tschechin
+the Polish|die Polen
+the Polish (male)|der Pole
+the Polish (female)|die Polin

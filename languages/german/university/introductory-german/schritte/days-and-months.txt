@@ -1,0 +1,28 @@
+the days of the week|die Wochentage
+the day|der Tag
+the season|die Jahreszeit
+the month|der Monat
+the year|das Jahr
+Monday|Montag
+Tuesday|Dienstag
+Wednesday|Mittwoch
+Thursday|Donnerstag
+Friday|Freitag
+Saturday|Samstag
+Sunday|Sonntag
+Janurary|Januar
+February|Februar
+March|März
+April|April
+May|Mai
+June|Juni
+July|Juli
+August|August
+September|September
+October|Oktober
+November|November
+December|December
+the Winter months|die Wintermonate
+the Spring months|die Frühlingmonate
+the Summer months|die Sommermonate
+the Autumn months|die Herbstmonate

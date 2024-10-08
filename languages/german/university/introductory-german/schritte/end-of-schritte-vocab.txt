@@ -1,0 +1,238 @@
+the picture|das Bild(er)
+the pencil|der Bleistift(e)
+the blouse|die Bluse(n)
+the book|das Buch(¨er)
+the cent (of a Euro) (one cent, five cents)|der Cent(s) (ein Cent, fünf Cent)
+the euro (one euro, ten euros)|der Euro(s) (ein Euro, zehn Euro)
+the colour|die Farbe(n)
+the window|das Fenster
+the Mrs; woman; wife|die Frau(en)
+the spring|der Frühling
+the opposite|das Gegenteil(e)
+the notebook|das Heft(e)
+the shirt|das Hemd(en)
+the autumn, fall|der Herbst
+the Mr; gentleman|der Herr(en)
+the trousers|die Hose(n)
+the jacket|die Jacke(n)
+the year|das Jahr(e)
+the season|die Jahreszeit(en)
+the jeans (this is already plural)|die Jeans
+the dress|das Kleid(er)
+the clothing|die Kleidung
+the chalk|die Kreide
+the pen|der Kuli(s)
+the course|der Kurs(e)
+the coat|der Mantel(¨)
+the minute|die Minute(n)
+the month|der Monat(e)
+the paper|das Papier(e)
+the jumper (starts with Pullo)|der Pullover(-)
+the jumper (starts with Pulli)|der Pulli(s)
+the skirt|der Rock(¨e)
+the shoe|der Schuh(e)
+the second|die Sekunde(n)
+the summer|der Sommer
+the student (male)|der Student(en)
+the student (female)|die Studentin(nen)
+the chair|der Stuhl(e)
+the hour (starts with S)|die Stunde(n)
+the sweatshirt|das Sweatshirt(s)
+the t-shirt|das T-Shirt(s)
+the blackboard|die Tafel(n)
+the day|der Tag(e)
+the table|der Tisch(e)
+the door|die Tür(en)
+the watch; clock; o'clock|die Uhr(en)
+the time of day|die Uhrzeit(en)
+the (university) lecture; class|die Vorlesung(en)
+the wall|die Wand(¨e)
+the weather|das Wetter
+the winter|der Winter
+the week|die Woche(n)
+the number (starts with Z)|die Zahl(en)
+the time|die Zeit(en)
+the room (starts with Z)|das Zimmer(-)
+January|Januar
+February|Februar
+March|März
+April|April
+May|Mai
+June|Juni
+July|Juli
+August|August
+September|September
+October|Oktober
+November|November
+December|Dezember
+Monday|Montag
+Tuesday|Dienstag
+Wednesday|Mittwoch
+Thursday|Donnerstag
+Saturday|Samstag
+Sunday|Sonntag
+to answer|antworten
+to begin|beginnen
+to need|brauchen
+to eat (starts with e)|essen
+to find|finden
+to ask (starts with f)|fragen
+to go|gehen
+to have|haben
+to be called|heißen
+to hear|hören
+to cost; come to (a certain amount)|kosten
+to learn; to study|lernen
+to read|lesen
+to take|nehmen
+to say|sagen
+to be|sein
+to play tennis|Tennis spielen
+to repeat|wiederholen
+to count|zählen
+my name is...|Ich heiße...
+your name is... (familiar)|Du heißt...
+your name is... (formal)|Sie heißen...
+i count|ich zähle
+we count|wir zählen
+they count|sie zählen
+you count (formal)|Sie zählen
+i am|ich bin
+you (familiar) are|du bist
+it is|es ist
+they are|sie sind
+you (formal) are|Sie sind
+i have|ich habe
+you (familiar) have|du hast
+it has|es hat
+we have|wir haben
+they have|sie haben
+you (formal) have|Sie haben
+old (starts with a)|alt
+inexpensive, cheap|billig
+thick; fat|dick
+think; skinny|dünn
+wrong; false(ly)|falsch
+finished, done|fertig
+awful(ly), terrible, terribly|furchtbar
+tall; big, large|groß
+good; fine, well|gut
+hot|heiß
+cold|kalt
+short; small, little|klein
+cool|kühl
+short (used for objects)|kurz
+long|lang
+slow(ly)|langsam
+new|neu
+great; wonderful (starts with p)|prima
+correct(ly); right(ly)|richtig
+clean; neat|sauber
+bad(ly) (starts with s)|schlecht
+dirty|schmutzig
+fast, quick(ly)|schnell
+nice; beautiful (starts with s)|schön
+super, superb|super
+expensive (starts with t)|teuer
+great, terrific (starts with t)|toll
+warm|warm
+windy|windig
+wonderful(ly), great (starts with w)|wunderbar
+blue|blau
+brown|braun
+yellow|gelb
+grey|grau
+green|grün
+orange|orange
+pink|rosa
+red|rot
+black|schwarz
+white|weiß
+in the evening|abends
+but, however|aber
+also, too|auch
+in German|auf Deutsch
+in English|auf Englisch
+Goodbye|Auf Wiedersehen
+see you later (literally: until later) (colloquial)|Bis Später
+please; you're welcome (starts with b)|bitte
+thank you (starts with d)|danke
+i think so too|Das finde ich auch
+that is|Das ist
+That comes to...; that costs...|Das kostet...
+i don't understand|das verstehe ich nicht
+the sun is shining|Die Sonne scheint
+the week has seven days|Die Woche hat sieben Tage
+i'm fine (4 words) (1st word starts with e)|es geht mir gut
+it is...|es ist...
+it is one o'clock|es ist ein Uhr
+it is two o'clock|es ist zwei Uhr
+it's five after four (time)|es ist fünf nach vier
+it's ten (minutes) to three|es ist zehn (Minuten) vor drei
+it's twenty (minutes) after seven|es ist zwanzig (Minuten) nach sieben
+it's raining|es regnet
+it's snowing|es schneit
+pleased to meet you|freut mich
+for tomorrow|für morgen
+good evening|guten Abend
+good morning|guten Morgen
+hello (formal)|guten Tag
+today|heute
+here|hier
+there|da
+i was born in May|ich bin im Mai geboren
+i'm tired|ich bin müde
+i have a question|ich habe eine Frage
+i don't have time|ich habe keine Zeit
+i don't know|ich weiß es nicht
+is that correct?|ist das richtig?
+yes|ja
+now|jetzt
+take care (colloquial)|mach's gut
+my name is...|mein Name ist...
+at noon|mittags
+tomorrow|morgen
+in the morning|morgens
+in the afternoon|nachmittags
+no|nein
+not|nicht
+isn't it?; isn't that right?|nicht wahr?
+again, once more (2 words)|noch einmal
+only (starts with n)|nur
+or|oder
+open the book to page...|öffnen Sie das Buch auf Seite...
+say that again please|sagen Sie das bitte noch einmal
+too bad (starts with s)|schade
+again|(schon) wieder
+please write that|schreiben Sie das bitte
+very|sehr
+speak slowly please|sprechen Sie bitte langsam
+goodbye; bye (colloquial)|tschüss
+(at) one o'clock|(um) eins
+(at) two o'clock|(um) zwei
+(at) half past one|(um) halb zwei
+(at) quarter past one|(um) Virtel nach eins
+(at) quarter to two|(um) Virtel vor zwei
+and|und
+when where you born? (familiar)|wann bist du geboren?
+what does ... mean?|was bedeutet ...?
+what is that?|was ist das?
+how much is ...?|was kostet ...?
+how much are ...?|was kosten ...?
+what colour is ...?|welche Farbe hat ...?
+i beg your pardon?|wie bitte?
+please repeat that|wiederholen Sie das bitte
+how are you (familiar)|wie geht es dir
+how are you (formal)|wie geht es Ihnen
+how are you (casual)|wie geht's
+what's your name (familiar)|wie heißt du
+what's your name (formal)|wie heißen Sie
+how does one say ... in German|wie sagt man ... auf Deutsch
+how do you spell that|wie schreibt man ...
+how late is it|wie spät ist es
+what time is it|wie viel Uhr ist es
+how much|wie viel
+how many|wie viele
+really; indeed (starts with w)|wirklich
+where is ...?|wo ist ...?
+too (with adjective or adverb)|zu
