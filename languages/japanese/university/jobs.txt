@@ -1,0 +1,6 @@
+teacher (starts with きょ)|きょうし
+student|がくせい
+housewife|しゅふ
+enjineer|エンジ二ア
+civil servant|こうむいん
+office worker|かいしゃいん
