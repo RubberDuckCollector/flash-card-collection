@@ -9,7 +9,7 @@ the window|das Fenster
 the Mrs; woman; wife|die Frau(en)
 the spring|der Frühling
 the opposite|das Gegenteil(e)
-the notebook|das Heft(e)
+the notebook (starts with H)|das Heft(e)
 the shirt|das Hemd(en)
 the autumn, fall|der Herbst
 the Mr; gentleman|der Herr(en)
@@ -120,7 +120,7 @@ good; fine, well|gut
 hot|heiß
 cold|kalt
 short; small, little|klein
-cool|kühl
+cool (temperature)|kühl
 short (used for objects)|kurz
 long|lang
 slow(ly)|langsam
