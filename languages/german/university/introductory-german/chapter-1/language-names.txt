@@ -1,0 +1,4 @@
+German|Deutsch
+French|Französisch
+English|English
+Spanish|Spanisch

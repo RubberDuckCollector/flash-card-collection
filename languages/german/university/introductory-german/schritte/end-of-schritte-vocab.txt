@@ -20,7 +20,7 @@ the season|die Jahreszeit(en)
 the jeans (this is already plural)|die Jeans
 the dress|das Kleid(er)
 the clothing|die Kleidung
-the chalk|die Kreide
+the chalk|die Kreide(n)
 the pen|der Kuli(s)
 the course|der Kurs(e)
 the coat|der Mantel(¨)
@@ -37,7 +37,7 @@ the student (male)|der Student(en)
 the student (female)|die Studentin(nen)
 the chair|der Stuhl(e)
 the hour (starts with S)|die Stunde(n)
-the sweatshirt|das Sweatshirt(s)
+the sweatshirt (starts with S)|das Sweatshirt(s)
 the t-shirt|das T-Shirt(s)
 the blackboard|die Tafel(n)
 the day|der Tag(e)
@@ -111,14 +111,14 @@ you (formal) have|Sie haben
 old (starts with a)|alt
 inexpensive, cheap|billig
 thick; fat|dick
-think; skinny|dünn
+thin; skinny|dünn
 wrong; false(ly)|falsch
 finished, done|fertig
 awful(ly), terrible, terribly|furchtbar
 tall; big, large|groß
 good; fine, well|gut
 hot|heiß
-cold|kalt
+cold (temperature)|kalt
 short; small, little|klein
 cool (temperature)|kühl
 short (used for objects)|kurz
@@ -205,7 +205,7 @@ say that again please|sagen Sie das bitte noch einmal
 too bad (starts with s)|schade
 again|(schon) wieder
 please write that|schreiben Sie das bitte
-very|sehr
+very (starts with s)|sehr
 speak slowly please|sprechen Sie bitte langsam
 goodbye; bye (colloquial)|tschüss
 (at) one o'clock|(um) eins
