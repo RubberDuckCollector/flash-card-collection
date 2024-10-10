@@ -1,0 +1,20 @@
+the mother|die Mutter(¨)
+the father|der Vater(¨)
+the child|das Kind(er)
+the daughter|die Tochter(¨)
+the son|der Sohn(¨e)
+the siblings (this is already plural)|die Geschwister
+the brother|der Bruder(¨)
+the sister|die Schwester(n)
+the aunty|die Tante(n)
+the uncle|der Onkel(-)
+the grandmother|die Großmutter(¨)
+the grandfather|der Großvater(¨)
+the grandparents (this is already plural)|die Großeltern
+the parents (this is already plural)|die Eltern
+the cousin (male)|der Cousin(-)
+the cousin (female)|die Cousine(-)
+the grandson|der Enkel(-)
+the granddaughter|die Enkelin(nen)
+the niece|die Nichte(n)
+the nephew|der Neffe(n)

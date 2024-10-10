@@ -197,13 +197,13 @@ in the afternoon|nachmittags
 no|nein
 not|nicht
 isn't it?; isn't that right?|nicht wahr?
-again, once more (2 words)|noch einmal
+again, once more (n... e...)|noch einmal
 only (starts with n)|nur
 or|oder
 open the book to page...|öffnen Sie das Buch auf Seite...
 say that again please|sagen Sie das bitte noch einmal
 too bad (starts with s)|schade
-again|(schon) wieder
+again (s... w...)|(schon) wieder
 please write that|schreiben Sie das bitte
 very (starts with s)|sehr
 speak slowly please|sprechen Sie bitte langsam
@@ -228,7 +228,7 @@ how are you (casual)|wie geht's
 what's your name (familiar)|wie heißt du
 what's your name (formal)|wie heißen Sie
 how does one say ... in German|wie sagt man ... auf Deutsch
-how do you spell that|wie schreibt man ...
+how do you spell ...|wie schreibt man ...
 how late is it|wie spät ist es
 what time is it|wie viel Uhr ist es
 how much|wie viel
