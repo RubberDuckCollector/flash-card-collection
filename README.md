@@ -6,7 +6,7 @@
 
 ***hello world***
 
-My flash cards are stored in this repo.
+My flash cards are stored in this repo. They're from the textbooks I've used but that's the only thing they have in common with the textbooksThey're from the textbooks I've used but that's the only thing they have in common with the textbooks.
 
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
 
