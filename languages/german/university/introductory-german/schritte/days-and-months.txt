@@ -21,8 +21,8 @@ August|August
 September|September
 October|Oktober
 November|November
-December|December
+December|Dzcember
 the Winter months|die Wintermonate
-the Spring months|die Frühlingmonate
+the Spring months|die Frühlingsmonate
 the Summer months|die Sommermonate
 the Autumn months|die Herbstmonate
