@@ -1,7 +1,5 @@
-Mr, the gentleman|der Herr
-Mr, the gentlemen|die Herren
-Mrs, the woman|die Frau
-Mrs, the women|die Frauen
+Mr, the gentleman|der Herr(en)
+Mrs, the woman|die Frau(en)
 Hello (formal)|Guten Tag
 Good morning|Guten Morgen
 Good evening|Guten Abend
