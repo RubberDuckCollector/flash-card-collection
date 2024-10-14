@@ -1,0 +1,31 @@
+the dice|el dado
+the box|la caja
+the cube|el cubo
+the cone|el cono
+the prism|la prisma
+the pyramid; the shape of The Shard|la pirámide
+translucent|traslúcio
+changing|cambiante
+the rhombus|el rombo
+the dots (starts with L)|los lunares
+beige|crema
+the stripes|las rayas
+coarse (starts with g)|gruesa
+ochre (colour)|ocre
+the bark (starts with c)|la corteza
+rough (starts with r)|rugoso
+the embossment (starts with r)|el relieve
+cuddly (2 words)|de peluche
+soft (starts with b)|blando
+flexible|flexible
+the door|la puerta
+the window|la ventana
+the scissors|las tijeras
+the shower|la ducha
+the tool|la herramienta
+the drill (starts with t)|el taladro
+the plant|la planta
+the brush|el pincel
+the broom|la escoba
+the gloves|los guantes
+the tape measure (starts with m)|el metro

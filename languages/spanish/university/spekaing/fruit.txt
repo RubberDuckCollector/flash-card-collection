@@ -1,0 +1,18 @@
+the apple|la manzana
+the banana (starts with b)|la banana
+the cherry|la cereza
+the coconuts|los cocos
+the melon|el melón
+the blackberry|la mora
+the grapes|las uvas
+the pear|la pera
+the orange|la naranja
+the peach (starts with d)|el durazno
+the peach (starts with m)|el melocotón
+the plum|la ciruela
+the papaya|la papaya
+the watermelon|la sandía
+the strawberry|la fresa
+the pineapple|la piña
+the mango|el mango
+the lemon|el limón

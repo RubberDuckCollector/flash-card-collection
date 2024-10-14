@@ -1,0 +1,15 @@
+the celery|el apio
+the brocoli|el brócoli
+the cucumber|el pepino
+the chard, swiss chard|la acelga
+the broad beans|las habas
+the garlic|el ajo
+the onion|la cebolla
+the parsley|el perejil
+the spinach|la espinaca
+the pumpkin|la calabaza
+the lettuce|la lechuga
+the lentils|las lentejas
+the pepper (vegetable)|el pimiento
+the mushrooms (starts with h)|los hongos
+the cauliflower|la coliflor
