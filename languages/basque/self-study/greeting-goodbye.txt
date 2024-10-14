@@ -1,0 +1,20 @@
+hi, hello|kaixo
+good morning|egun on
+good afternoon (starts with e)|eguerdi on
+good afternoon (starts with a)|arratsalde on
+good night (formal)|gau on
+good night (informal)|gabon
+bye|agur
+so long, see you, see you around (1st word starts with i)|ikusi arte
+see you later (1st word starts with g)|gero arte
+see you tomorrow (1st word starts with b)|bihar arte
+"have fun" (2nd word starts with p)|ongi pasa
+well, good (starts with o)|ongi
+"Que te vaya bien" (2nd word starts with i)|ongi izan
+"Que te vaya bien" (2nd word starts with s)|ongi segi
+until|arte
+who are you|nor zara zu
+where are you|non zaude zu
+"muy bien"|oso ondo
+i'm glad; "me alegro" (1st word starts with p)|pozten naiz
+"también"|ere
