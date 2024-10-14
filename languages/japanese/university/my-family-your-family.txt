@@ -8,8 +8,8 @@ my younger brother|おとうと
 my husband|おっと
 my wife|つま
 kids|こども
-1 person|ひとリ
-2 people|ふたリ
+1 person|ひとり
+2 people|ふたり
 3 people|３にん
 4 people|４にん
 5 people|５にん
