@@ -18,3 +18,5 @@ the grandson|der Enkel(-)
 the granddaughter|die Enkelin(nen)
 the niece|die Nichte(n)
 the nephew|der Neffe(n)
+younger|jünger
+older|älter

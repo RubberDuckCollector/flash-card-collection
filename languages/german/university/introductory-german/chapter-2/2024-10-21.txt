@@ -1,0 +1,88 @@
+the supermarket (starts with S)|der Supermarkt
+the supermarket (starts with L)|das Lebensmittelgeschäft(en)
+the food|das Essen
+the drinks|die Getränke
+the loaf bread|das Brot(e)
+the small breads|das Brötchen
+the fruit|das Obst
+the main term|der Oberbegriff
+the banana|die Banane(n)
+the strawberry|die Erdbeere(n)
+the lemon|die Zitrone(n)
+the apple|der Apfel
+the orange|die Orange(n)
+the pineapple|die Ananas
+the lemon|die Zitrone(n)
+the lime|die Limette(n)
+the mango|die Mango(s)
+the watermelon|die Wassermelone(n)
+the blueberry|die Blaubeere(n)
+the raspberry|die Himbeere(n)
+the grape|die Traube(n)
+the fruit (of a plant)|die Frucht(¨e)
+the vegetable|das Gemüse
+the cucumber|the Gurke
+the tomato|die tomate
+the carrot|die Karotte
+the peas|die Erbsen
+the beans|die Bohnen
+the spinach|der Spinat
+the onion|die Zwiebel(n)
+the lettuce|der Salat(e)
+the potato|die Kartoffel(n)
+the pumpkin|der Kurbis(se)
+the broccoli|der Brokkoli
+the courgette|der Zukini
+the aubergine|die Aubergine
+the water|das Wasser
+the sparkling water|das Mineralwasser
+the cola|die Cola
+the bier|das Bier
+the coffee|der Kaffee
+the lemonade|die Limonade
+the wine|der Wein
+the juice|der Saft(¨e)
+the tea|der Tee
+the dairy products|die Milchprodukte
+the cheese|der Käse
+the butter|die Butter
+the milk|die Milch
+the yoghurt|der Joghurt
+the cottage cheese|der Quark
+the fresh cheese|der Frischkäse
+the double cream (starts with R)|der Rahm
+the double cream (sweet) (starts with S)|die Schlagsahne
+the hot chocolate|die heiße Schokolade
+the baked goods|die Backwaren
+the cookies (starts with P)|die Plätzchen
+the cookie (starts with P)|der Keks(e)
+the bakery|die Bäckerei
+the meat|die Fleischwaren
+the sausage|die Wurst
+the small sausage|die Würstchen
+the steak|das Steak
+the beef|das Rindfleisch
+the chicken|das Hänchenfleisch
+the cakes (without cream)|der Kuchen
+the pie (without cream)|der Kuchen
+the cake (with cream)|die Torte(n)
+what would you like; what can i do for you?|was darf's sein?
+i would like to have (starts with h)|ich hätte gern
+i would like to have (starts with m)|ich möchte gern
+some|etwas
+the pound (weight)|das Pfund
+over there|da drüben
+the piece|das Stück
+the wholegrain bread|das Schwarzbrot
+something else|noch etwas
+anything else|sonst noch etwas
+of course; naturally|natürlich
+the sugar|der Zucker
+the honey|der Honig
+the breakfast|das Frühstuck
+the lunch|das Mittagessen
+the dinner|das Abendessen
+for breakfast|zum Frühstuck
+the croissant|das Croissant
+vegetarian (male)|Vegetarier
+vegetarian (female)|Vegetarierin

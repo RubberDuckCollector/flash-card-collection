@@ -1,0 +1,63 @@
+the apple|der Apfel(¨)
+the fish|der Fisch(e)
+the yoghurt|der Joghurt(s)
+the coffee|der Kaffee(s)
+the cheese|der Käse(-)
+the cake|der Kuchen(-)
+the juice|der Saft(¨e)
+the lettuce; salad|der Salat(e)
+the tea|der Tee(s)
+the wine|der Wein(e)
+the beer|das Bier(e)
+the bread|das Brot(e)
+the roll|das Brötchen(-)
+the egg|das Ei(er)
+the meat|das Fleisch
+the vegetables|das Gemüse(-)
+the fruit|das Obst
+the cookie|das Plätzchen(-)
+the water|das Wasser
+the banana|die Banane(n)
+the bean|die Bohne(n)
+the butter|die Butter
+the cola drink|die Cola
+the pea|die Erbse(n)
+the strawberry|die Erdbeere(n)
+the cucumber|die Gurke(n)
+the carrot|die Karotte(n)
+the soft drink; lemonade|die Limonade(n), Limo(s)
+the jam|die Marmelade(n)
+the milk|die Milch
+the orange|die Orange(n)
+the tomato|die Tomate(n)
+the sausage|die Wurst(¨e)
+the lemon|die Zitrone(n)
+the (farmers') market|der Markt(¨e)
+the supermarket|der Supermarkt(¨e)
+the salesperson|der Verkäufer(-)
+the store|das Geschäft(e)
+the department store|das Kaufhaus(¨er)
+the pound (weight)|das Pfund(e)
+the piece|das Stück(e)
+the bakery|die Bäckerei(en)
+the bookstore|Buchhandlung(en)
+all sorts of, various|allerlei
+everything, all|alles
+then (temporal)|dann
+that's all; that's it|das ist alles
+yes actually (affirmative response to something negative)|doch
+there is; there are (2 words) (1st word stars with e)|es gibt
+fresh(ly)|frisch
+gladly|gern
+i like to eat|ich esse gern
+i like to drink|ich trink gern
+i would like (to have) (starts with h)|ich hätte gern ...
+i would like (to have) (starts with m)|ich möchte (gern) ...
+to believe; to think (starts with g)|glauben
+to buy|kaufen
+to sell|verkaufen
+to make; to do|machen
+to look for|suchen
+of course (starts with n)|natürlich
+what kind of (a) ...?|was für (ein) ...?
+together|zusammen
