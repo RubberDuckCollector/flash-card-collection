@@ -1,21 +1,24 @@
 the apple|der Apfel(¨)
 the pharmacy|die Apotheke(n)
 the bakery|die Bäckerei(en)
-the banana|die Banane(N)
+the banana|die Banane(n)
 the bean|die Bohne(n)
 the beer|das Bier(e)
+the pear|die Birne(n)
 the flower|die Blume(n)
+the flower shop|der Blumenladen(¨)
 the bread|das Brot(e)
 the bread roll|das Brötchen(-)
 the bookstore|die Buchhandlung(en)
 the butter|das Butter
+the cafe|das Café(s)
 the cola|die Cola
 the drugstore|die Drogerie(n)
 the thirst|der Durst
 the egg|das Ei(er)
 the pea|die Erbse(n)
 the strawberry|die Erdbeere(n)
-the fish|die Fisch(e)
+the fish|der Fisch(e)
 the meat|das Fleisch
 the breakfast|das Frühstuck
 the vegetable|das Gemüse(-)
@@ -34,22 +37,25 @@ the groceries|die Lebensmittel
 the soft drink; lemonade (starts with L)|die Limonade(n)
 the (farmers') market|der Markt(¨e)
 the jam (starts with M)|die Marmelade(n)
+the butcher's|die Metzgerei(en)
 the milk|die Milch
 the fruit|das Obst
 the orange|die Orange(n)
 the pound (weight)|das Pfund
 the cookie (starts with P)|das Plätzchen(-)
-the juice|der Saft(e)
+the juice|der Saft(¨e)
 the lettuce; salad|der Salat(e)
 the piece|das Stück(e)
 the supermarket|der Supermarkt(¨e)
 the cup|die Tasse(n)
 the tea|der Tee(s)
+the tea shop|der Teeladen(¨)
 the tomato|die Tomate(n)
-the salesperson|der Verkäufer(-)
+the salesperson (male)|der Verkäufer(-)
+the salesperson (female)|die Verkäuferin(nen)
 the water|das Wasser
 the wine|der Wein(e)
-the big sausage|die Wurst(¨e)
+the (big) sausage|die Wurst(¨e)
 the hot dog; small sausage|das Würstchen(-)
 the lemon|die Zitrone(n)
 to belive; to think (starts with g)|glauben
@@ -60,8 +66,8 @@ to be|sein
 to look for|suchen
 to sell|verkaufen
 fresh(ly)|frisch
-open|offen
-closed|zu
+open (starts with o)|offen
+closed (starts with z)|zu
 through|durch
 for|für
 against|gegen
@@ -100,3 +106,4 @@ where do you/they have ...?|wo gibt's ...?
 what kind of ...?|was für ...?
 whom?|wen?
 together|zusammen
+to bump in to; to meet|treffen
