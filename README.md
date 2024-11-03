@@ -6,11 +6,10 @@
 
 ***hello world***
 
-My flash cards are stored in this repo. They're from the textbooks I've used but that's the only thing they have in common with the textbooksThey're from the textbooks I've used but that's the only thing they have in common with the textbooks.
-
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
 
-**These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you** 
+**These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you.
+I have gotten the vocab from other places naturally, I can't conjure up vocab for languages I'm learning, but I have also tried my best to alter them to fit me the best (e.g adding the feminine versions of adjectives and the female versions of jobs for Spanish)**
 
 For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
 
@@ -22,11 +21,12 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 **If you see an error, submit a pull request and I'll try to figure out how that works or manually fix the error**
 
+
 ### Languages
 
-- my flash card sets are more usable than the ones in the textbook for my flash card learning technique
+- My flash card sets are more suited to me than the ones in the textbook for my flash card learning technique, and that might also be the case with other people.
     - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a more explicit format compared to the textbook
-    - the male + female versions of nouns like *jefe* and *jefa* are explicit in my flash cards, whereas the Spanish textbooks I've made the cards from don't do this
+    - the male + female versions of nouns like *jefe* and *jefa* are actually in there in my flash cards, whereas the Spanish textbooks I've made the cards from don't have them written down
     - this makes it easier to recall feminine versions of words because they are given equal significance in the flash card set, which is not the case in the textbooks, making my flash cards more usable
 
 #### Dutch
@@ -40,32 +40,37 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 - Flash cards:
     - GCSE:
-        - Cards are my own from AQA GCSE German Higher 9-1 (ISBN: 978-0-19-836587-7)
+        - From AQA GCSE German Higher 9-1 (ISBN: 978-0-19-836587-7)
     - A Level:
         - AS:
-            - Cards are my own from AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
+            - From AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
         - A2:
-            - Cards are my own from AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
+            - From AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
 
 #### Spanish
 
 - Flash cards:
     - GCSE:
-        - Cards are my own from AQA GCSE Spanish Higher 9-1 (ISBN: 978-0-19-836585-3)
+        - From AQA GCSE Spanish Higher 9-1 (ISBN: 978-0-19-836585-3)
     - A Level:
         - AS:
-            - Cards are my own from AQA A Level Year 1 and AS Spanish (ISBN: 978-0-19-836690-4)
+            - From AQA A Level Year 1 and AS Spanish (ISBN: 978-0-19-836690-4)
         - A2:
-            - Cards are my own from AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
-            - Réquiem cards are my own and slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
-                - **note: these spanish words are from the 30s and some are archaic (or at least have old spelling)**
+            - From AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
+            - Réquiem cards slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
+                - **note: these spanish words are from the 30s and some are archaic (or at least may have old spelling)**
+
+#### Japanese
+- Flash cards:
+    - From the Marugoto textbooks
+    - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
 
 #### Computer Science
 
 - GCSE:
-    - Cards are my own from OCR GCSE Computer Science 9-1 J277
+    - From OCR GCSE Computer Science 9-1 J277
 - A level:
     - AS:
-        - Cards are my own from OCR H046
+        - From OCR H046
     - A2:
-        - Cards are my own from OCR H446
+        - From OCR H446
