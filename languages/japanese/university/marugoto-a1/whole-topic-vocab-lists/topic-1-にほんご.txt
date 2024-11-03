@@ -1,0 +1,174 @@
+Thank you.|ありがとうございます
+Don't mention it./No problem; No|いいえ
+i'm leaving now.|おさきにしつれいします
+Good work./Nice job.; Thank you for your hard work|おつかれさまでした
+Good morning.|おはようございます
+kanji (chinese script)|かんじ
+Hello.|こんにちは
+Good evening.|こんばんは
+goodbye|さようなら
+magazine|ざっし
+newspaper|しんぶん
+See you.|じゃあ、また
+numbers|すうじ
+Excuse me./I'm sorry.|すみません
+Japanese language|にほんご
+yes|はい
+hiragana (one of the Japanese scripts)|ひらがな
+katakana (one of the Japanese scripts)|カタカナ
+Latin alphabet|ローマジ
+Please say (that again).|いってください
+to be (existence)|います
+English language|えいご
+to be late/be delayed|おくれます
+Please.|おねがいします
+to finish|おわります
+Please write.|かいてください
+Please listen.|きいてください
+classroom|きょうしつ
+country|くに
+Excuse me./May I come in? Excuse me./May i come in? [Used when going into/out of a room. "Ojama shimasu" is also used.]|しつれえします
+class/school lessons|じゅぎょう
+teacher/instructor|せんせい
+a little/a few/a moment|ちょっと
+name|なまえ
+Japan|にほん・にっぽん
+to start/to begin|はじめます
+Please say/Please talk./Please speak.|はなしてください
+not yet|まだです
+please look.|みてください
+once again|もういちど
+Please say it again.|もういちどいってください
+a little more|もうすこし
+Please say it a little slower.|もうすこしゆっくりいってください
+to be absent/to take a day off/to take a rest|やすみます
+slowly|ゆっくり
+please read.|よんでください
+I see./I understand.|わかりました
+I don't understand.|わかりません
+Asia|アジア
+Africa|アフリカ
+America/U.S.A.|アメリカ
+Australia|オーストラリア
+with a pair|ペアで
+page|ページ
+Europe|ヨーロッパ
+Mr./Ms./Mrs./Miss|〜さん
+What does '〜' mean?|〜ってどういういみですか
+please open (to/at) page -.|〜ページおあけてください
+morning|あさ
+house|いえ
+chair|いす
+dog|いぬ
+sea/ocean|うみ
+English style tea|おちゃ
+Japanese tea|ちゃ
+family|かぞく
+fish|さかな
+sky|そら
+egg|たまご
+desk|つくえ
+tempura|てんぷら
+Tokyo|とうきょう
+clock|こけい
+cat|ねこ
+daytime/noon|ひる
+Mt. Fuji|ふじさん
+book|ほん
+window|まど
+vegetable|やさい
+mountain|やま
+evening/night|よる
+example|れえ
+town|まち
+U.K.|イギリス
+Italy|イタリア
+India|インド
+Indonesia|インドネシア
+air conditioner|エアコン
+Egypt|エジプト
+Canada|カナダ
+camera|カメラ
+karaoke|カラオケ
+Kuala Lumpur|クアラルンプール
+coffee|コーヒー
+shirt|シャツ
+shower|シャワー
+juice|ジュース
+Spain|スペイン
+sofa|ソファ
+Thailand|タイ
+taxi|タクシー
+television|テレビ
+table|テーブル
+toilet|トイレ
+Germany|ドイツ
+Hungary|ハンガリー
+Paris|パリ
+bread|パン
+party|パーティー
+piano|ピアノ
+Philippines|フィリピン
+France|フランス
+Brazil|ブラジル
+bed|ベッド
+Vietnam|ベトナム
+hotel|ホテル
+Malaysia|マレーシア
+manga/comic books/comic strips|マンガ
+Mexico|メキシコ
+restaurant|レストラン
+Russia|ロシア
+to say/to tell|いいます
+pencil|えんぴつ
+conversation|かいわ
+to converse/have a talk|かいわします
+to draw; to write|かきます
+student|がくせい
+school|かっこう
+to listen|ききます
+textbook|きょうかしょ
+mobile phone/cellular phone|けいたいでんわ
+eraser|けしごむ
+answer|こたえ
+exam/test|こたえ
+question|しつもん
+to ask a question|しつもんします
+homework|しゅくだい
+dictionary|じしょ
+office room|じむしつ
+(course/class) participant/student|じゅこうしゃ
+explanation|せつめい
+to explain|えつめいします
+consultation; discussion|そうだん
+to consult; to discuss|そうだんします
+friend|ともだち
+to talk; to speak|はなします
+cross ("false" in true or false)|ばつ
+number|ばんごう
+review|ふくしゅう
+study/studying|べんきょう
+circle ("true" in true of false)|まる
+everyone (4 characters long)|みなさん
+everyone (3 characters long)|みんな
+to see/to look at|みます
+question/problem|もんだい
+preparation (for one's lessons)|よしゅう
+to read|よみます
+practice/exercise|れんしゅう
+to practice/ecercise|れんしゅうします
+class|クラス
+copy|コピー
+to copy|コピーします
+computer|コンピューター
+(the) check|チェック
+to check|チェックします
+test|テスト
+notebook|ノート
+handout|プリント
+pen|ペン
+whiteboard|ホワイトボード
+Please tell me~./Let me know~.|〜をおしえてください
+May I borrow~?|〜をかしてください
+Please show me~./Let me see~.|〜をみせてください
+I forgot~.|〜をわすれました

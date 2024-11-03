@@ -1,0 +1,7 @@
+narrow|せまい
+wide|ひろい
+bright|あかるい
+dark|くらい
+new|あたらしい
+old|ふるい
+
