@@ -1,0 +1,172 @@
+ah/Excuse me/well (informal) (starts with あ)|あのう
+What?/Pardon me?/Excuse me? (starts with え)|えっ
+(What's) your job?/What do you do for a living?|おしごとは？
+(What's) your name?|おなまえは？
+company employee; office worker|かいしゃいん
+South Korea|かんこく
+Korean language|かんこくご
+Korean people|かんこくじん
+student|がくせい
+teacher/instructor (starts with きょ)|きょうし
+civil servant|こうむいん
+housewife/homemaker|しゅふ
+a little/a few|すこし
+I see./I understand.|そうですか
+China|ちゅうごく
+Chinese language|ちゅうごくご
+(I) can speak [a language]; to be able [to speak a language]|できます
+Pleased to meet you. (starts with ど)|どうぞよろしく
+Pleased to meet you. (starts with お)|おねがいします
+Where are you from?|どちらから？
+How do you do?/Nice to meet you. (starts with は)|はじめまして
+in the middle of studying|べんきょうちゅう
+business card|めいし
+I/me|わたし
+Arabic (language)|アラヴィアご
+Egypt|エジプト
+engineer|エンジニア
+Germany|ドイツ
+My name is-./I'm [name]|〜ともうします
+(my) elder brother|あに
+(my) elder sister|あね
+(my) younger sister|いもうと
+How old are you?|おいくつですか
+Osaka|おおさか
+(my) husband|おっと
+(my) younger brother|おとうと
+family|かぞく
+cool/good-looking|かっこいい
+cute|かわいい
+beautiful|きれい （な）
+child (1 character)|こ
+this [Noun] (has の)|この
+who|だれ
+Who is this?|だれですか
+(my) father|ちち
+(my) wife|つま
+Tokyo|とうきょう
+friend|ともだち
+where|どこ
+(my) mother|はは
+person (starts with ひ)|ひと
+one person|ひとり
+two people|ふたり
+Hokkaido|ほっかいどう
+young|わかい
+Seoul|ソウル
+Paris|パリ
+- years old|〜さい
+(I) live in -.|〜にすんでいます
+(counter for people)|にん
+English (language)|えいご
+(Where's) your country|おくには？
+job (polite expression)|おしごと
+language/word|ことば
+self-introduction (to introduce oneself)|じこしょうかい
+to introduce oneself|じこしょうかいします
+That's great.|すごいですね
+teacher/instructor (starts with せ)|せんせい
+Chinese people|ちゅうごくじん
+what language|なにご
+What is (it)?|なんですか
+Japanese people|にほんじん
+French language|フランスご
+French people|フランスじん
+Malaysian people|マレーシアじん
+Mr./Ms./Mrs./Miss|〜さん
+(nationality)|〜じん
+to be (existence)|います
+(someone else's) younger sister|いもうとさん
+(someone else's) mother|おかあさん
+Okinawa|おきなわ
+(someone else's) wife|おくさん
+(someone else's) child|おこさん
+(someone else's) father|おとうさん
+(someone else's) younger brother|おとうとさん
+man/male|おとこ
+boy|おとこのこ
+(someone else's) elder brother|おにいさん
+(someone else's) elder sister|おねえさん
+woman/female|おんな
+girl|おんなのこ
+(someone else's) husband|ごしゅじん
+five people|ごにん
+three people|さんにん
+how old (literally: what age)|なんさい
+how many people|なんにん
+Hiroshima|ひろしま
+four people|よにん
+six people|ろくにん
+we/us|わたしたち
+greetings|あいさつ
+baby|あかちゃん
+you|あなた
+medical doctor|いしゃ
+dog|いぬ
+rabbit|うさぎ
+(someone else's) grandfather|おじいさん
+elderly person|おとしより
+adult|おとな
+(someone else's) grandmother|おばあさん
+care worker|かいごし
+company/firm|かいしゃ
+she|かのじょ
+he|かれ
+nurse|かんごし
+foreign country|がいこく
+foreign language|がいこくご
+foreigner|がいこくじん
+school (starts with が)|がっこう
+siblings; brothers and sisters|きょうだい
+goldfish|きんぎょ
+country|くに
+job/work|しごと
+independent business/self-employed worker|じえいぎょう
+oneself|じぶん
+(my) grandfather|そふ
+(my) grandmother|そぼ
+bird|とり
+name|なまえ
+Japanese language|にほんご
+Japan|にほん
+Japan|にっぽん
+cat|ねこ
+to live on a pension|ねんきんでせいかつしています
+farmer|のうか
+grandchild|まご
+(my) son|むすこ
+(my) daughter|むすね
+student studying abroad|りゅうがくせい
+parents|りょうしん
+youth/young people|わかもの
+Asia|アジア
+Africa|アフリカ
+America/U.S.A.|アメリカ
+part-timer/part-time worker/part time job|アルバイト
+U.K.|イギリス
+India|インド
+Indonesia|インドネシア
+Australia|オーストラリア
+Canada|カナダ
+Spain|スペイン
+Spanish language|スペインご
+Sri Lanka|スリアンカ
+Thailand|タイ
+New Zealand|ニュージーランド
+Hungary|ハンガリー
+part-time (6 characters long)|パートタイム
+part-time (3 characters long)|パート
+Philippines|フィリピン
+France|フランス
+Brazil|ブラジル
+Vietnam|ベトナム
+pet|ペット
+Malaysia|マレーシア
+Mexico|メキシコ
+Europe|ヨーロッパ
+Russia|ロシア
+~ language|〜ご
+to work at/in/for ~|〜ではたらいています
+Please call me "~"|〜とよんでください
+to look like ~.|〜ににていますね
+to have/to keep (an animal)|〜をかっています
