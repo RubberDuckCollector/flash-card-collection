@@ -19,7 +19,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
     It's also quicker to write the flash cards in this format, and I could make vim remaps to easily find the | and put extra data in the flash card with just 1 keystroke; <code>(reflexive)</code> and <code>(starts with <letter>)</code>. Writing with remaps and vim is much quicker than on the quizlet webiste at least
 </details>
 
-**If you see an error, submit a pull request and I'll try to figure out how that works and fix the error**
+**If you find an error, submit a pull request and I'll try to figure out how that works and fix the error**
 
 
 ### Languages
@@ -46,6 +46,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - From AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
         - A2:
             - From AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
+    - University: from Wie Geht's 10th edition
 
 #### Spanish
 
