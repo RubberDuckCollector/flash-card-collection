@@ -9,7 +9,7 @@
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders)
 
 **These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you.
-I have gotten the vocab from other places naturally, I can't conjure up vocab for languages I'm learning, but I have also tried my best to alter them to fit me the best (e.g adding the feminine versions of adjectives and the female versions of jobs for Spanish)**
+I have gotten the vocab from other places naturally, I can't conjure up vocab for languages I'm learning, but I have also tried my best to alter them to fit me the best (e.g adding the feminine versions of adjectives and jobs for Spanish)**
 
 For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
 
