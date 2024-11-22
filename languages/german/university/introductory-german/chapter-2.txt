@@ -32,7 +32,7 @@ the carrot|die Karotte(n)
 the cheese|der Käse(-)
 the department store|das Kaufhaus(¨er)
 the cake|der Kuchen(¨)
-the store (starts with L)|der Laden
+the store (starts with L)|der Laden(¨)
 the groceries|die Lebensmittel
 the soft drink; lemonade (starts with L)|die Limonade(n)
 the (farmers') market|der Markt(¨e)

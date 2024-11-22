@@ -3,7 +3,7 @@ the fish|der Fisch(e)
 the yoghurt|der Joghurt(s)
 the coffee|der Kaffee(s)
 the cheese|der Käse(-)
-the cake|der Kuchen(-)
+the cake|der Kuchen(¨)
 the juice|der Saft(¨e)
 the lettuce; salad|der Salat(e)
 the tea|der Tee(s)
@@ -51,7 +51,7 @@ there is; there are (2 words) (1st word stars with e)|es gibt
 fresh(ly)|frisch
 gladly|gern
 i like to eat|ich esse gern
-i like to drink|ich trink gern
+i like to drink|ich trinke gern
 i would like (to have) (starts with h)|ich hätte gern ...
 i would like (to have) (starts with m)|ich möchte (gern) ...
 to believe; to think (starts with g)|glauben
