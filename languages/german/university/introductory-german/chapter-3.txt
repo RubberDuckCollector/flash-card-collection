@@ -35,26 +35,26 @@ the plate|der Teller(-)
 the sugar|der Zucker
 to answer|antworten
 to order|bestellen
-to pay|zahlen
-to pay for|bezahlen
+to pay (starts with z)|zahlen
+to pay for (starts with b)|bezahlen
 to remain; to stay|bleiben
-to bring|bringen
-to thank|danken
+to bring (starts with b)|bringen
+to thank (dative verb)|danken
 to be fattening|dick machen
 to recommend|empfehlen
 to eat|essen
-to drive|fahren
+to drive (start with f)|fahren
 to eat breakfast|frühstücken
 to give|geben
-to please; be pleasing to|gefallen
+to please; be pleasing to (dative verb)|gefallen
 to belong to|gehören
-to believe|glauben
+to believe (dative verb)|glauben
 to help|helfen
-to walk; run|laufen
+to walk; run (starts with lowercase L)|laufen
 to read|lesen
 to take; to have (food)|nehmen
 to sleep|schlafen
-to taste; (to taste good to)|schmecken
+to taste; (to taste good to) (dative verb)|schmecken
 to see|sehen
 to carry; wear|tragen
 to become, to get (state, e.g: „ich _____ müde” "i'm getting tired")|werden
@@ -62,8 +62,8 @@ out of; from (a country of origin)|aus
 besides (e.g: „_____ Kaufland ist alles zu”)|außer
 at/or a company; near, by (a place in a city like a park); at the home of, with (a person)|bei
 with; together with|mit
-after (time e.g: Virtel ____ eins); to (cities, countries continents); to (in certain expressions)|nach
-since; for (duration e.g: "studying for 2 years")|seit
+after (time e.g: Virtel ____ eins); to (far away cities, countries continents); to (in certain expressions)|nach
+since; for (duration e.g: "studying for 2 years", used with continuous things/over a long period of time)|seit
 of; from; by (creator, doer of an action)|von
 to (int he direction of); at (in certain expressions) for (purpose e.g: i buy a pan to cook)|zu
 Waiter!/Waitress! (starts with B)|Bedienung!
