@@ -29,7 +29,7 @@ to invite to (starts with i) (has "a")|invitar a
 to go to (has "a")|ir a
 to limit oneself to (reflexive) (has "a")|limitarse a
 to manage to, succeed in, end up (i know youtubers say "hemos ______ a <number> seguidores") (has "a")|llegar a
-to become ( ____ a ser) (has "a")|llegar a ser
+to become (______ a ser) (has "a")|llegar a ser
 to lead to (starts with L) (has "a")|llevar a
 to send to (has "a")|mandar a
 to start to (starts with m) (reflexive) (has "a")|meterse a

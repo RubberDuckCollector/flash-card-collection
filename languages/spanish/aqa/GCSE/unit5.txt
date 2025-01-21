@@ -7,9 +7,9 @@ the bungalow, detached house, villa|el chalet (also chalé)
 the coast|la costa
 the shelf|el estante
 to find (starts with e)|encontrar
-to be situated|encontrarse
-to meet up with|encontrarse con
-the farm|la granja
+to be situated; meet up (reflexive)|encontrarse
+to meet up with (reflexive)|encontrarse con
+the farm (starts with g)|la granja
 to keep, to put away, to save (starts with g)|guardar
 the bookcase, bookshelf|la librería
 the mountain|la montaña
@@ -27,7 +27,7 @@ the dining room|el comedor
 the business, shop (starts with c, masculine noun)|el comercio
 essential, indispensable (adjective ends in e)|imprescindible
 lower|inferior
-garden|jardín
+the garden|el jardín
 luxurious (masculine)|lujoso
 luxurious (feminine)|lujosa
 the pet|la mascota
@@ -38,7 +38,7 @@ upper, higher (adjective ends in r)|superior
 the shop|la tienda
 the tower, tower block|la torre
 the view, sight|la vista
-the avenue (not "alameda")|la avenida
+the avenue (starts with "av")|la avenida
 the town hall|el ayuntamiento
 welcome (said to a man)|bienvenido
 welcome (said to a woman)|bienvenida
@@ -69,21 +69,21 @@ friendly (feminine)|amistosa
 lively (masculine)|animado
 lively (feminine)|animada
 the woods, forest|el bosque
-the pollution|la contaminación
-to look after, to take care of (starts with cu)|cuidar
+the pollution (starts with c)|la contaminación
+to look after, to take care of (starts with "cu")|cuidar
 unemployed|en paro
-the estate, (large) farm|la finca
+the estate, (large) farm (starts with f)|la finca
 the flower|la flor
 the wildlife|la flora y fauna
 ... ago|hace (+ expression of time)
 the oil industry|la industria petrolera
 the drawback, inconvenience|el inconveniente
 the lake|el lago
-place, spot|lugar
+the place, spot|el lugar
 the poverty, hardship|la miseria
-to move house|mudarse de casa
+to move house (reflexive)|mudarse de casa
 the poverty|la pobreza
-therefore|por lo tanto
+therefore (3 words)|por lo tanto
 damaging|perjudicial
 the nightclub|la sala de fiestas
 the mountain range|la sierra

@@ -1,7 +1,7 @@
 the human trafficker (nickname, uncommon) (male)|el pollero
 the border (between countries)|la frontera
-the wagon|el vagón
-pedir prestado|to borrow
+the wagon (starts with v)|el vagón
+to borrow|pedir prestado
 in a line|en fila
 risky, dangerous|arriesgado
 the migration politics|la política migratoria

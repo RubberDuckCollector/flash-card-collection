@@ -48,7 +48,7 @@ to eat breakfast|frühstücken
 to give|geben
 to please; be pleasing to (dative verb)|gefallen
 to belong to|gehören
-to believe (dative verb)|glauben
+to believe (dative verb) (starts with g)|glauben
 to help|helfen
 to walk; run (starts with lowercase L)|laufen
 to read|lesen

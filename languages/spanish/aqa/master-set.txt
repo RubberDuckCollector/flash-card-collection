@@ -133,7 +133,7 @@ the makeup|el maquillaje
 the word|la palabra
 the corridor|el pasillo
 the earring|el pendiente
-to get in touch|ponerse en contacto
+to get in touch (reflexive)|ponerse en contacto
 prohibited, banned (starts with p) (masculine)|prohibido
 prohibited, banned (starts with p) (feminine)|prohibida
 the punctuality|la puntualidad
@@ -267,8 +267,8 @@ the advantage|la ventaja
 at the beginning of|a principios de
 the administer, clerk, office worker (male)|el administrativo
 the administer, clerk, office worker (female)|la administrativa
-ambitious (masculine)|amicioso
-ambitious (feminine)|amiciosa
+ambitious (masculine)|ambicioso
+ambitious (feminine)|ambiciosa
 lively (like "animated") (masculine)|animado
 lively (like "animated") (feminine)|animada
 to tidy, sort, fix, arrange (starts with a)|arreglrar
@@ -310,8 +310,8 @@ patient (adjective ends in e)|paciente
 the bakery|la panadería
 the baker (male)|el panadero
 the baker (female)|la panadera
-practical (feminine)|práctico
-practical (male)|práctica
+practical (masculine)|práctico
+practical (feminine)|práctica
 the problem|la problema
 the receptionist (male)|el recepcionista
 the receptionist (female)|la recepcionista
@@ -480,7 +480,7 @@ boring (masculine)|aburrido
 boring (feminine)|aburrida
 pleasant (adjective ends in e)|agradable
 in the open air, outdoors|al aire libre
-the drums|la batería
+the drums (starts with b)|la batería
 the song|la canción
 to go for a walk|dar un paseo
 from time to time, occasionally|de vez en cuando
@@ -1066,7 +1066,7 @@ to indicate|señalar
 the drought|la sequía
 to wander about, to float around|vagar
 the wind|el viento
-the damage, destruction|el destrozo
+the damage, destruction (this is a masculine noun)|el destrozo
 to choose|escoger
 the lack|la falta
 to be part of (literally: to form part of)|formar parte de
@@ -2193,7 +2193,7 @@ to sound|sonar
 the sound|el sonido
 to tap/to click one's heels (i'm assuming in a context where's you're straight jamming)|taconear
 the clicking/the tapping of one's heels|el taconeo
-the drum|el tambor
+the drum (starts with t)|el tambor
 to play a song/piece of music (starts with t) (3 words)|tocar una composición
 the cellist (male)|el violonchelista
 the cellist (female)|la violonchelista
@@ -2204,7 +2204,7 @@ to contribute a little bit (but at least it's still something)|poner un grnito d
 to be stunned|quedarse de piedra
 to be in a bad mood|tener un humor de perro
 my mouth is watering|se me hace agua la boca
-to be loaded to with cash, to be absolutely stacked|tiene más lana que un borrego
+to be loaded with cash, to be absolutely stacked|tiene más lana que un borrego
 to be broke|estar sin blanca
 to be a night owl|ser un ave nocturna
 to find your soulmate|encontrar a tu media naranja
@@ -3096,7 +3096,7 @@ to report|denunciar
 the human rights|los derechos humanos
 adrift|a la deriva
 the collapse|el derrumbe
-to waste|despilfarrar
+to waste (starts with d)|despilfarrar
 the boat (starts with e)|la embarcación
 to push|empujar
 to enrich|enriquecer
@@ -4460,7 +4460,7 @@ belly|la barriga
 bone|el hueso
 lung|el pulmón
 liver|el hígado
-the daisy|la maya
+the daisy https://www.berlitz.com/blog/flowers-in-spanish|la maya
 the gardenia|la gardenia
 the orchid|la orquídea
 the tulip|el tulipán
@@ -4597,11 +4597,10 @@ the nemesia|la nemesia
 the impatiens|la balsamina
 the scilla|la escila
 the the cowslip|la flor de la primavera
-# https://www.berlitz.com/blog/flowers-in-spanish
 the human trafficker (nickname, uncommon) (male)|el pollero
 the border (between countries)|la frontera
-the wagon|el vagón
-pedir prestado|to borrow
+the wagon (starts with v)|el vagón
+to borrow|pedir prestado
 in a line|en fila
 risky, dangerous|arriesgado
 the migration politics|la política migratoria

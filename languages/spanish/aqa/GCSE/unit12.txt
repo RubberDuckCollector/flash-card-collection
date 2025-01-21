@@ -1,8 +1,8 @@
 at the beginning of|a principios de
 the administer, clerk, office worker (male)|el administrativo
 the administer, clerk, office worker (female)|la administrativa
-ambitious (masculine)|amicioso
-ambitious (feminine)|amiciosa
+ambitious (masculine)|ambicioso
+ambitious (feminine)|ambiciosa
 lively (like "animated") (masculine)|animado
 lively (like "animated") (feminine)|animada
 to tidy, sort, fix, arrange (starts with a)|arreglrar
@@ -44,8 +44,8 @@ patient (adjective ends in e)|paciente
 the bakery|la panadería
 the baker (male)|el panadero
 the baker (female)|la panadera
-practical (feminine)|práctico
-practical (male)|práctica
+practical (masculine)|práctico
+practical (feminine)|práctica
 the problem|la problema
 the receptionist (male)|el recepcionista
 the receptionist (female)|la recepcionista

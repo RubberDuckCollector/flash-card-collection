@@ -1,8 +1,8 @@
 to communicate (reflexive)|comunicarse
-unfortunately (1 word) (ends with e)|desafortunadamente
-to start, begin|empezar
+unfortunately (1 word) (adverb with e)|desafortunadamente
+to start, begin (starts with e)|empezar
 to choose (starts with "esc")|escoger
-brilliant, great|genial
+brilliant, great (starts with g)|genial
 free of charge (ends with s)|gratis
 the fact|el hecho
 the drawback, disadvantage (starts with i)|el inconveniente
@@ -37,10 +37,10 @@ to share (starts with c)|compartir
 the behaviour (starts with "com")|el comportamiento
 the development|el desarrollo
 the disadvantage (starts with d)|la desventaja
-to have a good time (reflexive)|divertirse
+to have a good time (starts with "div") (reflexive)|divertirse
 free of charge (ends with o) (masculine)|gratuito
 free of charge (ends with a) (feminine)|gratuita
-to improve|mejorar
+to improve (starts with m)|mejorar
 the risk|el riesgo
 the follower (male)|el seguidor
 the follower (female)|la seguidora
@@ -48,7 +48,7 @@ to be successful|tener éxito
 the user (male)|el usuario
 the user (female)|la usuaria
 the advantage (starts with v)|la ventaja
-to walk|andar
+to walk (starts with a)|andar
 the file|el archivo
 to delete, erase (starts with b)|borrar
 the song|la canción
@@ -61,7 +61,7 @@ from time to time|de vez en cuando
 the hard drive|el disco duro
 the space|el espacio
 same, equal (starts with i)|igual
-the laptop|el ordenador portátil
+the laptop (2 words)|el ordenador portátil
 to take photos (1st word starts with s)|sacar fotos
 to feel (with touch)|sentir
 the tablet|la tableta

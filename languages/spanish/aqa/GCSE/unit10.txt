@@ -16,7 +16,7 @@ the makeup|el maquillaje
 the word|la palabra
 the corridor|el pasillo
 the earring|el pendiente
-to get in touch|ponerse en contacto
+to get in touch (reflexive)|ponerse en contacto
 prohibited, banned (starts with p) (masculine)|prohibido
 prohibited, banned (starts with p) (feminine)|prohibida
 the punctuality|la puntualidad

@@ -45,7 +45,7 @@ foreign (masculine)|extranjero
 foreign (feminine)|extranjera
 abroad|en el extranjero
 france|Francia
-brilliant, great|genial
+brilliant, great (starts with g)|genial
 greece|Grecia
 the sunstroke|la insolación
 the island|la isla

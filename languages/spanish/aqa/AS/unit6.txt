@@ -143,7 +143,7 @@ to sound|sonar
 the sound|el sonido
 to tap/to click one's heels (i'm assuming in a context where's you're straight jamming)|taconear
 the clicking/the tapping of one's heels|el taconeo
-the drum|el tambor
+the drum (starts with t)|el tambor
 to play a song/piece of music (starts with t) (3 words)|tocar una composición
 the cellist (male)|el violonchelista
 the cellist (female)|la violonchelista

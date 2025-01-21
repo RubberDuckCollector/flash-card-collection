@@ -104,8 +104,8 @@ the thumps|los golpes
 the guatemalans|los guatemaltecos
 to pay attention to (3 words starts with h)|hacer caso a
 humble (adjective ends in e)|humilde
-together (masculine)|juntos
-together (feminine)|juntas
+together (plural) (masculine)|juntos
+together (plural) (feminine)|juntas
 the godmother|la madrina
 to enroll (reflexive) (starts with m)|matricularse
 the myth|el mito

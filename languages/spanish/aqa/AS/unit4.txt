@@ -15,7 +15,7 @@ the composer (male)|el compositor
 the composer (female)|la compositora
 the commitment|el compromiso
 the live concert|el concierto en vivo
-the musical competition|el concurso musical
+the musical competition (starts with "con")|el concurso musical
 the behaviour (starts with "con")|la conducta
 the band (starts with c)|el conjunto musical
 the choreography|la coreografía

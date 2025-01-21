@@ -53,8 +53,8 @@ the home|el hogar
 nowadays (3 words)|hoy en día
 even (e.g even the road melts in the summer, not just ice cream)|incluso
 unfairly (adjective ends in e)|injustamente
-together (masculine)|juntos
-together (feminine)|juntas
+together (plural) (masculine)|juntos
+together (plural) (feminine)|juntas
 the freedom|la libertad
 the way (starts with m)|la manera
 to bother, annoy (starts with m)|molestar

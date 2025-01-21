@@ -1,3 +1,4 @@
+beautiful|(test)（テスト）きれい （な）
 ah/Excuse me/well (informal) (starts with あ)|あのう
 What?/Pardon me?/Excuse me? (starts with え)|えっ
 (What's) your job?/What do you do for a living?|おしごとは？
@@ -39,7 +40,7 @@ cool/good-looking|かっこいい
 cute|かわいい
 beautiful|きれい （な）
 child (1 character)|こ
-this [Noun] (has の)|この
+this [Noun] (starts with こ)|この
 who|だれ
 Who is this?|だれですか
 (my) father|ちち

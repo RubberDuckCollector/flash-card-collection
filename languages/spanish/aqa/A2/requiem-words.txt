@@ -13,7 +13,7 @@ to round up; corner (as in "to trap")|acorralar
 to pursue; urge on (same as "to bully")|acosar
 to come, gather around (same as "to go to" as in, "to go to the polls") (starts with a)|acudir
 to accuse; show (starts with "ac")|acusar
-to confess (like "accuse") (reflexive)|acusarse
+to confess (like "to accuse oneself") (reflexive)|acusarse
 devoted, loyal (like "addicted") (masculine)|adicto
 devoted, loyal (like "addicted") (feminine)|adicta
 the land agent (male)|el administrador
@@ -67,13 +67,13 @@ the threat|la amenaza
 the machine gun|la ametralladora
 the master (slave owner) (male)|el amo
 the master (slave owner) (female)|la ama
-to store; pile up (starts with "am")|amontonar
+to store; pile up (starts with "amo")|amontonar
 the haunch; hip (culinary term for "cadera" e.g chicken thighs or frog legs)|la anca
 former, previous; earlier; front (doesn't change based on gender)|anterior
 to want, fancy (starts with "an") (reflexive)|antojarse
-the longing, nostalgia|la añoranza
+the longing, nostalgia (starts with "añ")|la añoranza
 to extinguish, turn off (starts with "ap")|apagar
-to agree to; promise; engage (starts with a)|apalabrar
+to agree to; promise; engage (starts with "apal")|apalabrar
 compressed, solid (masculine)|apelmazado
 compressed, solid (feminine)|apelmazada
 leaning (comes from "apoyar") (masculine)|apoyado
@@ -210,13 +210,13 @@ hanging (feminine)|colgada
 the corner (of mouth)|la comisura
 the retinue; procession (starts with "co")|la comitiva
 the time, beat, rhythm of music|el compás
-the competition|la competencia
+the competition (starts with "com")|la competencia
 to receive communication|comulgar
 the councillor (starts with "conceja") (male)|el concejal
 the councillor (starts with "conceja") (female)|la concejala
 to make specific; put one's finger on (starts with "con")|concretar
-crowded; well-attended (starts with c) (masculine)|concurrido
-crowded; well-attended (starts with c) (feminine)|concurrida
+crowded; well-attended (starts with c) (starts with "con") (masculine)|concurrido
+crowded; well-attended (starts with c) (starts with "con") (feminine)|concurrida
 the meeting; talk; (univerisity) lecture (starts with c)|la conferencia
 to consecrate|consagrar
 the town hall (starts with c)|la casa consistorial
@@ -266,8 +266,8 @@ to let it be understood, imply|dejar entender
 to denounce, inform against (pej.) betray, give away; report|denunciar
 the straight; right|el derecho
 to spill, shed (starts with d)|derramar
-knocked down; laid out (on the floor) (masculine)|derribado
-knocked down; laid out (on the floor) (feminine)|derribada
+knocked down; laid out (on the floor) (starts with "der") (masculine)|derribado
+knocked down; laid out (on the floor) (starts with "der") (feminine)|derribada
 ungrateful (starts with d) (masculine)|desagradecido
 ungrateful (starts with d) (feminine)|desagradecida
 to relieve one's feelings; speak one's mind (reflexive)|desahogarse
@@ -278,11 +278,11 @@ to develop (oneself); evolve (reflexive)|desarrollarse
 to exceed; overflow|desbordar
 barefoot, unshod (masculine)|descalzo
 barefoot, unshod (feminine)|descalza
-the unhappiness; misfortune (starts with d)|la desdicha
+the unhappiness; misfortune (starts with "desd")|la desdicha
 the disbursement; expenditure|el desembolso
 to have nothing to do with; pretend not to know (reflexive)|desentenderse
 the unwillingness, reluctance (starts with d)|la desgana
-the misfortune; bad luck (this word is in the phrase for "unfortunately")|la desgracia
+the misfortune; bad luck (this word is in a phrase for "unfortunately")|la desgracia
 to fray, get worn, come apart (reflexive)|deshilarse
 the design, plan, purpose (starts with "de")|el designio
 uneven|desigual
@@ -291,7 +291,7 @@ without a nose (feminine)|desnarigada
 the skull (hum) (starts with d)|la desnarigada
 rickety; uneven (masculine)|desnivelado
 rickety; uneven (feminine)|desnivelada
-the outspoken statement; impudent remark|el desplante
+the outspoken statement; impudent remark (starts with "des")|el desplante
 the newly-wed (male)|el desposado
 the newly-wed (female)|la desposada
 become detached, work loose, fall off (reflexive)|desprenderse
@@ -351,9 +351,9 @@ in/wearing mourning (feminine)|enlutada
 the medicine woman (quack doctor/bone-setter) (starts with e)|la ensalmadora
 to darken, cast a shadow|ensombrecer
 the integrity; decency; strength of mind; fortitude (starts with "enter")|la entereza
-touched, moved (to pity) (masculine)|enternecido
-touched, moved (to pity) (feminine)|enternecida
-to half-close (eyes)|entornar
+touched, moved (to pity) (starts with "ent") (masculine)|enternecido
+touched, moved (to pity) (starts with "ent") (feminine)|enternecida
+to half-close (eyes) (starts with "ent")|entornar
 the core, essence, entrail|la entraña
 half-open (masculine)|entreabierto
 half-open (feminine)|entreabierta
@@ -464,8 +464,8 @@ shy; shifty; fleeting (masculine)|huidizo
 shy; shifty; fleeting (feminine)|huidiza
 the theft, robbery (starts with h)|el hurto
 Iberian tribe (Huesca/Lérida region) (adjective ends in e)|ilgergete
-deluded; a dreamer, visionary (this is an adjective) (masculine)|iluso
-deluded; a dreamer, visionary (this is an adjective) (feminine)|ilusa
+deluded; a dreamer, visionary (adjective) ("eres un _____") (masculine)|iluso
+deluded; a dreamer, visionary (adjective) ("eres un _____") (feminine)|ilusa
 the magnet|el imán
 beardless (adjective ends in e)|imberbe
 crippled, disabled (masculine)|impedido
@@ -550,7 +550,7 @@ the camp follower (starts with m) (female)|la mochilera
 wet (starts with m) (masculine)|mojado
 wet (starts with m) (feminine)|mojada
 to grind; mill (starts with m)|moler
-to annoy; bother (starts with m) (like "molest")|molestar
+to annoy; bother (starts with m)|molestar
 the alter boy|el monaguillo
 the alter girl|la monaguilla
 the dummy, guy (grotesque figure), jerk (male)|el monicaco
@@ -613,7 +613,7 @@ the partridge|la perdiz
 the pole (candle-lighter)|la pértiga
 the nightmare|la pesadilla
 the cigarette/cigar case; tobacco pouch|la petaca
-axle grease (answer this without definite article)|pez
+axle grease (answer without definite article, from the book: "engrasado en ___")|pez
 the mischievous act; rude word (starts with p)|la picardía
 the pity; mercy; piety|la piedad
 the skin|la piel
@@ -624,7 +624,7 @@ the seedbed (starts with p)|el plantero
 the silver|la plata
 the talk, chat; sermon (starts with p)|la plática
 the lead|el plomo
-to proceed with caution (has "plomo")|andar con pies de plomo
+to proceed with caution (1st word starts with a)|andar con pies de plomo
 the power|el poder
 the dust; powder|el polvo
 the glass wine jar with long spout|el porrón
@@ -639,7 +639,7 @@ the convict, prisoner (starts with p) (male)|el presidiario
 the convict, prisoner (starts with p) (female)|la presidiaria
 the moneylender; pawnbroker (male)|el prestamista
 the moneylender; pawnbroker (female)|la prestamista
-to deprive (starts with p)|privar
+to deprive (starts with "pr")|privar
 the insolence, brazenness|la procacidad
 dirty; filthy; disgusting (starts with p) (masculine)|puerco
 dirty; filthy; disgusting (starts with p) (feminine)|puerca
@@ -649,7 +649,7 @@ to complain, protetst; moan, groan (reflexive)|quejarse
 to burn (starts with q)|quemar
 the door-jamb|el quicio
 the radish|el rábano
-furiously; madly (starts with r)|rabiosamente
+furiously; madly (starts with r, ends with e)|rabiosamente
 cracked; split (starts with "raj") (masculine)|rajado
 cracked; split (starts with "raj") (feminine)|rajada
 the branch (of a plant/tree)|el ramo
@@ -674,14 +674,14 @@ twirled, curled (of moustache) (starts with r) (feminine)|redondeada
 round (starts with r) (masculine)|redondo
 round (starts with r) (feminine)|redonda
 the proverb, saying (a bit like "refrain")|el refrán
-endorsed; repeated (starts with r) (masculine)|refrendado
-endorsed; repeated (starts with r) (feminine)|refrendada
+endorsed; repeated (starts with "ref") (masculine)|refrendado
+endorsed; repeated (starts with "ref") (feminine)|refrendada
 to water, irrigate (starts with r)|regar
 to search (starts with r)|registrar
 to neigh, whinny, snort (starts with r)|relinchar
 stuffed (starts with r) (masculine)|relleno
 stuffed (starts with r) (feminine)|rellena
-to roll up (sleeves, trousers, skirts) (starts with r)|remangar
+to roll up (sleeves, trousers, skirts) (starts with "re")|remangar
 the end, tip, top; finishing touch; killing off (starts with r)|el remate
 to reprimand; quarrel, fight (starts with "reñ")|reñir
 the accused person or (person) under sentence of death; prisoner (male)|el reo
@@ -770,7 +770,7 @@ the intercession for soul in Purgatory; sufferage|el sufragio
 to hold (down); subject (starts with s)|sujetar
 substitute (adjective) (adjective ends in e) (starts with s)|suplente
 to whisper, murmur (starts with s)|susurrar
-the plank, board (this entry of the word is feminine)|la tabla
+the plank, board (this is feminine here) ("había un camastro de ____s")|la tabla
 to click heels (2 words)|juntar talcones
 the long, (heel-length) robes (this is a plural word)|las ropas talares
 to totter, reel (starts with t) (reflexive)|tambalearse
