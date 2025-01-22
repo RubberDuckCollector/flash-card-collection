@@ -51,7 +51,7 @@ nearby, close (starts with n)|nah
 for hours|stundenlang
 far (starts with w)|weit
 but; however|aber
-poast the ...|an/am ... vorbei
+post the ...|an/am ... vorbei
 until you see ...|sie Sie ... sehen
 over there|da drüben
 to there|dorthin
