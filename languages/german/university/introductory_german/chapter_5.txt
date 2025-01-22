@@ -52,7 +52,7 @@ for hours|stundenlang
 far (starts with w)|weit
 but; however|aber
 post the ...|an/am ... vorbei
-until you see ...|sie Sie ... sehen
+until you see ...|bis Sie ... sehen
 over there|da drüben
 to there|dorthin
 the first street to the left|die erste Straße links
@@ -68,43 +68,11 @@ Take the bus!|Fahren Sie mit dem Bus!
 across from|gegenüber von
 Is there ... nearby?|Gibt es hier in der Nähe ...?
 I would like to go to ...|Ich möchte zum/zur ... gehen
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+straight ahead|geradeaus
+keep straight ahead|immer geradeaus
+near, in the vicinity of (4 words)|in der Nähe von
+Can you tell me where ... is?|Können Sie mir sagen, wo ... ist?
+You can walk|Sie Können zu Fuß gehen
+but; but actually; on the contrary, rather (starts with s)|sondern
+Excuse me! (starts with V)|Verzeihung!
+How do you get from here to ...?|Wie kommt man von hier zum/zur ...?
