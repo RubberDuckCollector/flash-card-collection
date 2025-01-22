@@ -14,7 +14,7 @@ the church|die Kirche(n)
 the museum|das Museum
 the museums|die Museen
 the park|der Park(s)
-the place; square|der Plaz(¨e)
+the place; square|der Platz(¨e)
 the post office|die Post
 the city hall|das Rathaus(¨er)
 the palace (starts with S)|das Schloss(¨er)
