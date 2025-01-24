@@ -33,7 +33,7 @@ the menu (starts with S)|die Speisekarte(n)
 the soup|die Suppe(n)
 the plate|der Teller(-)
 the sugar|der Zucker
-to answer|antworten
+to answer (dative verb)|antworten
 to order|bestellen
 to pay (starts with z)|zahlen
 to pay for (starts with b)|bezahlen
@@ -49,7 +49,7 @@ to give|geben
 to please; be pleasing to (dative verb)|gefallen
 to belong to|gehören
 to believe (dative verb) (starts with g)|glauben
-to help|helfen
+to help (dative verb)|helfen
 to walk; run (starts with lowercase L)|laufen
 to read|lesen
 to take; to have (food)|nehmen

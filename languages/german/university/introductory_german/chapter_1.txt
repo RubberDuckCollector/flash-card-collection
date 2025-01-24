@@ -70,7 +70,7 @@ the aunt|die Tante(n)
 the part|der Teil(e)
 the daughter|die Tochter
 the father|der Vater(¨)
-to answer|antworten
+to answer (dative verb)|antworten
 to work|arbeiten
 to begin|beginnen
 to need|brauchen

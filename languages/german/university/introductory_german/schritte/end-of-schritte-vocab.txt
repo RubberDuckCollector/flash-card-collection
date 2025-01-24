@@ -71,7 +71,7 @@ Wednesday|Mittwoch
 Thursday|Donnerstag
 Saturday|Samstag
 Sunday|Sonntag
-to answer|antworten
+to answer (dative verb)|antworten
 to begin|beginnen
 to need|brauchen
 to eat (starts with e)|essen

@@ -8,7 +8,7 @@ the pen|der Kuli(s)
 the notebook|das Heft(e)
 the book|das Buch(¨er)
 the paper|das Papier(e)
-to answer|antworten
+to answer (dative verb)|antworten
 to listen|hören
 to listen (to something, somebody)|zuhören
 yellow|gelb
