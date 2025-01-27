@@ -67,7 +67,7 @@ I'm sorry (4 words)|Es tut mir leid
 Take the bus!|Fahren Sie mit dem Bus!
 across from|gegenüber von
 Is there ... nearby?|Gibt es hier in der Nähe ...?
-I would like to go to ...|Ich möchte zum/zur ... gehen
+I would like to go to ... (doesn't have the verb "to go")|Ich möchte zum/zur ...
 straight ahead|geradeaus
 keep straight ahead|immer geradeaus
 near, in the vicinity of (4 words)|in der Nähe von
