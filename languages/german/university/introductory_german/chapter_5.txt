@@ -72,7 +72,7 @@ straight ahead|geradeaus
 keep straight ahead|immer geradeaus
 near, in the vicinity of (4 words)|in der Nähe von
 Can you tell me where ... is?|Können Sie mir sagen, wo ... ist?
-You can walk|Sie Können zu Fuß gehen
+You can walk|Sie können zu Fuß gehen
 but; but actually; on the contrary, rather (starts with s)|sondern
 Excuse me! (starts with V)|Verzeihung!
 How do you get from here to ...?|Wie kommt man von hier zum/zur ...?
