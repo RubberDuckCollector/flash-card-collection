@@ -18,3 +18,5 @@ where are you|non zaude zu
 "muy bien"|oso ondo
 i'm glad; "me alegro" (1st word starts with p)|pozten naiz
 "también"|ere
+who?|nor?
+where?|non?
