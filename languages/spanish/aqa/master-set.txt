@@ -907,8 +907,8 @@ the amazement, surprise|el asombro
 the children's home|el centro de menores tutelados
 to tell (a story), relate|contar
 the school year, course|el curso
-the others (masculine)|el demás
-the others (feminine)|la demás
+the others (masculine)|los demás
+the others (feminine)|las demás
 to wait for, hope, expect|esperar
 to be part of (literally: "to form part")|formar parte
 to make the bed|hacer la cama
@@ -1413,7 +1413,7 @@ consensual (feminine)|consensuada
 to define|definir
 to abolish (starts with d)|derogar
 disappearance|la desaparición
-to go up/to shoot/to fire (reflexive)|dispararse
+to go up/to shoot up (figuratively)/to skyrocket (reflexive)|dispararse
 to double (up) (reflexive)|duplicarse
 worsened (masculine)|empeorado
 worsened (feminine)|empeorada
@@ -2533,7 +2533,7 @@ the seal, medallion, locket; charm|el dije
 the witty remark, colourful saying (Arag) (this is Jerónima's word for "saying")|la dijenda
 to apologise (reflexive)|disculparse
 the speech (like "discourse") (masculine)|el discurso
-to fire, shoot (this entry of the word is not reflexive)|disparar
+to fire, shoot [a bullet, etc.] (this entry of the word is not reflexive)|disparar
 to disintegrate (starts with "disg") (reflexive)|disgregarse
 the gift (from god), favour (starts with d)|el don
 golden, gilded (masculine)|dorado
