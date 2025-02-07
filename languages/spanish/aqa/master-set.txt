@@ -312,7 +312,7 @@ the baker (male)|el panadero
 the baker (female)|la panadera
 practical (masculine)|práctico
 practical (feminine)|práctica
-the problem|la problema
+the problem|el problema
 the receptionist (male)|el recepcionista
 the receptionist (female)|la recepcionista
 to serve|servir
