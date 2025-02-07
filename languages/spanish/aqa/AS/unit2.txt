@@ -7,7 +7,7 @@ on demand|bajo demanda
 the broadband|la banda ancha
 to look for|buscar
 the search engine|el buscador
-to upload (starts with ca)|cargar
+to upload (starts with "ca")|cargar
 the file (i think it means physical file like a ring binder? computer file is archivo, but a computer folder is also this word)|la carpeta
 the cyberscape|el ciberespacio
 to buy|comprar
