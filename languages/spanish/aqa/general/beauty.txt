@@ -8,7 +8,7 @@ complexion (starts with t)|la tez
 blusher (starts with c)|el colorete
 blusher (starts with r)|el rubor
 curling iron|el rizador
-mascara (starts with r) (spanish word)|el rímel
+mascara (starts with r)|el rímel
 to higlight (not destacar, starts with r)|realzar
 tweezers|las pinzas
 eyelash|la pestaña
