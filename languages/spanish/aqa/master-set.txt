@@ -578,7 +578,7 @@ the exercise|el ejercicio
 the training|el entrenamiento
 to train|entrenar
 the skiing|el esquí
-to win|ganar
+to win (starts with g)|ganar
 the player (male)|el jugador
 the player (female)|la jugadora
 the member (masc and fem both end in o) (masculine)|el miembro
@@ -931,7 +931,7 @@ scarse (feminine)|escasa
 the exhibition|la exposición
 winner (male)|el ganador
 winner (female)|la ganadora
-to win|ganar
+to win (starts with g)|ganar
 to spend|gastar
 the facilities|las instalaciones
 the environment|el medio ambiente

@@ -118,7 +118,7 @@ the exercise|el ejercicio
 the training|el entrenamiento
 to train|entrenar
 the skiing|el esquí
-to win|ganar
+to win (starts with g)|ganar
 the player (male)|el jugador
 the player (female)|la jugadora
 the member (masc and fem both end in o) (masculine)|el miembro

@@ -28,7 +28,7 @@ scarse (feminine)|escasa
 the exhibition|la exposición
 winner (male)|el ganador
 winner (female)|la ganadora
-to win|ganar
+to win (starts with g)|ganar
 to spend|gastar
 the facilities|las instalaciones
 the environment|el medio ambiente
