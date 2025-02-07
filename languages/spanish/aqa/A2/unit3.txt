@@ -39,7 +39,7 @@ retired (masculine)|jubilado
 retired (feminine)|jubilada
 to retire (reflexive)|jubilarse
 the legacy (starts with L)|el legado
-the coast|el litoral
+the coast (starts with L)|el litoral
 the mix|la mezcla
 to mould|moldear
 the moor (person) (male)|el moro
@@ -192,5 +192,5 @@ the witness (female)|la testigo
 to shiver (starts with "ti")|tiritar
 the court (starts with t)|el tribunal
 the score (of 20)|la veintena
-to defeat|vencer
+to defeat (starts with v)|vencer
 to monitor|vigilar

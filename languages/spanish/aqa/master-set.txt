@@ -1472,8 +1472,8 @@ the development|el desarrollo
 to have at one's disposal|disponer de
 the palm sunday|el Domingo de Ramos
 relating to sunday (adjective)|dominical
-headed by (masculine)|encabezado
-headed by (feminine)|encabezada
+headed by (masculine)|encabezado por
+headed by (feminine)|encabezada por
 straight away|enseguida
 to die|fallecer
 inconceivably (adverb starts with c)|inconcebiblemente
@@ -1709,7 +1709,7 @@ the femicide|el femicidio
 unthinkable|impensable
 the injustice|la injusticia
 the fury|la ira
-the blot, blemish|la lacra
+the blot, blemish (starts with L)|la lacra
 the fight (begins with L)|la lucha
 the chauvinism|el machismo
 the protest|la manifestación
@@ -1800,7 +1800,7 @@ the recording|la grabación
 to record|grabar
 the musical taste|el gusto musical
 to perform a song (3 words) (starts with i)|interpretar una canción
-the blot/blemish|la lacra
+the blot/blemish (starts with L)|la lacra
 the lyrics|la letra
 the charity/charitable organisation|la organización benéfica/caritativa
 catchy (masculine)|pegadizo
@@ -3488,7 +3488,7 @@ retired (masculine)|jubilado
 retired (feminine)|jubilada
 to retire (reflexive)|jubilarse
 the legacy (starts with L)|el legado
-the coast|el litoral
+the coast (starts with L)|el litoral
 the mix|la mezcla
 to mould|moldear
 the moor (person) (male)|el moro
@@ -3641,7 +3641,7 @@ the witness (female)|la testigo
 to shiver (starts with "ti")|tiritar
 the court (starts with t)|el tribunal
 the score (of 20)|la veintena
-to defeat|vencer
+to defeat (starts with v)|vencer
 to monitor|vigilar
 to go to the polls (starts with acudir)|acudir a las urnas
 to go to the polls (starts with ir)|ir a las urnas

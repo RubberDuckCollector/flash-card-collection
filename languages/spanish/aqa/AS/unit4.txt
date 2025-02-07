@@ -31,7 +31,7 @@ the recording|la grabación
 to record|grabar
 the musical taste|el gusto musical
 to perform a song (3 words) (starts with i)|interpretar una canción
-the blot/blemish|la lacra
+the blot/blemish (starts with L)|la lacra
 the lyrics|la letra
 the charity/charitable organisation|la organización benéfica/caritativa
 catchy (masculine)|pegadizo
