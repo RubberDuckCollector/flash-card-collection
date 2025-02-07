@@ -170,7 +170,7 @@ the judge (male)|el juez
 the judge (female)|la jueza
 the court/tribunal (starts with j)|el juzgado
 to judge|juzgar
-to fine|multar
+to fine (1 word)|multar
 to refuse to (reflexive)|negarse a
 to force (starts with o)|obligar
 the restraining order|la orden de alejamiento

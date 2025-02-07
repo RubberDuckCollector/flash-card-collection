@@ -3428,7 +3428,7 @@ the judge (male)|el juez
 the judge (female)|la jueza
 the court/tribunal (starts with j)|el juzgado
 to judge|juzgar
-to fine|multar
+to fine (1 word)|multar
 to refuse to (reflexive)|negarse a
 to force (starts with o)|obligar
 the restraining order|la orden de alejamiento
@@ -4051,7 +4051,7 @@ the protestors (starts with m) (noun ends in e) (male)|los manifestantes
 the protestors (starts with m) (noun ends in e) (female)|las manifestantes
 to protest (starts with "ma")|manifestar
 the gag|la mordaza
-to fine, to impose a fine|multar
+to fine, to impose a fine (1 word)|multar
 to oppose to (reflexive)|oponerse a
 the placard/banner|la pancarta
 the unemployment (starts with p)|el paro
