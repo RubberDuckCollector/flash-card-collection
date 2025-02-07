@@ -1358,7 +1358,7 @@ the emphasis|el énfasis
 to show (starts with e)|enseñar
 to choose (starts with "es")|escoger
 the effort|el esfuerzo
-the husband (starts with e)|lo esposo
+the husband (starts with e)|el esposo
 the wife (starts with e)|la esposa
 the family (adjective)|familiar
 the death (starts with f)|el fallecimiento
