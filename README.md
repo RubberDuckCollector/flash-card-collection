@@ -25,7 +25,8 @@ For my own version of this that redoes quizlet write in my own style, check out 
 ![Step 5: Edit the "Custom" field under "Between Term and Definition" to be a | character.](assets/step_5.png)
 1. Click "Import" in the bottom right.
 ![Step 6: Click "Import" in the bottom right.](assets/step_6.png)
-1. Done!
+1. Give the flash card set a name.
+1. Done! 
 
 # Languages
 
