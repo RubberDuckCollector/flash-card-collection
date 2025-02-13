@@ -180,7 +180,7 @@ the hood, cowl (starts with "ca")|la capucha
 the guffaw/peal of laughter|la carcajada
 to burst out laughing|soltar la carcajada
 the jail, prison (starts with "cá")|la cárcel
-the traditionalism|el casticismo
+the traditionalism (starts with c)|el casticismo
 the punishment|el castigo
 the chasuble (outer Mass vestment)|la casulla
 the leader, chief; head of state (Franco had this title)|el caudillo

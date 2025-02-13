@@ -21,22 +21,30 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 **If you find an error, submit a pull request and I'll try to figure out how that works and fix the error**
 
+# Quizlet Tutorial
 
-### Languages
+1. To add one of these flash card sets to quizlet, click on the file.
+1. Click on the "copy file contents" button in the top right.
+1. Go to your flash card set on quizlet.
+1. 
+
+
+
+# Languages
 
 - My flash card sets are more suited to me than the ones in the textbook for my flash card learning technique, and that might also be the case with other people.
     - e.g in spanish, the masculine + feminine forms of each adjective are in my cards in a more explicit format compared to the textbook
     - the male + female versions of nouns like *jefe* and *jefa* are actually in there in my flash cards, whereas the Spanish textbooks I've made the cards from don't have them written down
     - this makes it easier to recall feminine versions of words because they are given equal significance in the flash card set, which is not the case in the textbooks, making my flash cards more usable
 
-#### Dutch
+## Dutch
 
 - Flash cards:
     - Cannot find any active GCSE or A level courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
     - Have fun with a sparratic mix of topics
     - Dutch flash cards have plurals for all nouns because it's a bit confusing
 
-#### German
+## German
 
 - Flash cards:
     - GCSE:
@@ -48,7 +56,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - From AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
     - University: from Wie Geht's 10th edition
 
-#### Spanish
+## Spanish
 
 - Flash cards:
     - GCSE:
@@ -61,12 +69,12 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - Réquiem cards slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
                 - **note: these spanish words are from the 30s and some are archaic (or at least may have old spelling)**
 
-#### Japanese
+## Japanese
 - Flash cards:
     - From the Marugoto textbooks
     - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
 
-#### Computer Science
+## Computer Science
 
 - GCSE:
     - From OCR GCSE Computer Science 9-1 J277
