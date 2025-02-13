@@ -18,7 +18,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
 ![Step 2: To add one of these flash card sets to quizlet, click on the file."](assets/step_2.png)
 1. Click on the "copy raw file" button in the top right of the file viewer.
 ![Step 3: Click on the "copy raw file" button in the top right of the file viewer.](assets/step_3.png)
-1. Click on "Import"
+1. On Quizlet, click on "Import"
 ![Step 4: Click on "Import".](assets/step_4.png)
 1. Paste the raw file contents into your flash card set.
 1. Edit the "Custom" field under "Between Term and Definition" to be a | character.
