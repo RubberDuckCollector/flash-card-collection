@@ -25,7 +25,7 @@ the tram|die Straßenbahn(en)
 the taxi|das Taxi(s)
 the theatre|das Theater(-)
 the tourist (male)|der Tourist(en)
-the tourist (female) (male)|die Touristin(nen)
+the tourist (female)|die Touristin(nen)
 the subway, metro|die U-Bahn
 the university|die Universität(en)
 the uni|die Uni(s)
