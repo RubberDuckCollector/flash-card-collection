@@ -478,7 +478,7 @@ the judge (male)|el juez
 the judge (female)|la jueza
 the judgement; opinion|el juicio
 the Last Judgement|el juicio final
-the oath; swear word (starts with j)|el juramento
+the oath; swear (e.g on the Bible) (starts with j)|el juramento
 to judge; to try (in court)|juzgar
 carved (in wood) (starts with L) (male)|labrado
 carved (in wood) (starts with L) (female)|labrada
