@@ -1,0 +1,7 @@
+teacher (starts with きょ)|きょうし
+student|がくせい
+housewife|しゅふ
+enjineer|エンジニア
+civil servant|こうむいん
+office worker|かいしゃいん
+what's your job?|おしごとはなんですか。

@@ -1,0 +1,23 @@
+the menu|die Speisekarte(n)
+the starter|die Vorspeise(n)
+the main|die Hauptspeise(n)
+the main dish|das Hauptgericht(e)
+the dessert (ends with e)|die Nachspeise
+the dessert (ends with h)|der Nachtisch(e)
+the waiter|der Kellner(-)
+the waitress|die Kellnerin(nen)
+the server|die Bedienung(en)
+to order|bestellen
+to recommend|emprehlen
+the recommendation|die Empfehlung
+the food|das Essen
+the drink|das Getränk(e)
+bon appétit|Guten Appetit
+you too (starts with G)|Gleichfalls
+you too (starts with E)|Ebenfalls
+the set menu|das Menü(s)
+the bill|die Rechnung
+to pay|bezahlen
+the tip|das Trinkgeld
+to taste good to|schmecken
+immediately; in a minute|sofort

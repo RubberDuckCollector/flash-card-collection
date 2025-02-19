@@ -1,0 +1,143 @@
+to recognise (starts with a)|anerkennen
+the cause|der Anlass(¨e)
+to light|anzünden
+the supervision|due Aufsicht
+the ribbon|das Band(¨er)
+the need (starts with B)|das Bedürfnis(se)
+the occupation|die Besetzung(en)
+the beggar|der Bettler(-)
+the birch tree|die Birke(n)
+the custom (starts with B)|der Brauch(¨e)
+the customs and traditions (starts with B)|der Brauchtum
+the fountain|der Brunnen(-)
+to produce (starts with e)|erzeugen
+the community, local authority|die Gemeinde(n)
+the sociability|die Geselligkeit
+the basis, foundation|die Grundlage(n)
+the craftsman|der Handwerker(-)
+pagan|heidnisch
+the witch|die Hexe(n)
+the highlight|der Höhepunkt(e)
+the fight|der Kampf(¨e)
+the candle|die Kerze(n)
+the queen|die Königin(nen)
+the crib (in a nativity scene)|die krippe(n)
+the bauble|die Kugel(n)
+alive (starts with lowercase L)|lebendig
+to tempt, lure|locken
+the fool, jester|der Narr(en)
+local (starts with o)|ortsansässig
+to influence, characterise (starts with p)|pragen
+the leap year|das Schaltjahr(e)
+to value, treasure|schätzen
+to decorate|schmücken
+the sword|das Schwert(er)
+to stem, originate|stammen
+the practical joke, prank|der Streich(e)
+the procession|der Umzug(¨e)
+to organise|veranstalten
+the event|die Veranstaltung(en)
+to veil, mask, cover|verhüllen
+dressed up, disguised|verkleidet
+the reliability|die Verlässlichkeit
+the expulsion|die Vertreibung(en)
+the evening before|der Vorabend(e)
+to devote, dedicate|widmen
+the root|die Wurzel(n)
+the sign, badge|das Zeichen(-)
+to tremble|zittern
+foolish, silly|albern
+to employ|anstellen
+the instruction, commission|der Auftrag(¨e)
+to pour out|ausschenken
+disadvantaged, disabled|benachteiligt
+the monument|das Denkmal(¨er)
+the income|das Einkommen(-)
+the event (starts with E)|das Ereignis(se)
+considerable|erheblich
+the proceeds|der Erlös(e)
+the purse|der Geldbeutel(-)
+the sense of community|der Gemeinschaftssinn
+social|gesellschaftlich
+the trade|das Gewerbe(-)
+the profit|der Gewinn(e)
+the dealer (male)|der Händler(-)
+the dealer (female)|die Händlerin(nen)
+the producer|der Hersteller(-)
+charitable|karitativ
+tasteless, corny|kitschig
+the doughnut (starts with K)|der krapfen(-)
+the gingerbread|der Lebkuchen(-)
+the effort, performance (starts with uppercase L)|die Leistung(en)
+the streamer|die Luftschlange(n)
+the almond|die Mandel(n)
+the chestnut|die Marone(n)
+the demand|die Nachfrage(n)
+public (starts with ö)|öffentlich
+the biscuit|das Plätzchen(-)
+the rule|die Regel(n)
+the pension|die Rente(n)
+the pensioner (male)|der Rentner(-)
+the pensioner (female)|die Rentnerin(nen)
+the retirement|der Ruhestand
+to secure|sichern
+to donate (starts with s)|spenden
+noticeable, tangible (starts with s)|spürbar
+the town council|die Stadverwaltung(en)
+to exchange|tauschen
+the turnover (in a company, not a pastry)|der Umsatz(¨e)
+to be accommodated|unterkommen
+to underestimate|unterschätzen
+to surprise|verblüffen
+the decline|der Verfall
+essential|wesentlich
+the number, figure (starts with z)|die Zahl(en)
+the hand (of a clock) (starts with Z)|der Zeiger(_)
+the performance (starts with A)|der Auftritt(e)
+the farmer (starts with B) (male)|der Bauer(n)
+the farmer (starts with B) (female), the farmer's wife|die Bäuerin(nen)
+to enthuse|begeistern
+to damage|beschädigen
+the broom, broomstick|der Besen(-)
+the national (bank) holiday|der Bundesfeiertag(e)
+the mayor (male)|der Bürgermeister(-)
+the mayor (female)|die Bürgermeisterin(nen)
+eager|eifrig
+unique|einzigartig
+to miss|entgehen
+the opening ceremony|die Eröffnungsfeier(n)
+the flatbread|der Fladen(-)
+the researcher|der Forscher(-)
+to make friendships|Freundschaften schließen
+the animal feed|das Futter(-)
+the travelling entertainer|der Gaukler(-)
+the contrast|der Gegensatz(¨e)
+mysterious|geheimnisvoll
+the hearing problem|das Gehörproblem(e)
+the noise level|der Geräuschpegel(-)
+legal (starts with g)|gesetzlich
+the mountaintop, summit|der Gipfell(-)
+the return, homecoming|die Heimkehr
+the sound|der Klang(¨e)
+the noise, din|der Krach
+the power (starts with K)|die Kraft(¨e)
+the cowbell|die Kuhglocke(n)
+to milk|melken
+the centre, focus|der Mittelpunkt(e)
+the socialite, party animal|der Partylöwe(n)
+the valley|das Tal(¨er)
+deaf|taub
+the devil (starts with T)|der Teufel(-)
+thunderous|tosend
+the festival with traditional/national costume|das Trachtenfest(e)
+to dress up (reflexive)|sich verkleiden
+to convey (a feeling)|vermitteln
+to communicate|sich verständigen
+to drive away|vertreiben
+the cattle|das Vieh(-)
+the advance booking|die Vorbuchung(en)
+the fortune teller|der Wahrsager(-)
+the pasture, meadow|die Weide(n)
+the tool (starts with W)|das Werkzeug(e)
+the welfare|das Wohl
+the goat|die Ziege(n)

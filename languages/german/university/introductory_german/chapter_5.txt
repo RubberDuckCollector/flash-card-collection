@@ -1,0 +1,78 @@
+the car|das Auto(s)
+the train station|der Bahnhof(¨e)
+the bank|die Bank(en)
+the library|die Bibliothek(en)
+the bridge|die Brücke(n)
+the bus|der Bus(se)
+the lady (starts with D)|die Dame(n)
+the cathedral (starts with D)|der Dom(e)
+the bike|das Fahrrad(¨er)
+the stop (e.g bus stop)|die Haltstelle(n)
+the hotel|das Hotel(s)
+the movie theatre|das Kino(s)
+the church|die Kirche(n)
+the museum|das Museum
+the museums|die Museen
+the park|der Park(s)
+the place; square|der Platz(¨e)
+the post office|die Post
+the city hall|das Rathaus(¨er)
+the palace (starts with S)|das Schloss(¨er)
+the school|die Schule(n)
+the city map|der Stadtplan(¨e)
+the street|die Straße(n)
+the tram|die Straßenbahn(en)
+the taxi|das Taxi(s)
+the theatre|das Theater(-)
+the tourist (male)|der Tourist(en)
+the tourist (female)|die Touristin(nen)
+the subway, metro|die U-Bahn
+the university|die Universität(en)
+the uni|die Uni(s)
+the way; trail|der Weg(e)
+to tour, visit|besichtigen
+to stroll|bummeln
+to stop; to hold (starts with h)|halten
+to show|zeigen
+to walk|zu Fuß gehen
+to be allowed to, may (as in "you may go to the toilet")|dürfen
+to be able to, can|können
+to have to, must|müssen
+to be supposed to, should|sollen
+to want (to)|wollen
+well-known (starts with b)|bekannt
+pleasant, convivial; cosy|gemütlich
+enough|genug
+hopefully; I hope|hoffentlich
+interesting|interessant
+unfortunately (starts with lowercase L)|leider
+dear; lovingly, tenderly|lieb
+nearby, close (starts with n)|nah
+for hours|stundenlang
+far (starts with w)|weit
+but; however|aber
+post the ...|an/am ... vorbei
+until you see ...|bis Sie ... sehen
+over there|da drüben
+to there|dorthin
+the first street to the left|die erste Straße links
+the first street to the right|die erste Straße rechts
+along|entlang
+"to go along the river"|den Fluss entlang gehen
+"along the river" (genitive)|entlang des Flusses
+once, one time|einmal
+Excuse me! (has "Sie")|Entschuldigen Sie!
+Excuse me! (doesn't have "Sie")|Entschuldigen!
+I'm sorry (4 words)|Es tut mir leid
+Take the bus!|Fahren Sie mit dem Bus!
+across from|gegenüber von
+Is there ... nearby?|Gibt es hier in der Nähe ...?
+I would like to go to ... (doesn't have the verb "to go")|Ich möchte zum/zur ...
+straight ahead|geradeaus
+keep straight ahead|immer geradeaus
+near, in the vicinity of (4 words)|in der Nähe von
+Can you tell me where ... is?|Können Sie mir sagen, wo ... ist?
+You can walk|Sie können zu Fuß gehen
+but; but actually; on the contrary, rather (starts with s)|sondern
+Excuse me! (starts with V)|Verzeihung!
+How do you get from here to ...?|Wie kommt man von hier zum/zur ...?

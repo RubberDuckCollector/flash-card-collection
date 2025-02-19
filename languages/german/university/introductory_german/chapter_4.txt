@@ -1,0 +1,90 @@
+the calendar date|das Datum
+the calendar dates|die Daten
+the celebration|die Feier(n)
+the holiday|der Feiertag(e)
+the vacation (this is plural) (starts with F)|die Ferien
+the fest, festival|das Fest(e)
+the birthday|der Geburtstag(e)
+the present, gift|das Geschenk(e)
+the candle|die Kerze(n)
+the song|das Lied(er)
+the number|die Zahl(en)
+the ordinal number|die Ordinalzahl(en)
+the party|die Party(s)
+the champagne (prosecco)|der Sekt(e)
+the surprise|die Überraschung(en)
+to get, receive|bekommen
+to last, take (duration)|dauern
+to think|denken
+to fall|fallen
+to celebrate, party (starts with f)|feiern
+to be lucky|Glück haben
+to congratulate|gratulieren
+to name, call (starts with n)|nennen
+to be unlucky|Pech haben
+to give a gift|schenken
+to sing|singen
+to be fun|Spaß haben
+to study a particular field; to be a student at a university; to study at uni|studieren
+to dance|tanzen
+to do (starts with t)|tun
+to surprise|überraschen
+to wish|wünschen
+loud(ly), noisy, noisily|laut
+funny, amusing|lustig
+crazy (i.e something irresponsibly crazy)|verrückt
+before (starts with b)|bevor
+that (conjunction) (starts with d)|dass
+if, whether (starts with o)|ob
+although (starts with o)|obwohl
+because (starts with w)|weil
+if; when(ever) (starts with w)|wenn
+Happy birthday! (literally: "All good for birthday")|Alles Gute zum Geburtstag!
+All the best!|Alles Gute!
+on the weekend|am Wochenende
+You're welcome!|Bitte schön!
+Thanks a lot!|Danke schön!
+I don't believe it!, That's impossible!|Das gibt's doch nicht!
+That's fun|Das macht Spaß
+That's fun to me|Das macht mir Spaß
+The vacation is from ... until ...|Die Ferien sind vom ... bis zum ...
+(over) there (used for far away places like countries)|dort
+Really? (starts wtih E)|Echt?
+actually|eigentlich
+Have a good New Year! (literally: "A good new year")|Ein gutes neues Jahr!
+Have a nice weekend!|(Ein) schönes Wochenende!
+Merry Christmas!|Frohe/Fröhliche Weihnachten!
+just, right now (starts with g)|gerade
+yesterday|gestern
+I (you were, she was, etc.) lucky (exclamation)|Glück gehabt!
+Get well soon!|Gute Besserung!
+Best wishes!|Herzliche Glückwünsche!
+Congratulations!|Herzlichen Glückwünsch!
+Congratulations on your birthday!|Herzlichen Glückwünsch zum Geburtstag!
+Today is the first of may (5/1)|Heute ist der erste Mai (1.5.)
+I was born in 1993|Ich bin in 1993 geboren
+I was born on the first of May 1993|Ich bin am ersten Mai 1993 geboren
+Congratulations ...! (literally: "I congratulate you (informal)/you (formal)") (dative verb)|Ich gratuliere dir/Ihnen ...!
+My birthday is on the first of May|Ich habe am ersten Mai (1.5.) Geburtstag
+I wish you ...!|Ich wünsche dir/Ihnen ...!
+always|immer
+tomorrow|morgen
+You're welcome!, My pleasure!|Nichts zu danken!
+still; else (starts with n)|noch
+never|nie
+never before|noch nie
+I was (you were, she was, etc.) unlucky (this is an exclamation)|Pech gehabt!
+sure(ly), certain(ly) (starts with s)|sicher
+What a surprise!|So eine Überraschung!
+Thank you very much!|Vielen/Herzlichen Dank!
+a week ago (1st word starts with v)|vor einer Woche
+the day before yesterday|vorgestern
+When is your birthday? (formal)|Wann haben Sie Geburtstag?
+When were you born? (formal)|Wann sind Sie geboren?
+What's the date today?|Welches Datum ist heute?
+How long?|Wie lange?
+the day after tomorrow|übermorgen
+at/for Easter|zu Ostern
+at/for Christmas|zu Weihnachten
+at/for New Year's Eve|zu Silvester
+on/for one's birthday|zum Geburtstag

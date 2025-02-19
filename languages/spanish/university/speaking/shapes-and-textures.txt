@@ -1,0 +1,21 @@
+the die|el dado
+the box|la caja
+the cube|el cubo
+the prism|la prisma
+the bottle|la botella
+the cylinder|el cilindro
+the pyramid|la pirámide
+translucent|traslúcio
+changing|cambiante
+the rhombus|el rombo
+the spots, moles (on face)|los lunares
+beige|crema
+the stripes|las rayas
+thick (starts with g)|gruesa
+ochre|ocre
+the bark|la corteza
+rough (starts with r)|rugoso
+the relief; terrain (starts with r)|el relieve
+plushie|de peluche
+soft (masculine)|blando
+soft (feminine)|blanda

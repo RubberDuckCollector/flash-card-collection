@@ -1,0 +1,8 @@
+good morning|おはようございます。
+hello|こんにちは
+good night|こんばんは
+thank you|ありがとう
+sorry; excuse me|すみません
+goodbye|さようなら
+yes|はい
+no|いいえ

@@ -1,0 +1,30 @@
+me; i|わたし
+my father|ちち
+my mother|はは
+my older sister|あね
+my older brother|あに
+my younger sister|いもうと
+my younger brother|おとうと
+my husband|おっと
+my wife|つま
+kids|こども
+1 person|ひとり
+2 people|ふたり
+3 people|３にん
+4 people|４にん
+5 people|５にん
+6 people|６にん
+7 people|７にん
+someone else's husband|ごしゅじん
+someone else's wife|おくさん
+someone else's kids|おこさん
+family|かぞく
+who is this person?|このひとはだれですか。
+who is this child?|このこはだれですか。
+how many members are in your family?|かぞくはなんにんですか。
+there are 3 people in my family.|わたしのかぞくは３にんです。
+my dad, my mum, and me.|ちちと、ははと、わたしです。
+what's their/your age? (starts with お)|おいくつですか。
+what's their/your age? (literally: [what] age?)|なんさいですか。
+where do they/you live?|どこにすんでいますか。
+we live in London.|わたしたちはLondonにすんでいます。
