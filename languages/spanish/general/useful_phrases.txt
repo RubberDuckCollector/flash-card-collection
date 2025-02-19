@@ -7,3 +7,5 @@ to apply (starts with "post") (reflexive)|postularse
 to swipe (context: on phone screen)|deslizar
 to click on (context: on a computer) (has "en" after the word)|hacer clic en
 according to (not "segun") (3 words)|de acuerdo a
+"it can be done"|se puede hacer
+to execute|ejecutar
