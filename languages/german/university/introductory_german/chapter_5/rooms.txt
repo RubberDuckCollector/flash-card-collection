@@ -1,8 +1,0 @@
-the wardrobe|der Kleiderschrank
-the dresser|die Kommode
-the schelf|das Regal
-the bookshelf|das Bücherregal
-the bed|das Bett
-the curtain|der Vorhang(¨e)
-the rug|das Teppich
-

@@ -1,7 +1,0 @@
-the currency|die Währung(en)
-to exchange|umtauschen
-the cash|das Bargeld(e)
-the exchange rate|der Währungskurs
-the credit card|die Kreditkarte
-the check|der Scheck(e)
-the ID|der Ausweis
