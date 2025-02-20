@@ -1,0 +1,102 @@
+the work|die Arbeit
+the study|das Arbeitszimmer(-)
+the bathroom|das Bad(¨er)
+the balcony|der Balkon(s)
+the tree|der Baum(¨e)
+the bed|das Bett(en)
+the roof|das Dach(¨er)
+the corner|die Ecke(n)
+the condominium|die Eigentumswohnung(en)
+the dining room|das Esszimmer(-)
+the TV set|der Fernseher(-)
+the hallway|der Flur(e)
+the garage|die Garage(n)
+the house|das Haus(¨er)
+the basement, cellar|der Keller(-)
+the dresser|die Kommode(n)
+the kitchen|die Küche(n)
+the refrigerator|der Kühlschrank(¨e)
+the lamp|die Lampe(n)
+the furniture (plural by default)|die Möbel
+the problem|das Problem(e)
+the radio|das Radio(s)
+the shelf; bookcase|das Regal(e)
+the townhouse, row house|das Reihenhaus(¨er)
+the bedroom|das Schlafzimmer(-)
+the closet; cupboard|der Schrank(¨e)
+the desk|der Schreibtisch(e)
+the armchair|der Sessel(-)
+the sofa|das Sofa(s)
+the dorm, the student accommodation|das Studentenwohnheim(e)
+the chair|der Stuhl(¨e)
+the telephone|das Telefon(e)
+the carpet|der Teppich(e)
+the table|der Tisch(e)
+the curtain|der Vorhang(¨e)
+the apartment|die Wohnung(en)
+the living room|die Wohnzimmer(-)
+the room|das Zimmer(-)
+to take a bath; to swim|baden
+to build|bauen
+to take a shower|duschen
+to hang (something that is hanging), PAST PARTICIPLE|hängen, gehangen
+to hang (hang something up), PAST PARTICIPLE|hängen, gehängt
+to know; be aquainted with a person/place/thing|kennen
+to cook|kochen
+to live (mean. be alive)|leben
+to lay something down, put something flat|legen
+to love|lieben
+to lay (mean. to lie down/be lying)|liegen
+to rent|mieten
+to set something down, put something down (on a surface)|setzen
+to sit down (mean. be sitting)|sitzen
+to save|sparen
+to stand (mean. be standing)|stehen
+to stand something up, to put something up|stellen
+to rent out|vermieten
+to wash|waschen
+to know a fact|wissen
+excellent(ly)|ausgezeichnet
+dark|dunkel
+light; brightly(ly)|hell
+easy; easily (lit. light(ly))|leicht
+practical(ly)|praktisch
+difficult, hard (lit. heavy), with difficulty|schwer
+comfortable; convenient|bequem
+uncomfortable; inconvenient|unbequem
+to; up to; at (the side of); on a vertical surface|an
+on, on top of; onto a horizontal surface|auf
+behind|hinter
+in; into; inside of|in
+beside, next to|neben
+over; above; about (context: "'we talk about ...'")|über
+under; below|unter
+before (context: the time, "'before we read ...'"), in front of|vor
+between|zwischen
+in the evening|am Abend
+during the day|am Tag
+Goodbye! (on the phone)|Auf Wiederhören!
+into the country/countryside|aufs Land
+in the country/countryside|auf dem Land(e)
+besides, in addition, as well (adverb)|außerdem
+no problem.|kein Problem.
+sounds good.|klingt gut!
+a little bit; a little bit of, some|ein bisschen
+almost (starts with f)|fast
+in the bathroom|im Bad
+in the basement|im Keller
+in the kitchen|im der Küche
+on the ground level|im Erdgeschoss
+on the ground floor (European)|im Parterre
+on the first floor (European)|im ersten Stock
+per Month (first word starts with i)|im Monat
+per Month (first word starts with p)|pro Monat
+in the middle of|mitten in
+not yet|noch nicht
+up; upstairs|oben
+even (starts with s)|sogar
+nevertheless, in spite of that|trotzdem
+down; downstairs|unten
+where|wo
+where to; to where| wohin
+quite, rather (starts with z)|zeimlich
