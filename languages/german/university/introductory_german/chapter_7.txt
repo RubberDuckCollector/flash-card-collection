@@ -1,0 +1,126 @@
+the exit|der Ausgang(¨e)
+the ID card|der Ausweis(e)
+the bank|die Bank(en)
+the cash|das Bargeld(e)
+the view|der Blick
+the view of ("of" starts with i)|der Blick in
+the view of ("of" starts with a)|der Blick auf
+the dollar|der Dollar(s)
+the double room|das Doppelzimmer(-)
+the entrance|die Eingang(¨e)
+the single room|das Einzelzimmer(-)
+the guest|der Gast(¨e)
+the small hotel|der Gasthof(¨e)
+the money|das Geld(e)
+the ATM machine|der Geldautomat(en)
+the baggage, luggage|das Gepäck
+the hotel|das Hotel(s)
+the youth hostel|die Jugendherberge(n)
+the cashier's window|die Kasse(n)
+the change (context: cash money)|das Kleingeld
+the suitcase|der Koffer(-)
+the credit card|die Kreditkarte(n)
+the location|die Lage
+the nicht|die Nacht(¨e)
+the number|die Nummer(n)
+the passport (starts with P)|der Pass(¨e)
+the passport (starts with R)|der Reisepass(¨e)
+the boarding house; hotel; B&B|die Pension(en)
+the trip|die Reise(n)
+the check (context: banking)|der Scheck(s)
+the key (singular)|der Schlüssel(-)
+the bag; pocket|die Tasche(n)
+the time of day|die Uhrzeit
+the forest, woods|der Wald(¨er)
+to arrive; come to|ankommen
+to accept (starts with "an")|annehmen
+to call, phone|anrufen
+to open|aufmachen
+to pay attention, watch; watch out|aufpassen
+to write down|aufschreiben
+to get up|aufstehen
+to go out|ausgehen
+to shop|einkaufen
+to get to know; meet|kennenlernen
+to leave; leave behind|lassen
+to bring with/along|mitbringen
+to go along|mitgehen
+to come along|mitkommen
+to take along|mitnehmen
+to pack|packen
+to travel|reisen
+to reserve|reservieren
+to spend the night|übernachten
+to exchange (starts with u)|umtauschen
+to sign|unterschreiben
+to pass; pass by|vorbeigehen
+to change; to exchange (starts with w)|wechseln
+to listen; listen to|zuhören
+to close|zumachen
+to come back|zurückkommen
+simple, simply; just|einfach
+free(ly) (mean. available)|frei
+open|geöffnet
+closed (starts with g)|geschlossen
+loud(ly), noisy, noisily|laut
+mostly, ususally|meistens
+possible|möglich
+quiet(ly)|ruhig
+all|alle
+the; that (when stressed)|das, der, die
+this; these (masculine)|dieser
+this; these (feminine)|diese
+this; these (neuter)|dieses
+each, every (sg. only) (masculine)|jeder
+each, every (sg. only) (feminine)|jeder
+each, every (sg. only) (neuter)|jedes
+many a (sg.); several, some (usually pl.) (masculine)|mancher
+many a (sg.); several, some (usually pl.) (feminine)|manche
+many a (sg.); several, some (usually pl.) (neuter)|manches
+such (usually pl.) (masculine)|solcher
+such (usually pl.) (feminine)|solche
+such (usually pl.) (neuter)|solches
+which (masculine)|welcher
+which (feminine)|welche
+which (neuter)|welches
+your (sg. fam.)|dein
+your (pl. fam.)|euer
+her/its|ihr
+their (pl.)|ihr
+your (sg./pl. formal)|Ihr
+my|mein
+his/its|sein
+our|unser
+away; off (separable prefix)|ab-
+to; up to (separable prefix)|an-
+up; open (separable prefix)|auf-
+out; out of (separable prefix)|aus-
+into (separable prefix)|ein-
+toward (the speaker) (separable prefix)|her-
+away from (the speaker) (separable prefix)|hin-
+together with, along with (separable prefix)|mit-
+after; behind; later (separable prefix)|nach-
+around; over; from one to the other (separable prefix)|um-
+ahead; before (separable prefix)|vor-
+past, by (separable prefix)|vorbei-
+closed, shut (separable prefix)|zu-
+back (separable prefix)|zurück-
+open|auf
+soon (starts with b)|bald
+I don't believe that.|Das glaube ich nicht.
+That's impossible! (lit. "not possible")|Das ist doch nicht möglich!
+That can't be true!|Das kann doch nicht wahr sein!
+That depends.|Das kommt darauf an.
+(for) just a minute|einen Moment
+Stop!|Halt!
+Watch out! (sg. fam.)|Pass auf!
+Watch out! (pl. fam.)|Passt auf!
+Watch out! (formal)|Passen Sie auf!
+Nonesense!|Quatsch!
+Careful!|Vorsicht!
+When do you open?|Wann machen Sie auf?
+When do you close?|Wann machen Sie zu?
+Wait! (sg. fam.)|Warte!
+Wait! (pl. fam.)|Wartet!
+Wait! (formal)|Warten Sie!
+closed (starts with z)|zu
