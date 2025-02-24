@@ -3,10 +3,14 @@ to have (mean. "have at one's disposal") (2 words) (1st word starts with d)|disp
 to have (2 words) (1st word starts with c)|contar con
 according to (mean. "in accordance with") (context: Luxembourg's salary-inflation system) (3 words)|en función de
 once (mean. "once that", e.g: "once (that) you sign the document, you can be punished legally") (3 words)|una vez que
-to apply (starts with "post") (reflexive)|postularse
+to apply (context: apply for job) (starts with "post") (reflexive)|postularse
 to swipe (context: on phone screen)|deslizar
 to click on (context: on a computer) (has "en" after the word)|hacer clic en
 according to (not "segun") (3 words)|de acuerdo a
 "it can be done"|se puede hacer
 to execute|ejecutar
-to pull; tug (mean. fig./lit.) (context: "'Spain pulls the EU along economically'") (has "de" after the word)|tirar de
+to pull; tug (mean. fig./lit.) (context: "Spain pulls the EU along economically") (has "de" after the word)|tirar de
+the frame (context: photos)|el marco
+to put in frame (context: photos)|enmarcar
+warm (context: colours) (masculine)|cálido
+warm (context: colours) (feminine)|cálida
