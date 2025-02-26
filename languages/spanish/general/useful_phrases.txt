@@ -14,3 +14,21 @@ the frame (context: photos)|el marco
 to put in frame (context: photos)|enmarcar
 warm (context: colours) (masculine)|cálido
 warm (context: colours) (feminine)|cálida
+time and time again (4 words)|una y otra vez
+the subject (context: email, general)|el asunto
+the basement (starts with s)|el sótano
+face-down|boca abajo
+face-up|boca arriba
+blurry (photo) (masculine)|borroso
+blurry (photo) (feminine)|borrosa
+clear (starts with c) (masculine)|claro
+clear (starts with c) (feminine)|clara
+clear (starts with n) (masculine)|nítido
+clear (starts with n) (feminine)|nítida
+the touch (the sense)|el tacto
+the taste (the sense)|el gusto
+the smell (the sense)|el olfato
+the hearing (the sense)|el oído
+at noon|al mediodía
+earthy (mean. "earthy colours") (masculine)|terroso
+earthy (mean. "earthy colours") (feminine)|terrosa

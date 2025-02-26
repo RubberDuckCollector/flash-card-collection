@@ -1,1 +1,3 @@
 to withraw|abheben
+included (context: hotel breakfast) (starts with i)|inbegriffen
+the day off (starts with R)|Ruhetag

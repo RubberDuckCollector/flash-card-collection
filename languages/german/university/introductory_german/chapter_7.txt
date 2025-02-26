@@ -1,7 +1,7 @@
 the exit|der Ausgang(¨e)
 the ID card|der Ausweis(e)
 the bank|die Bank(en)
-the cash|das Bargeld(e)
+the cash|das Bargeld(er)
 the view|der Blick
 the view of ("of" starts with i)|der Blick in
 the view of ("of" starts with a)|der Blick auf
@@ -11,7 +11,7 @@ the entrance|die Eingang(¨e)
 the single room|das Einzelzimmer(-)
 the guest|der Gast(¨e)
 the small hotel|der Gasthof(¨e)
-the money|das Geld(e)
+the money|das Geld(er)
 the ATM machine|der Geldautomat(en)
 the baggage, luggage|das Gepäck
 the hotel|das Hotel(s)
@@ -72,7 +72,7 @@ this; these (masculine)|dieser
 this; these (feminine)|diese
 this; these (neuter)|dieses
 each, every (sg. only) (masculine)|jeder
-each, every (sg. only) (feminine)|jeder
+each, every (sg. only) (feminine)|jede
 each, every (sg. only) (neuter)|jedes
 many a (sg.); several, some (usually pl.) (masculine)|mancher
 many a (sg.); several, some (usually pl.) (feminine)|manche
