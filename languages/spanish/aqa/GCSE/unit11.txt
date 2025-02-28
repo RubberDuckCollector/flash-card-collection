@@ -68,7 +68,7 @@ to offer (starts with o)|ofrecer
 to forget (reflexive)|olvidarse
 to borrow (2 words)|pedir prestado
 bit by bit|poco a poco
-to worry, to be concerned|preocuparse
+to worry, to be concerned (reflexive)|preocuparse
 to pick up, to collect (starts with r)|recoger
 the student residence|la residencia de esudiantes
 the result|el resultado

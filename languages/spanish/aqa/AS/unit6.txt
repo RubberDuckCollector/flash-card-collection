@@ -35,7 +35,7 @@ the ramp|la ranpa
 to pray|rezar
 the wealth|la riqueza
 the priest (male)|el sacerdote
-the priest (female)|la sacerdotista
+the priest (female)|la sacerdotisa
 the shrine|el santuario
 to loot|saquear
 the grave, tomb|la sepultura
