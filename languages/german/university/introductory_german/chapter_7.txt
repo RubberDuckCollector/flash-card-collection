@@ -21,7 +21,7 @@ the change (context: cash money)|das Kleingeld
 the suitcase|der Koffer(-)
 the credit card|die Kreditkarte(n)
 the location|die Lage
-the nicht|die Nacht(¨e)
+the night|die Nacht(¨e)
 the number|die Nummer(n)
 the passport (starts with P)|der Pass(¨e)
 the passport (starts with R)|der Reisepass(¨e)
@@ -40,7 +40,7 @@ to pay attention, watch; watch out|aufpassen
 to write down|aufschreiben
 to get up|aufstehen
 to go out|ausgehen
-to shop|einkaufen
+to shop; to go shopping|einkaufen
 to get to know; meet|kennenlernen
 to leave; leave behind|lassen
 to bring with/along|mitbringen

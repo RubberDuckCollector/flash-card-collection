@@ -3,3 +3,101 @@ the reservation|die Reservierung(en)
 the dining car (on old trains)|der Speisewagen(-)
 not at all (2 words)|gar nicht
 by the way|übrigens
+the departure|die Abfahrt(en)
+the return address|der Absender(-)
+the arrival|die Ankunft(¨e)
+the card; postcard (starts with K)|die Karte(n)
+the picture postcard (starts with A)|die Ansichtskarte(n)
+the stopover, stay|der Aufenthalt(e)
+the railway; train (starts with B)|die Bahn(en)
+the platform (starts wtih B)|der Bahnsteig(e)
+the letter|der Brief(e)
+the mailbox|der Briefkasten(¨)
+the stamp|die Briefmarke(n)
+the village|das Dorf(¨er)
+the email|die E-Mail(s)
+the ticket|die Fahrkarte(¨e)
+the schedule (starts with F)|der Fahrplan(¨e)
+the trip, drive (starts with F)|die Fahrt(¨e)
+the flight|der Flug(¨e)
+the airport|der Flughafen(¨)
+the plane|das Flugzeug(e)
+the area, region (starts with G)|die Gegend(en)
+the history; story|die Geschichte(n)
+the track; train platform (starts with G)|das Gleis(e)
+the cell phone|das Handy(s)
+the round-trip ticket|die Hin- und Rückfahrkarte(n)
+the package, parcel|das Paket(e)
+the post office; mail|die Post
+the PO box|das Postfach(¨er)
+the zip code|Postleitzahl(en)
+the trip (starts with R)|die Reise(n)
+the counter, ticket window|der Schalter(-)
+the SMS|die SMS
+the telephone|das Telefon(e)
+the telephone card|die Telefonkarte(n)
+the area code|die Vorwahl(en)
+the car; railroad car (starts with W)|der Wagen
+the train (starts with Z)|der Zug(¨e)
+to leave, depart (from)|abfahren (von)
+to take off, fly (from)|abfliegen (von)
+to get off/out|aussteigen
+to describe|beschreiben
+to visit (starts with b)|besuchen
+to get on/in|einsteigen
+to tell (starts with e)|erzählen
+to be missing/lacking|fehlen
+to fly|fliegen
+to go/drive up to|hinauffahren
+to land|landen
+to send (starts with "sc")|schicken
+to call up, phone (starts with t)|telefonieren
+to change (e.g trains, etc.)|umsteigen
+to drive on, keep on driving|weiterfahren
+wonderful(ly), great (starts with h)|herrlich
+instead of (+ case)|(an)statt (+ gen.)
+in spite of (+ case)|trotz (+ gen.)
+during (+ case)|während (+ gen.)
+because of (+ case)|wegen (+ gen)
+evening (6-10 PM) (don't answer with article)|Abend
+at the beginning of the week|Anfang der Woche
+at the end of the week|Ende der Woche
+for one month|einen Monat
+one day, some day|eines Tages
+early, morning|früh, Morgen
+yesterday|gestern
+today|heute
+this morning|heute Morgen
+early today, earlier today|heute früh
+in three-quarters of an hour|in einer Dreiviertelstunde
+in half an hour|in einer halben Stunde
+in a quarter of an hour|in einer Virtelstunde
+yearly, annually|jährlich
+every day; each day|jeden Tag
+noon (12-2 PM)|Mittag
+in the middle of the month|Mitte des Monats
+monthly|monatlich
+Monday morning|montagmorgens
+Mondays|montags
+tomorrow|morgen
+mornings, in the morning (describes something habitual)|morgens
+tomorrow morning|morgen früh
+afternoon (2-6 PM)|Nachmittag
+night (after 10 PM)|Nacht
+daily (starts with t)|täglich
+the day after tomorrow|übermorgen
+the day before yesterday|vorgestern
+midmorning (9 AM - noon)|Vormittag
+weekly|wöchentlich
+for two weeks|zwei Wochen
+My goodness! (4 words)|Ach du meine Güte!
+I'm happy. (lit. "that pleases me")|Das freut mich.
+I'm happy for you.|Das freut mich für dich.
+It's all the same to me.|Das ist doch egal.
+That doesn't matter.|Das macht nichts.
+That's typical of you.|Das sieht dir ähnlich.
+Thank God!|Gott sei Dank!
+to go by train ("train" starts with Z)|mit dem Zug fahren
+to go by train ("train" starts with B)|mit der Bahn fahren
+So what?|Na und?
+whose?|wessen?
