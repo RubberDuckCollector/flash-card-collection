@@ -14,7 +14,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
 1. Create your flash card set on Quizlet if you haven't already.
 ![Step 1: Create your flash card set on Quizlet if you haven't already.](assets/step_1.png)
 ![](assets/step_1_2.png)
-1. To add one of these flash card sets to quizlet, click on the file.
+1. To add one of these flash card sets to quizlet, first click on the file.
 ![Step 2: To add one of these flash card sets to quizlet, click on the file."](assets/step_2.png)
 1. Click on the "copy raw file" button in the top right of the file viewer.
 ![Step 3: Click on the "copy raw file" button in the top right of the file viewer.](assets/step_3.png)
