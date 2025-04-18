@@ -52,7 +52,9 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - From AQA A Level Year 1 and AS German (ISBN: 978-0-19-836689-8)
         - A2:
             - From AQA A Level Year 2 German (ISBN: 978-0-19-836686-7)
-    - University: from Wie Geht's 10th edition
+    - University: 
+        - Year 1/2: from Wie Geht's 10th edition
+            - **If an adjective such as „letzt-” is written with a - on the end, it means you add the conjugation as necessary. E.g: „letzte Woche”**
 
 ## Spanish
 

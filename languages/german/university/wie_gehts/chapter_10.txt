@@ -1,0 +1,99 @@
+the beginning, start|der Anfang(¨e)
+the selection, choice (of)|die Auswahl (an)
+the author (male)|der Autor(en)
+the author (female)|die Autorin(nen)
+the ballet|das Ballett(s)
+the glance (at); view (of)|der Blick (in/auf)
+the citizen (male)|der Bürger(-)
+the citizen (female)|die Bürgerin(nen)
+the choir|der Chor(¨e)
+the end|das Ende
+the television (the medium)|das Fernsehen
+the film, movie (starts with F)|der Film(e)
+the painting|das Gemälde(-)
+the composer (male)|der Komponist(en)
+the composer (female)|die Komponistin(nen)
+the concert|das Konzert(e)
+the detective story|der Krimi(s)
+the art|die Kunst(¨e)
+the painter (male)|der Maler(-)
+the painter (female)|die Malerin(nen)
+the news (on radio, TV) (usually plural)|die Nachricht(en)
+the opera|die Oper(n)
+the orchestra|das Orchester(-)
+the intermission, break|die Pause(n)
+the TV/radio programming; TV channel|das Programm(e)
+the novel|der Roman(e)
+the actor (male)|der Schauspieler(-)
+the actor (female)|die Schauspielerin(nen)
+the (particular) program|die Sendung(en)
+the piece; (theatrical) play; piece of music or ballet|das Stück(e)
+the entertainment|die Unterhaltung
+the performance|die Vorstellung(en)
+the advertising|die Werbung
+the magazine|die Zeitschrift(en)
+the newspaper|die Zeitung(en)
+the spectator (male)|der Zuschauer(-)
+the spectator (female)|die Zuschauerin(nen)
+to start, begin|anfangen
+to get annoyed/upset about (has "über" after the word) (reflexive)|sich ärgern über
+to decide (for/against) (reflexive)|(sich) entscheiden (für/gegen)
+to tell about (+case)|erzählen von (+dat)
+to look forward to (has "auf" after the word) (reflexive)|sich freuen auf
+to think of, be of an opinion about (+case) (has "von" after the word) (starts with h)|halten von (+dat)
+to get, fetch (reflexive)|(sich) holen
+to inform oneself, find out about (reflexive)|sich informieren über
+to be interested in (has "für" after the word) (reflexive)|sich interessieren für
+to applaud|klatschen
+to smile (about)|lächeln (über)
+to write to|schreiben an
+to talk, speak, of/about (has "von/über" after the word)|sprechen von/über
+to prepare for (reflexive)|sich vorbereiten auf
+to forget|vergessen
+to wait for (has "auf" after the word)|warten auf
+to cry|weinen
+other|andere
+stupid(ly); silly (starts with d)|dumm
+some, a few (pl. only)|einige
+following|folgend-
+funny, comical; strange, odd|komisch
+boring|langweilig
+last|letzt-
+funny, with humour|lustig
+several (pl. only)|mehrere
+next|nächst-
+public(ly)|öffentlich
+private(ly)|privat
+exciting, suspenseful|spannend
+sad(ly) (starts with t)|traurig
+many|viele
+few (starts with w)|wenige
+for it/them|dafür
+against it/them|dagegen
+with it/them|damit
+after it/them|danach
+on it/them|darauf
+in it/them|darin
+above it/them; about it/them|darüber
+for what?|wofür?
+against what?|wogegen?
+with what?|womit?
+on what?|worauf?
+above what?; about what?|worüber?
+in the beginning|am Anfang
+at the end|am Ende
+That makes me mad.|Das ärgert mich.
+That's unbelievable/hard to believe!|Das ist doch unglaublich!
+That's crazy/awesome/unbelievable!|Das ist ja Wahnsinn!
+That's great!|Das ist klasse/spitze!
+That's really interesting!|Das ist unheimlich interessant!
+That's too long|Das ist zu lang
+about, approximately|etwa
+That's enough. I've had it.|Jetzt habe ich aber genug.
+No idea!|Keine Ahnung!
+All right.|Na gut.
+as well as|sowie
+mainly, especially, above all|vor allem
+recently|vor kurzem
+What's on the TV?|Was gibt's im Fernsehen?
+neither ... nor|weder ... noch

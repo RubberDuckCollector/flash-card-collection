@@ -1,0 +1,112 @@
+the arm|der Arm(e)
+the eye|das Auge(n)
+the stomach, belly|der Bauch(¨e)
+the leg|das Bein(e)
+the CD|die CD(s)
+the DVD|die DVD(s)
+the finger|der Finger(-)
+the foot|der Fuß(¨e)
+the football|der Fußball
+the face|das Gesicht(er)
+the guitar|die Gitarre(n)
+the hair|das Haar(e)
+the neck, throat|der Hals(¨e)
+the hobby|das Hobby(s)
+the idea|die Idee(n)
+the card|die Karte(n)
+the piano|das Klavier(e)
+the knee|das Knie(-)
+the head|der Kopf(¨e)
+the body|der Körper(-)
+the life|das Leben
+the mouth|der Mund(¨er)
+the music|die Musik
+the nose|die Nase(n)
+the ear|das Ohr(en)
+the back (anatomy)|der Rücken(-)
+the shoulder|die Schulter(n)
+the game|das Spiel(e)
+the sport; sports, athletics|der Sport
+the (paid) vacation; school holidays|der Urlaub
+the tooth|der Zahn(¨e)
+to fish|angeln
+to listen to (music, audio) (reflexive)|sich anhören
+to look at (colloquial) (reflexive)|sich anschauen
+to look at (reflexive)|sich ansehen
+to put on (clothing); to get dressed (reflexive)|sich anziehen
+to get changed (clothing) (reflexive)|sich umziehen
+to get undressed (reflexive)|sich ausziehen
+to bake|backen
+to take a bath|baden
+to hurry (reflexive)|sich beeilen
+to order for oneself (reflexive)|sich bestellen
+to blow one's nose (reflexive)|sich die Nase putzen
+to clean/brush one's teeth (reflexive)|sich die Zähne putzen
+to take a shower (reflexive)|sich duschen
+to relax (reflexive)|sich entspannen
+to recuperate (reflexive)|sich erholen
+to catch a cold (reflexive)|sich erkälten
+to experience|erleben
+to be lazy|faulenzen
+to watch TV|fernsehen
+to keep in shape (reflexive)|sich fit halten
+to take pictures|fotografieren
+to wonder (reflexive)|sich fragen
+to feel (well) (reflexive)|sich (wohl) fühlen
+to comb one's hair (reflexive)|sich kämmen
+to buy for oneself (reflexive)|sich kaufen
+to cook|kochen
+to cook for oneself (reflexive)|sich kochen
+to concentrate (reflexive)|sich konzentrieren
+to get/be bored (reflexive)|sich langweilen
+to lie down (reflexive)|sich (hin-)legen
+to paint|malen
+to take for oneself (reflexive)|sich nehmen
+to bicycle, bike|Rad fahren
+to shave (reflexive)|sich rasieren
+to collect|sammeln
+to play chess|Schach spielen
+to swim|schwimmen
+to go swimming|schwimmen gehen
+to see oneself|sich sehen
+to sit down (reflexive)|sich (hin-)setzen
+to ski|Ski laufen
+to go skiing|Ski laufen gehen
+to go for a walk (lit. "walking")|spazieren gehen
+to engage in sports|Sport treiben
+to meet, get together; bump into|treffen
+to meet, gather (reflexive)|sich treffen
+to prefer|vorziehen
+to hike|wandern
+to wash oneself (reflexive)|sich waschen
+to wish for oneself (reflexive)|sich wünschen
+other, different|ander-
+different(ly)|anders
+popular (lit. "beloved") (starts with b)|beliebt
+fantastic, great, super|fantastisch
+whole, entire(ly), total(ly), all|ganz
+healthy, healthily|gesund
+sick, ill|krank
+Oh, I see.|Ach so.
+others|andere
+the others|die anderen
+See you soon! (lit. ES: "¡Hasta pronto!")|Bis bald!
+See you in a few minutes!|Bis gleich!
+after that, then (starts with d)|danach
+something different|etwas anderes
+something totally different|etwas ganz anderes
+like (starts with w)|wie
+just like|genauso wie
+Yes, sure.|Ja, sicher.
+to feel like (doing something)|Lust haben zu...
+I feel like playing...|Ich habe Lust, ... zu spielen.
+I don't feel like playing...|Ich habe keine Lust, ... zu spielen.
+No that won't work (today)|Nein, das geht (heute) nicht.
+nothing special|nichts Besonderes
+to have pain, hurt|Schmerzen haben
+I have an ache.|Ich habe Schmerzen.
+I have a headache.|Ich habe Kopfschmerzen.
+Whats the matter? What's going on?|Was ist (denn) los?
+to hurt (separable verb)|wehtun
+My throat hurts/I have a sore throat.|Mir tut der Hals weh.
+first (starts with z)|zuerst

@@ -80,7 +80,7 @@ the celebration (starts with Fei)|die Feier
 the celebration (starts with Fes)|die Festlichkeit(en)
 the prayer|das Gebet(e)
 the spirits (pl)|die Geister
-exact, exactly (starts with g)|genau
+exact(ly) (starts with g)|genau
 the bell|die Glocke(n)
 holy|heilig
 the horn, klaxon|die Hupe(n)
@@ -118,7 +118,7 @@ newborn (adjective)|neugeboren
 the earrings (pl)|die Ohrringe
 the turkey|die Pute(n)
 to give (a gift)|schenken
-the drinks party (literally: standing party)|die Steh-Party
+the drinks party (lit. standing party)|die Steh-Party
 the star|der Stern(e)
 to present, to hand over|übergeben
 surprising|überraschend

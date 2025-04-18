@@ -15,7 +15,7 @@ informed|informiert
 the content|der Inhalt(e)
 to communicate|kommunizieren
 to control|kontrollieren
-free of charge (starts with k, literally: "costless")|kostenlos
+free of charge (starts with k, lit. "costless")|kostenlos
 mostly, usually (starts with m)|meist
 to misuse, to abuse|missbrauchen
 the misunderstanding|das Missverstädnis(se)
@@ -25,7 +25,7 @@ the password|das Passwort(¨er)
 embarrasing (looks like "painful")|peinlich
 private|privat
 the piece of advice|der Ratschlag(¨e)
-regular, regularly|regelmäßig
+regular(ly)|regelmäßig
 24/7|rund um die Uhr
 all around the world|rund um die Welt
 to send (start with s)|schicken
