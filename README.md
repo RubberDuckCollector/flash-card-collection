@@ -1,6 +1,6 @@
 <!-- vim-markdown-toc GFM -->
 
-    * [Flash cards](#flash-cards)
+* [Flash cards](#flash-cards)
 * [How to add one of these flash card sets to Quizlet Tutorial](#how-to-add-one-of-these-flash-card-sets-to-quizlet-tutorial)
 * [Languages](#languages)
     * [Dutch](#dutch)
@@ -11,7 +11,7 @@
 
 <!-- vim-markdown-toc -->
 
-## Flash cards
+# Flash cards
 
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders) This Github repo will be more up-to-date though.
 
