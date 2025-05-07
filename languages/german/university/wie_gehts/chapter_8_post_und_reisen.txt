@@ -30,7 +30,7 @@ the round-trip ticket|die Hin- und Rückfahrkarte(n)
 the package, parcel|das Paket(e)
 the post office; mail|die Post
 the PO box|das Postfach(¨er)
-the zip code|Postleitzahl(en)
+the zip code, post code|die Postleitzahl(en)
 the trip (starts with R)|die Reise(n)
 the counter, ticket window|der Schalter(-)
 the SMS|die SMS
@@ -41,10 +41,10 @@ the car; railroad car (starts with W)|der Wagen
 the train (starts with Z)|der Zug(¨e)
 to leave, depart (from)|abfahren (von)
 to take off, fly (from)|abfliegen (von)
-to get off/out|aussteigen
+to get off/out (separable verb)|aussteigen
 to describe|beschreiben
 to visit (starts with b)|besuchen
-to get on/in|einsteigen
+to get on/in (separable verb)|einsteigen
 to tell (starts with e)|erzählen
 to be missing/lacking|fehlen
 to fly|fliegen
@@ -52,8 +52,8 @@ to go/drive up to|hinauffahren
 to land|landen
 to send (starts with "sc")|schicken
 to call up, phone (starts with t)|telefonieren
-to change (e.g trains, etc.)|umsteigen
-to drive on, keep on driving|weiterfahren
+to change (e.g trains, etc.) (separable verb)|umsteigen
+to drive on, keep on driving (separable verb)|weiterfahren
 wonderful(ly), great (starts with h)|herrlich
 instead of (+ case)|(an)statt (+ gen.)
 in spite of (+ case)|trotz (+ gen.)
