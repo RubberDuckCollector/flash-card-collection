@@ -39,8 +39,8 @@ the telephone card|die Telefonkarte(n)
 the area code|die Vorwahl(en)
 the car; railroad car (starts with W)|der Wagen
 the train (starts with Z)|der Zug(¨e)
-to leave, depart (from)|abfahren (von)
-to take off, fly (from)|abfliegen (von)
+to leave, depart (from) (separable verb)|abfahren (von)
+to take off, fly (from) (separable verb)|abfliegen (von)
 to get off/out (separable verb)|aussteigen
 to describe|beschreiben
 to visit (starts with b)|besuchen

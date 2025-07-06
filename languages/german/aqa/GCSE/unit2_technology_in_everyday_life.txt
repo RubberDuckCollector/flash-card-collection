@@ -31,13 +31,13 @@ all around the world|rund um die Welt
 to send (start with s)|schicken
 to protect (starts with s)|schützen
 sure, safe, secure|sicher
-the text|die SMS
+the SMS text|die SMS
 the nickname|der Spitzname(n)
 every day, daily|täglich
 unknown|unbekannt
 inexperienced|unerfahren
 various, different|verschieden
-careful (starts with v)|vorsichtig
+careful (adjective) (starts with v)|vorsichtig
 the character (in text)|das Zeichen(-)
 to destroy|zestören
 the purpose (starts with z)|der Zweck(e)

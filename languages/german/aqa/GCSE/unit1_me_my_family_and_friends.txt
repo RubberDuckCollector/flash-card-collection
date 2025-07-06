@@ -1,5 +1,5 @@
 to get on with (2 words)|auskommen mit
-to look like, to appear (1 word)|aussehen
+to look like, to appear (1 word) (separable verb)|aussehen
 both|beide
 to describe|beschreiben
 the cousin (male)|der Cousin(s)
@@ -96,7 +96,7 @@ against, opposed to something (starts with d)|dagegen
 to last (starts with d)|dauern
 the married couple|das Ehepaar(e)
 honest|ehrlich
-to wait, to expect|erwarten
+to wait, to expect (starts with e)|erwarten
 to look forward to (reflexive)|sich freuen auf
 patient|geduldig
 the society|die Gesellschaft(en)

@@ -2,3 +2,4 @@ to withraw|abheben
 included (context: hotel breakfast) (starts with i)|inbegriffen
 the day off (starts with R)|Ruhetag
 similar to (starts with ä)|ähnlich wie
+open to ... (e.g "open to new ideas") (starts with ö)|öffen für ...

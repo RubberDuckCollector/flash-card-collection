@@ -1,7 +1,7 @@
 <!-- vim-markdown-toc GFM -->
 
 * [Flash cards](#flash-cards)
-* [How to add one of these flash card sets to Quizlet Tutorial](#how-to-add-one-of-these-flash-card-sets-to-quizlet-tutorial)
+* [How to add one of these flash card sets to Quizlet](#how-to-add-one-of-these-flash-card-sets-to-quizlet)
 * [Languages](#languages)
     * [Dutch](#dutch)
     * [German](#german)
@@ -22,7 +22,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 **If you find an error, submit a pull request and I'll try to figure out how that works and fix the error**
 
-# How to add one of these flash card sets to Quizlet Tutorial
+# How to add one of these flash card sets to Quizlet
 
 1. Create your flash card set on Quizlet if you haven't already.
 ![Step 1: Create your flash card set on Quizlet if you haven't already.](assets/step_1.png)
@@ -99,6 +99,6 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 <details>
     <summary>Technical note:</summary>
-    I didn't use JSON to store the flash cards because the <code>term|definition</code> is sufficient, and it's so simple it's easily machine-readable by simple program code.
-    It's also quicker to write the flash cards in this format, and I could make vim remaps to easily find the | and put extra data in the flash card with just 1 keystroke; <code>(reflexive)</code> and <code>(starts with <letter>)</code>. Writing with remaps and vim is much quicker than on the quizlet webiste at least
+    I didn't use JSON to store the flash cards because the <code>term|definition</code> is sufficient imo
+    It's also quicker to write the flash cards in this format, and I could make vim remaps (easier and quicker than with json at my skill level) to find the | and put extra data in the flash card with just 1 keystroke; <code>(reflexive)</code> and <code>(starts with <letter>)</code>. Writing with remaps and vim is much quicker than on the quizlet webiste at least
 </details>
