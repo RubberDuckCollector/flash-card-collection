@@ -1,0 +1,93 @@
+the advertisement (starts with A)|die Anzeige(n)
+the relationship (starts with B)|die Beziehung(en)
+the marriage|die Ehe(n)
+the attribute, characteristic (starts with E)|die Eigenschaft(en)
+the friendship|die Freundschaft
+the gold|das Gold
+the wedding|die Hochzeit(en)
+the dog|der Hund(e)
+the cat|die Katze(n)
+the king|der König(e)
+the queen|die Königin(nen)
+the love|die Liebe
+the fariy tale|das Märchen(-)
+the partner (male)|der Partner(-)
+the partner (female)|die Partnerin(nen)
+the horse|das Pferd(e)
+the divorce|die Scheidung(en)
+the animal|das Tier(e)
+the trust (confidence in someone)|das Vertrauen
+the bird|der Vogel(¨)
+the world|die Welt(en)
+the wist|der Wunsch(¨e)
+to invite (separable verb)|einladen
+to happen (starts with g)|geschehen
+to marry, get married (to)|heiraten
+to enter, come in (separable verb)|hereinkommen
+to think, be of the opinion (starts with m)|meinen
+to happen (starts with p)|passieren
+to spin|spinnen
+to jump|springen
+to die|sterben
+to dream (of, about) (has "von" after the word)|träumen (von)
+to compare (starts with v)|vergleichen
+to fall in love (with) (reflexive) (has "in" after the word)|sich verlieben (in)
+to lose|verlieren
+to get engaged (to) (reflexive) (has "mit" after the word)|sich verloben (mit)
+to promise|versprechen
+to try|versuchen
+alone|allein
+poor|arm
+attractive|attraktiv
+charming|charmant
+stupid (starts with d)|dumm
+honest|ehrlich
+dishonest|unerlich
+serious|ernst
+lazy|faul
+industrious|fleißig
+friendly|fruendlich
+unfriendly|unfruendlich
+glad, happy (starts with f)|froh
+educated|gebildet
+uneducated|ungebildet
+patient|geduldig
+impatient|ungeduldig
+divorced|geschieden
+happy (starts with g)|glücklich
+unhappy (starts with g)|unglücklich
+good-looking|gut aussehend
+ugly|hässlich
+pretty|hübsch
+intelligent|ingelligent
+young|jung
+complicated|kompliziert
+uncomplicated|unkompliziert
+single (starts with lowercase L)|ledig
+kind, good|lieb
+funny (used to describe a person)|lustig
+musical|musikalisch
+not musical|unmusikalisch
+nice (used to describe people)|nett
+rich, wealthy|reich
+chic, stylish; neat|schick
+slim, slender|schlank
+awful (starts with "schr")|schrecklich
+independent; self-employed|selbständig
+dependent|unselbständig
+athletic|sportlich
+unathletic|unsportlich
+sweet; cute (starts with s)|süß
+congenial, likable|sympathisch
+uncongenial, unlikable|unsympathisch
+talented|talentiert
+untalented|untalentiert
+married|verheiratet
+unmarried|unverheiratet
+in love (with)|verliebt (in)
+engaged (to)|verlobt (mit)
+versatile|vielseitig
+full|voll
+affectionate|zärtlich
+reliable|zuverlässig
+unreliable|unzuverlässig
