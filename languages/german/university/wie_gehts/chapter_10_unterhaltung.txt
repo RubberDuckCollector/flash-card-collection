@@ -1,5 +1,5 @@
 the beginning, start|der Anfang(¨e)
-the selection, choice (of)|die Auswahl (an)
+the selection, choice (of) (has "an" after the word) (starts with A)|die Auswahl (an)
 the author (male)|der Autor(en)
 the author (female)|die Autorin(nen)
 the ballet|das Ballett(s)
@@ -9,72 +9,76 @@ the citizen (female)|die Bürgerin(nen)
 the choir|der Chor(¨e)
 the end|das Ende
 the television (the medium)|das Fernsehen
-the film, movie (starts with F)|der Film(e)
-the painting|das Gemälde(-)
+the film, movie|der Film(e)
+the painting (starts with G)|das Gemälde(-)
 the composer (male)|der Komponist(en)
 the composer (female)|die Komponistin(nen)
 the concert|das Konzert(e)
 the detective story|der Krimi(s)
 the art|die Kunst(¨e)
-the painter (male)|der Maler(-)
-the painter (female)|die Malerin(nen)
-the news (on radio, TV) (usually plural)|die Nachricht(en)
+the painter (artist) (male)|der Maler(-)
+the painter (artist) (female)|die Malerin(nen)
+the news (on radio and TV; usually pl.)|die Nachricht(en)
 the opera|die Oper(n)
 the orchestra|das Orchester(-)
 the intermission, break|die Pause(n)
-the TV/radio programming; TV channel|das Programm(e)
+the (general) programming; TV channel|das Programm(e)
 the novel|der Roman(e)
 the actor (male)|der Schauspieler(-)
 the actor (female)|die Schauspielerin(nen)
 the (particular) program|die Sendung(en)
 the piece; (theatrical) play; piece of music or ballet|das Stück(e)
 the entertainment|die Unterhaltung
-the performance|die Vorstellung(en)
-the advertising|die Werbung
+the performance (starts with V)|die Vorstellung(en)
+the advertising; advert|die Werbung
 the magazine|die Zeitschrift(en)
 the newspaper|die Zeitung(en)
 the spectator (male)|der Zuschauer(-)
 the spectator (female)|die Zuschauerin(nen)
-to start, begin|anfangen
-to get annoyed/upset about (has "über" after the word) (reflexive)|sich ärgern über
-to decide (for/against) (reflexive)|(sich) entscheiden (für/gegen)
-to tell about (+case)|erzählen von (+dat)
+to start; begin (starts with a)|anfangen
+to get annoyed / upset about (has "über" after the word) (reflexive)|sich ärgern über
+to think about, of (starts with d) (has "an" after the word)|denken an
+to decide for (has "für" after the word) (reflexive)|(sich) entscheiden für
+to decide against (has "gegen" after the word) (reflexive)|(sich) entscheiden gegen
+to tell about (has "von" after the word)|erzählen von
 to look forward to (has "auf" after the word) (reflexive)|sich freuen auf
-to think of, be of an opinion about (+case) (has "von" after the word) (starts with h)|halten von (+dat)
+to think of, be of an opinion about (starts with h) (has "von" after the word)|halten von
 to get, fetch (reflexive)|(sich) holen
-to inform oneself, find out about (reflexive)|sich informieren über
+to inform oneself, find out about (starts with i) (has "über" after the word) (reflexive)|sich informieren über
 to be interested in (has "für" after the word) (reflexive)|sich interessieren für
 to applaud|klatschen
-to smile (about)|lächeln (über)
-to write to|schreiben an
-to talk, speak, of/about (has "von/über" after the word)|sprechen von/über
-to prepare for (reflexive)|sich vorbereiten auf
+to smile (about) (has "über" after the word)|lächeln (über)
+to laugh|lachen
+to write to (has "an" after the word)|schreiben an
+to talk, speak of (has "von" after the word)|sprechen von
+to talk, speak about (has "über" after the word)|sprechen über
+to prepare for (has "auf" after the word) (separable verb) (reflexive)|sich vorbereiten auf
 to forget|vergessen
 to wait for (has "auf" after the word)|warten auf
 to cry|weinen
-other|andere
+other (ends with e)|andere
 stupid(ly); silly (starts with d)|dumm
-some, a few (pl. only)|einige
+some, a few (pl. only) (starts with e)|einige
 following|folgend-
-funny, comical; strange, odd|komisch
+funny, comical; strange, odd (starts with k)|komisch
 boring|langweilig
 last|letzt-
-funny, with humour|lustig
-several (pl. only)|mehrere
+funny, with humour (starts with lowercase L)|lustig
+several (pl. only) (starts with m)|mehrere
 next|nächst-
 public(ly)|öffentlich
 private(ly)|privat
-exciting, suspenseful|spannend
+exciting, suspenseful (starts with s)|spannend
 sad(ly) (starts with t)|traurig
 many|viele
-few (starts with w)|wenige
-for it/them|dafür
-against it/them|dagegen
-with it/them|damit
-after it/them|danach
-on it/them|darauf
-in it/them|darin
-above it/them; about it/them|darüber
+few|wenige
+for it / them|dafür
+against it / them|dagegen
+with it / them|damit
+after it / them|danach
+on it / them|darauf
+in it / them|darin
+above it / them; about it / them|darüber
 for what?|wofür?
 against what?|wogegen?
 with what?|womit?
@@ -83,17 +87,19 @@ above what?; about what?|worüber?
 in the beginning|am Anfang
 at the end|am Ende
 That makes me mad.|Das ärgert mich.
-That's unbelievable/hard to believe!|Das ist doch unglaublich!
-That's crazy/awesome/unbelievable!|Das ist ja Wahnsinn!
-That's great!|Das ist klasse/spitze!
-That's really interesting!|Das ist unheimlich interessant!
-That's too long|Das ist zu lang
-about, approximately|etwa
+That's unbelievable!|Das ist doch unglaublich!
+unbelievable|unglaublich
+That's crazy / awesome / unbelievable! (the last word starts with W)|Das ist ja Wahnsinn!
+(the thing that is) crazy / awesome / unbelievable (starts with w)|Wahnsinn
+great (starts with k)|klasse
+great (starts with s)|spitze
+really interesting|unheimlich interessant
+about, approximately (starts with e)|etwa
 That's enough. I've had it.|Jetzt habe ich aber genug.
 No idea!|Keine Ahnung!
 All right.|Na gut.
-as well as|sowie
+as well as (starts with s)|sowie
 mainly, especially, above all|vor allem
-recently|vor kurzem
+recently (2 words)|vor kurzem
 What's on the TV?|Was gibt's im Fernsehen?
 neither ... nor|weder ... noch
