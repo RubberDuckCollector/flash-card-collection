@@ -17,7 +17,7 @@ the trousers|die Hose(n)
 the jacket|die Jacke(n)
 the year|das Jahr(e)
 the season|die Jahreszeit(en)
-the jeans (this is already plural)|die Jeans
+the jeans (pl.)|die Jeans
 the dress|das Kleid(er)
 the clothing|die Kleidung
 the chalk|die Kreide(n)

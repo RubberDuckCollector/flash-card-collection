@@ -17,7 +17,7 @@ the dresser|die Kommode(n)
 the kitchen|die Küche(n)
 the refrigerator|der Kühlschrank(¨e)
 the lamp|die Lampe(n)
-the furniture (plural by default)|die Möbel
+the furniture (pl. by default)|die Möbel
 the problem|das Problem(e)
 the radio|das Radio(s)
 the shelf; bookcase|das Regal(e)
@@ -50,7 +50,7 @@ to lay (mean. to lie down/be lying)|liegen
 to rent|mieten
 to set something down, put (something down on a surface)|setzen
 to sit (mean. be sitting)|sitzen
-to sit down (go from standing to sitting) (reflexive)|sich sitzen
+to sit down (go from standing to sitting) (reflexive)|sich setzen
 to save|sparen
 to stand (mean. be standing)|stehen
 to stand something up, to put something up|stellen

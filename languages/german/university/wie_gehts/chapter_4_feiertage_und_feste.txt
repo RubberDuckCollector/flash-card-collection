@@ -2,7 +2,7 @@ the calendar date|das Datum
 the calendar dates|die Daten
 the celebration|die Feier(n)
 the holiday|der Feiertag(e)
-the vacation (this is plural) (starts with F)|die Ferien
+the vacation (pl.) (starts with F)|die Ferien
 the fest, festival|das Fest(e)
 the birthday|der Geburtstag(e)
 the present, gift|das Geschenk(e)
