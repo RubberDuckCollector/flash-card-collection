@@ -48,8 +48,9 @@ to lay something down, put something flat|legen
 to love|lieben
 to lay (mean. to lie down/be lying)|liegen
 to rent|mieten
-to set something down, put something down (on a surface)|setzen
-to sit down (mean. be sitting)|sitzen
+to set something down, put (something down on a surface)|setzen
+to sit (mean. be sitting)|sitzen
+to sit down (go from standing to sitting) (reflexive)|sich sitzen
 to save|sparen
 to stand (mean. be standing)|stehen
 to stand something up, to put something up|stellen
