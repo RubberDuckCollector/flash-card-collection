@@ -34,7 +34,7 @@ to cover the costs|die Kosten decken
 to come into effect (3 words)|in Kraft treten
 the achievement|die Leistung(en)
 the member state|der Mitgliedsstaat(en)
-the post-war years (this is plural)|die Nachkriegsjahre
+the post-war years (pl.)|die Nachkriegsjahre
 to settle (reflexive)|sich niederlassen
 the sacrifice, victim|das Opfer(-)
 the percentage|der Prozentsatz(¨e)
@@ -56,7 +56,7 @@ to strengthen|verstärken
 the treaty|der Vertrag(¨e)
 the variety|die Vielfalt
 the currency|die Währung(en)
-the goods (this is plural)|die Waren
+the goods (pl.)|die Waren
 to point to |weisen auf
 the economy|die Wirtschaft(en)
 the economic power|die Wirtschaftsmacht(¨e)
@@ -160,7 +160,7 @@ Latvia|Lettland
 Lithuania|Litauen
 the wage|der Lohn(¨e)
 the human trafficking|der Menschenhandel
-the human rights (this is plural)|die Menschenrechte
+the human rights (pl.)|die Menschenrechte
 the minority|die Minderheit(en)
 to abuse|missbrauchen
 the economist (starts with Ö) (male)|der Ökonom(en)

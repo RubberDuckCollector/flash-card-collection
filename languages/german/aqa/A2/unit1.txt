@@ -1,5 +1,5 @@
 to recognise|anerkennen
-the relatives (this is plural)|die Angehörigen
+the relatives (pl.)|die Angehörigen
 appropriate|angemessen
 to rise|ansteigen
 the asylum seeker (pejorative) (male)|der Asylant(en)
@@ -33,7 +33,7 @@ the flood|die Flut(en)
 in demand|gefragt
 even(ly)|gleichmäßig
 the globalisation|die Globalisierung
-the basic knowledge (this is plural)|die Grundkenntnisse
+the basic knowledge (pl.)|die Grundkenntnisse
 the challenge|die Herausforderung(en)
 the country of origin|das Herkunftsland(¨er)
 majority/largely (adjective)|mehrheitlich
@@ -136,7 +136,7 @@ to check, control|eindämmen
 to fight for, support (reflexive)|sich einsetzen
 the relief (of the strain)|die Entlastung(en)
 decisive|entscheidend
-the skilled/qualified workers (this is plural)|die Fachräfte
+the skilled/qualified workers (pl.)|die Fachräfte
 fiscal|fiskalisch
 to support, promote|fördern
 the formula|die Formel(n)

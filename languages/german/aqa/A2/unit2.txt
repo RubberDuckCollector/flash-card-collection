@@ -7,7 +7,7 @@ the exclusion|die Ausgrenzung(en)
 the department dealing with foreigners|die Ausländerbehörde(n)
 the meeting, encounter (starts with B)|die Begegnung(en)
 to be enthusiastic about (+ case) (reflexive)|sich begeistern für (+ acc)
-the authorities (this is plural)|die Behörde
+the authorities (pl.)|die Behörde
 the advice|die Beratung(en)
 to take into consideration|berücksichtigen
 involving citizens working together|bürgerschaftlich
@@ -27,7 +27,7 @@ the prevention of violence|die Gewaltprävention(en)
 to have a look, check|(nach)gucken
 the country of origin|das Herkunftsland(¨er)
 to start up (3 words)|ins Leben rufen
-the measures (this is plural)|die Maßnahmen
+the measures (pl.)|die Maßnahmen
 the migration background|der Migrationshintergrund(¨e)
 the demand (starts with N)|der Nachfrage(n)
 the new arrival|der Neuankömmling(e)
@@ -45,7 +45,7 @@ to have at one's disposal (3 words)|zur Verfügung haben
 to familiarise oneself with (reflexive)|sich vertraut machen mit
 the completion (starts with V)|die Vervollständigung(en)
 the international understanding between nations|die Völkerverständigung(en)
-the values (this is plural)|die Werte
+the values (pl.)|die Werte
 the competition (starts with W)|die Wettbewerb(e)
 competitive|wettbewerbsfähig
 the economy (starts with W)|die Wirtschaft(en)
@@ -164,7 +164,7 @@ to attack (starts with ü)|überfallen
 when dealing with (3 words)|im Umgang mit
 to take by surprise, knock down (starts with u)|umhauen
 controversial (starts with u)|umstritten
-the documents (this is plural)|die Unterlagen
+the documents (pl.)|die Unterlagen
 the need for support or benefits|der Unterstützungsbedarf
 originally (starts with u)|ursprünglich
 the origin (starts with U)|der Ursprung(¨e)

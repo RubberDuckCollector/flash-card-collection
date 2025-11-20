@@ -140,7 +140,7 @@ the bricklayer (male)|der Mauer(-)
 the bricklayer (female)|die Mauerin(nen)
 the majority|die Mehrheit
 human (adjective)|menschlich
-the furniture (this is plural)|die Möbel
+the furniture (pl.)|die Möbel
 the cabinetmaker (male)|der Möbelschreiner(-)
 the cabinetmaker (female)|die Möbelschreinerin(nen)
 true to nature|naturgetreu
@@ -156,7 +156,7 @@ increasing|steigend
 the electricity network|das Stromnetz
 the study trip|der Studienaufenhalt(e)
 to be active (2 words)|tätig sein
-the oppressed (e.g the oppressed people) (this is plural)|die Unterdrückten
+the oppressed (e.g the oppressed people) (pl.)|die Unterdrückten
 to come to terms with, work through|verarbeiten
 the past (starts with V)|die Vergangenheit
 the loss (starts with "Ve")|der Verlust(e)

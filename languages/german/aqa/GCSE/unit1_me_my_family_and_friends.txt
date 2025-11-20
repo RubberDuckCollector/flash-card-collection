@@ -16,7 +16,7 @@ divorced|geschieden
 there is/there are|es gibt
 to be lucky (2 words)|Glück haben
 happy (starts with g)|glücklich
-the grandparents (this is plural)|die Großeltern
+the grandparents (pl.)|die Großeltern
 the grandmother|die Großmutter(¨)
 the grandfather|der Großvater(¨)
 each, every|jeder, jede, jedes

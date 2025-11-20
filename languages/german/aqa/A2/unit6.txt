@@ -36,7 +36,7 @@ to not believe one's ears|seinen Ohren nicht trauen
 the centrally-planned economy|die Planwirtschaft(en)
 the speech|die Rede(n)
 the huge event|das Risenereignis(se)
-the security forces (this is plural)|die Sicherheitskräfte
+the security forces (pl.)|die Sicherheitskräfte
 the informer (starts with S)|der Spitzel(-)
 the enemy of the state|der Staatsfeind(e)
 the secret police (in the GDR)|die Stasi (Staatssicherheit)
@@ -79,8 +79,8 @@ independent|eigenständig
 to integrate|eingliedern
 to be/form a unity|eine Einheit bilden
 to become true|in Erfüllung gehen
-the celebrations (this is plural)|die Feierlichkeiten
-the tears of joy (this is plural)|die Freudentränen
+the celebrations (pl.)|die Feierlichkeiten
+the tears of joy (pl.)|die Freudentränen
 the opposite sex|das andere Geschlecht
 the total picture|das Gesamtbild
 the border|die Grenze(n)
@@ -150,7 +150,7 @@ the manor house|das Herrenhaus(¨er)
 the lover of islands|der Inselliebhaber(-)
 the chalk cliff|der Kreidefels(en)
 the government of each federal state|die Landesregierung(en)
-the compatriots (this is plural)|die Landsleute
+the compatriots (pl.)|die Landsleute
 to be fed up (4 words)|die Nase voll haben
 the agricultural/industrial collective of workers|die Patenbrigade(n)
 the organisation for young people in the GDR|die Pioniere

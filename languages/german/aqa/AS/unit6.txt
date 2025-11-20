@@ -97,7 +97,7 @@ the effect of alienating the audience|der Verfremdungseffekt(e)
 the past|die Vergangenheit(en)
 the curtain|der Vorhang(¨e)
 the spectator|der Zuschauer(-)
-the listeners (this is plural)|die Zuhörer
+the listeners (pl.)|die Zuhörer
 the foreigner (male)|der Ausländer(-)
 the foreigner (female)|die Ausländerin(nen)
 the xenofobia|die Ausländerfeindlichkeit
@@ -138,7 +138,7 @@ predominantly|überwiegend
 the relationship|das Verhältnis(se)
 to come to an understanding (reflexive)|sich verständigen
 the trust (reflexive)|das Vertrauen(-)
-the ancestors (this is plural)|die Vorfahren
+the ancestors (pl.)|die Vorfahren
 the prejudice|das Vorurteil(e)
 to overcome prejudices|Vorurteile abbauen
 to enjoy oneself, feel at ease/happy (reflexive)|sich wohlfühlen
