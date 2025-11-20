@@ -35,7 +35,7 @@ the magazine|die Zeitschrift(en)
 the newspaper|die Zeitung(en)
 the spectator (male)|der Zuschauer(-)
 the spectator (female)|die Zuschauerin(nen)
-to start; begin (starts with a)|anfangen
+to start; begin (starts with a) (separable verb)|anfangen
 to get annoyed / upset about (has "über" after the word) (reflexive)|sich ärgern über
 to think about, of (starts with d) (has "an" after the word)|denken an
 to decide for (has "für" after the word) (reflexive)|(sich) entscheiden für
@@ -89,11 +89,11 @@ at the end|am Ende
 That makes me mad.|Das ärgert mich.
 That's unbelievable!|Das ist doch unglaublich!
 unbelievable|unglaublich
-That's crazy / awesome / unbelievable! (the last word starts with W)|Das ist ja Wahnsinn!
-(the thing that is) crazy / awesome / unbelievable (starts with w)|Wahnsinn
+That's crazy / awesome / unbelievable! (last word starts with W)|Das ist ja Wahnsinn!
+(the thing that is) crazy / awesome / unbelievable (starts with W)|Wahnsinn
 great (starts with k)|klasse
-great (starts with s)|spitze
-really interesting|unheimlich interessant
+great (starts with "sp")|spitze
+really interesting (1st word starts with u)|unheimlich interessant
 about, approximately (starts with e)|etwa
 That's enough. I've had it.|Jetzt habe ich aber genug.
 No idea!|Keine Ahnung!
