@@ -19,7 +19,7 @@ the animal|das Tier(e)
 the trust (confidence in someone)|das Vertrauen
 the bird|der Vogel(¨)
 the world|die Welt(en)
-the wist|der Wunsch(¨e)
+the wish|der Wunsch(¨e)
 to invite (separable verb)|einladen
 to happen (starts with g)|geschehen
 to marry, get married (to)|heiraten
@@ -42,12 +42,12 @@ attractive|attraktiv
 charming|charmant
 stupid (starts with d)|dumm
 honest|ehrlich
-dishonest|unerlich
+dishonest|unehrlich
 serious|ernst
 lazy|faul
 industrious|fleißig
-friendly|fruendlich
-unfriendly|unfruendlich
+friendly|freundlich
+unfriendly|unfreundlich
 glad, happy (starts with f)|froh
 educated|gebildet
 uneducated|ungebildet
@@ -55,11 +55,11 @@ patient|geduldig
 impatient|ungeduldig
 divorced|geschieden
 happy (starts with g)|glücklich
-unhappy (starts with g)|unglücklich
+unhappy (starts with "ung")|unglücklich
 good-looking|gut aussehend
 ugly|hässlich
 pretty|hübsch
-intelligent|ingelligent
+intelligent|intelligent
 young|jung
 complicated|kompliziert
 uncomplicated|unkompliziert
@@ -84,7 +84,7 @@ talented|talentiert
 untalented|untalentiert
 married|verheiratet
 unmarried|unverheiratet
-in love (with)|verliebt (in)
+in love (with) (has "in" after the word)|verliebt (in)
 engaged (to)|verlobt (mit)
 versatile|vielseitig
 full|voll
