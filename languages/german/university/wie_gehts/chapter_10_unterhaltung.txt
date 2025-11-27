@@ -92,7 +92,7 @@ unbelievable|unglaublich
 That's crazy / awesome / unbelievable! (last word starts with W)|Das ist ja Wahnsinn!
 (the thing that is) crazy / awesome / unbelievable (starts with W)|Wahnsinn
 great (starts with k)|klasse
-great (starts with "sp")|spitze
+great (starts with "spi")|spitze
 really interesting (1st word starts with u)|unheimlich interessant
 about, approximately (starts with e)|etwa
 That's enough. I've had it.|Jetzt habe ich aber genug.
