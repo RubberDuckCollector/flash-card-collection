@@ -9,7 +9,7 @@
         * [Spanish](#spanish)
         * [Japanese](#japanese)
 * [Stem](#stem)
-* [Computer Science](#computer-science)
+    * [Computer Science](#computer-science)
 
 <!-- vim-markdown-toc -->
 
@@ -93,7 +93,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 # Stem
 
-# Computer Science
+## Computer Science
 
 - GCSE:
     - From OCR GCSE Computer Science 9-1 J277
