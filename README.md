@@ -6,8 +6,8 @@
     * [Languages](#languages)
         * [Dutch](#dutch)
         * [German](#german)
-        * [Spanish](#spanish)
         * [Japanese](#japanese)
+        * [Spanish](#spanish)
 * [Stem](#stem)
     * [Computer Science](#computer-science)
 
@@ -73,6 +73,11 @@ For my own version of this that redoes quizlet write in my own style, check out 
         - Year 1/2: from Wie Geht's 10th edition
             - **If an adjective such as „letzt-” is written with a - on the end, it means you add the conjugation as necessary. E.g: „letzte Woche”**
 
+### Japanese
+- Flash cards:
+    - From the Marugoto textbooks
+    - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
+
 ### Spanish
 
 - Flash cards:
@@ -85,11 +90,6 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - From AQA A Level Year 2 Spanish (ISBN: 978-0-19-836687-4)
             - Réquiem cards slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
                 - **note: these spanish words are from the 30s and some are archaic (or at least may have old spelling)**
-
-### Japanese
-- Flash cards:
-    - From the Marugoto textbooks
-    - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
 
 # Stem
 
