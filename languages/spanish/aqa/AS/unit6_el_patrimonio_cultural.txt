@@ -54,11 +54,11 @@ the self-portrait|el autorretrato
 the tile|el azulejo
 the vault|la bóveda
 the colouring|el colorido
-to build (starts with c)|construir
+to build (starts with c-)|construir
 the glass|el cristal
-the painting, canvas (starts with c)|el cuadro
+the painting, canvas (starts with c-)|el cuadro
 to wreck, ruin|destrozar
-to build (starts with e)|edificar
+to build (starts with e-)|edificar
 the dwarf, little person (male)|el enano
 the dwarf, little person (female)|la enana
 to sculpt|esculpir
@@ -77,7 +77,7 @@ the iron|el hierro
 the interior|el interior
 the architectural jewel|la joya arquitectónica
 the brick|el ladrillo
-the canvas, painting (starts with L)|el lienzo
+the canvas, painting (starts with L-)|el lienzo
 the wood|la madera
 the mural (painting)|el mural
 the work of engineering|la obra de ingeniería
@@ -127,7 +127,7 @@ the guitarist (always ends in a) (male)|el guitarrista
 the guitarist (always ends in a) (female)|la guitarrista
 the melody|la melodía
 to mix|mezclar
-to suffer (starts with a p)|padecer
+to suffer (starts with p-)|padecer
 the palm of one's hand|la palma de la mano
 the tambourine (does not start with a t)|la pandereta
 the (musical) score/sheet music|la partitura
@@ -143,7 +143,7 @@ to sound|sonar
 the sound|el sonido
 to tap/to click one's heels (i'm assuming in a context where's you're straight jamming)|taconear
 the clicking/the tapping of one's heels|el taconeo
-the drum (starts with t)|el tambor
-to play a song/piece of music (starts with t) (3 words)|tocar una composición
+the drum (starts with t-)|el tambor
+to play a song/piece of music (starts with t-) (3 words)|tocar una composición
 the cellist (male)|el violonchelista
 the cellist (female)|la violonchelista

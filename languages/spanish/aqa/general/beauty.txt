@@ -4,12 +4,12 @@ vanity case|el neceser
 sumptuous (masculine) (expensive looking e.g fake products)|suntuoso
 sumptuous (feminine) (expensive looking e.g fake products)|suntuosa
 cheekbone|el pómulo
-complexion (starts with t)|la tez
-blusher (starts with c)|el colorete
-blusher (starts with r)|el rubor
+complexion (starts with t-)|la tez
+blusher (starts with c-)|el colorete
+blusher (starts with r-)|el rubor
 curling iron|el rizador
-mascara (starts with r)|el rímel
-to higlight (not destacar, starts with r)|realzar
+mascara (starts with r-)|el rímel
+to higlight (not destacar, starts with r-)|realzar
 tweezers|las pinzas
 eyelash|la pestaña
 hairdresser's (the establishment)|la peluquería
@@ -30,7 +30,7 @@ luminous (feminine)|luminosa
 luxurious (masculine)|lujoso
 luxurious (feminine)|lujosa
 luxury|el lujo
-to shine (not brillar, starts with l)|lucir
+to shine (not brillar, starts with l-)|lucir
 healthy-looking (masculine)|lozano
 healthy-looking (feminine)|lozana
 lotion|la loción
@@ -48,62 +48,62 @@ to hypnotise|hipnotizar
 swollen (masculine)|hinchado
 swollen (feminine)|hinchada
 to moisturise|hidratar
-to bewitch (starts with h)|hechizar
+to bewitch (starts with h-)|hechizar
 grease|la grasa
 dashing, striking (masculine)|gallardo
 dashing, striking (feminine)|gallarda
 to rub|frotar
-bottle (starts with b)|la botella
-jar, (glass) bottle (starts with f)|el frasco
+bottle (starts with b-)|la botella
+jar, (glass) bottle (starts with f-)|el frasco
 fragrance|la fragancia
 firm|firme
-features (starts with f)|las facciones
+features (starts with f-)|las facciones
 foam|la espuma
-pimple (starts with e)|la espinilla
+pimple (starts with e-)|la espinilla
 mirror|el espejo
 nail polish|el esmalte de uñas
 aging|el envejecimiento
 enigmatic (masculine)|enigmático
 enigmatic (feminine)|enigmática
-to bewitch (starts with e)|embrujar
+to bewitch (starts with e-)|embrujar
 intoxicating|embrigador
 elegance|la elegancia
 to embellish|embellecer
-grace (starts with d)|el donaire
-to hide, conceal (starts with di)|disimular
-stunning (starts with d)|deslumbrante
+grace (starts with d-)|el donaire
+to hide, conceal (starts with "di"-)|disimular
+stunning (starts with d-)|deslumbrante
 dehydrated (masculine)|deshidratado
 dehydrated (feminine)|deshidratada
 to remove hair from|depilar
 eyeliner|el delineador
 self-care (el + 2 words)|el cuidado personal
 cutter|el cortador
-cologne (not the city) (4 words starts with "el")|el agua de colonia
+cologne (not the city) (4 words starts with "el-")|el agua de colonia
 advice|el consejo
 to cover|cubrir
 cosmetology|la cosmetología
 blusher|el colorete
-eyedrops (starts with c) (this is a singular word)|el colirio
-to heal (starts with cic)|cicatrizar
+eyedrops (starts with c-) (this is a singular word)|el colirio
+to heal (starts with "cic-")|cicatrizar
 wax|la cera
 full eyebrows|las cejas pobladas
-chestnut brown (masculine) (starts with c)|castaño
-chestnut brown (feminine) (starts with c)|castaña
+chestnut brown (masculine) (starts with c-)|castaño
+chestnut brown (feminine) (starts with c-)|castaña
 layer|la capa
 suntan lotion|el bronceador
 lip gloss|el brillo de labios
-to shine (starts with b)|brillar
+to shine (starts with b-)|brillar
 pimple|el grano
 balm|el bálsamo
 self-image|la autoimagen
 self-esteem|la autoestima
-daring (starts with au)|audaz
-daring (masculine) (starts with at)|atrevido
-daring (feminine) (starts with at)|atrevida
+daring (starts with "au"-)|audaz
+daring (masculine) (starts with "at-")|atrevido
+daring (feminine) (starts with "at-")|atrevida
 rough (masculine)|áspero
 rough (feminine)|áspera
-cleaning (starts with a, not limpieza)|el aseo
-to clean your room (3 words starts with a) (uses the word "c-"|arreglar el cuarto
+cleaning (starts with a-, not limpieza)|el aseo
+to clean your room (3 words starts with a-) (uses the word "c-"|arreglar el cuarto
 repaired|reparado
 anti-aging|antienvejecimiento
 cotton|el algodón
