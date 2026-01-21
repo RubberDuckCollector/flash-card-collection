@@ -35,7 +35,7 @@ to cool|abkühlen
 the Ash Wednesday|der Aschermittwoch
 the bear|der Bär(en)
 the lead (metal)|das Blei
-the custom, tradition (starts with B)|der Brauch(¨e)
+the custom, tradition (starts with B-)|der Brauch(¨e)
 to burn|brennen
 to interpret|deuten
 sweet-smelling|duftend
@@ -73,18 +73,18 @@ the tin, pewter|das Zinn
 to get, receive|bekommen
 especially|besonders
 naughty, evil, angry|böse
-another word for: carnival (starts with F) (masculine noun)|der Fasching
+another word for: carnival (starts with F-) (masculine noun)|der Fasching
 the period of fasting, Lent|die Fastenzeit
-another word for: carnival (starts with F) (feminine noun)|die Fastnacht
-the celebration (starts with Fei)|die Feier
-the celebration (starts with Fes)|die Festlichkeit(en)
+another word for: carnival (starts with F-) (feminine noun)|die Fastnacht
+the celebration (starts with "Fei"-)|die Feier
+the celebration (starts with "Fes"-)|die Festlichkeit(en)
 the prayer|das Gebet(e)
 the spirits (pl)|die Geister
-exact(ly) (starts with g)|genau
+exact(ly) (starts with g-)|genau
 the bell|die Glocke(n)
 holy|heilig
 the horn, klaxon|die Hupe(n)
-the carnival (starts with K)|der Karneval
+the carnival (starts with K-)|der Karneval
 the customer (male)|der Kunde(n)
 the customer (female)|die Kundin(nen)
 the light|das Licht(er)

@@ -83,21 +83,21 @@ besides, in addition, as well (adverb)|außerdem
 no problem.|kein Problem.
 sounds good.|klingt gut!
 a little bit; a little bit of, some|ein bisschen
-almost (starts with f)|fast
+almost (starts with f-)|fast
 in the bathroom|im Bad
 in the basement|im Keller
 in the kitchen|im der Küche
 on the ground level|im Erdgeschoss
 on the ground floor (European)|im Parterre
 on the first floor (European)|im ersten Stock
-per Month (first word starts with i)|im Monat
-per Month (first word starts with p)|pro Monat
+per Month (first word starts with i-)|im Monat
+per Month (first word starts with p-)|pro Monat
 in the middle of|mitten in
 not yet|noch nicht
 up; upstairs|oben
-even (starts with s)|sogar
+even (starts with s-)|sogar
 nevertheless, in spite of that|trotzdem
 down; downstairs|unten
 where|wo
 where to; to where| wohin
-quite, rather (starts with z)|zeimlich
+quite, rather (starts with z-)|zeimlich

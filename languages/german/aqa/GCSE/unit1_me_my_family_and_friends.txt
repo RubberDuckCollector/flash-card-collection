@@ -15,12 +15,12 @@ the present, gift|das Geschenk(e)
 divorced|geschieden
 there is/there are|es gibt
 to be lucky (2 words)|Glück haben
-happy (starts with g)|glücklich
+happy (starts with g-)|glücklich
 the grandparents (pl.)|die Großeltern
 the grandmother|die Großmutter(¨)
 the grandfather|der Großvater(¨)
 each, every|jeder, jede, jedes
-single, unmarried (starts with lowercase L)|ledig
+single, unmarried (starts with lowercase L-)|ledig
 loving, affectionate|liebevoll
 the morning|der Morgen
 to get on one's nerves (4 words)|auf die Nerven gehen
@@ -37,10 +37,10 @@ the stepsister (has "die")|die Stiefschwester(n)
 the stepfather|der Stiefvater(¨)
 the aunt|die Tante(n)
 the pocket money|das Taschengeld(er)
-the relationship (starts with v)|das Verhältnis(se)
+the relationship (starts with v-)|das Verhältnis(se)
 married|verheiratet
 engaged (to someone)|verlobt
-get on with (verb starts with v) (reflexive)|sich verstehen mit
+get on with (verb starts with v-) (reflexive)|sich verstehen mit
 to call in, drop by|vorbeikommen
 the widow|die Witwe(n)
 the widower|der Witwer(-)
@@ -50,7 +50,7 @@ together|zusammen
 the habit|die Angewohnheit(en)
 to get annoyed (reflexive)|sich ärgern
 to discuss|besprechen
-the relationship (starts with B)|die Beziehung(en)
+the relationship (starts with B-)|die Beziehung(en)
 to break up|in die Brüche gehen
 now and then|dann und wann
 the marriage|die Ehe(n)
@@ -62,7 +62,7 @@ relaxed|entspannt
 the freedom|die Freiheit
 the circle of friends|der Freundeskreis(e)
 the friendship|die Freundschaft(en)
-to feel (starts with f) (reflexive)|sich fühlen
+to feel (starts with f-) (reflexive)|sich fühlen
 the violin|die Geige(n)
 mean|gemein
 the reason|der Grund(e)
@@ -84,24 +84,24 @@ to spoil|verderben
 to rely on (reflexive)|sich verlassen auf
 to introduce oneself, to imagine (reflexive)|sich vorstellen
 to turn to (reflexive)|sich wenden an
-important (starts with w)|wichtig
-content, happy (starts with z)|zufrieden
+important (starts with w-)|wichtig
+content, happy (starts with z-)|zufrieden
 to admit|zugeben
 reliable|zuverlässig
 different, differently, in a different way|anders
 excited|aufgeregt
-definite, definitely, certain, certainly (starts with b)|bestimmt
-to need (starts with "br")|brauchen
-against, opposed to something (starts with d)|dagegen
-to last (starts with d)|dauern
+definite, definitely, certain, certainly (starts with b-)|bestimmt
+to need (starts with "br-")|brauchen
+against, opposed to something (starts with d-)|dagegen
+to last (starts with d-)|dauern
 the married couple|das Ehepaar(e)
 honest|ehrlich
-to wait, to expect (starts with e)|erwarten
+to wait, to expect (starts with e-)|erwarten
 to look forward to (reflexive)|sich freuen auf
 patient|geduldig
 the society|die Gesellschaft(en)
 the golden wedding|die goldene Hochzeit
-to live (as in, to be alive, starts with lowercase L)|leben
+to live (as in, to be alive, starts with lowercase L-)|leben
 the lifesyle|der Lebensstil(e)
 to solve|lösen
 something good|etwas Positives
@@ -117,13 +117,13 @@ to separate (reflexive)|sich trennen
 outdated|veraltet
 the waste|die Verschwendung
 understanding (adj, e.g "he/she is understanding, they are understanding")|verständnisvoll
-to try (starts with v)|versuchen
+to try (starts with v-)|versuchen
 the flat, apartment|die Wohnung(en)
 to decrease, to lose weight|abnehmen
-the idea (starts with A)|die Ahnung(en)
+the idea (starts with A-)|die Ahnung(en)
 the bridegroom|der Bräutigam(e)
 the pressure|der Druck(e)
-to try out (starts with e)|erproben
+to try out (starts with e-)|erproben
 shared together, in common|gemeinsam
 social|gesellschaftlich
 the household|der Haushalt(e)

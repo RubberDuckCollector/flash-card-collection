@@ -4,7 +4,7 @@ the cloud|die Wolke
 the degrees|das Grad
 the sun|die Sonne
 the snow|der Schnee
-the sky (starts with H)|der Himmel
+the sky (starts with H-)|der Himmel
 the sun's shining|die Sonne scheint
 the cloud|die Wolke
 it's raining; it rains|es regnet
@@ -19,11 +19,11 @@ it's cold|es ist kalt
 it's cool|es ist kühl
 "isn't it true?"; "right?" (2 words)|nicht wahr
 true|wahr
-again (1 word) (starts with w)|wieder
-again (2 words) (starts with s)|schon wieder
-only; just (starts with n)|nur
+again (1 word) (starts with w-)|wieder
+again (2 words) (starts with s-)|schon wieder
+only; just (starts with n-)|nur
 it doesn't matter (3 words)|das macht nichts
-great (starts with t)|toll
+great (starts with t-)|toll
 to find|finden
 what a pity; what a shame|schade
 hopefully not|hoffentlich nicht

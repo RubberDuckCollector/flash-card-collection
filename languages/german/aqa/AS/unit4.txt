@@ -1,16 +1,16 @@
-to recognise (starts with a)|anerkennen
+to recognise (starts with a-)|anerkennen
 the cause|der Anlass(¨e)
 to light|anzünden
 the supervision|due Aufsicht
 the ribbon|das Band(¨er)
-the need (starts with B)|das Bedürfnis(se)
+the need (starts with B-)|das Bedürfnis(se)
 the occupation|die Besetzung(en)
 the beggar|der Bettler(-)
 the birch tree|die Birke(n)
-the custom (starts with B)|der Brauch(¨e)
-the customs and traditions (starts with B)|der Brauchtum
+the custom (starts with B-)|der Brauch(¨e)
+the customs and traditions (starts with B-)|der Brauchtum
 the fountain|der Brunnen(-)
-to produce (starts with e)|erzeugen
+to produce (starts with e-)|erzeugen
 the community, local authority|die Gemeinde(n)
 the sociability|die Geselligkeit
 the basis, foundation|die Grundlage(n)
@@ -23,11 +23,11 @@ the candle|die Kerze(n)
 the queen|die Königin(nen)
 the crib (in a nativity scene)|die krippe(n)
 the bauble|die Kugel(n)
-alive (starts with lowercase L)|lebendig
+alive (starts with lowercase L-)|lebendig
 to tempt, lure|locken
 the fool, jester|der Narr(en)
-local (starts with o)|ortsansässig
-to influence, characterise (starts with p)|pragen
+local (starts with o-)|ortsansässig
+to influence, characterise (starts with p-)|pragen
 the leap year|das Schaltjahr(e)
 to value, treasure|schätzen
 to decorate|schmücken
@@ -53,7 +53,7 @@ to pour out|ausschenken
 disadvantaged, disabled|benachteiligt
 the monument|das Denkmal(¨er)
 the income|das Einkommen(-)
-the event (starts with E)|das Ereignis(se)
+the event (starts with E-)|das Ereignis(se)
 considerable|erheblich
 the proceeds|der Erlös(e)
 the purse|der Geldbeutel(-)
@@ -66,14 +66,14 @@ the dealer (female)|die Händlerin(nen)
 the producer|der Hersteller(-)
 charitable|karitativ
 tasteless, corny|kitschig
-the doughnut (starts with K)|der krapfen(-)
+the doughnut (starts with K-)|der krapfen(-)
 the gingerbread|der Lebkuchen(-)
-the effort, performance (starts with uppercase L)|die Leistung(en)
+the effort, performance (starts with uppercase L-)|die Leistung(en)
 the streamer|die Luftschlange(n)
 the almond|die Mandel(n)
 the chestnut|die Marone(n)
 the demand|die Nachfrage(n)
-public (starts with ö)|öffentlich
+public (starts with ö-)|öffentlich
 the biscuit|das Plätzchen(-)
 the rule|die Regel(n)
 the pension|die Rente(n)
@@ -81,8 +81,8 @@ the pensioner (male)|der Rentner(-)
 the pensioner (female)|die Rentnerin(nen)
 the retirement|der Ruhestand
 to secure|sichern
-to donate (starts with s)|spenden
-noticeable, tangible (starts with s)|spürbar
+to donate (starts with s-)|spenden
+noticeable, tangible (starts with s-)|spürbar
 the town council|die Stadverwaltung(en)
 to exchange|tauschen
 the turnover (in a company, not a pastry)|der Umsatz(¨e)
@@ -91,11 +91,11 @@ to underestimate|unterschätzen
 to surprise|verblüffen
 the decline|der Verfall
 essential|wesentlich
-the number, figure (starts with z)|die Zahl(en)
-the hand (of a clock) (starts with Z)|der Zeiger(_)
-the performance (starts with A)|der Auftritt(e)
-the farmer (starts with B) (male)|der Bauer(n)
-the farmer (starts with B) (female), the farmer's wife|die Bäuerin(nen)
+the number, figure (starts with z-)|die Zahl(en)
+the hand (of a clock) (starts with Z-)|der Zeiger(_)
+the performance (starts with A-)|der Auftritt(e)
+the farmer (starts with B-) (male)|der Bauer(n)
+the farmer (starts with B-) (female), the farmer's wife|die Bäuerin(nen)
 to enthuse|begeistern
 to damage|beschädigen
 the broom, broomstick|der Besen(-)
@@ -115,19 +115,19 @@ the contrast|der Gegensatz(¨e)
 mysterious|geheimnisvoll
 the hearing problem|das Gehörproblem(e)
 the noise level|der Geräuschpegel(-)
-legal (starts with g)|gesetzlich
+legal (starts with g-)|gesetzlich
 the mountaintop, summit|der Gipfell(-)
 the return, homecoming|die Heimkehr
 the sound|der Klang(¨e)
 the noise, din|der Krach
-the power (starts with K)|die Kraft(¨e)
+the power (starts with K-)|die Kraft(¨e)
 the cowbell|die Kuhglocke(n)
 to milk|melken
 the centre, focus|der Mittelpunkt(e)
 the socialite, party animal|der Partylöwe(n)
 the valley|das Tal(¨er)
 deaf|taub
-the devil (starts with T)|der Teufel(-)
+the devil (starts with T-)|der Teufel(-)
 thunderous|tosend
 the festival with traditional/national costume|das Trachtenfest(e)
 to dress up (reflexive)|sich verkleiden
@@ -138,6 +138,6 @@ the cattle|das Vieh(-)
 the advance booking|die Vorbuchung(en)
 the fortune teller|der Wahrsager(-)
 the pasture, meadow|die Weide(n)
-the tool (starts with W)|das Werkzeug(e)
+the tool (starts with W-)|das Werkzeug(e)
 the welfare|das Wohl
 the goat|die Ziege(n)

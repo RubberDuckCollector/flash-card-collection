@@ -2,7 +2,7 @@ the calendar date|das Datum
 the calendar dates|die Daten
 the celebration|die Feier(n)
 the holiday|der Feiertag(e)
-the vacation (pl.) (starts with F)|die Ferien
+the vacation (pl.) (starts with F-)|die Ferien
 the fest, festival|das Fest(e)
 the birthday|der Geburtstag(e)
 the present, gift|das Geschenk(e)
@@ -17,28 +17,28 @@ to get, receive|bekommen
 to last, take (duration)|dauern
 to think|denken
 to fall|fallen
-to celebrate, party (starts with f)|feiern
+to celebrate, party (starts with f-)|feiern
 to be lucky|Glück haben
 to congratulate|gratulieren
-to name, call (starts with n)|nennen
+to name, call (starts with n-)|nennen
 to be unlucky|Pech haben
 to give a gift|schenken
 to sing|singen
 to be fun|Spaß haben
 to study a particular field; to be a student at a university; to study at uni|studieren
 to dance|tanzen
-to do (starts with t)|tun
+to do (starts with t-)|tun
 to surprise|überraschen
 to wish|wünschen
 loud(ly), noisy, noisily|laut
 funny, amusing|lustig
 crazy (i.e something irresponsibly crazy)|verrückt
-before (starts with b)|bevor
-that (conjunction) (starts with d)|dass
-if, whether (starts with o)|ob
-although (starts with o)|obwohl
-because (starts with w)|weil
-if; when(ever) (starts with w)|wenn
+before (starts with b-)|bevor
+that (conjunction) (starts with d-)|dass
+if, whether (starts with o-)|ob
+although (starts with o-)|obwohl
+because (starts with w-)|weil
+if; when(ever) (starts with w-)|wenn
 Happy birthday! (literally: "All good for birthday")|Alles Gute zum Geburtstag!
 All the best!|Alles Gute!
 on the weekend|am Wochenende
@@ -54,7 +54,7 @@ actually|eigentlich
 Have a good New Year! (literally: "A good new year")|Ein gutes neues Jahr!
 Have a nice weekend!|(Ein) schönes Wochenende!
 Merry Christmas!|Frohe/Fröhliche Weihnachten!
-just, right now (starts with g)|gerade
+just, right now (starts with g-)|gerade
 yesterday|gestern
 I (you were, she was, etc.) lucky (exclamation)|Glück gehabt!
 Get well soon!|Gute Besserung!
@@ -70,14 +70,14 @@ I wish you ...!|Ich wünsche dir/Ihnen ...!
 always|immer
 tomorrow|morgen
 You're welcome!, My pleasure!|Nichts zu danken!
-still; else (starts with n)|noch
+still; else (starts with n-)|noch
 never|nie
 never before|noch nie
 I was (you were, she was, etc.) unlucky (this is an exclamation)|Pech gehabt!
-sure(ly), certain(ly) (starts with s)|sicher
+sure(ly), certain(ly) (starts with s-)|sicher
 What a surprise!|So eine Überraschung!
 Thank you very much!|Vielen/Herzlichen Dank!
-a week ago (1st word starts with v)|vor einer Woche
+a week ago (1st word starts with v-)|vor einer Woche
 the day before yesterday|vorgestern
 When is your birthday? (formal)|Wann haben Sie Geburtstag?
 When were you born? (formal)|Wann sind Sie geboren?

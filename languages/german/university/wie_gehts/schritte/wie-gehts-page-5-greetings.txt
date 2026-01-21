@@ -13,16 +13,16 @@ pleased to meet you|Freut mich
 I'm fine|Es geht mir gut
 good; fine, well|gut
 bad(ly)|schlecht
-wonderful(ly), great (starts with w)|wunderbar
+wonderful(ly), great (starts with w-)|wunderbar
 i'm tired|Ich bin müde
 yes|ja
 no|nein
 thank you|danke
 please; you're welome|bitte
-also, too (starts with a)|auch
+also, too (starts with a-)|auch
 not|nicht
 and|und
-Goodbye (formal) (starts with A)|Auf Wiedersehen
-Goodbye (informal) (starts with T)|Tschüss
-take care (informal) (2 words) (starts with M)|Mach's gut
-see you later (informal) (2 words) (starts with B)|Bis später
+Goodbye (formal) (starts with A-)|Auf Wiedersehen
+Goodbye (informal) (starts with T-)|Tschüss
+take care (informal) (2 words) (starts with M-)|Mach's gut
+see you later (informal) (2 words) (starts with B-)|Bis später

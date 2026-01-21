@@ -34,23 +34,23 @@ to cover|decken
 the hallway|die Diele(-n)
 to be suitable (reflexive)|sich eignen
 for relaxing|zum Entspannen
-the floor, storey (starts with E)|die Etage(n)
+the floor, storey (starts with E-)|die Etage(n)
 cosy, comfortable|gemütlich
 roomy, spacious|geräumig
-pretty (starts with h)|hübsch
+pretty (starts with h-)|hübsch
 the island|die Insel(n)
 the fireplaceder Kamin(e)
-the cellar, basement (starts with K)|der Keller(-)
+the cellar, basement (starts with K-)|der Keller(-)
 the coast|die Küste(n)
 the position|die Lage(-n)
 the air conditioning|die Klimaanlage(n)
 the rent|die Miete(n)
 to rent|mieten
 the microwave oven|die Mikrowelle(n)
-the floor, storey (starts with O)|das Obergeschoss(e)
+the floor, storey (starts with O-)|das Obergeschoss(e)
 the escalator|die Rolltreppe(n)
 both ... and ...|sowohl ... als auch ...
-the storey, floor (starts with S)|das Stockwerk(e)
+the storey, floor (starts with S-)|das Stockwerk(e)
 the terrace, patio|die Terrasse(n)
 the freezer|der Tiefkühlschrank(¨e)
 the chest freezer|die Tiefkühltruhe(n)
@@ -68,16 +68,16 @@ the factory|die Fabrik(en)
 the hairdresser (male)|der Friseur(e)
 the hairdresser (female)|die Friseurin(nen)
 teh pedestrian precinct|die Fußgängerzone(n)
-the region, area (starts with G)|die Gegend(en)
+the region, area (starts with G-)|die Gegend(en)
 the harbour, port|der Hafen(¨)
 the main railway station|der Hauptbahnhot(¨e)
 the capital city|die Hauptstadt(¨e)
 the jeweller's shop|das Juweliergeschäft(e)
-teh department store (starts with K)|das Kaufhaus(¨er)
+teh department store (starts with K-)|das Kaufhaus(¨er)
 the clothes shop|das Kleidergeschäft(e)
 the confectioner's|die Konditorei(en)
 the crossroads|die Kreuzung(en)
-the shop (starts with uppercase L)|der Laden(¨)
+the shop (starts with uppercase L-)|der Laden(¨)
 the grocer's shop|das Lebensmittelgeschäft(e)
 the marketplace|der Marktplatz(¨e)
 the wall (outside)|die Mauer(n)
@@ -92,9 +92,9 @@ the suburban (fast) railway|die S-Bahn(en)
 even|sogar
 the (savings) bank|die Sparkasse(n)
 the suburb|der Vorort(e)
-the department store (starts with W)|das Warenhaus(¨er)
+the department store (starts with W-)|das Warenhaus(¨er)
 every two hours|alle zewi Stunden
-to offer (starts with a)|anbieten
+to offer (starts with a-)|anbieten
 pleasant|angenehm
 unpleasant|unangenehm
 to attract|anziehen
@@ -106,7 +106,7 @@ the one-way street|die Einbahnstraße(n)
 away|entfernt
 the recovery, revival, relaxation|die Erholung(en)
 named, called|genannt
-free of charge (starts with g)|gratis
+free of charge (starts with g-)|gratis
 the green area, park|die Grünanlage(n)
 valuable|hochwertig
 the industrial area|das Industriegebiet(e)

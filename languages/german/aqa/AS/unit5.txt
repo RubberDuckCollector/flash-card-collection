@@ -12,7 +12,7 @@ the Fine Arts|die Bildende Kunst
 the sculptor (male)|der Bildhauer(-)
 the sculptor (female)|die Bildhauerin(nen)
 the impression|der Eindruck(¨e)
-impressive (starts with "ei")|eindrucksvoll
+impressive (starts with "ei-")|eindrucksvoll
 to make a contribution (to)|einen Beitrag leisten (zu)
 unique|einzigartig
 the extension|die Erweiterung(en)
@@ -51,16 +51,16 @@ to be a part of, belong to|zählen zu
 the drawing|die Zeichnung(en)
 the contemporary|der Zeitgenosse(n)
 contemporary|zeitgenössisch
-the illustration, picture (starts with A)|die Abbildung(en)
+the illustration, picture (starts with A-)|die Abbildung(en)
 to have the intention|die Absicht haben
 the everyday life|der Alltag
-pleasant (starts with "an")|angenehm
+pleasant (starts with "an-")|angenehm
 to adapt, conform (reflexive, optional)|"sich" anpassen
 the architectural style|der Baustil(e)
-significant (starts with "be")|bedeutend
+significant (starts with "be-")|bedeutend
 to be enthusiastic about|begeistert sein von
 to expose|belichten
-the exposure, light (starts with "Be")|die Belichtung
+the exposure, light (starts with "Be-")|die Belichtung
 the concrete blocks|die Betonklötze
 to plan, design|entwerfen
 the design|der Entwurf(¨e)
@@ -69,13 +69,13 @@ to promote|fördern
 the guided tour|die Führung(en)
 the underfloor heating|die Fußbodenheizung
 the corridor|der Gang(¨e)
-the painting (starts with G)|der Gemälde(-)
-low, small (starts with "ge")|gering
+the painting (starts with G-)|der Gemälde(-)
+low, small (starts with "ge-")|gering
 to ask specific questions|gezielte Fragen stellen
 the open-plan office|das Großraumbüro(s)
 spacious, roomy|großräumig
 the green space|die Grünfläche(n)
-the trade (starts with H)|der Handel
+the trade (starts with H-)|der Handel
 the interior designer (male)|der Innenarchitekt(en)
 the interior designer (female)|die Innenarchitektin(nen)
 the interior design|die Innenausstattung
@@ -85,14 +85,14 @@ the exhibition hall|die Messehalle(n)
 to give (someone) an understanding|näher bringen
 the parquet flooring|der Parkettboden(-)
 sculptural, three-dimensional|plastisch
-the failure (starts with P)|die Pleite(n)
+the failure (starts with P-)|die Pleite(n)
 to restore|restaurieren
 the collection|die Sammlung(en)
 the proximity to town|die Stadnähe
 the steel construction|der Stahlbau(ten)
 the feeling for style, sense of style|das Stilgefühl(e)
-true to the style (starts with "stilg")|stilgerecht
-true to the style (starts with "stile")|stilecht
+true to the style (starts with "stilg-")|stilgerecht
+true to the style (starts with "stile-")|stilecht
 the underground car park|die Tiefgarage(n)
 the pottery|die Töpferei
 the behavioual disorder|die Verhaltensstörung(en)
@@ -102,8 +102,8 @@ to place value on, consider important|Wert legen auf
 the economy|die Wirtschaft(en)
 the atmosphere of well-being|die Wohlfühlambiente(n)
 the residential estate|die Wohnanlage(n)
-in addition (starts with z)|zudem
-forward-looking (starts with z)|zukunftsweisend
+in addition (starts with z-)|zudem
+forward-looking (starts with z-)|zukunftsweisend
 the early years|die Anfangsjahre
 to distinguish through|auszeichnen durch
 to distinguish oneself through (reflexive)| sich auszeichnen durch
@@ -111,7 +111,7 @@ to be in ... place|an ... Stelle stehen
 apparently|anscheinend
 the nuclear power station|das Atomkraftwerk(e)
 to be commissioned|den Auftrag erhalten
-the extent, scale (starts with A)|das Ausmaß(e)
+the extent, scale (starts with A-)|das Ausmaß(e)
 to award with|auszeichnen mit
 the architectural exhibition|die Bauausstellung(en)
 to participate in (+ case) (reflexive)|sich beteiligen an (+ dat)
@@ -124,7 +124,7 @@ to get involved|sich engagieren
 politically|politisch
 the inventor (male)|der Erfinder(-)
 the inventor (female)|die Erfinderin(nen)
-to produce (starts with "er")|erzeugen
+to produce (starts with "er-")|erzeugen
 the case study|die Fallstudie(n)
 to cause a scandal|für einen Skandal sorgen
 the present (current, not a gift)|die Gegenwart
@@ -144,27 +144,27 @@ the furniture (pl.)|die Möbel
 the cabinetmaker (male)|der Möbelschreiner(-)
 the cabinetmaker (female)|die Möbelschreinerin(nen)
 true to nature|naturgetreu
-the poster (starts with P)|das Plakat(e)
+the poster (starts with P-)|das Plakat(e)
 the space, room|der Raum(¨e)
 spatial|räumlich
 the sandstone|der Sandstein
-to appreciate (starts with s)|schätzen
-the difficulty (starts with "Sch")|die Schwierigkeit(en)
+to appreciate (starts with s-)|schätzen
+the difficulty (starts with "Sch-")|die Schwierigkeit(en)
 the settlement, residential area|die Siedlung(en)
-the site (starts with "St")|die Stätte(n)
+the site (starts with "St-")|die Stätte(n)
 increasing|steigend
 the electricity network|das Stromnetz
 the study trip|der Studienaufenhalt(e)
 to be active (2 words)|tätig sein
 the oppressed (e.g the oppressed people) (pl.)|die Unterdrückten
 to come to terms with, work through|verarbeiten
-the past (starts with V)|die Vergangenheit
-the loss (starts with "Ve")|der Verlust(e)
-the attempt (starts with "Ve")|der Versuch(e)
+the past (starts with V-)|die Vergangenheit
+the loss (starts with "Ve-")|der Verlust(e)
+the attempt (starts with "Ve-")|der Versuch(e)
 to represent|vertreten
 to devote yourself to (+ case) (reflexive)|sich widmen (+ dat)
 the reproduction, rendering|die Wiedergabe(n)
 the concept for living, home design|das Wohnkonzept(e)
-the quote (starts with Z)|das Zitat(e)
+the quote (starts with Z-)|das Zitat(e)
 to quote|zitieren
-the future (starts with Z)|die Zukunft
+the future (starts with Z-)|die Zukunft

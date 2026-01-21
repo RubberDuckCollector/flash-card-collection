@@ -1,6 +1,6 @@
 the trousers|die Hose(n)
-the jumper (starts with Pullo)|der Pullover(-)
-the jumper (starts with Pulli)|der Pulli(s)
+the jumper (starts with Pullo-)|der Pullover(-)
+the jumper (starts with Pulli-)|der Pulli(s)
 the skirt|der Rock(¨e)
 the dress|das Kleid(er)
 the shoe|der Schuh(e)

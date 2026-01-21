@@ -22,7 +22,7 @@ the fish|der Fisch(e)
 the meat|das Fleisch
 the breakfast|das Frühstuck
 the vegetable|das Gemüse(-)
-the store (starts with G)|das Geschäft(e)
+the store (starts with G-)|das Geschäft(e)
 the glass|das Glas(¨er)
 the cucumber; pickle|die Gurke(n)
 the hunger|der Hunger
@@ -32,17 +32,17 @@ the carrot|die Karotte(n)
 the cheese|der Käse(-)
 the department store|das Kaufhaus(¨er)
 the cake|der Kuchen(¨)
-the store (starts with L)|der Laden(¨)
+the store (starts with L-)|der Laden(¨)
 the groceries|die Lebensmittel
-the soft drink; lemonade (starts with L)|die Limonade(n)
+the soft drink; lemonade (starts with L-)|die Limonade(n)
 the (farmers') market|der Markt(¨e)
-the jam (starts with M)|die Marmelade(n)
+the jam (starts with M-)|die Marmelade(n)
 the butcher's|die Metzgerei(en)
 the milk|die Milch
 the fruit|das Obst
 the orange|die Orange(n)
 the pound (weight)|das Pfund
-the cookie (starts with P)|das Plätzchen(-)
+the cookie (starts with P-)|das Plätzchen(-)
 the juice|der Saft(¨e)
 the lettuce; salad|der Salat(e)
 the piece|das Stück(e)
@@ -58,7 +58,7 @@ the wine|der Wein(e)
 the (big) sausage|die Wurst(¨e)
 the hot dog; small sausage|das Würstchen(-)
 the lemon|die Zitrone(n)
-to belive; to think (starts with g)|glauben
+to belive; to think (starts with g-)|glauben
 to have|haben
 to buy|kaufen
 to make; to do|machen
@@ -66,8 +66,8 @@ to be|sein
 to look for|suchen
 to sell|verkaufen
 fresh(ly)|frisch
-open (starts with o)|offen
-closed (starts with z)|zu
+open (starts with o-)|offen
+closed (starts with z-)|zu
 through|durch
 for|für
 against|gegen
@@ -79,7 +79,7 @@ everything, all|alles
 you're welcome|bitte, bitte!
 then (temporal)|dann
 that's all; that's it|das ist alles
-because, for (starts with d)|denn
+because, for (starts with d-)|denn
 yes (affirmative response to negative statement)|doch
 a few, some|ein paar
 there is, there are|es gibt
@@ -90,13 +90,13 @@ i like to drink|ich trinke gern
 i go shopping|ich gehe ... einkaufen
 i'm hungry|ich habe Hunger
 i'm thirsty|ich habe Durst
-i would like (to have) (verb starts with h)|ich hätte gern
-i would like (to have) (verb starts with m)|ich möchte (gern)
+i would like (to have) (verb starts with h-)|ich hätte gern
+i would like (to have) (verb starts with m-)|ich möchte (gern)
 no; none|kein
 on mondays|montags
 on tuesdays|dienstags
-of course (2 words) (1st word starts with n)|na klar
-of course (1 word) (starts with n)|natürlich
+of course (2 words) (1st word starts with n-)|na klar
+of course (1 word) (starts with n-)|natürlich
 not|nicht
 or|oder
 and|und

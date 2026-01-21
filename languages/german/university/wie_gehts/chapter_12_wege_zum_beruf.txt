@@ -11,7 +11,7 @@ the civil servant (male)|der Beamte(n)
 the civil servant (female)|die Beamtin(nen)
 the acquaintance (same noun regardless of gender)|der/die Bekannte(n)
 the area, field|der Bereich(e)
-the profession, career (scope, area of expertise) (starts with B)|der Beruf
+the profession, career (scope, area of expertise) (starts with B-)|der Beruf
 the choice of profession|die Berufwahl
 the graduate in business management (male)|der Betriebswirt(e)
 the graduate in business management (female)|die Betriebswirtin(nen)
@@ -21,13 +21,13 @@ the income|das Einkommen(-)
 the decision|die Entscheidung(en)
 the experience|die Erfahrung(en)
 the knowledge|die Kenntnis(se)
-the special knowledge, skill in a particular area (starts with F)|die Fachkenntnis(se)
+the special knowledge, skill in a particular area (starts with F-)|die Fachkenntnis(se)
 the company; business|die Firma, Firmen
-the business; store, shop (starts with G)|das Geschäft(e)
+the business; store, shop (starts with G-)|das Geschäft(e)
 the businesswoman|die Geschäftsfrau(en)
 the businessman|der Geschäftsman(¨er)
 the businesspeople (pl.)|die Geschäftsleute
-the trade (starts with H)|der Handel
+the trade (starts with H-)|der Handel
 the housewife|die Hausfrau(en)
 the househusband|der Hausmann(¨er)
 the engineer (male)|der Ingenieur(e)
@@ -41,13 +41,13 @@ the nurse (female)|die Krankenpflegerin(nen)
 the artist (male)|der Künstler(-)
 the artist (female)|die Künstlerin(nen)
 the course|der Kurs(e)
-the teacher (starts with uppercase L) (male)|der Lehrer(-)
-the teacher (starts with uppercase L) (female)|die Lehrerin(nen)
+the teacher (starts with uppercase L-) (male)|der Lehrer(-)
+the teacher (starts with uppercase L-) (female)|die Lehrerin(nen)
 the plan|der Plan(¨e)
 the policeman|der Polizist(en)
 the policewoman|die Polizistin(nen)
 the internship|das Praktikum, Praktika
-the advice, counsel (starts with R)|der Rat
+the advice, counsel (starts with R-)|der Rat
 the lawyer (male)|der Rechtsanwalt(¨e)
 the lawyer (female)|die Rechtsanwältin(nen)
 the travel agent (male)|der Reiseleiter(-)
@@ -57,9 +57,9 @@ the disabled person (same noun regardless of person)|der/die Schwerbehinderte(n)
 the secretary (male)|der Sekretär(e)
 the secretary (female)|die Sekretärin(nen)
 the safety, security|die Sicherheit
-the position, job (starts with S)|die Stelle
+the position, job (starts with S-)|die Stelle
 the hour|die Stunde(n)
-the large company (starts with U)|das Unternehmen
+the large company (starts with U-)|das Unternehmen
 the responsibility|die Verantwortung(en)
 the fiancé / fiancée (same noun regardless of gender)|der/die Verlobte(n)
 the relative (same noun regardless of gender)|der/die Verwandte(n)
@@ -70,7 +70,7 @@ the dentist (female)|die Zahnarztin(nen)
 the future|die Zukunft
 to offer (separable verb)|anbieten
 to look (like) (has "wie" after the word) (separable verb)|aussehen (wie)
-to ask for, request (starts with b)|bitten
+to ask for, request (starts with b-)|bitten
 to explain; clarify|erklären
 to believe (in) (has "in" after the word)|glauben (an)
 to hope|hoffen
@@ -79,12 +79,12 @@ to be concerned / worried (about) (has "um" after the word)|sich Sorchen machen 
 to earn, make money|verdienen
 to imagine (separable verb) (reflexive)|sich vorstellen
 to become; to be (a profession when you grow up)|werden
-strenuous, stressful (starts with a)|anstregend
+strenuous, stressful (starts with a-)|anstregend
 unemployed|arbeitslos
 better|besser
 best|best-
 earlier; once; former(ly); in the past|früher
-equal, same (starts with g)|gleich
+equal, same (starts with g-)|gleich
 bigger|größer
 biggest|größt-
 high|hoch
@@ -99,13 +99,13 @@ unsafe, insecure|unsicher
 definitely, absolutely|unbedingt
 Oh, come on!|Ach was!
 ... than|... als
-therefore (starts with "dar")|darum
+therefore (starts with "dar-")|darum
 just (exactly) [adjective] ... as |(genau)so ... wie
 I image that ...|Ich stelle mir vor, dass ...
 abroad|ins/im Ausland
 more and more ..., increasingly more ...|immer (+ Komparativ)
 the [comparative] ..., the [different comparative] ...|je [Komparativ] ... desto [verschiedener Komparativ]
-however (starts with j)|jedoch
+however (starts with j-)|jedoch
 at the moment, right now|momentan
 not as ... as|nicht so ... wie
 Well, ...|Nun/Also/Na ja/Tja

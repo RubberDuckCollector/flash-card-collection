@@ -1,7 +1,7 @@
-the advertisement (starts with A)|die Anzeige(n)
-the relationship (starts with B)|die Beziehung(en)
+the advertisement (starts with A-)|die Anzeige(n)
+the relationship (starts with B-)|die Beziehung(en)
 the marriage|die Ehe(n)
-the attribute, characteristic (starts with E)|die Eigenschaft(en)
+the attribute, characteristic (starts with E-)|die Eigenschaft(en)
 the friendship|die Freundschaft
 the gold|das Gold
 the wedding|die Hochzeit(en)
@@ -21,16 +21,16 @@ the bird|der Vogel(¨)
 the world|die Welt(en)
 the wish|der Wunsch(¨e)
 to invite (separable verb)|einladen
-to happen (starts with g)|geschehen
+to happen (starts with g-)|geschehen
 to marry, get married (to)|heiraten
 to enter, come in (separable verb)|hereinkommen
-to think, be of the opinion (starts with m)|meinen
-to happen (starts with p)|passieren
+to think, be of the opinion (starts with m-)|meinen
+to happen (starts with p-)|passieren
 to spin|spinnen
 to jump|springen
 to die|sterben
 to dream (of, about) (has "von" after the word)|träumen (von)
-to compare (starts with v)|vergleichen
+to compare (starts with v-)|vergleichen
 to fall in love (with) (reflexive) (has "in" after the word)|sich verlieben (in)
 to lose|verlieren
 to get engaged (to) (reflexive) (has "mit" after the word)|sich verloben (mit)
@@ -40,7 +40,7 @@ alone|allein
 poor|arm
 attractive|attraktiv
 charming|charmant
-stupid (starts with d)|dumm
+stupid (starts with d-)|dumm
 honest|ehrlich
 dishonest|unehrlich
 serious|ernst
@@ -48,14 +48,14 @@ lazy|faul
 industrious|fleißig
 friendly|freundlich
 unfriendly|unfreundlich
-glad, happy (starts with f)|froh
+glad, happy (starts with f-)|froh
 educated|gebildet
 uneducated|ungebildet
 patient|geduldig
 impatient|ungeduldig
 divorced|geschieden
-happy (starts with g)|glücklich
-unhappy (starts with "ung")|unglücklich
+happy (starts with g-)|glücklich
+unhappy (starts with "ung-")|unglücklich
 good-looking|gut aussehend
 ugly|hässlich
 pretty|hübsch
@@ -63,7 +63,7 @@ intelligent|intelligent
 young|jung
 complicated|kompliziert
 uncomplicated|unkompliziert
-single (starts with lowercase L)|ledig
+single (starts with lowercase L-)|ledig
 kind, good|lieb
 funny (used to describe a person)|lustig
 musical|musikalisch
@@ -72,12 +72,12 @@ nice (used to describe people)|nett
 rich, wealthy|reich
 chic, stylish; neat|schick
 slim, slender|schlank
-awful (starts with "schr")|schrecklich
+awful (starts with "schr-")|schrecklich
 independent; self-employed|selbständig
 dependent|unselbständig
 athletic|sportlich
 unathletic|unsportlich
-sweet; cute (starts with s)|süß
+sweet; cute (starts with s-)|süß
 congenial, likable|sympathisch
 uncongenial, unlikable|unsympathisch
 talented|talentiert

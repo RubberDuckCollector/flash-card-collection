@@ -5,8 +5,8 @@ the foreigner|der Ausländer
 the mountain|der Berg(e)
 the brother|der Bruder(¨)
 the cousin (male)|der Cousin(s)
-the cousin (starts with C) (female)|die Cousine(n)
-the cousin (starts with K) (female)|die Kusine(n)
+the cousin (starts with C-) (female)|die Cousine(n)
+the cousin (starts with K-) (female)|die Kusine(n)
 (the) German (language)|(das) Deutsch
 the German (male)|der Deutscher(n)
 the German (female)|die Deutsche(n)
@@ -40,7 +40,7 @@ the Canadian (female)|die Kanadierin(nen)
 the child|das Kind(er)
 the country; state|das Land(¨er)
 the map|die Landkarte(n)
-the people (starts with L)|die Leute
+the people (starts with L-)|die Leute
 the girl|das Mädchen(-)
 the man; husband|der Mann(¨er)
 the human being; person; people|der Mensch(en)
@@ -51,7 +51,7 @@ the neighbour (female)|die Nachbarin(nen)
 the Austrian (male)|der Österreicher(-)
 the Austrian (female)|die Österreicherin(nen)
 the uncle|der Onkel
-the test; exam (starts with P)|die Prüfung(en)
+the test; exam (starts with P-)|die Prüfung(en)
 the sentence|der Satz(¨e)
 Switzerland|die Schweiz
 the Swiss (male)|der Schweizer(-)

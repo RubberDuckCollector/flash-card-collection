@@ -3,7 +3,7 @@ the single parent (ends in "de") (female)|die Alleinerziehende
 the single parent (male)|der Alleinerzieher (-)
 the single parent (female)|die Alleinerzieherin(nen)
 the attitude, view|die Auffassung(en)
-the job, task (starts with "Auf")|die Aufgabe(n)
+the job, task (starts with "Auf-")|die Aufgabe(n)
 to look after someone (3 words)|auf jemanden aufpassen
 to stay out|ausbleiben
 to know about something (reflexive)|sich mit etwas auskennen
@@ -11,14 +11,14 @@ to move out|ausziehen
 the bad guy|der Böse
 the bad girl|die Böse
 the discipline|die Disziplin
-to feel, experience (starts with e)|empfinden
+to feel, experience (starts with e-)|empfinden
 the expectation|die Erwartung(en)
 to bring up|erziehen
 stressed|gestresst
 the boundary, limit|die Grenze(n)
 limitless(ly)|grenzenlos
 the housework, chore|die Hausarbeit(en)
-the argument, noise (starts with K)|der Krach
+the argument, noise (starts with K-)|der Krach
 to help out, pitch in|mithelfen
 the mother figure|die Mutterfigur(en)
 the father figure|die Vaterfigur(en)
@@ -38,7 +38,7 @@ to take care of oneself (4 words) (reflexive)|für sich selbst sorgen
 to argue|streiten
 strict|streng
 to dare (reflexive)|sich trauen
-sadness (starts with T)|die Traurigkeit
+sadness (starts with T-)|die Traurigkeit
 to split up, separate|sich trennen
 overexcited|überspannt
 the discomfort, awkwardness|das Unbehagen
@@ -151,7 +151,7 @@ to take a day off work (reflexive)|sich frei nehmen
 to be needed|gebraucht werden
 the birth rate|das Geburtenniveau(s)
 the birth trend, fertility pattern|das Geburtenverhalten(-)
-communally, together (starts with g)|gemeinsam
+communally, together (starts with g-)|gemeinsam
 legal|gesetzlich
 to get used to (+ case)|sich gewöhnen an (+ acc)
 of the same age|gleichaltrig
@@ -173,10 +173,10 @@ the step-brother|der Stiefbruder(¨)
 the step-sister (has "die")|die Stiefschwester(n)
 maintaining the (socio-political) system|systemerhaltend
 uncomprehending(ly)|unverständlich
-the relationship (starts with V)|das Verhältnis(se)
+the relationship (starts with V-)|das Verhältnis(se)
 to neglect|vernachlässigen
 diverse|vielfältig
-the concept, idea (starts with V)|die Vorstellung(en)
+the concept, idea (starts with V-)|die Vorstellung(en)
 the wanted child|das Wunschkind(er)
 the foster child|das Ziehkind(er)
 to be due to (+ case)|zurückgehen auf (+ acc)

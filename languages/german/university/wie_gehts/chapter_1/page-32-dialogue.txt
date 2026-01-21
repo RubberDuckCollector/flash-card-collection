@@ -2,7 +2,7 @@ the coincidence|der Zufall
 the siblings|die Geschwister
 the brother|der Bruder(¨)
 the sister|die Schwester(n)
-the exam (starts with P)|die Prüfung(en)
+the exam (starts with P-)|die Prüfung(en)
 the river|der Fluss(¨)
 the north|der Norden
 the south|der Süden

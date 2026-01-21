@@ -6,7 +6,7 @@ the request|die Anfrage(n)
 the friendship request|die Freundschaftsanfrage(n)
 to click on|anklicken
 the application|die Anwendung(en)
-to try out, experiment with (starts with "aus")|ausprobieren
+to try out, experiment with (starts with "aus-")|ausprobieren
 the broadband technology|die Breitbandtechnologie
 to chat online (online, via Skype)|chatten (im Internet, über Skype)
 the computer virus|das Computervirus(-en)
@@ -17,8 +17,8 @@ the follower (male)|der Follower(-)
 the follower (female)|die Followerin(nen)
 the sense of community, togetherness|das Gemeinschaftsgefühl(e)
 sponsored|gesponsert
-to download (starts with h)|herunterladen
-to upload (starts with h)|hochladen
+to download (starts with h-)|herunterladen
+to upload (starts with h-)|hochladen
 to put (sth) on the internet|ins Internet stellen
 the tech company|der Internetkonzern(e)
 to speak to someone directly|jamanden direkt ansprechen
@@ -57,18 +57,18 @@ the circle of friends|der Freundeskreis(e)
 to manage|führen
 the like button|der Gefällt mir Knopf
 according to (+ case)|gemäß (+ dat)
-to create (starts with g)|gestalten
+to create (starts with g-)|gestalten
 selected, targeted|gezielt
 the peer pressure|der Gruppenzwang
 to hack|hacken
 the hacker (male)|der Hacker(-)
 the hacker (female)|die Hackerin(nen)
 to tease, pick on|hänseln
-to add (starts with h)|hinzufügen
+to add (starts with h-)|hinzufügen
 to stay in touch|in Kontakt bleiben
 in real-time|in Echtzeit
 to get in touch|in Kontakt treten
-the content (starts with I)|der Inhalt(e)
+the content (starts with I-)|der Inhalt(e)
 the comment|der Kommentar(e)
 the consumer|der Konsument(en)
 the contact list|die Kontaktliste(n)
@@ -86,7 +86,7 @@ the location-tracking service|der Ortungsdienst(e)
 the noticeboard, online wall|die Pinnwand(¨e)
 the privacy settings|die Privatspäre-Einstellungen
 the (online) profile|das Profil(e)
-to make public (1 word) (starts with p)|publizieren
+to make public (1 word) (starts with p-)|publizieren
 the feedback|die Rückmeldung(en)
 to protect|schützen
 be it ..., whether it be ...|sei es ..., seien es ...
@@ -96,9 +96,9 @@ to tag|taggen
 everywhere in the world|überall auf der Welt
 the other way round, vice versa|umgekehrt
 the nonsense|der Unsinn(-)
-the event (starts with V)|die Veranstaltung(en)
+the event (starts with V-)|die Veranstaltung(en)
 to link|vernetzen
-to make public (starts with v)|veröffentlichen
+to make public (starts with v-)|veröffentlichen
 to send|versenden
 the delay, hesitation|die Verzögerung(en)
 to make available|zue Verfügung stellen

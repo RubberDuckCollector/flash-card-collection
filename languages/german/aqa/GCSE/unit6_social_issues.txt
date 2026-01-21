@@ -1,19 +1,19 @@
 the working day|der Arbeitstag(e)
 poor|arm
-the task, job (starts with A)|die Aufgabe(n)
+the task, job (starts with A-)|die Aufgabe(n)
 to tidy up|aufräumen
-actually, really (starts with e)|eigentlich
+actually, really (starts with e-)|eigentlich
 simple|einfach
 fascinating|faszinierend
-to feed (starts with f)|füttern
+to feed (starts with f-)|füttern
 the primary school|die Grundschule(n)
-to come from, to originate from (starts with h)|herkommen
+to come from, to originate from (starts with h-)|herkommen
 the nursery, the kindergarten|der Kindergarten(¨)
 the children's home|das Kinderheim(e)
 the crocodile|das Krokodil(e)
 several|mehrere
 the nature|die Natur
-the place (starts with O)|der Ort(e)
+the place (starts with O-)|der Ort(e)
 the tortoise, turtle|die Schildkröte(n)
 the snake|die Schlange(n)
 exciging, thrilling|spannend
@@ -40,26 +40,26 @@ real, genuine|echt
 voluntary|ehrenamtlich
 to reach|erreichen
 the field|das Feld(er)
-the area (starts with F)|die Fläche(n)
+the area (starts with F-)|die Fläche(n)
 the voluntary work|die Freiwilligenarbeit
-the region, area (starts with G)|das Gebiet(e)
+the region, area (starts with G-)|das Gebiet(e)
 microchipped|gechippt
 endangered|gefährdet
 the captivity|die Gefangenschaft
 the health|die Gesundheit
 the habitat, living space|der Lebensraum(¨e)
-kind, lovely (starts with uppercase L)|der Lebensraum(¨e)
+kind, lovely (starts with uppercase L-)|der Lebensraum(¨e)
 the rainforest|der Regenwald(¨er)
 real, proper, correct|richtig
 (German) Red Cross|(Deutsches) Rotes Kreuz
 the safety, security|die Sicherheit
 to donate|spenden
-the part (starts with T)|der Teil(e)
+the part (starts with T-)|der Teil(e)
 the animal lover|der Tierfreund(e)
 to check, to monitor|überprüfen
 the surrounding area, environment|die Umgebung(en)
 the orphan|die Waise(n)
-because of (starts with w)|wegen
+because of (starts with w-)|wegen
 to return|zurückkehren
 to give up|aufgeben
 to stop|aufhören
@@ -75,7 +75,7 @@ to consume|konsumieren
 the hospital|das Krankenhaus(¨er)
 the cancer|der Krebs(e)
 the liver|die Leber
-the team (starts with M)|die Mannschaft(en)
+the team (starts with M-)|die Mannschaft(en)
 damagind, harmful|schädlich
 to save|sparen
 to die|sterben
@@ -87,14 +87,14 @@ to improve, to get better|verbessern
 neither ... nor ...|weder ... noch ...
 to put on weight, to increase|zunehmen
 to be dependent on|abhängig sein von
-to offer (starts with a)|anbieten
+to offer (starts with a-)|anbieten
 instead of|anstatt
 sufficient(ly)|ausreichend
 drunk|betrunken
 the movement, exercise|die Bewegung(en)
 unconscious|bewusstlos
 to be sick, to break|brechen
-furthermore, moreover (starts with d)|darüber hinaus
+furthermore, moreover (starts with d-)|darüber hinaus
 the advice centre for drug addicts|die Drogenberatungsstelle(n)
 the course of withdrawal treatment, rehab|die Entziehungskur(en)
 to be sick (reflexive)|sich erbrechen
@@ -103,7 +103,7 @@ the adult (male)|der Erwachsene(n)
 the adult (female)|die Erwachsene(n)
 the fire service|die Feuerwehr(en)
 the driving license|der Führerschein(e)
-the brain (starts with G)|das Gehirn(e)
+the brain (starts with G-)|das Gehirn(e)
 the stomach|der Magen(¨)
 anorexic|magersüchtig
 the emergency service|der Rettungsdienst(e)

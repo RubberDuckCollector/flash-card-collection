@@ -1,38 +1,38 @@
 to git rid of s.o|abwimmeln
 everyday|alltäglich
-the relative (starts with A)|der Angehörige(n)
-to attack (starts with "an")|angreifen
-to attack (starts with "at")|attackieren
+the relative (starts with A-)|der Angehörige(n)
+to attack (starts with "an-")|angreifen
+to attack (starts with "at-")|attackieren
 the attack|der Angriff(e)
 the fear|der Angst(¨e)
-to insult, harass (starts with a)|anpöbeln
+to insult, harass (starts with a-)|anpöbeln
 the asylum seeker (pejorative)|der Asylant(en)
 to stand out|auffallen
 to laugh at|auslachen
 to harass|bedrängen
 the threat|die Bedrohung(en)
-to insult (starts with b)|beschimpfen
+to insult (starts with b-)|beschimpfen
 affected|betroffen
 the arson attack|der Brandanschlag(¨e)
 the brutality|die Brutalität(en)
-the crime (starts with D)|das Delikt(e)
-humiliating (starts with d)|demütigend
+the crime (starts with D-)|das Delikt(e)
+humiliating (starts with d-)|demütigend
 the discrimination|die Diskriminierung(en)
 the interpreter (male)|der Dolmetscher(-)
 the interpreter (female)|die Dolmetscherin(nen)
-to intimidate (starts with e)|einschüchtern
+to intimidate (starts with e-)|einschüchtern
 the intimidation|die Einschüchterung(en)
-to kill (starts with e)|ermorden
+to kill (starts with e-)|ermorden
 the appearance|die Erscheinung(en)
-wanted (starts with e)|erwünscht
+wanted (starts with e-)|erwünscht
 to escalate|eskalieren
 ethnic|ethnisch
-to arrest (starts with f)|festnehmen
+to arrest (starts with f-)|festnehmen
 the refugee accommodation|die Flüchtlingsunterkunft(¨e)
 the threat of violence|die Gewaltandrohung(en)
 violent|gewalttätig
 the skin colour|die Hautfarbe(n)
-the origin (starts with H)|die Herkunft(¨e)
+the origin (starts with H-)|die Herkunft(¨e)
 the helplessness|die Hilflosigkeit(en)
 to fall down|hinfallen
 to ignore|ignorieren
@@ -47,14 +47,14 @@ racist|rassistisch
 far-right|rechtsextrem
 extreme right-wing|rechstradikal
 the right-wing extremism/radicalism|der Rechtsradikalismus
-to pull (starts with r)|reißen
+to pull (starts with r-)|reißen
 the religious afiliation|die Religionszugehörigkeit(en)
-the harassment (starts with S)|die Schikane(n)
+the harassment (starts with S-)|die Schikane(n)
 to hit|schlagen
 to push|schubsen
 to protect|schützen
-to feel (starts with s)|spüren
-the quote (starts with S)|der Spruch(¨e)
+to feel (starts with s-)|spüren
+the quote (starts with S-)|der Spruch(¨e)
 to stabilise|stabilisieren
 to steal|stehlen
 the stone|der Stein(e)
@@ -64,7 +64,7 @@ the perpetrator|der Täter(-)
 the crime scene|der Tatort(e)
 traumatised|traumatisiert
 to kick (starts wth t)|treten
-invisible (starts with u)|unsichtbar
+invisible (starts with u-)|unsichtbar
 the support|die Unterstützung(en)
 fearful|verängstigt
 injured|verletzt
@@ -81,15 +81,15 @@ the uprising|der Aufstand(¨e)
 to exclude|ausgrenzen
 to exploit|ausnutzen
 to treat|behandeln
-to dominate, rule (starts with b)|beherrschen
+to dominate, rule (starts with b-)|beherrschen
 the disabled person|der Behinderte(n)
 the instruction|das Belehren
-the nation (starts with B)|die Bevölkerung
+the nation (starts with B-)|die Bevölkerung
 the education|die Bildung
 the native|der Eingeborene(n)
 to class|einstufen
 to conquer|eroben
-cruel (starts with g)|grausam
+cruel (starts with g-)|grausam
 the rule, reign|die Herrschaft(en)
 the colonialism|der Kolonialismus
 the concentration camp|das Konzentrationslager(-)
@@ -97,7 +97,7 @@ the takeover, seizing power|die Machtübernahme(n)
 inferior|minderwertig
 the missionary work|das Missionieren(-)
 the natural science|die Naturwissenschaft(en)
-the envy (starts with N)|der Neid
+the envy (starts with N-)|der Neid
 the race|die Rasse(n)
 the segregation|die Rassentrennung(en)
 the riches|der Reichtum(¨er)
@@ -105,33 +105,33 @@ the resource|der Rohstoff(e)
 the settler (male)|der Siedler(-)
 the settler (female)|die Siedlerin(nen)
 to increase|steigern
-to attack (starts with ü)|überfallen
+to attack (starts with ü-)|überfallen
 superior|überlegen
-to kill (starts with u)|umbringen
+to kill (starts with u-)|umbringen
 to suppress|unterdrücken
 the sub-human (a label applied to non-Aryans by National Socialists)|der Untermensch(en)
 to subject|unterwerfen
-the native (starts with U)|der Ureinwohner(-)
-the origin (starts with U)|der Ursprung(¨e)
+the native (starts with U-)|der Ureinwohner(-)
+the origin (starts with U-)|der Ursprung(¨e)
 to persecute|verfolgen
 the persecution|die Verfolgung(en)
-to arrest (starts with v)|verhaften
+to arrest (starts with v-)|verhaften
 the enslavement|die Versklavung(en)
 to drive out|vertreiben
 the genocide|der Völkermord(e)
 the prejudice|das Vorurteil(e)
 the resource|der Wertstoff(e)
-to destroy (starts with z)|zerstören
+to destroy (starts with z-)|zerstören
 the forced labour|die Zwangsarbeit(en)
 to force|zwingen
 to touch|anfassen
-the fan (starts with A) (male)|der Anhänger(-)
-the fan (starts with A) (female)|die Anhängerin(nen)
+the fan (starts with A-) (male)|der Anhänger(-)
+the fan (starts with A-) (female)|die Anhängerin(nen)
 to request|auffordern
 to rise up|auflehnen
 the exploitation|die Ausbeutung(en)
 to emigrate|auswandern
-to intimidate (starts with b)|bedrohen
+to intimidate (starts with b-)|bedrohen
 to pester|belästigen
 to insult|beleidigen
 the eye contact|der Blickkontakt(e)
@@ -139,23 +139,23 @@ the bomb attack|der Bombenanschlag(¨e)
 the demonstration|die Demonstration(en)
 the dictatorship|die Diktatur(en)
 the racial hatred|der Fremdenhass
-peaceful (starts with f)|friedlich
-to kill (starts with e)|ermorden
+peaceful (starts with f-)|friedlich
+to kill (starts with e-)|ermorden
 the prison|das Gefängnis(se)
 the society|die Gesellschaft(en)
 the conscience|das Gewissen(-)
 the hero|der Held(en)
 the heroine|die Heldin(nen)
 the helpfulness|die Hilfsbereitschaft
-to execute (starts with h)|hinrichten
+to execute (starts with h-)|hinrichten
 the isolation|die Isolation(en)
 the youth movement|die Jugendbewegung(en)
 the campaign|die Kampagne(n)
-to fight (starts with k)|kämpfen
-to offer (starts with lowercase L)|leisten
-the resistance (starts with W)|der Widerstand(¨e)
+to fight (starts with k-)|kämpfen
+to offer (starts with lowercase L-)|leisten
+the resistance (starts with W-)|der Widerstand(¨e)
 the takeover|die Machtübernahme(n)
-brave (starts with m)|mutig
+brave (starts with m-)|mutig
 the responsibility|die Pflicht(en)
 to protest|protestieren
 to provoke|provozieren
@@ -164,11 +164,11 @@ critical of a regime|regimekritisch
 self-confident|selbstbewusst
 the solidarity|die Solidarität
 the fall|der Sturz(¨e)
-to participate (starts with t)|teilnehmen
-the death (starts with T)|der Tod(e)
+to participate (starts with t-)|teilnehmen
+the death (starts with T-)|der Tod(e)
 the tolerance|die Toleranz(en)
-to kill (starts with t)|töten
+to kill (starts with t-)|töten
 the responsability|die Verantwortung(en)
-to act (starts with v)|vorgehen
+to act (starts with v-)|vorgehen
 to resist, fight against|wehren
 the civil courage|die Zivilcourage

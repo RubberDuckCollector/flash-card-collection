@@ -6,7 +6,7 @@ the inclusion|die Aufnahme(n)
 to deal with, explore (reflexive)|sich auseinandersetzen mit
 the committee|der Ausschuss(¨e)
 the foreign agency|die Außenpolitik(¨e)
-impressive (starts with b)|beeindruckend
+impressive (starts with b-)|beeindruckend
 to join, become a member of|beitreten
 professionally|beruflich
 to be based on (+ case)|beruhen auf (+ dat)
@@ -15,14 +15,14 @@ to refer to oneself as (reflexive)|sich bezeichnen als
 the Brexit|der Brexit
 the alliance|das Bündnis(se)
 former|ehemalig
-to reveal (starts with e)|enthüllen
+to reveal (starts with e-)|enthüllen
 to turn out to be (reflexive)|sich erweisen als
 the expansion|die Erweiterung(en)
 the European Community for Coal and Steel (ECSC, forerunner to EEC)|die Eruopäische Gemeinschaft für Kohle und Stahl (EGKS)
 the Eropean Union (EU)|die Europäische Union (EU)
 the Eropean Economic Community (EEC)|die Europäische Wirtschaftsgemeinschaft (EWG/EG)
 as a consequence (of that) (has "darauf")|in Folge darauf
-peaceful(ly) (starts with f)|friedlich
+peaceful(ly) (starts with f-)|friedlich
 characterised|geprägt
 the municipality|die Gemeinde(n)
 to found|gründen
@@ -42,14 +42,14 @@ the pillar|die Säule(n)
 to create|schaffen
 the sign|das Schild(er)
 the security policy|die Sicherheitspolitik(en)
-to ensure (starts with s)|sichern
+to ensure (starts with s-)|sichern
 the tension|die Spannung(en)
 the subsidy|die Subvention(en)
 the conference|die Tagung(en)
-to cross (starts with ü)|überqueren
+to cross (starts with ü-)|überqueren
 the local area|das Umfeld(er)
 vice versa|umgekehrt
-undisputed (starts with "unb")|unbestritten
+undisputed (starts with "unb-")|unbestritten
 the joint enterprise, venture|der Unternehmensverein
 the event|die Veranstaltung(en)
 to strengthen|verstärken
@@ -73,17 +73,17 @@ apparently|anscheinend
 the unemployment figure|die Arbeitslosenquote(n)
 the extent|das Ausmaß(e)
 the foreign policy|die Außenpolitik
-to combat (starts with b)|bekämpfen
-the area (starts with B)|der Bereich(e)
+to combat (starts with b-)|bekämpfen
+the area (starts with B-)|der Bereich(e)
 the enrichment|die Bereicherung(en)
-the job, work (starts with "Bes")|die Beschäftigung(en)
+the job, work (starts with "Bes-")|die Beschäftigung(en)
 the educational path|die Bildungsweg(e)
-clearly (starts with d)|deutlich
+clearly (starts with d-)|deutlich
 the settling-in process|die Eingewöhnung
 to agree (reflexive)|sich einigen
 to feel, (here:) to find|empfinden
 to correspond to (+ case)|entsprechen (+ dat)
-to make possible (starts with e)|ermöglichen
+to make possible (starts with e-)|ermöglichen
 the European Commission|die Europäische Kommission
 the expert|die Fachkraft(¨e)
 the competence|die Fähigkeit(en)
@@ -94,7 +94,7 @@ the volunteer (female)|die Freiwillige(n)
 the peace|der Friede(n)
 the fundamental principle|das Fundament
 the fee|die Gebühr(en)
-to be valid (starts with g)|gelten
+to be valid (starts with g-)|gelten
 to form|gestalten
 the legistlation|die Gesetzgebung
 the toxic material|der Giftstoff(e)
@@ -103,14 +103,14 @@ the trade|der Handel(-)
 the priority|das Hauptanliegen(-)
 to make a compromise|einen Kompromiss eingehen
 artificial|künstlich
-to advise (starts with r)|raten
+to advise (starts with r-)|raten
 it goes without saying|es ist eine Selbstverständlichkeit
 pointless, meaningless|sinnlos
 the tax|die Steuer(n)
 to subsidise|subventionieren
-active (starts with t)|tätig
+active (starts with t-)|tätig
 the participant|der Teilnehmer(-)
-comprehensive (starts with ü)|übergreifend
+comprehensive (starts with ü-)|übergreifend
 to overlook|übersehen
 the vast quantity (put "von" after the word for "vast quantity of")|die Unmasse(n)
 to rely on (+ case) (reflexive)|sich verlassen auf (+ acc)
@@ -126,19 +126,19 @@ additional|zusätzlich
 to attribute|zuschreiben
 to attribute something to someone|jemandem etwas zuschreiben
 the purpose|der Zweck(e)
-to estimate (starts with a)|abschätzen
+to estimate (starts with a-)|abschätzen
 to weigh|abwiegen
 the matter, issue|die Angelegenheit(en)
 the attraction|der Anreiz(e)
 the application|der Antrag(¨e)
-to accept (starts with "au")|aufnehmen
+to accept (starts with "au-")|aufnehmen
 to exploit|ausbeuten
 regrettable|bedauerlich
 the condition|die Bedingung(en)
 sought after|begehrt
 the authority|die Behörde(n)
 the entry, joining|der Beitritt(e)
-to combat (starts with b)|bekämpfen
+to combat (starts with b-)|bekämpfen
 with respect to|in Bezug auf
 the fraction|das Bruchstück(e)
 colourful|bunt
@@ -163,12 +163,12 @@ the human trafficking|der Menschenhandel
 the human rights (pl.)|die Menschenrechte
 the minority|die Minderheit(en)
 to abuse|missbrauchen
-the economist (starts with Ö) (male)|der Ökonom(en)
-the economist (starts with Ö) (female)|die Ökonomin(nen)
-to take care of (starts with p)|pflegen
+the economist (starts with Ö-) (male)|der Ökonom(en)
+the economist (starts with Ö-) (female)|die Ökonomin(nen)
+to take care of (starts with p-)|pflegen
 to insist on (+ case)|pochen auf (+ acc)
 as a rule|in der Regel
-to estimate (starts with s)|schätzen
+to estimate (starts with s-)|schätzen
 constant(ly)|ständig
 the increase|die Steigerung(en)
 the deepening|die Vertiefung(en)

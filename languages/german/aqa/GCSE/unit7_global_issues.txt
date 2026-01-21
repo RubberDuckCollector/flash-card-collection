@@ -30,7 +30,7 @@ the species extinction|das Artensterben
 the exhaust fumes (pl) (answer without article)|Auspuffgase
 to die out, to become extinct|aussterben
 to threaten|bedrohen
-already (starts with b)|bereits
+already (starts with b-)|bereits
 the soil|der Boden(¨)
 the fuel|der Brennstoff(e)
 the chemical|die Chemikalie(n)
@@ -41,17 +41,17 @@ the Earth|die Erde
 endangered|gefährdet
 the rush hour|die Hauptverkehrszeit(en)
 altogether|insgesamt
-disaster (starts with K)|die Katastrophe(n)
+disaster (starts with K-)|die Katastrophe(n)
 the climate change|der Klimawandel
 the carbon dioxide|das Kholendioxid(e)
 the ozone layer|die Ozonschicht(en)
 the raw material|der Rohstoff(e)
 the sulphur dioxide|das Schwefeldioxid(e)
 over-populated|überbevölkert
-to pollute (starts with "verp")|verpesten
-to pollute (starts with "vers")|verschmutzen
+to pollute (starts with "verp-")|verpesten
+to pollute (starts with "vers-")|verschmutzen
 to waste|verschwenden
-to use (starts with v)|verwenden
+to use (starts with v-)|verwenden
 to warn about|warnen vor
 the water scarcity|die Wasserknappheit
 the world|die Welt(en)
@@ -68,7 +68,7 @@ to flee|fliehen
 to escape|die Flucht(en)
 the refugee|der Flüchtling(e)
 the refugee camp|das Flüchtlingslager(-)
-happy, glad, pleased (starts with f)|froh
+happy, glad, pleased (starts with f-)|froh
 the birth|die Geburt(en)
 helpless|hilflos
 the wood|das Holz
@@ -81,7 +81,7 @@ to throw out|rauswerfen
 difficult|schwierig
 the soup kitchen|die Suppenküche(n)
 the bag|die Tasche(n)
-over, above, via (starts with ü)|über
+over, above, via (starts with ü-)|über
 to come back|wiederkommen
 teetotal|abstinent
 the nightmare|der Albtraum(¨e)

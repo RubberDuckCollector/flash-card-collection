@@ -2,16 +2,16 @@ to lose weight|abnehmen
 everything revolves around ... (4 words) (reflexive in there somewhere)|alles dreht sich um ...
 Anything goes (2 words)|Alles geht
 to create your own (3 words)|am eigenen Selbst
-identity (starts with b)|basteln
+identity (starts with b-)|basteln
 to fear for somebody, to worry about somebody|Angst um jemanden haben
-to try on (starts with "an")|anprobieren
+to try on (starts with "an-")|anprobieren
 athletic|athletisch
 exciting|aufregend
 to look, appear|aussehen
 the counselling centre|die Beratungsselle(n)
 to be concerned with (3 words) (reflexive)|sich beschäftigen mit
 to go on a diet|eine Diät machen
-thin (starts with d)|dünn
+thin (starts with d-)|dünn
 to allow|erlauben
 to heat healthily (reflexive)|sich gesund ausgewogen ernähren
 to heat badly (reflexive)|sich schlecht ausgewogen ernähren
@@ -22,17 +22,17 @@ to do your hair|die Frisur stylen
 the weight|das Gewicht(e)
 fundamental(ly)|grundsätzlich
 ugly|hässlich
-on the other hand (starts with h)|hingegen
+on the other hand (starts with h-)|hingegen
 the individual|das Individuum(-en)
 the youth|die Jugend
 the youth centre|der Jugendtreff(s)
-the clothes (starts with "Kla")|die Klamotten
+the clothes (starts with "Kla-")|die Klamotten
 to dress conventionally (reflexive)|sich gewöhnlich kleiden
 to dress fashionably (reflexive)|sich trendy kleiden
 the clothing brand|die Kleidermarke(n)
 the anorexia|die Magersucht
 anorexic|magersüchtig
-flawless, perfect (starts with m)|makellos
+flawless, perfect (starts with m-)|makellos
 to be satisfied with your appearance|mit seinem Aussehen zufrieden sein
 the make-up|das Make-up
 the model (e.g fashion) (has 1 L)|das Model(s)
@@ -46,7 +46,7 @@ the outfit|das Outfit(s)
 the puberty|die Pubertät
 the space|der Raum(¨e)
 to conform to (reflexive)|sich richten nach
-smart (starts with s)|schick
+smart (starts with s-)|schick
 lethargic|schlapp
 to put on make-up (reflexive)|sich schminken
 the cosmetic surgery|die Schönheitsoperation(en)
@@ -63,19 +63,19 @@ to conceal|verbergen
 to fall victim to something (+ case)|etwas (+ dat) verfallen
 supposed(ly)|vermeintlich
 the role model|das Vorbild(er)
-to transform (starts with w) (reflexive)|sich wandeln
+to transform (starts with w-) (reflexive)|sich wandeln
 to put on weight|zunehmen
 to get ready|sich zurechtmachen
 hip, 'hot'|angesagt
 the reputation|das Ansehen(-)
 to choose something|sich etwas aussuchen
 sold out|ausverkauft
-popular (starts with b)|beliebt
-famous (starts with b)|berühmt
+popular (starts with b-)|beliebt
+famous (starts with b-)|berühmt
 the CD|die CD(s)
 to go straight to the heart, play on (your) feelings|direkt ins Herz treffen
 the attitude towards society|die Einstellung(en) zur Gesellschaft
-to relax (starts with e)|sich entspannen
+to relax (starts with e-)|sich entspannen
 the success|der Erfolg
 to be successful|Erfolg haben
 to build up a fan base|eine Fangemeinde aufbauen
@@ -112,29 +112,29 @@ the (German) pop hit, pop music|der Schlager(-)
 inconceivable|undenkbar
 signed to (a record label)|unter Vertrag bei
 to promote|werben für
-up to date (starts with z)|zeitgemäß
+up to date (starts with z-)|zeitgemäß
 to distract oneself (reflexive)|sich ablenken
-to turn off (starts with "absc")|abschalten
-to turn off (starts with "abst")|abstellen
+to turn off (starts with "absc-")|abschalten
+to turn off (starts with "abst-")|abstellen
 the variety|die Abwechslung(en)
-current, up to date (starts with a)|aktuell
+current, up to date (starts with a-)|aktuell
 the appearance (e.g on TV)|der Auftritt(e)
 from afar (3 words)|aus der Ferne
 out of boredom|aus Langweile
 to be ridiculed|ausgelacht werden
 to chill out|ausruhen
-to turn off (starts with "ausr")|ausruhen
-to turn off (starts with "auss")|aussellen
+to turn off (starts with "ausr-")|ausruhen
+to turn off (starts with "auss-")|aussellen
 the broadcast|die Ausstrahlung(en)
 to influence|beeinflussen
-convenient (starts with b)|bequem
+convenient (starts with b-)|bequem
 the lack of physical activity|der Bewegungsmangel
 to apply (for something)|sich (um etwas) bewerben
 conscious(ly)|bewusst
 the talent show|die Castingshow(s)
 to make stupid|dumm machen
 to channel-hop|durch die Kanäle zappen
-to turn on (starts with e)|einschalten
+to turn on (starts with e-)|einschalten
 the viewing figures|die Einschaltquoten
 in order to boost audience ratings|für Einschalquotenzwecke
 to fulfil|erfüllen
@@ -146,14 +146,14 @@ the TV bosses, producers|die Fernsehmacher
 the TV schedule|das Fernsehprogramm(e)
 the TV viewers|die Fernsehzuschauer
 the population as a whole|die Gesamtbevölkerung
-to watch (starts with g)|gucken
+to watch (starts with g-)|gucken
 the background noise|das Hintergrundgeräusch(e)
 to be on in the background|in Hingergrund laufen
 to get information (reflexive)|sich informieren
 the online TV|das Internetfernsehen(-)
 for decades|jahrzehntelang
 the channel|der Kanal(¨e)
-the gap (starts with K)|die Kluft(¨e)
+the gap (starts with K-)|die Kluft(¨e)
 to ridicule something|etwas lächerlich machen
 to learn useful things|Nützliches erfahren
 embarrassing|peinlich
@@ -162,10 +162,10 @@ shallow|seicht
 the soap opera|die Seifenoper(n)
 to decide for yourself|selbst bestimmen
 the broadcaster|der Sender(-)
-the programme (starts with S)|die Sendung
+the programme (starts with S-)|die Sendung
 the series|die Serie(n)
 gripping|spanned
-always (starts with s)|stets
+always (starts with s-)|stets
 daily|täglich
 the reason for watching TV|das TV-Nutzungsmotiv(e)
 to entertain oneself (reflexive)|sich unterhalten
@@ -177,5 +177,5 @@ too much violence on TV|zu viel Gewalt im Fernsehen
 the advertising|die Werbung(en)
 for distraction/relaxation (has "zur")|zur Ablenkung
 for distraction/relaxation (has "zum")|zum Entspannen
-to decrease (starts with z)|zurückgehen
-the link (starts with Z)|der Zusammenhang(¨e)
+to decrease (starts with z-)|zurückgehen
+the link (starts with Z-)|der Zusammenhang(¨e)

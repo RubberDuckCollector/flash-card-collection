@@ -7,27 +7,27 @@ the asylum seeker (pejorative) (female)|die Asylantin(nen)
 tha applicant for asylum (male)|der Asylbewerber(-)
 tha applicant for asylum (female)|die Asylbewerberin(nen)
 the stay|der Aufenhalt(e)
-to show (starts with "au")|aufweisen
+to show (starts with "au-")|aufweisen
 to part, differ|auseinandergehen
 the extent|das Ausmaß(e)
 the ethnic German immigrant|der Aussiedler(-)
 the emigration|die Auswanderung(en)
-the term (starts with B)|der Begriff(e)
+the term (starts with B-)|der Begriff(e)
 the integral part|der Bestandteil(e)
-to exist (starts with b)|bestehen
-to characterise (starts with b)|bezeichnen
+to exist (starts with b-)|bestehen
+to characterise (starts with b-)|bezeichnen
 the (academic) qualification|der Bildungsabschluss(¨e)
 the civil war|der Bürgerkrieg(e)
 permanent, long-lasting|dauerhaft
 the naturalisation|die Einbürgerung
 uniform (adjective)|einheitlich
 the institution|die Einrichtung(en)
-the immigrant (starts with E) (male)|der Einwanderer(-)
-the immigrant (starts with E) (female)|die Einwanderin(nen)
+the immigrant (starts with E-) (male)|der Einwanderer(-)
+the immigrant (starts with E-) (female)|die Einwanderin(nen)
 to aquire|erwerben
 the income from employment|das Erwerbseinkommen(-)
-inadequate (starts with f)|fehlend
-to be certain (starts with f)|feststehen
+inadequate (starts with f-)|fehlend
+to be certain (starts with f-)|feststehen
 the refugee|der Flüchtling(e)
 the flood|die Flut(en)
 in demand|gefragt
@@ -41,14 +41,14 @@ the crisis|die Krise(n)
 the change of place|der Ortswechsel
 the prospect|die Perspektive(n)
 the forecast|die Prognose(n)
-the government (starts with R)|die Regierungsführung
-to reach, extend (starts with r)|reichen
+the government (starts with R-)|die Regierungsführung
+to reach, extend (starts with r-)|reichen
 the estimate|die Schätzung(en)
 the smuggler gang (smuggling people)|die Schlepperbande(n)
-noticeable, tangible (starts with s)|spürbar
-the nationality (starts with S)|die Staatangehörigkeit(en)
-the citizenship (starts with S)|die Staatsbürgerschaft(en)
-to exceed (starts with ü)|überschreiten
+noticeable, tangible (starts with s-)|spürbar
+the nationality (starts with S-)|die Staatangehörigkeit(en)
+the citizenship (starts with S-)|die Staatsbürgerschaft(en)
+to exceed (starts with ü-)|überschreiten
 the difference, distinction|die Unterscheidung(en)
 unsatisfactory|unzureichend
 the persecution|die Verfolgung(en)
@@ -60,8 +60,8 @@ the growth|das Wachstum
 prosperous|wohlhabend
 increasing|zunehmend
 the connection|der Zusammenhang(¨e)
-the immigrant (starts with Z) (male)|der Zuwanderer(-)
-the immigrant (starts with Z) (female)|die Zuwanderin(nen)
+the immigrant (starts with Z-) (male)|der Zuwanderer(-)
+the immigrant (starts with Z-) (female)|die Zuwanderin(nen)
 to do well|gut abschneiden
 the distance|der Abstand(¨e)
 to make friends with (reflexive)|(sich) anfreunden
@@ -69,14 +69,14 @@ the share|der Anteil(e)
 to catch up|auffangen
 on the basis of|aufgrund
 of all people (in the context of this unit)|ausgerechnet
-left out, isolated (starts with "au")|ausgeschlossen
+left out, isolated (starts with "au-")|ausgeschlossen
 to emigrate|auswandern
-to use (starts with b) (reflexive)|(sich) bedienen
-to support (starts with "be")|befürworten
+to use (starts with b-) (reflexive)|(sich) bedienen
+to support (starts with "be-")|befürworten
 to master|beherrschen
 the limit|die Beschränkung(en)
 to apply for (reflexive)|(sich) bewerben um
-to arrive (starts with "ein")|eintreffen
+to arrive (starts with "ein-")|eintreffen
 the impression|der Eindruck(¨e)
 the misery|das Elend(-)
 to develop, open up|erschließen
@@ -84,18 +84,18 @@ the qualified employee|die Fachkraft(¨e)
 the vehicle manufacture|der Fahrzeugbau
 the stranger|der Fremdling(e)
 the present (tense, not gift)|die Gegenwart
-small (starts with g)|gering
+small (starts with g-)|gering
 the gesture|die Geste(n)
 accusomed/used to|gewohnt
-the budget (starts with H)|der Haushalt(e)
-to produce, establish (starts with h)|herstellen
-the respect (starts with H)|die Hinsicht(en)
+the budget (starts with H-)|der Haushalt(e)
+to produce, establish (starts with h-)|herstellen
+the respect (starts with H-)|die Hinsicht(en)
 of high value|hochwertig
 to giggle|kichern
 to coordinate|koordinieren
-to create (starts with k)|kreieren
+to create (starts with k-)|kreieren
 the relaxation|die Lockerung(en)
-to lack (starts with m)|mangeln
+to lack (starts with m-)|mangeln
 the need to catch up|der Nachholbedarf(e)
 the curiosity|die Neugierde(-)
 to nod|nicken
@@ -103,13 +103,13 @@ visually|optisch
 biased, taking sides|parteiisch
 the recruitment|die Personalbeschaffung(en)
 the care|die Pflege(-)
-the safety, security (starts with S)|die Sicherheit
+the safety, security (starts with S-)|die Sicherheit
 playful|spielerisch
 the recipient of state benefits|der Transferleistungsempfänger(-)
 indisputably|unbestreitbar
 the firm|das Unternehmen(-)
-the loss (starts with V)|der Verlust(e)
-the understanding (starts with "Ve")|die Verständigung(en)
+the loss (starts with V-)|der Verlust(e)
+the understanding (starts with "Ve-")|die Verständigung(en)
 the surprise|die verwunderung(en)
 the provision|die Vorsorge(n)
 the competitiveness|die Wettbewerbsfähigkeit(en)
@@ -124,7 +124,7 @@ the effort|die Anstrengung(en)
 to maintain|aufrechterhalten
 to deport (Swiss German)|ausschaffen
 to pay off (reflexive)|(sich) auszahlen
-the need (starts with B)|das Bedürfnis(se)
+the need (starts with B-)|das Bedürfnis(se)
 the contribution, article|der Beitrag(¨e)
 to load, put a strain on|belasten
 the strain|die Belastung(en)
@@ -142,9 +142,9 @@ to support, promote|fördern
 the formula|die Formel(n)
 to endanger|gefährden
 in accordance with|gemäß
-true (starts with g)|gerecht
+true (starts with g-)|gerecht
 to grant|gewähren
-local (starts with h)|heisig
+local (starts with h-)|heisig
 with regard to|hinsichtlich
 to point to|hinweisen
 the degree|der Hochschulabschluss(¨e)
@@ -170,11 +170,11 @@ to implement|umsetzen
 the spread|die Verbreitung(en)
 the agreement|die Vereinbarung(en)
 the process|das Verfahren(-)
-persecuted (starts with v)|verfolgt
+persecuted (starts with v-)|verfolgt
 the failure|das Versagen(-)
 the treaty|der Vertrag(¨e)
 under international law|völkerrechtlich
-to produce, submit (starts with v)|vorlegen
+to produce, submit (starts with v-)|vorlegen
 the value, worth|der Wert(e)
 the benefit|das Wohl(-)
 the solidarity|der Zusammenhalt

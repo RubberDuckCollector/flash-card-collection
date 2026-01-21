@@ -16,7 +16,7 @@ blue|blau
 light blue|hellblau
 dark blue|dunkelblau
 now|jetzt
-to mean (starts with b)|bedeuten
+to mean (starts with b-)|bedeuten
 the dialogue|das Gespräch
 the blackboard|die Tafel(n)
 the door|die Tür(en)

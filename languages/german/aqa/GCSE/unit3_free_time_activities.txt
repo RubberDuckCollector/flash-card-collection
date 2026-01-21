@@ -1,6 +1,6 @@
 to start, to begin|anfangen
-to watch, to look at (starts with "ang")|angucken
-to watch, to look at (starts with "ans")|ansehen
+to watch, to look at (starts with "ang-")|angucken
+to watch, to look at (starts with "ans-")|ansehen
 sold out|ausverkauft
 German-speaking|deutschsprachig
 successful|erfolgreich
@@ -25,23 +25,23 @@ excellent, outstanding|hervorragend
 the century|das Jahrhundert(e)
 the big screen, cinema|die Leinwand(¨e)
 to feel like doing something (5 words)|Lust haben, etwas zu tun
-the director (starts with R)|der Regisseur(e)
+the director (starts with R-)|der Regisseur(e)
 the series (films/books)|die Reihe(n)
 the actor|der Schauspieler(-)
 the actress|die Schauspielerin(nen)
 the participant|der Teilnehmer(-)
-dead (starts with t)|tot
+dead (starts with t-)|tot
 contemporary,-up to date|zeitgemäß
 the eel soup|die Aalsuppe
-the dinner, evening meal (starts with A)|das Abandessen(-)
-to have no idea (3 words) ("idea" starts with A)|keine Ahnung haben
+the dinner, evening meal (starts with A-)|das Abandessen(-)
+to have no idea (3 words) ("idea" starts with A-)|keine Ahnung haben
 the old part of town|die Altstadt
 the roast chicken|das Brathähnchen(-)
 the spicy sausage|die Currywurst(¨e)
 the meatball (like "frikandel")|die Frikadelle(n)
 the breakfast|das Frühstück(e)
 to enjoy|genießen
-the chicken (starts with H)|das Hähnchen(-)
+the chicken (starts with H-)|das Hähnchen(-)
 the raspberry|die Himbeere(n)
 the honey|der Honig
 to be hungry|Hunger haben
@@ -53,7 +53,7 @@ the cream|die Sahne
 the ham sandwhich|das Schinkenbrot(e)
 the soup|die Suppe(n)
 all sorts of|allerlei
-the moment (starts with A)|der Augenblick(e)
+the moment (starts with A-)|der Augenblick(e)
 the selection, choice|die Auswahl(en)
 to order|bestellen
 the crisps (pl) (answer this without an article)|Chips
@@ -69,27 +69,27 @@ the fat|das Fett(e)
 the ready meal|das Fertiggericht(e)
 the dish, meal|das Gericht(e)
 the main course|das Hauptgericht(e)
-to get, to fetch (starts with h)|holen
+to get, to fetch (starts with h-)|holen
 the waiter|der Kellner(-)
 the waitress|die Kellnerin(nen)
 it's OK, it doesn't matter|es macht nichts
 the skimmed milk|die Magermilch
 the sea view|der Meeresblick(e)
 the seafood (pl)|die Meeresfrüchte
-arduous, hard work (starts with m)|mühsam
+arduous, hard work (starts with m-)|mühsam
 mussels (pl) (answer this without an article)|Muscheln
 the bill|die Rechnung(en)
 the menu|die Speisekarte(n)
 the piece|das Stück(e)
 I'm sorry.|Das tut mir leid.
-to avoid (starts with v)|vermeiden
+to avoid (starts with v-)|vermeiden
 a greedy eater/glutton|der Vielfraß(e)
 the starter|die Vorspeise(n)
 to choose|wählen
 to take your time (reflexive)|sich die Zeit nehmen
 to leave, to depart, to go off|abfahren
 to enjoy oneself (reflexive)|sich amüsieren
-hard work, effortful (starts with a)|anstrengend
+hard work, effortful (starts with a-)|anstrengend
 the trip, excursion|der Ausflug(¨e)
 to bathe, to swim|baden gehen
 the visit|der Besuch(e)
@@ -126,14 +126,14 @@ outside, in the open air|im Freien
 the footprint|die Fußspur(en)
 the mountain lake|der Gebirgssee(n)
 dangerous|gefährlich
-the challenge (starts with H)|die Herausforderung(en)
+the challenge (starts with H-)|die Herausforderung(en)
 physical|köperlich
 the achievement|die Leistung(en)
 the possibility|die Möglichkeit(en)
 to have the courage (2 words)|Mumm haben
-brave, courageous (starts with m)|mutig
-to try out (starts with p)|probieren
-to try out (starts with "au")|ausprobieren
+brave, courageous (starts with m-)|mutig
+to try out (starts with p-)|probieren
+to try out (starts with "au-")|ausprobieren
 to dive|tauchen
 to overcome|überwinden
 adventurous|unternehmungslustig

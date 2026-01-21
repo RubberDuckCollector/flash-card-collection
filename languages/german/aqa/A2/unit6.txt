@@ -3,9 +3,9 @@ to grow up|aufwaschen
 to put out of ...|aus ... strönen
 the worry|das Bedenken(-)
 the significance|die Bedeutung(en)
-the supporter (starts with B) (male)|der Befürworter(-)
-the supporter (starts with B) (female)|die Befürworterin(nen)
-to claim (starts with b)|behaupten
+the supporter (starts with B-) (male)|der Befürworter(-)
+the supporter (starts with B-) (female)|die Befürworterin(nen)
+to claim (starts with b-)|behaupten
 the bed sheet|das Bettlaken(-)
 to confirm|bestätigen
 to punish|bestrafen
@@ -29,7 +29,7 @@ the market economy|die Marktwirtschaft(en)
 the wall|die Mauer
 the Berlin wall|die Berliner Mauer
 the fall of the Berlin wall|der Mauerfall
-to report (starts with m)|melden
+to report (starts with m-)|melden
 the freedom of speech|die Meinungsfreiheit
 to live through something together|etwas miterleben
 to not believe one's ears|seinen Ohren nicht trauen
@@ -37,23 +37,23 @@ the centrally-planned economy|die Planwirtschaft(en)
 the speech|die Rede(n)
 the huge event|das Risenereignis(se)
 the security forces (pl.)|die Sicherheitskräfte
-the informer (starts with S)|der Spitzel(-)
+the informer (starts with S-)|der Spitzel(-)
 the enemy of the state|der Staatsfeind(e)
 the secret police (in the GDR)|die Stasi (Staatssicherheit)
 to throw oneself in|sich stürzen auf
-the division (starts with T)|die Teilung(en)
+the division (starts with T-)|die Teilung(en)
 faithful|treu
 to pull out the troops|Truppen abziehen
 to oppress|unterdrücken
 to hand over|übergeben
-the ally (starts with V)|der Verbündete(n)
-united (starts with v)|vereint
+the ally (starts with V-)|der Verbündete(n)
+united (starts with v-)|vereint
 to announce|verkünden
 to convey|vermitteln
 the representative (male)|der Vertreter(-)
 the representative (female)|die Vertreterin(nen)
-the people/nation (starts with V)|das Volk(¨er)
-to happen (starts with "vol")|vollziehen
+the people/nation (starts with V-)|das Volk(¨er)
+to happen (starts with "vol-")|vollziehen
 the action|das Vorgehen(-)
 the election|die Wahl(en)
 to refuse (reflexive)|sich weigern
@@ -69,11 +69,11 @@ the extract (i.e in literature)|der Auszug(¨e)
 the strong desire|die Begierde(n)
 the money given to East Germans on first visit to the west|das Begrüßungsgeld
 to consider as stupid (3 words)|für bescheuert halten
-the term, label (starts with B)|die Bezeichnung(en)
+the term, label (starts with B-)|die Bezeichnung(en)
 to approve|billigen
 the arson attack|der Brandanschalg(¨e)
 the federal state|das Bundesland(¨er)
-to be closed (1st word starts with d)|dicht sein
+to be closed (1st word starts with d-)|dicht sein
 the property|das Eigentum(e)
 independent|eigenständig
 to integrate|eingliedern
@@ -86,7 +86,7 @@ the total picture|das Gesamtbild
 the border|die Grenze(n)
 the hero|der Held(en)
 the heroine|die Heldin(nen)
-(here:) to be (starts with h)|herrschen
+(here:) to be (starts with h-)|herrschen
 the hut|die Hütte(n)
 the other side of the coin|die Kehrseite der Medaille
 the life expectancy|die Lebenserwartung
@@ -105,7 +105,7 @@ the coup|der Staatsstreich(e)
 the astonishment|das Staunen
 the tax payer|der Steuerzahler(-)
 the mood|die Stimmung(en)
-to change one's thinking (starts with u)|umdenken
+to change one's thinking (starts with u-)|umdenken
 the transformation|die Umwandlung(en)
 necessary|unbedingt
 to say goodbye|(sich) verabschieden
@@ -118,8 +118,8 @@ surprising|verwunderlich
 to presume|voraussetzen
 to imagine (reflexive)|sich vorstellen
 the eagle|der Adler(-)
-the elected member of a parliament (starts with "Abg") (male)|der Abgeordnete(n)
-the elected member of a parliament (starts with "Abg") (female)|die Abgeordnete(n)
+the elected member of a parliament (starts with "Abg-") (male)|der Abgeordnete(n)
+the elected member of a parliament (starts with "Abg-") (female)|die Abgeordnete(n)
 the name sometimes used for a Landesparlament|das Abgeordnetenhaus
 the agricultural land|das Agrarland
 the after-school club|die AG (Arbeitsgemeinschaft)
@@ -127,9 +127,9 @@ the after-school club|die AG (Arbeitsgemeinschaft)
 to distinguish oneself (reflexive)|sich auszeichnen
 to distinguish oneself (though something) (reflexive)|sich durch etwas auszeichnen
 the coastal resort|der Badeort(e)
-to harm (starts with b) belasten
+to harm (starts with b-) belasten
 the environment|die Umwelt
-populated (starts with b)|besiedelt
+populated (starts with b-)|besiedelt
 the peculiarity, special feature|die Besonderheit(en)
 to consist of|bestehen aus
 at best|bestenfalls
@@ -137,7 +137,7 @@ the Lake Constance|der Bodensee
 the brewery|die Brauerei(en)
 the federal government|die Bundesregierung
 the mayor|der Bürgermeister(-)
-to experience, feel (starts with e)|empfinden
+to experience, feel (starts with e-)|empfinden
 the factory|die Fabrik(en)
 the flag|die Fahne(n)
 the gourmet|der Feinschmecker(-)
@@ -167,13 +167,13 @@ the federal state made up of one or two cities|der Stadtstaat(en)
 the deputy (male)|der Stellvertreter(-)
 the deputy (female)|die Stellvertreterin(nen)
 the freshwater lake|der Süßwassersee(n)
-the lessons (starts with U)|der Unterricht
+the lessons (starts with U-)|der Unterricht
 originally|ursprünglich
 to be predominant, prevail|überwiegen
-familiar (starts with v)|vertraut
+familiar (starts with v-)|vertraut
 the comparison|der Vergleich(e)
 in advance|im Voraus
-to prefer (starts with v)|vorziehen
+to prefer (starts with v-)|vorziehen
 the chairman (male)|der Vorsitzende(n)
 the chairwoman (female)|die Vorsitzende(n)
 the coat of arms|das Wappen(-)

@@ -82,7 +82,7 @@ to wash oneself (reflexive)|sich waschen
 to wish for oneself (reflexive)|sich wünschen
 other, different|ander-
 different(ly)|anders
-popular (lit. "beloved") (starts with b)|beliebt
+popular (lit. "beloved") (starts with b-)|beliebt
 fantastic, great, super|fantastisch
 whole, entire(ly), total(ly), all|ganz
 healthy, healthily|gesund
@@ -92,10 +92,10 @@ others|andere
 the others|die anderen
 See you soon! (lit. ES: "¡Hasta pronto!")|Bis bald!
 See you in a few minutes!|Bis gleich!
-after that, then (starts with d)|danach
+after that, then (starts with d-)|danach
 something different|etwas anderes
 something totally different|etwas ganz anderes
-like (starts with w)|wie
+like (starts with w-)|wie
 just like|genauso wie
 Yes, sure.|Ja, sicher.
 to feel like (doing something)|Lust haben zu...
@@ -109,4 +109,4 @@ I have a headache.|Ich habe Kopfschmerzen.
 Whats the matter? What's going on?|Was ist (denn) los?
 to hurt (separable verb)|wehtun
 My throat hurts/I have a sore throat.|Mir tut der Hals weh.
-first (starts with z)|zuerst
+first (starts with z-)|zuerst

@@ -7,7 +7,7 @@ allowed|erlaubt
 the ferry|die Fähre(n)
 the ticket|die Fahrkarte(n)
 the fare|der Fahrpreis(e)
-the track, platform (starts with G)|das Gleis(e)
+the track, platform (starts with G-)|das Gleis(e)
 the barbecue area|der Grillplatz(¨e)
 the hairdryer|der Haartrockner(-)
 the half board|die Halbpension
@@ -32,7 +32,7 @@ the trip, excursion|der Ausflug(¨e)
 to fill in|ausfüllen
 equipped|ausgestattet
 the foreign country, abroad|das Ausland
-the platform (starts with B)|der Bahnsteig(e)
+the platform (starts with B-)|der Bahnsteig(e)
 to sightsee, to visit, to have a look|besichtigen
 to assess, to rate|bewerten
 to check in|einchecken
@@ -66,7 +66,7 @@ the admission ticket|die Eintrittskarte(n)
 along|entlang
 the ticket machine|der Fahrkartenautomat(en)
 the ticket office|der Fahrkartenschalter(-)
-the bicycle hire (starts with "Fahrradverm")|die Fahrradvermietung(en)
+the bicycle hire (starts with "Fahrradverm-")|die Fahrradvermietung(en)
 the camera|der Fotoapparat(e)
 all year around|ganzjährig
 marvellous, magnificent, glorious|herrlich
@@ -79,21 +79,21 @@ the travel agency|das Reisebüro(s)
 the travel bag|die Reisetasche(n)
 the tour, round trip|die Rundfahrt(en)
 the locker|das Schließfach(¨er)
-to change (means of transport) (starts with u)|umsteigen
+to change (means of transport) (starts with u-)|umsteigen
 the waiting room|der Wartesaal(säle)
 again|wieder
 Vienna|Wien
 the souvenir, memento|das Andenken(-)
 the range, offer|das Angebot(e)
 breathtaking|atemberaubend
-to drive on, to use (starts with b)|befahren
+to drive on, to use (starts with b-)|befahren
 the visit, tour|die Besichtigung(en)
 to admire|bewundern
 the Lake Constance|der Bodensee
 the steam boat|der Dampfer(-)
 the reception (hotel)|der Empfang(¨e)
 to remember (reflexive)|sich erinnern
-the bicycle hire (starts with "Fahrradverl")|der Fahrradverleih(e)
+the bicycle hire (starts with "Fahrradverl-")|der Fahrradverleih(e)
 Geneva|Genf
 casual, relaxed|locker
 to be worth it (reflexive)|sich lohnen

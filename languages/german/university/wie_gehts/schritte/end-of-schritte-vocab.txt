@@ -9,7 +9,7 @@ the window|das Fenster
 the Mrs; woman; wife|die Frau(en)
 the spring|der Frühling
 the opposite|das Gegenteil(e)
-the notebook (starts with H)|das Heft(e)
+the notebook (starts with H-)|das Heft(e)
 the shirt|das Hemd(en)
 the autumn, fall|der Herbst
 the Mr; gentleman|der Herr(en)
@@ -27,8 +27,8 @@ the coat|der Mantel(¨)
 the minute|die Minute(n)
 the month|der Monat(e)
 the paper|das Papier(e)
-the jumper (starts with Pullo)|der Pullover(-)
-the jumper (starts with Pulli)|der Pulli(s)
+the jumper (starts with Pullo-)|der Pullover(-)
+the jumper (starts with Pulli-)|der Pulli(s)
 the skirt|der Rock(¨e)
 the shoe|der Schuh(e)
 the second|die Sekunde(n)
@@ -36,8 +36,8 @@ the summer|der Sommer
 the student (male)|der Student(en)
 the student (female)|die Studentin(nen)
 the chair|der Stuhl(e)
-the hour (starts with S)|die Stunde(n)
-the sweatshirt (starts with S)|das Sweatshirt(s)
+the hour (starts with S-)|die Stunde(n)
+the sweatshirt (starts with S-)|das Sweatshirt(s)
 the t-shirt|das T-Shirt(s)
 the blackboard|die Tafel(n)
 the day|der Tag(e)
@@ -50,9 +50,9 @@ the wall|die Wand(¨e)
 the weather|das Wetter
 the winter|der Winter
 the week|die Woche(n)
-the number (starts with Z)|die Zahl(en)
+the number (starts with Z-)|die Zahl(en)
 the time|die Zeit(en)
-the room (starts with Z)|das Zimmer(-)
+the room (starts with Z-)|das Zimmer(-)
 January|Januar
 February|Februar
 March|März
@@ -74,9 +74,9 @@ Sunday|Sonntag
 to answer (dative verb)|antworten
 to begin|beginnen
 to need|brauchen
-to eat (starts with e)|essen
+to eat (starts with e-)|essen
 to find|finden
-to ask (starts with f)|fragen
+to ask (starts with f-)|fragen
 to go|gehen
 to have|haben
 to be called|heißen
@@ -108,7 +108,7 @@ it has|es hat
 we have|wir haben
 they have|sie haben
 you (formal) have|Sie haben
-old (starts with a)|alt
+old (starts with a-)|alt
 inexpensive, cheap|billig
 thick; fat|dick
 thin; skinny|dünn
@@ -125,19 +125,19 @@ short (used for objects)|kurz
 long|lang
 slow(ly)|langsam
 new|neu
-great; wonderful (starts with p)|prima
+great; wonderful (starts with p-)|prima
 correct(ly); right(ly)|richtig
 clean; neat|sauber
-bad(ly) (starts with s)|schlecht
+bad(ly) (starts with s-)|schlecht
 dirty|schmutzig
 fast, quick(ly)|schnell
-nice; beautiful (starts with s)|schön
+nice; beautiful (starts with s-)|schön
 super, superb|super
-expensive (starts with t)|teuer
-great, terrific (starts with t)|toll
+expensive (starts with t-)|teuer
+great, terrific (starts with t-)|toll
 warm|warm
 windy|windig
-wonderful(ly), great (starts with w)|wunderbar
+wonderful(ly), great (starts with w-)|wunderbar
 blue|blau
 brown|braun
 yellow|gelb
@@ -155,15 +155,15 @@ in German|auf Deutsch
 in English|auf Englisch
 Goodbye|Auf Wiedersehen
 see you later (literally: until later) (colloquial)|Bis Später
-please; you're welcome (starts with b)|bitte
-thank you (starts with d)|danke
+please; you're welcome (starts with b-)|bitte
+thank you (starts with d-)|danke
 i think so too|Das finde ich auch
 that is|Das ist
 That comes to...; that costs...|Das kostet...
 i don't understand|das verstehe ich nicht
 the sun is shining|Die Sonne scheint
 the week has seven days|Die Woche hat sieben Tage
-i'm fine (4 words) (1st word starts with e)|es geht mir gut
+i'm fine (4 words) (1st word starts with e-)|es geht mir gut
 it is...|es ist...
 it is one o'clock|es ist ein Uhr
 it is two o'clock|es ist zwei Uhr
@@ -198,14 +198,14 @@ no|nein
 not|nicht
 isn't it?; isn't that right?|nicht wahr?
 again, once more (n... e...)|noch einmal
-only (starts with n)|nur
+only (starts with n-)|nur
 or|oder
 open the book to page...|öffnen Sie das Buch auf Seite...
 say that again please|sagen Sie das bitte noch einmal
-too bad (starts with s)|schade
+too bad (starts with s-)|schade
 again (s... w...)|(schon) wieder
 please write that|schreiben Sie das bitte
-very (starts with s)|sehr
+very (starts with s-)|sehr
 speak slowly please|sprechen Sie bitte langsam
 goodbye; bye (colloquial)|tschüss
 (at) one o'clock|(um) eins
@@ -233,6 +233,6 @@ how late is it|wie spät ist es
 what time is it|wie viel Uhr ist es
 how much|wie viel
 how many|wie viele
-really; indeed (starts with w)|wirklich
+really; indeed (starts with w-)|wirklich
 where is ...?|wo ist ...?
 too (with adjective or adverb)|zu

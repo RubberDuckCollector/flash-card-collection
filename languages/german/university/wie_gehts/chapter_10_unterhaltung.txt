@@ -1,5 +1,5 @@
 the beginning, start|der Anfang(¨e)
-the selection, choice (of) (has "an" after the word) (starts with A)|die Auswahl (an)
+the selection, choice (of) (has "an" after the word) (starts with A-)|die Auswahl (an)
 the author (male)|der Autor(en)
 the author (female)|die Autorin(nen)
 the ballet|das Ballett(s)
@@ -10,7 +10,7 @@ the choir|der Chor(¨e)
 the end|das Ende
 the television (the medium)|das Fernsehen
 the film, movie|der Film(e)
-the painting (starts with G)|das Gemälde(-)
+the painting (starts with G-)|das Gemälde(-)
 the composer (male)|der Komponist(en)
 the composer (female)|die Komponistin(nen)
 the concert|das Konzert(e)
@@ -29,22 +29,22 @@ the actor (female)|die Schauspielerin(nen)
 the (particular) program|die Sendung(en)
 the piece; (theatrical) play; piece of music or ballet|das Stück(e)
 the entertainment|die Unterhaltung
-the performance (starts with V)|die Vorstellung(en)
+the performance (starts with V-)|die Vorstellung(en)
 the advertising; advert|die Werbung
 the magazine|die Zeitschrift(en)
 the newspaper|die Zeitung(en)
 the spectator (male)|der Zuschauer(-)
 the spectator (female)|die Zuschauerin(nen)
-to start; begin (starts with a) (separable verb)|anfangen
+to start; begin (starts with a-) (separable verb)|anfangen
 to get annoyed / upset about (has "über" after the word) (reflexive)|sich ärgern über
-to think about, of (starts with d) (has "an" after the word)|denken an
+to think about, of (starts with d-) (has "an" after the word)|denken an
 to decide for (has "für" after the word) (reflexive)|(sich) entscheiden für
 to decide against (has "gegen" after the word) (reflexive)|(sich) entscheiden gegen
 to tell about (has "von" after the word)|erzählen von
 to look forward to (has "auf" after the word) (reflexive)|sich freuen auf
-to think of, be of an opinion about (starts with h) (has "von" after the word)|halten von
+to think of, be of an opinion about (starts with h-) (has "von" after the word)|halten von
 to get, fetch (reflexive)|(sich) holen
-to inform oneself, find out about (starts with i) (has "über" after the word) (reflexive)|sich informieren über
+to inform oneself, find out about (starts with i-) (has "über" after the word) (reflexive)|sich informieren über
 to be interested in (has "für" after the word) (reflexive)|sich interessieren für
 to applaud|klatschen
 to smile (about) (has "über" after the word)|lächeln (über)
@@ -56,20 +56,20 @@ to prepare for (has "auf" after the word) (separable verb) (reflexive)|sich vorb
 to forget|vergessen
 to wait for (has "auf" after the word)|warten auf
 to cry|weinen
-other (ends with e)|andere
-stupid(ly); silly (starts with d)|dumm
-some, a few (pl. only) (starts with e)|einige
+other (ends with -e)|andere
+stupid(ly); silly (starts with d-)|dumm
+some, a few (pl. only) (starts with e-)|einige
 following|folgend-
-funny, comical; strange, odd (starts with k)|komisch
+funny, comical; strange, odd (starts with k-)|komisch
 boring|langweilig
 last|letzt-
-funny, with humour (starts with lowercase L)|lustig
-several (pl. only) (starts with m)|mehrere
+funny, with humour (starts with lowercase L-)|lustig
+several (pl. only) (starts with m-)|mehrere
 next|nächst-
 public(ly)|öffentlich
 private(ly)|privat
-exciting, suspenseful (starts with s)|spannend
-sad(ly) (starts with t)|traurig
+exciting, suspenseful (starts with s-)|spannend
+sad(ly) (starts with t-)|traurig
 many|viele
 few|wenige
 for it / them|dafür
@@ -89,16 +89,16 @@ at the end|am Ende
 That makes me mad.|Das ärgert mich.
 That's unbelievable!|Das ist doch unglaublich!
 unbelievable|unglaublich
-That's crazy / awesome / unbelievable! (last word starts with W)|Das ist ja Wahnsinn!
-(the thing that is) crazy / awesome / unbelievable (starts with W)|Wahnsinn
-great (starts with k)|klasse
-great (starts with "spi")|spitze
-really interesting (1st word starts with u)|unheimlich interessant
-about, approximately (starts with e)|etwa
+That's crazy / awesome / unbelievable! (last word starts with W-)|Das ist ja Wahnsinn!
+(the thing that is) crazy / awesome / unbelievable (starts with W-)|Wahnsinn
+great (starts with k-)|klasse
+great (starts with "spi-")|spitze
+really interesting (1st word starts with u-)|unheimlich interessant
+about, approximately (starts with e-)|etwa
 That's enough. I've had it.|Jetzt habe ich aber genug.
 No idea!|Keine Ahnung!
 All right.|Na gut.
-as well as (starts with s)|sowie
+as well as (starts with s-)|sowie
 mainly, especially, above all|vor allem
 recently (2 words)|vor kurzem
 What's on the TV?|Was gibt's im Fernsehen?

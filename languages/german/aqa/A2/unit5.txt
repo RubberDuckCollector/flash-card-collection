@@ -2,7 +2,7 @@ the MP (male)|der Abgeordnete(n)
 the MP (female)|die Abgeordnete(n)
 to state|angeben
 the committee|der Ausschuss(¨e)
-the need (starts with B)|das Bedürfnis(se)
+the need (starts with B-)|das Bedürfnis(se)
 to deal with (reflexive)|sich befassen mit
 the person asked (male)|der Befragte(n)
 the person asked (female)|die Befragte(n)
@@ -29,7 +29,7 @@ the petition|die Unterschriftenliste(n)
 the constitution|die Verfassung(en)
 to represent|vertreten
 confused|verworren
-to happen (starts with "vor")|vorkommen
+to happen (starts with "vor-")|vorkommen
 to plan, undertake to|sich vornehmen
 the chairman|der Vorsitzende(n)
 the chairwoman|der Vorsitzende(n)
@@ -45,19 +45,19 @@ to advertise, campaign for|werben für
 to decline, turn down|ablehnen
 to register (reflexive)|sich anmelden
 to call on somebody to do something|auffordern
-to work on (starts with b)|bearbeiten
+to work on (starts with b-)|bearbeiten
 to impede, negatively effect|beeinträchtigen
 gifted|begabt
 the concept|der Begriff(e)
 notable, remarkable|bemerkenswert
 disadvantaged|benachteiligt
-to need (starts with "be")|benötigen
+to need (starts with "be-")|benötigen
 to hide|bergen
 the consideration|die Berücksichtigung
 the career path|die Berufslaufbahn(en)
 to give somebody a share in|beteiligen
 the care,supervision|die Betreuung(en)
-affected (starts with b)|betroffen
+affected (starts with b-)|betroffen
 the education policy|die Bildungspolitik
 a burning issue|ein brennendes Problem
 to break through|durchbrechen
@@ -86,7 +86,7 @@ to take the steps|Maßnahmen ergreifen
 the migrant background|der Migrationshintergrund(¨e)
 the abuse|der Missbrauch(¨e)
 to help create|mitgestalten
-to inform, disclose (starts with m)|mitteilen
+to inform, disclose (starts with m-)|mitteilen
 the victim|das Opfer(-)
 the regulation|die Ordnung(en)
 independent of any party|parteiunabhängig
@@ -98,13 +98,13 @@ meaninful|sinnvoll
 the meeting|die Sitzung(en)
 the town council|die Stadtverwaltung(en)
 day-in, day-out|tagtäglich
-the culprit (starts with T) (male)|der Täter(-)
-the culprit (starts with T) (female)|die Täterin(nen)
+the culprit (starts with T-) (male)|der Täter(-)
+the culprit (starts with T-) (female)|die Täterin(nen)
 the participation|die Teilhabe
 the transition|der Übergang(¨e)
 to comprise|umfassen
 insufficient|unzureichend
-the event (starts with V)|die Veranstaltung(en)
+the event (starts with V-)|die Veranstaltung(en)
 the benefit|die Vergünstigung(en)
 the responsibility|die Verpflichtung(en)
 to realise|verwirklichen
@@ -119,7 +119,7 @@ apparent|anscheinend
 the poverty|die Armut
 the poverty line|die Armutsgrenze
 the attention|die Aufmerksamkeit
-to grow up (starts with "auf")|aufwaschen
+to grow up (starts with "auf-")|aufwaschen
 the exclusion|die Ausgrenzung(en)
 to run out of control|außer Kontrolle geraten
 the effect|die Auswirkung(en)
@@ -128,7 +128,7 @@ to bring about, achieve|bewirken
 the education system|das Bildungswesen(-)
 nationwide (in Germany)|bundesweit
 the civic action group|die Bürgerinitiative(n)
-clear(ly) (starts with d)|deutlich
+clear(ly) (starts with d-)|deutlich
 voluntary work (answer this without article)|ehrenamtliches Engagement
 to complement|ergänzen
 to awaken|erwecken
@@ -138,7 +138,7 @@ the volunteer (female)|die Freiwillige(n)
 peaceful(ly)|friedlich
 to endanger|gefährden
 the justice|die Gerechtigkeit
-low, small (starts with g)|gering
+low, small (starts with g-)|gering
 the equality|die Gleichberechtigung(en)
 the interest group|der Interessenverband(¨e)
 to make a comment|einen Kommentar abgeben
@@ -153,13 +153,13 @@ the self-fulfilment|die Selbstverwirklichung
 to make people aware|sensibilisieren
 thrifty|sparsam
 the donation|die Spende(n)
-to feel (starts with s)|spüren
+to feel (starts with s-)|spüren
 indispensable|unentbehrlich
 unbearable|unerträglich
-undisputed (starts with "unu")|unumstritten
-connected with (1st word starts with v)|verbunden mit
-to neglect (starts with v)|vernachlässigen
-the meals, board (starts with V)|die Verpflegung(en)
+undisputed (starts with "unu-")|unumstritten
+connected with (1st word starts with v-)|verbunden mit
+to neglect (starts with v-)|vernachlässigen
+the meals, board (starts with V-)|die Verpflegung(en)
 to give preference to|vorziehen
 to take priority (3 words)|den Vorrag haben
 repeated(ly)|wiederholt
