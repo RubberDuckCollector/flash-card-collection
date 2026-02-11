@@ -1,18 +1,18 @@
-the employee (same noun regardless of gender)|der/die Angestellte(n)
+the employee (same noun>regardless of gender)|der/die Angestellte(n)
 (blue-collar) worker (male)|der Arbeiter(-)
 (blue-collar) worker (female)|die Arbeiterin(nen)
 the unemployment|die Arbeitslosigkeit
 the architect (male)|der Architekt(en)
 the architect (female)|die Architektin(nen)
 the physician, doctor (male)|der Arzt(¨e)
-the physician, doctor (female)|die Arztin(nen)
+the physician, doctor (female)|die Ärztin(nen)
 the training, education|die Ausbildung
 the civil servant (male)|der Beamte(n)
 the civil servant (female)|die Beamtin(nen)
 the acquaintance (same noun regardless of gender)|der/die Bekannte(n)
 the area, field|der Bereich(e)
 the profession, career (scope, area of expertise) (starts with B-)|der Beruf
-the choice of profession|die Berufwahl
+the choice of profession|die Berufswahl
 the graduate in business management (male)|der Betriebswirt(e)
 the graduate in business management (female)|die Betriebswirtin(nen)
 the office|das Büro(s)
@@ -66,16 +66,16 @@ the relative (same noun regardless of gender)|der/die Verwandte(n)
 the scientist (male)|der Wissenschaftler(-)
 the scientist (female)|die Wissenschaftlerin(nen)
 the dentist (male)|der Zahnarzt(¨e)
-the dentist (female)|die Zahnarztin(nen)
+the dentist (female)|die Zahnärztin(nen)
 the future|die Zukunft
 to offer (separable verb)|anbieten
 to look (like) (has "wie" after the word) (separable verb)|aussehen (wie)
 to ask for, request (starts with b-)|bitten
 to explain; clarify|erklären
-to believe (in) (has "in" after the word)|glauben (an)
+to believe (in) (has "an" after the word)|glauben (an)
 to hope|hoffen
 to be right|recht haben
-to be concerned / worried (about) (has "um" after the word)|sich Sorchen machen (um)
+to be concerned / worried (about) (has "um" after the word)|sich Sorgen machen (um)
 to earn, make money|verdienen
 to imagine (separable verb) (reflexive)|sich vorstellen
 to become; to be (a profession when you grow up)|werden
