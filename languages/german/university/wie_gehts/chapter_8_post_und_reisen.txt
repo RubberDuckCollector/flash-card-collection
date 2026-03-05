@@ -58,7 +58,7 @@ wonderful(ly), great (starts with h-)|herrlich
 instead of (+ case)|(an)statt (+ gen.)
 in spite of (+ case)|trotz (+ gen.)
 during (+ case)|während (+ gen.)
-because of (+ case)|wegen (+ gen)
+because of (+ case)|wegen (+ gen.)
 evening (6-10 PM) (don't answer with article)|Abend
 at the beginning of the week|Anfang der Woche
 at the end of the week|Ende der Woche
