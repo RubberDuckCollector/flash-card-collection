@@ -1,0 +1,53 @@
+the trash, rubbish|der Abfall(¨e)
+the building, structure|der Bau(ten)
+the container|der Behälter(-)
+the population|die Bevölkerung
+the monument|das Denkmal(¨er)
+the preservation|die Erhaltung
+the area, region|das Gebiet(e)
+the coast|die Küste(n)
+the landscape, scenery|die Landschaft
+the garbage; waste|der Müll
+the garbage can|die Mülltonne(n)
+the nature|die Natur
+the nature preserve|das Naturschutzgebiet(e)
+the speech|die Rede(n)
+the collection site|die Sammelstelle(n)
+the protection|der Schutz
+the environment|die Umwelt
+the environmental protection|der Umweltschutz
+the pollution|die Verschmutzung
+to tear down (separable verb)|abreißen
+to build (separable verb)|aufbauen
+to rebuild (separable verb)|wieder aufbauen
+to finance|finanzieren
+to guarantee|garantieren
+to plan|planen
+to talk to (has "mit" after the word) (+ case)|reden mit (+ dat.)
+to talk to (has "über" after the word) (+ case)|reden mit (+ acc.)
+to renovate|renovieren
+to restore|restaurieren
+to save, rescue (starts with r-)|retten
+to hurt; to damage|schaden
+to go easy on, protect|schonen
+to protect|schützen
+to separate (starts with "tr-")|trennen
+to forbid|verbieten
+to connect, tie together, link|verbinden
+to use, utilise (starts with v-)|verwenden
+to grow (starts with w-)|wachsen
+to throw away, discard (separable verb)|wegwerfen
+to throw (starts with w-)|werfen
+to destroy|zerstören
+to grow together (separable verb)|zusammenwachsen
+individual(ly)|einzein
+dangerous(ly)|gefährlich
+(in) common; togehter, jointly|gemeinsam
+proud of (has "auf" after the word) (+ case)|stolz auf (+ acc.)
+typical(ly)|typisch
+environmentally aware|umweltbewusst
+however (starts with a-)|allerdings
+finally (starts with e-)|endlich
+in the meantime (starts with i-)|inzwischen
+after all, in the end (starts with s-)|schließlich
+by the way (starts with ü-)|übrigens
