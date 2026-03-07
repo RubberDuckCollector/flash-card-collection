@@ -115,285 +115,25 @@ the user (masculine)|el usuario
 the user (feminine)|la usuaria
 the widow|la vidua
 the widower|el viduo
-the dairy, planner (starts with a)|la agenda
-the surname|el apellido
-the article|el artículo
-the absence|la ausencia
-to look for (starts with b)|buscar
-the chewing gum|el chicle
-the harm|el daño
-to let, allow|dejar
-the building|el edificio
-of school|escolar
-to sign|firmar
-the facilities|las instalaciones
-the exchange|el intercambio
-to take, carry, wear|llevar
-the makeup|el maquillaje
-the word|la palabra
-the corridor|el pasillo
-the earring|el pendiente
-to get in touch (reflexive)|ponerse en contacto
-prohibited, banned (starts with p) (masculine)|prohibido
-prohibited, banned (starts with p) (feminine)|prohibida
-the punctuality|la puntualidad
-the rule|la regla
-the respect|el respeto
-to suffer (starts with s)|sufrir
-to bring (starts with t)|traer
-the journey (starts with "tray")|el trayecto
-the bullying (starts with a)|el acoso
-to put up with|aguantar
-isolated (masculine)|aislado
-isolated (feminine)|aislada
-to brighten up, to cheer up|alegrar
-to pass an exam|aprobar un examen
-the appearance (like "aspect")|el aspecto
-the heating|la calefacción
-the punishment|el castigo
-the behaviour (starts with "com")|el comportamiento
-the behaviour (starts with "con")|la conducta
-to mark, to correct|corregir
-to fufil|cumplir con
-as regards (3 words)|en cuanto a
-to be turned on (starts with e) (reflexive)|encenderse
-angry (starts with e) (masculine)|enfadado
-angry (starts with e) (feminine)|enfadada
-to teach, show|enseñar
-the equipment (same word as "team") (starts with e)|el equipo
-the back (anatomy)|la espalda
-the shelf|el estante
-the explanation|la explicación
-the failiure|el fracaso
-to hit (starts with g)|golpear
-it is necessary (2 words)|hace falta
-uncomfortable (masculine)|incómodo
-uncomfortable (feminine)|incómoda
-the bullying (starts with i)|la intimidación
-the smartboard|la pizarra digital
-to improve|mejorar
-to disturb, to annoy|molestar
-the leisure|el ocio
-the wall|la pared
-to remember|recordar
-the revision|el repaso
-dirty (masculine)|sucio
-dirty (feminine)|sucia
-to take time, to delay|tardar
-naughty, badly behaved (masculine)|travieso
-naughty, badly behaved (feminine)|traviesa
-the term|el trimestre
-since, as (2 words) (1st word starts with y)|ya que
-to consider|considerar
-to demonstrate, show|demostrar
-the disadvantage|la desventaja
-to be fed up with (masculine)|estar harto de
-to be fed up with (feminine)|estar harta de
-furious (masculine)|furioso
-furious (feminine)|furiosa
-to earn, win, gain (starts with g)|ganar
-the skill, ability|la habilidad
-dreadful (masculine)|horroroso
-dreadful (feminine)|horrorosa
-to imagine|imaginar
-useless|inútil
-the world|el mundo
-to need (1 word, starts with n)|necesitar
-to ask for (starts with p)|pedir
-worse, worst|peor
-on the other hand (literally: "for other part")|por otra parte
-the promotion|la promoción
-to relate to, to get on with|relacionarse con
-to revise|repasar
-the revision|el repaso
-sure (masculine)|seguro
-sure (feminine)|segura
-the society|la sociedad
-still (starts with t)|todavía
-it's worth it, it's worthwhile|vale la pena
-on one's own|a solas
-to have just done something|acabar de
-adequate, decent (masculine)|adecuado
-adequate, decent (feminine)|adecuada
-isolated (masculine)|aislado
-isolated (feminine)|aislada
-at the end of|al final de
-to appeal|apetecer
-to learn (starts with a)|aprender
-so (2 words, starts with a)|así que
-advanced (masculine)|avanzado
-advanced (feminine)|avanzada
-the benefit|el beneficio
-well paid (masculine)|bien pagado
-well paid (feminine)|bien pagada
-the quality|la calidad
-the university course|la carrera universitaria
-the career|la carrera
-of course (1 word, starts with c)|claro
-to get, manage, achieve (starts with c)|conseguir
-the advice|el consejo
-to owe (starts with d)|deber
-the give back, to pay back|devolver
-to enjoy|disfrutar de
-the age|la edad
-the choose (starts with es)|escoger
-to wait for, hope, expect|esperar
-to be about to (do something)|estar a punto de
-the work experience (starts with e)|la experiencia laboral
-ugly (masculine)|feo
-ugly (feminine)|fea
-the leaflet|el folleto
-the graduate (male)|el graduado
-the graduate (female)|la graduada
-to become a member|hacerse miembro
-to worry, to concern (starts with i)|inquietar
-far from|lejos de
-better, best|mejor
-the world of work|el mundo laboral
-to offer (starts with o)|ofrecer
-to forget (reflexive)|olvidarse
-to borrow (2 words)|pedir prestado
-bit by bit|poco a poco
-to worry, to be concerned (reflexive)|preocuparse
-to pick up, to collect (starts with r)|recoger
-the student residence|la residencia de esudiantes
-the result|el resultado
-the follow|seguir
-to carry on (doing something)|seguir (+ gerund)
-as soon as|tan pronto como
-the university degree (starts with t)|el título
-to take a year out|tomar un año libre
-the advantage|la ventaja
-at the beginning of|a principios de
-the administer, clerk, office worker (male)|el administrativo
-the administer, clerk, office worker (female)|la administrativa
-ambitious (masculine)|ambicioso
-ambitious (feminine)|ambiciosa
-lively (like "animated") (masculine)|animado
-lively (like "animated") (feminine)|animada
-to tidy, sort, fix, arrange (starts with a)|arreglrar
-the aspect, appearance|el aspecto
-to attend to|atender a
-the till, the checkout|la caja
-the campsite, the camping|el camping
-the butcher (male)|el carcinero
-the butcher (female)|la carcinera
-the carpenter (male)|el carpintero
-the carpenter (female)|la carpintera
-the letter (that you write and send)|la carta
-the knowledge (plural form) (strarts with c)|los conocimientos
-the email|el correo electrónico
-polite, courteous (adjective with c)|cortés
-to care for, look after|cuidar a
-the shop assistant (male)|el dependiente
-the shop assistant (female)|la dependiente
-the detail (starts with d)|el detalle
-to be fluent in a language (literally: to dominate a language)|dominar un idioma
-the electrician (male)|el electricista
-the electrician (female)|la electricista
-the employee (male)|el empleado
-the employee (female)|la empleada
-the company, firm (starts with e)|la empresa
-straight away|en seguida
-the energy|la energía
-reliable (starts with f)|fiable
-the people (starts with g)|la gente
-the businessman|el hombre de negocios
-the businesswoman|la mujer de negocios
-the game|el juego
-the primary school teacher (male)|el maestro
-the primary school teacher (female)|la maestra
-older (starts with m)|mayor
-organised (masculine)|organizado
-organised (feminine)|organizada
-patient (adjective ends in e)|paciente
-the bakery|la panadería
-the baker (male)|el panadero
-the baker (female)|la panadera
-practical (masculine)|práctico
-practical (feminine)|práctica
-the problem|el problema
-the receptionist (male)|el recepcionista
-the receptionist (female)|la recepcionista
-to serve|servir
-honest (starts with s) (masculine)|sincero
-honest (starts with s) (feminine)|sincera
-the envelope|el sobre
-the wage (starts with s) (1 letter away from being "floor")|el sueldo
-hard-working (masculine)|trabajador
-hard-working (feminine)|trabajadora
-the translator (male)|el traductor
-the translator (female)|la traductora
-the term|el trimestre
-the variety|la variedad
-the lawyer (male)|el abogado
-the lawyer (female)|la abogada
-the builder, bricklayer (ending does not change between gender) (male)|el albañil
-the builder, bricklayer (ending does not change between gender) (female)|la albañil
-the house husband|el amo de casa
-the housewife|la ama de casa
-to move up (like "to ascend")|ascender
-the flight attendant (male)|el azafato
-the flight attendant (female)|la azafata
-the cashier (male)|el cajero
-the cashier (female)|la cajera
-the lorry driver (male)|el caminoero
-the lorry driver (female)|la caminoera
-the capacity, ability (to do something)|la capacidad
-the postal worker (male)|el cartero
-the postal worker (female)|la cartera
-the customer (like "client") (ending doesn't change between gender) (male)|el cliente
-the customer (like "client") (ending doesn't change between gender) (female)|la cliente
-the airline|la compañía aérea
-to share (starts with c)|compartir
-the accountant (like "countable") (male)|el contable
-the accountant (like "countable") (female)|la contable
-the account|la cuenta
-to design|diseñar
-fixed, permanent (masculine)|fijo
-fixed, permanent (feminine)|fija
-the training (like "formation")|la formación
-to function|funcionar
-the manager (ending doesn't change between gender) (male)|el gerente
-the manager (ending doesn't change between gender) (female)|la gerente
-the farmer (male)|el granjero
-the farmer (female)|la granjera
-the flexitime, flexible working hours|las horas de trabajo flexibles
-the gardener (male)|el jardinero
-the gardener (female)|la jardinera
-the boss (male)|el jefe
-the boss (female)|la jefa
-to clean|limpiar
-the rain|la lluvia
-to improve|mejorar
-the hairdresser's|la peluquería
-the hairdresser (male)|el peluquero
-the hairdresser (female)|la peluquera
-the prospect (like "perspective")|la perspectiva
-the project|el proyecto
-the corner|el rincón
-temporary|temporal
-the wind|el viento
-as, since (2 words, starts with y)|ya que
 to communicate (reflexive)|comunicarse
 unfortunately (1 word) (adverb with e)|desafortunadamente
-to start, begin (starts with e)|empezar
-to choose (starts with "esc")|escoger
-brilliant, great (starts with g)|genial
+to start, begin (starts with e-)|empezar
+to choose (starts with "esc-")|escoger
+brilliant, great (starts with g-)|genial
 free of charge (ends with s)|gratis
 the fact|el hecho
-the drawback, disadvantage (starts with i)|el inconveniente
+the drawback, disadvantage (starts with i-)|el inconveniente
 interactive (masculine)|interactivo
 interactive (feminine)|interactiva
 the boss (masculine)|el jefe
 the boss (feminine)|la jefa
 the letter of the alphabet|la letra
-to send (starts with m)|mandar
-to send (starts with e)|enviar
+to send (starts with m-)|mandar
+to send (starts with e-)|enviar
 the social media (this is a plural concept in spanish)|los medios sociales
 the mobile/smartphone|el móvil
 to offer|ofrecer
-the computer (starts with o)|el ordenador
+the computer (starts with o-)|el ordenador
 to be able to|poder
 unfortunately (2 words)|por desgracia
 as far as i'm concerned (3 words)|por mi parte
@@ -403,33 +143,33 @@ simple (masculine)|sencillo
 simple (feminine)|sencilla
 neither, nor|tampoco
 in my opinion (literally: "in my judgement")|en mi juicio
-to bully (starts with a)|acosar
-the bullying (starts with a)|el acoso
-to excite (starts with "apa")|apasionar
-even (starts with a)|aun
-still (starts with a)|aún
+to bully (starts with a-)|acosar
+the bullying (starts with a-)|el acoso
+to excite (starts with "apa-")|apasionar
+even (starts with a-)|aun
+still (starts with a-)|aún
 low (masculine)|bajo
 low (feminine)|baja
-to share (starts with c)|compartir
-the behaviour (starts with "com")|el comportamiento
+to share (starts with c-)|compartir
+the behaviour (starts with "com-")|el comportamiento
 the development|el desarrollo
-the disadvantage (starts with d)|la desventaja
-to have a good time (starts with "div") (reflexive)|divertirse
+the disadvantage (starts with d-)|la desventaja
+to have a good time (starts with "div-") (reflexive)|divertirse
 free of charge (ends with o) (masculine)|gratuito
 free of charge (ends with a) (feminine)|gratuita
-to improve (starts with m)|mejorar
+to improve (starts with m-)|mejorar
 the risk|el riesgo
 the follower (male)|el seguidor
 the follower (female)|la seguidora
 to be successful|tener éxito
 the user (male)|el usuario
 the user (female)|la usuaria
-the advantage (starts with v)|la ventaja
-to walk (starts with a)|andar
+the advantage (starts with v-)|la ventaja
+to walk (starts with a-)|andar
 the file|el archivo
-to delete, erase (starts with b)|borrar
+to delete, erase (starts with b-)|borrar
 the song|la canción
-to load (starts with c)|cargar
+to load (starts with c-)|cargar
 to answer|contestar
 the spam, junk mail|el correo basura
 any (masculine)|cualquier
@@ -437,9 +177,9 @@ any (feminine)|cualquiera
 from time to time|de vez en cuando
 the hard drive|el disco duro
 the space|el espacio
-same, equal (starts with i)|igual
+same, equal (starts with i-)|igual
 the laptop (2 words)|el ordenador portátil
-to take photos (1st word starts with s)|sacar fotos
+to take photos (1st word starts with s-)|sacar fotos
 to feel (with touch)|sentir
 the tablet|la tableta
 the technology|la tecnología
@@ -1336,6 +1076,266 @@ to feel|sentirse
 to use (the answer is not "utilizar")|usar
 the journey (starts with v)|el viaje
 the area|la zona
+the dairy, planner (starts with a)|la agenda
+the surname|el apellido
+the article|el artículo
+the absence|la ausencia
+to look for (starts with b)|buscar
+the chewing gum|el chicle
+the harm|el daño
+to let, allow|dejar
+the building|el edificio
+of school|escolar
+to sign|firmar
+the facilities|las instalaciones
+the exchange|el intercambio
+to take, carry, wear|llevar
+the makeup|el maquillaje
+the word|la palabra
+the corridor|el pasillo
+the earring|el pendiente
+to get in touch (reflexive)|ponerse en contacto
+prohibited, banned (starts with p) (masculine)|prohibido
+prohibited, banned (starts with p) (feminine)|prohibida
+the punctuality|la puntualidad
+the rule|la regla
+the respect|el respeto
+to suffer (starts with s)|sufrir
+to bring (starts with t)|traer
+the journey (starts with "tray")|el trayecto
+the bullying (starts with a)|el acoso
+to put up with|aguantar
+isolated (masculine)|aislado
+isolated (feminine)|aislada
+to brighten up, to cheer up|alegrar
+to pass an exam|aprobar un examen
+the appearance (like "aspect")|el aspecto
+the heating|la calefacción
+the punishment|el castigo
+the behaviour (starts with "com")|el comportamiento
+the behaviour (starts with "con")|la conducta
+to mark, to correct|corregir
+to fufil|cumplir con
+as regards (3 words)|en cuanto a
+to be turned on (starts with e) (reflexive)|encenderse
+angry (starts with e) (masculine)|enfadado
+angry (starts with e) (feminine)|enfadada
+to teach, show|enseñar
+the equipment (same word as "team") (starts with e)|el equipo
+the back (anatomy)|la espalda
+the shelf|el estante
+the explanation|la explicación
+the failiure|el fracaso
+to hit (starts with g)|golpear
+it is necessary (2 words)|hace falta
+uncomfortable (masculine)|incómodo
+uncomfortable (feminine)|incómoda
+the bullying (starts with i)|la intimidación
+the smartboard|la pizarra digital
+to improve|mejorar
+to disturb, to annoy|molestar
+the leisure|el ocio
+the wall|la pared
+to remember|recordar
+the revision|el repaso
+dirty (masculine)|sucio
+dirty (feminine)|sucia
+to take time, to delay|tardar
+naughty, badly behaved (masculine)|travieso
+naughty, badly behaved (feminine)|traviesa
+the term|el trimestre
+since, as (2 words) (1st word starts with y)|ya que
+to consider|considerar
+to demonstrate, show|demostrar
+the disadvantage|la desventaja
+to be fed up with (masculine)|estar harto de
+to be fed up with (feminine)|estar harta de
+furious (masculine)|furioso
+furious (feminine)|furiosa
+to earn, win, gain (starts with g)|ganar
+the skill, ability|la habilidad
+dreadful (masculine)|horroroso
+dreadful (feminine)|horrorosa
+to imagine|imaginar
+useless|inútil
+the world|el mundo
+to need (1 word, starts with n)|necesitar
+to ask for (starts with p)|pedir
+worse, worst|peor
+on the other hand (literally: "for other part")|por otra parte
+the promotion|la promoción
+to relate to, to get on with|relacionarse con
+to revise|repasar
+the revision|el repaso
+sure (masculine)|seguro
+sure (feminine)|segura
+the society|la sociedad
+still (starts with t)|todavía
+it's worth it, it's worthwhile|vale la pena
+on one's own|a solas
+to have just done something|acabar de
+adequate, decent (masculine)|adecuado
+adequate, decent (feminine)|adecuada
+isolated (masculine)|aislado
+isolated (feminine)|aislada
+at the end of|al final de
+to appeal|apetecer
+to learn (starts with a)|aprender
+so (2 words, starts with a)|así que
+advanced (masculine)|avanzado
+advanced (feminine)|avanzada
+the benefit|el beneficio
+well paid (masculine)|bien pagado
+well paid (feminine)|bien pagada
+the quality|la calidad
+the university course|la carrera universitaria
+the career|la carrera
+of course (1 word, starts with c)|claro
+to get, manage, achieve (starts with c)|conseguir
+the advice|el consejo
+to owe (starts with d)|deber
+the give back, to pay back|devolver
+to enjoy|disfrutar de
+the age|la edad
+the choose (starts with es)|escoger
+to wait for, hope, expect|esperar
+to be about to (do something)|estar a punto de
+the work experience (starts with e)|la experiencia laboral
+ugly (masculine)|feo
+ugly (feminine)|fea
+the leaflet|el folleto
+the graduate (male)|el graduado
+the graduate (female)|la graduada
+to become a member|hacerse miembro
+to worry, to concern (starts with i)|inquietar
+far from|lejos de
+better, best|mejor
+the world of work|el mundo laboral
+to offer (starts with o)|ofrecer
+to forget (reflexive)|olvidarse
+to borrow (2 words)|pedir prestado
+bit by bit|poco a poco
+to worry, to be concerned (reflexive)|preocuparse
+to pick up, to collect (starts with r)|recoger
+the student residence|la residencia de esudiantes
+the result|el resultado
+the follow|seguir
+to carry on (doing something)|seguir (+ gerund)
+as soon as|tan pronto como
+the university degree (starts with t)|el título
+to take a year out|tomar un año libre
+the advantage|la ventaja
+at the beginning of|a principios de
+the administer, clerk, office worker (male)|el administrativo
+the administer, clerk, office worker (female)|la administrativa
+ambitious (masculine)|ambicioso
+ambitious (feminine)|ambiciosa
+lively (like "animated") (masculine)|animado
+lively (like "animated") (feminine)|animada
+to tidy, sort, fix, arrange (starts with a)|arreglrar
+the aspect, appearance|el aspecto
+to attend to|atender a
+the till, the checkout|la caja
+the campsite, the camping|el camping
+the butcher (male)|el carcinero
+the butcher (female)|la carcinera
+the carpenter (male)|el carpintero
+the carpenter (female)|la carpintera
+the letter (that you write and send)|la carta
+the knowledge (plural form) (strarts with c)|los conocimientos
+the email|el correo electrónico
+polite, courteous (adjective with c)|cortés
+to care for, look after|cuidar a
+the shop assistant (male)|el dependiente
+the shop assistant (female)|la dependiente
+the detail (starts with d)|el detalle
+to be fluent in a language (literally: to dominate a language)|dominar un idioma
+the electrician (male)|el electricista
+the electrician (female)|la electricista
+the employee (male)|el empleado
+the employee (female)|la empleada
+the company, firm (starts with e)|la empresa
+straight away|en seguida
+the energy|la energía
+reliable (starts with f)|fiable
+the people (starts with g)|la gente
+the businessman|el hombre de negocios
+the businesswoman|la mujer de negocios
+the game|el juego
+the primary school teacher (male)|el maestro
+the primary school teacher (female)|la maestra
+older (starts with m)|mayor
+organised (masculine)|organizado
+organised (feminine)|organizada
+patient (adjective ends in e)|paciente
+the bakery|la panadería
+the baker (male)|el panadero
+the baker (female)|la panadera
+practical (masculine)|práctico
+practical (feminine)|práctica
+the problem|el problema
+the receptionist (male)|el recepcionista
+the receptionist (female)|la recepcionista
+to serve|servir
+honest (starts with s) (masculine)|sincero
+honest (starts with s) (feminine)|sincera
+the envelope|el sobre
+the wage (starts with s) (1 letter away from being "floor")|el sueldo
+hard-working (masculine)|trabajador
+hard-working (feminine)|trabajadora
+the translator (male)|el traductor
+the translator (female)|la traductora
+the term|el trimestre
+the variety|la variedad
+the lawyer (male)|el abogado
+the lawyer (female)|la abogada
+the builder, bricklayer (ending does not change between gender) (male)|el albañil
+the builder, bricklayer (ending does not change between gender) (female)|la albañil
+the house husband|el amo de casa
+the housewife|la ama de casa
+to move up (like "to ascend")|ascender
+the flight attendant (male)|el azafato
+the flight attendant (female)|la azafata
+the cashier (male)|el cajero
+the cashier (female)|la cajera
+the lorry driver (male)|el caminoero
+the lorry driver (female)|la caminoera
+the capacity, ability (to do something)|la capacidad
+the postal worker (male)|el cartero
+the postal worker (female)|la cartera
+the customer (like "client") (ending doesn't change between gender) (male)|el cliente
+the customer (like "client") (ending doesn't change between gender) (female)|la cliente
+the airline|la compañía aérea
+to share (starts with c)|compartir
+the accountant (like "countable") (male)|el contable
+the accountant (like "countable") (female)|la contable
+the account|la cuenta
+to design|diseñar
+fixed, permanent (masculine)|fijo
+fixed, permanent (feminine)|fija
+the training (like "formation")
+to function|funcionar
+the manager (ending doesn't change between gender) (male)|el gerente
+the manager (ending doesn't change between gender) (female)|la gerente
+the farmer (male)|el granjero
+the farmer (female)|la granjera
+the flexitime, flexible working hours|las horas de trabajo flexibles
+the gardener (male)|el jardinero
+the gardener (female)|la jardinera
+the boss (male)|el jefe
+the boss (female)|la jefa
+to clean|limpiar
+the rain|la lluvia
+to improve|mejorar
+the hairdresser's|la peluquería
+the hairdresser (male)|el peluquero
+the hairdresser (female)|la peluquera
+the prospect (like "perspective")|la perspectiva
+the project|el proyecto
+the corner|el rincón
+temporary|temporal
+the wind|el viento
+as, since (2 words, starts with y)|ya que
 suitable (masculine)|adecuado
 suitable (feminine)|adecuada
 to feel like doing|apetecer
@@ -1768,25 +1768,25 @@ to increase (starts with s) (like "to go up")|subir
 the values|los valores
 to violate|violar
 the performance|la actuación
-to perform (starts with a)|actuar
-the dancer (always ends in a) (male)|el bailarina
-the dancer (always ends in a) (female)|la bailarina
+to perform (starts with a-)|actuar
+the dancer (always ends with -a) (male)|el bailarina
+the dancer (always ends with -a) (female)|la bailarina
 the ballad|la balada
 the soundtrack|la banda sonora
 the full stomach|la barriga llena
 the good will|la buena voluntad
 the singer songwriter (male)|el cantautor
 the singer songwriter (female)|la cantautora
-the behaviour (ends with o)|el comportamiento
-to behave (starts with c) (reflexive)|comportarse
+the behaviour (ends with -o)|el comportamiento
+to behave (starts with c-) (reflexive)|comportarse
 the musical piece|la composición
 the composer (male)|el compositor
 the composer (female)|la compositora
 the commitment|el compromiso
 the live concert|el concierto en vivo
-the musical competition (starts with "con")|el concurso musical
-the behaviour (starts with "con")|la conducta
-the band (starts with c)|el conjunto musical
+the musical competition (starts with "con-")|el concurso musical
+the behaviour (starts with "con-")|la conducta
+the band (starts with c-)|el conjunto musical
 the choreography|la coreografía
 to create controversy|crear polémica
 the stage|el escenario
@@ -1799,8 +1799,8 @@ the music festival|el festival de música
 the recording|la grabación
 to record|grabar
 the musical taste|el gusto musical
-to perform a song (3 words) (starts with i)|interpretar una canción
-the blot/blemish (starts with L)|la lacra
+to perform a song (3 words) (starts with i-)|interpretar una canción
+the blot/blemish (starts with L-)|la lacra
 the lyrics|la letra
 the charity/charitable organisation|la organización benéfica/caritativa
 catchy (masculine)|pegadizo
@@ -1826,10 +1826,10 @@ to reach|alcanzar
 to appear/to show up|aparecer
 the adventure|la aventura
 the chapter/episode|el capítulo
-the filmmaker (always ends in a) (male)|el cineasta
-the filmmaker (always ends in a) (female)|la cineasta
-to make aware/to raise awareness (starts with c)|concienciar
-to become aware/to be sensitive to something (starts with c) (reflexive)|concienciarse
+the filmmaker (always ends with -a) (male)|el cineasta
+the filmmaker (always ends with -a) (female)|la cineasta
+to make aware/to raise awareness (starts with c-)|concienciar
+to become aware/to be sensitive to something (starts with c-) (reflexive)|concienciarse
 to achieve success|conseguir éxito
 to tell a story|contar una historia
 to fulfil a dream|cumplir un sueño
@@ -1841,48 +1841,48 @@ misfortune|la desventura
 exemplary|el ejemplar
 to interview|entrevistar
 the effort|el esfuerzo
-to release/to premiere (starts with e)|estrenar
+to release/to premiere (starts with e-)|estrenar
 the foundation|la fundación
-the award (starts with g)|el galardón
+the award (starts with g-)|el galardón
 to win an award/prize (3 words)|ganar un premio
 the big screen|la gran pantalla
 gratifying|gratificante
 the film industry|la industria cinematográfica
-to play a role (on screen) (3 words) (starts with i)|interpretar un papel
-the humanitarian work (starts with L)|la labor humanitaria
+to play a role (on screen) (3 words) (starts with i-)|interpretar un papel
+the humanitarian work (starts with L-)|la labor humanitaria
 to propel to stardom|lanzar al estrellato
-linked (starts with L) (masculine)|ligado
-linked (starts with L) (feminine)|ligada
+linked (starts with L-) (masculine)|ligado
+linked (starts with L-) (feminine)|ligada
 proud of (masculine)|orgulloso de
 proud of (feminine)|orgullosa de
 the perseverance|la perseverancia
-to contribute in a small way/to help a bit (5 words) (starts with p)|poner un granito de arena
+to contribute in a small way/to help a bit (5 words) (starts with p-)|poner un granito de arena
 for charity|por caridad
 to promote|promocionar
-main character (always ends in a) (male)|el protagonista
-main character (always ends in a) (female)|la protagonista
+main character (always ends with -a) (male)|el protagonista
+main character (always ends with -a) (female)|la protagonista
 to raise funds|recaudar fondos
-to highlight/to stand out (starts with r)|resaltar
-to make aware/to raise awareness (starts with s)|sensibilizar
+to highlight/to stand out (starts with r-)|resaltar
+to make aware/to raise awareness (starts with s-)|sensibilizar
 the series|la serie
 the trending topic|el tema tendencia
 the accessory|el accesorio
-to lose weight (starts with a)|adelgazar
+to lose weight (starts with a-)|adelgazar
 the height|la altura
 old fashioned (masculine)|anticuado
 old fashioned (feminine)|anticuada
-the advert (2 words) (starts with a)|el anuncio publicitario
-the appearance (ends in a)|la apariencia
-the physical appearance (2 words) (1st word ends in o)|el aspecto físico
-to catch the eye (3 words) (starts with a)|atraer la atención
+the advert (2 words) (starts with a-)|el anuncio publicitario
+the appearance (ends with -a)|la apariencia
+the physical appearance (2 words) (1st word ends with -o)|el aspecto físico
+to catch the eye (3 words) (starts with a-)|atraer la atención
 the radical change|el cambio radical
-the compatriot/fellow citizen (always starts with a) (male)|el compatriota
-the compatriot/fellow citizen (always starts with a) (female)|la compatriota
+the compatriot/fellow citizen (always starts with a-) (male)|el compatriota
+the compatriot/fellow citizen (always starts with a-) (female)|la compatriota
 the curves|las curvas
-to congratulate (3 words (starts with "d")|dar la enhorabuena
+to congratulate (3 words (starts with d-)|dar la enhorabuena
 the thinness|la delgadez
-to model (on a catwalk) (starts with d)|desfilar
-the fashion show (3 words) (starts with d)|el desfile de moda
+to model (on a catwalk) (starts with d-)|desfilar
+the fashion show (3 words) (starts with d-)|el desfile de moda
 the designer (male)|el diseñador
 the designer (female)|la diseñadora
 the design|el diseño
@@ -1891,8 +1891,8 @@ to enslave/to make dependent|esclavizar
 skin and bone/extremely thin (masculine)|esquelético
 skin and bone/extremely thin (feminine)|esquelética
 the own-style|el estilo propio
-skinny (starts with f) (masculine)|flaco
-skinny (starts with f) (feminine)|flaca
+skinny (starts with f-) (masculine)|flaco
+skinny (starts with f-) (feminine)|flaca
 the fatness|la gordura
 the bone|el hueso
 to impact/to shock|impactar
@@ -1902,152 +1902,204 @@ the luxury|el lujo
 the makeup|el maquillaje
 to put on makeup (reflexive)|maquillarse
 the measures|las medidas
-large size model ("model" always ends in o) (male)|el modelo de tallas grandes
-large size model ("model" always ends in o) (female)|la modelo de tallas grandes
+large size model ("model" always ends with -o) (male)|el modelo de tallas grandes
+large size model ("model" always ends with -o) (female)|la modelo de tallas grandes
 to become obsessed with (reflexive)|obsesionarse con
-the body (starts with o)|el organismo
-the body (starts with c)|el cuerpo
+the body (starts with o-)|el organismo
+the body (starts with c-)|el cuerpo
 the catwalk|la pasarela
 the Cibeles fashion show in Madrid|la Pasarela Cibeles
 to sponsor|patrocinar
 to go on a diet (3 words) (reflexive)|ponerse a dieta
-the piece of clothing, garment (3 words) (starts with p)|la prenda de ropa
-the face (starts with r)|el rostro
-fashion week (4 words) (starts with s)|la semana de la moda
+the piece of clothing, garment (3 words) (starts with p-)|la prenda de ropa
+the face (starts with r-)|el rostro
+fashion week (4 words) (starts with s-)|la semana de la moda
 to overcome|superar
-the event|el acontecimiento
-to get used to (starts with "a") (reflexive)|acostumbrarse
-the hobby/pastime (starts with "a")|la afición
-the supporter/fan (starts with a) (male)|el aficionado
-the supporter/fan (starts with a) (female)|la aficionada
-the leap year|el año bisiesto
-the attendee (always ends in e) (male)|el asistente
-the attendee (always ends in e) (female)|la asistente
-to attend|asistir
-the noise|el bullicio
-the mounted procession|la cabalgata
-the age-old ceremony (2 words)|la ceremonia ancestral
-the deity, god|la deidad
-the parade, procession (starts with "d")|el desfile
-to highlight, to stand out|destacar
-to dress up (reflexive)|disfrazarse
-the survey (starts with e)|la encuesta
-squalid (masculine)|escuálido
-squalid (feminine)|escuálida
-the season of the year|la estación del año
-to celebrate (starts with "f")|festejar
-the festival, celebration|la festividad
-to encourage (starts with "f")|fomentar
-the cattle breeder, stockbreeder (male)|el ganadero
-the cattle breeder, stockbreeder (female)|la ganadera
-to get used to (starts with "h") (reflexive)|habituarse
-the gastronomic conference day (2 words (begins with j)|la jornada gastronómica
-the farm worker (male)|el labrador
-the farm worker (female)|la labradora
-to throw, to launch (starts with "L")|lanzar
-the pride|el orgullo
-to prevail/to predominate|predominar
-to burn|quemar
-to replace|reemplazar
-to give a present|regalar
-to meet, to get together (starts with r) (reflexive)|reunirse
-to jump|saltar
-the semester, term|el semestre
-the survey (starts with s)|el sondeo
-the term, trimester, three-month period|el trimestre
-the open-air dance|la verbena
-the link (starts with v)|el vínculo
-the voice of the people (3 words)|la voz del pueblo
-to feed|alimentar
-the food (starts with a)|el alimento
-the aperitif, snack|el aperitivo
-the scent (starts with a)|la aroma
-to roast|asar
-"dough ball" (a special sweet that is doghy and cakey at the same time)|el buñuelo
-to heat up, warm up something|calentar
-the quality|la calidad
-the quantity|la cantidad
-the cook (male)|el cocinero
-the cook (female)|la cocinera
-the consumption|el consumo
-the crop, harvest (ends in "a")|la cosecha
-sought-after/valued (masculine)|cotizado
-sought-after/valued (feminine)|cotizada
-to grow (like "cultivate")|cultivar
-the crops (ends in "o")|el cultivo
-the small pastry/pie|la empanadilla
-to be in charge of, to take responsibility for (has "de" after the word) (reflexive)|encargarse de
-to cool, chill|enfriar
-exquisite (masculine)|exquisito
-exquisite (feminine)|exquisita
-the seasonal fruit|la fruta de temporada
-to boil|hervir
-to innovate|innovar
-the recipe book|el libro de recetas
-the coast (starts with L)|el litoral
-the maize, corn|el maíz
-the raw material|la materia prima
-the afternoon snack|la merienda
-the smell (starts with o)|el olor
-the pleasure|el placer
-the new dish|el plato novedoso
-the stew|el potaje
-the meadow|la pradera
-to try a dish|probar un plato
-the recipe for a homemade dish|la receta casera
-the harvest (starts with r)|la recolección
-filled (masculine)|relleno
-filled (feminine)|rellena
-the flavour, taste|el sabor
-to satisfy|satisfacer
-the trend|la tendencia
-the wheat|el trigo
-the piece|el trozo
-the accent|el acento
-to adapt (reflexive)|adaptarse
-to adopt|adoptar
-the alphabet|el alfabeto
-the illiteracy|el analfabetismo
-the ancestor (male)|el antepasado
-the ancestor (female)|la antepasada
-bilingual (ends in e)|bilingüe
-the consonant|la consonante
-the co-existence|la convivencia
-the dialogue, conversation|el diálogo
-the speech (starts with d)|el discurso
-the linguistic diversity|la diversidad lingüística
-to edit|editar
-the teaching|la enseñanza
-the intonation|la entonación
-the evolution|la evolución
-to evolve|evolucionar
-to express oneself (reflexive)|expresarse
-the speaker of a language (male)|el hablante
-the speaker of a language (female)|la hablante
-the slang, jargon|la jerga
-reader (male)|el lector
-reader (female)|la lectora
-the mother toungue|la lengua materna
-the colloquial language (first word ends in je)|el lenguaje coloquial
-the letter of the alphabet|la letra
-the capital letter|la letra mayúscula
-the lower case letter|la letra minúscula
-mute (adjective) (masculine)|mudo
-mute (adjective) (feminine)|muda
-the sentence, phrase, prayer (starts with o)|la oración
-the origin|el origen
-the prefix|el prefijo
-to preserve|preservar
-to come from (starts with p)|proceder de
-to publish|publicar
-the feature (starts with r)|el rasgo
-the acknowledgement|el reconocimiento
-the syllable|la sílaba
-surprising (ends in e)|sorprendente
-the term, word|el término
-the terminology|la terminología
-to borrow (starts with t)|tomar prestado
-the vowel|la vocal
+the shelter (same word for "coat")|el abrigo
+the pavement|la acera
+the event (starts with a)|el acontecimiento
+the agreement|el acuerdo
+the nickname|el apodo
+to take advantage of, leverage, make the most of|aprovechar
+to show (starts with a)|asomar
+the great grandfather|el bisabuelo
+the great grandmother|la bisabuela
+the corpse|el cadáver
+the cart (in mexican this means "car")|el carro
+ashen (masculine)|ceniciento
+ashen (feminine)|cenicienta
+the comfort|la comodidad
+to grow up|crecer
+the dubbing (giving something a name)|el doblaje
+to dub|doblar
+the dramatist (male)|el dramaturgo
+the dramatist (female)|la dramaturga
+the army (starts with e)|el ejército
+the guts (like "entrails")|las entrañas
+to hand over|entregar
+to break out (starts with e)|estallar
+to avoid (starts with "evi")|evitar
+ghostly|fantasmal
+to sign|firmar
+the extract|el fragmento
+the forge (starts with "fr")|la fragua
+the war front|el frente
+the flight (starts with f)|la fuga
+the gun (starts with f)|el fusil
+the scythe|la hoz
+to flee|huir
+to work (starts with L) (has an o in it)|laborar
+distant (masculine)|lejano
+distant (feminine)|lejana
+the leadership|el liderazgo
+to carry out (3 words)|llevar a cabo
+to fight for|luchar por
+the early hours|la madrugada
+birth (adjective) (e.g birth country)|natal
+the working class (starts with o)|el obrero
+the squad|el pelotón
+sadly (starts with p) (adjective ends in e)|penosamente
+the lead (the metal)|el plomo
+the prisoner (starts with p) (masculine)|el preso
+the prisoner (starts with p) (feminine)|la presa
+to star in (starts with p)|protagonizar
+to travel through|recorrer
+to examine/search (starts with r)|registrar
+to return (starts with "reg")|regresar
+to pray|rezar
+to shake/disturb|sacudir
+the trade union|el sindicato
+to fly over|sobrevolar
+to provide (starts with s)|suministrar
+season (1 word) (starts with t)|la temporada
+the passerby (only article changes between genders) (male)|el transeúnte
+the passerby (only article changes between genders) (female)|la transeúnte
+the burial mound|el túmulo
+the executioner (male)|el verdugo
+the executioner (female)|la verduga
+the anvil|el yunque
+DNA|ADN
+agrarian (masculine)|agrario
+agrarian (feminine)|agraria
+the isolation|el aislamiento
+the uprising (starts with a)|el alzamiento
+to put before|anteponer
+the self-rule|la autonomía
+the endorsement (starts with a) (4 letters)|el aval
+buoyant (always ends in e)|boyante
+the fall|la caída
+the criminal charge (2 words)|el cargo penal
+controversial (masculine)|controvertido
+controversial (feminine)|controvertida
+to play a part (3 words) (1st word starts with d)|desempeñar un papel
+to stand out|destacar
+the effigy|la efigie
+to draw up|elaborar
+to lead/to head|encabezar
+to face|enfrentar
+to be wrong (reflexive)|equivocarse
+the expectation|la expectativa
+to die (starts with f)|fallecer
+failed (starts with "fal") (masculine)|fallido
+failed (starts with "fal") (feminine)|fallida
+the grave (starts with f)|la fosa
+to become (starts with h) (reflexive)|hacerse
+heir/successor (male)|el heredero
+heir/successor (female)|la heredera
+in honour of (3 words)|en honor a
+the strike|la huelga
+unexpected (masculine)|improvisto
+unexpected (feminine)|improvista
+to establish (starts with i)|instaurar
+the attempt|el intento
+to manage/to succeed|lograr
+by means of (starts with m)|mediante
+the currency (same as "coins")|la moneda
+to grant (starts wih o)|otorgar
+peacefully (starts with p) (adjective ends in e)|pacíficamente
+the location (starts with p)|el paradero
+to perish|perecer
+the permanence/remaining|la permanencia
+to survive (starts with p)|pervivir
+the commoner (male)|el plebeyo
+the commoner (female)|la plebeya
+to bring to light (3 words) (starts with poner)|poner de manifiesto
+as, given that (2 words) (starts with p)|puesto que
+to revive (it's reavivar) (there are like 5 synonyms for this all starting with r)|reavivar
+the regime|el régimen
+the reign|el reinado
+to reestablish|restablecer
+to restore (sounds a bit like the english)|restaurar
+to withdraw|retirar
+the womens' suffrage|el sufragio femenino
+the lieutenant (only article changes between genders) (male)|el teniente
+the lieutenant (only article changes between genders) (female)|la teniente
+to move (starts with t)|trasladar
+on the eve of|en vísperas de
+the act of contrition|el acto de contrición
+the avenue, tree-lined path, poplar grove (starts with "al")|la alameda
+the breath (starts with a)|el aliento
+to burn (starts with a)|arder
+to overrun (starts with a)|avasallar
+to launder|blanquear
+the barrel of a gun|el cañón
+the prison|la cárcel
+the censorship|la censura
+to concede|conceder
+to condemn|condenar
+the behaviour (starts with "con") (feminine)|la conducta
+the fulfilment|el cumplimiento
+to overthrow (starts with "derri")|derribar
+to overthrow (starts with "derro")|derrocar
+the overthrow (starts with "derro")|el derrocamiento
+to break out (starts with d)|desembocar
+the dismantling|el desmantelamiento
+to dismantle (starts with "desma")|desmantelar
+the fate|el destino
+the radio station|la emisora
+faltering (masculine)|entrecortado
+faltering (feminine)|entrecortada
+to hide (reflexive) (starts with e)|esconderse
+to extradite|extraditar
+to fail (starts with "fal")|fallar
+fateful (masculine)|fatídico
+fateful (feminine)|fatídica
+the railways|los ferrocarriles
+the farm/estate|la hacienda
+relentless (no gender) (starts with i)|implacable
+to initiate (starts with i)|iniciar
+to barge in|irrumpir
+the opponent (like "opposition") (male)|el opositor
+the opponent (like "opposition") (female)|la opositora
+the penalty, sentence (starts with p)|la pena
+the (metaphorical) damage (e.g to a reputation) (starts with p)|el perjuicio
+to persue|perseguir
+subsequent (starts with p)|posterior
+last (it's "postre" with an extra letter)|postrer
+to catch fire (reflexive)|prenderse fuego
+to bring about (starts with "propi")|propiciar
+to cause (starts with p)|provocar
+to be lowered (reflexive)|rebajarse
+the imprisonment (starts with r)|la reclusión
+the resource|el recurso
+the surrender|la rendición
+the prisoner (starts with r) (masculine)|el reo
+the prisoner (starts with r) (feminine)|la rea
+repressive (masculine)|represivo
+repressive (feminine)|represiva
+the break (starts with "ru")|la ruptura
+the preist (starts with s)|el sacerdote
+to come to light|salir a la luz
+to kidnap (starts with s)|secuestrar
+without trial|sin juicio
+to ask for (starts with "so")|solicitar
+the subordinate (male) (not subordinado)|el subalterno
+the subordinate (female) (not subordinada)|la subalterna
+to happen (starts with s)|suceder
+to plunge (starts with s)|sumir
+the traitor (male)|el traidor
+the traitor (female)|la traidora
+the violation|la violación
 the cliff|el acantilado
 the soul|el alma
 the height|la altura
@@ -2104,11 +2156,11 @@ the self-portrait|el autorretrato
 the tile|el azulejo
 the vault|la bóveda
 the colouring|el colorido
-to build (starts with c)|construir
+to build (starts with c-)|construir
 the glass|el cristal
-the painting, canvas (starts with c)|el cuadro
+the painting, canvas (starts with c-)|el cuadro
 to wreck, ruin|destrozar
-to build (starts with e)|edificar
+to build (starts with e-)|edificar
 the dwarf, little person (male)|el enano
 the dwarf, little person (female)|la enana
 to sculpt|esculpir
@@ -2127,7 +2179,7 @@ the iron|el hierro
 the interior|el interior
 the architectural jewel|la joya arquitectónica
 the brick|el ladrillo
-the canvas, painting (starts with L)|el lienzo
+the canvas, painting (starts with L-)|el lienzo
 the wood|la madera
 the mural (painting)|el mural
 the work of engineering|la obra de ingeniería
@@ -2177,7 +2229,7 @@ the guitarist (always ends in a) (male)|el guitarrista
 the guitarist (always ends in a) (female)|la guitarrista
 the melody|la melodía
 to mix|mezclar
-to suffer (starts with a p)|padecer
+to suffer (starts with p-)|padecer
 the palm of one's hand|la palma de la mano
 the tambourine (does not start with a t)|la pandereta
 the (musical) score/sheet music|la partitura
@@ -2193,30 +2245,1087 @@ to sound|sonar
 the sound|el sonido
 to tap/to click one's heels (i'm assuming in a context where's you're straight jamming)|taconear
 the clicking/the tapping of one's heels|el taconeo
-the drum (starts with t)|el tambor
-to play a song/piece of music (starts with t) (3 words)|tocar una composición
+the drum (starts with t-)|el tambor
+to play a song/piece of music (starts with t-) (3 words)|tocar una composición
 the cellist (male)|el violonchelista
 the cellist (female)|la violonchelista
-to pull someone's leg|tomar el pelo
-to be a piece of cake|ser pan comido
-to be straightforward|no tener pelos en la lengua
-to contribute a little bit (but at least it's still something)|poner un grnito de arena
-to be stunned|quedarse de piedra
-to be in a bad mood|tener un humor de perro
-my mouth is watering|se me hace agua la boca
-to be loaded with cash, to be absolutely stacked|tiene más lana que un borrego
-to be broke|estar sin blanca
-to be a night owl|ser un ave nocturna
-to find your soulmate|encontrar a tu media naranja
-to look for Mr Right|buscar al príncipe azul
-to view things a little too optimistically|ver todo de color rosa
-to be very old|ser del año de la pera
-to be here, there, and everywhere|estar hasta en la sopa
-to not make any sense|no tener pies ni cabeza
-to not be able to sleep|no pegar un ojo
-to cross the line|pasarse de la raya
-pick your poison (literally: "between the sword and the wall")|entre la espada y la pared
-of good faith|de buena fe
+to take in|acoger
+to contribute (starts with "ap")|aportar
+to support (starts with "ap")|apoyar
+to risk (oneself) (reflexive)|arriesgarse
+the political asylum|el asilo político
+the boom|el auge
+to look for|buscar
+to report|denunciar
+the human rights|los derechos humanos
+adrift|a la deriva
+the collapse|el derrumbe
+to waste (starts with d)|despilfarrar
+the boat (starts with e)|la embarcación
+to push|empujar
+to enrich|enriquecer
+the lack, scarcity (starts with e)|la escasez
+to choose (starts with "es")|escoger
+the hope|la esperanza
+the foreigner (male)|el extranjero
+the foreigner (female)|la extranjera
+the brain drain|la fuga de cerebros
+to earn a living (3 words) (reflexive)|ganarse la vida
+to need (2 words 1st word starts with h)|hacer falta
+to find (starts with h)|hallar
+the hospitality sector|la hostelería
+the equality|la igualdad
+the illegal immigrant (male)|el inmigrante irregular
+the illegal immigrant (female)|la inmigrante irregular
+to retire (reflexive)|jubilarse
+the workforce|la mano de obra
+to provide for|mantener a
+to leave (starts with m) (reflexive)|marcharse
+the black market|el mercado sumergido
+to suffer (starts with p)|padecer
+to pay taxes|pagar impuestos
+a host country|un país receptor
+the small boat|la patera
+the work permit|el permiso de trabajo
+the residency permit|el permiso de residencia
+to head to (3 words)|poner rumbo a
+the spokesman|el portavoz
+the spokeswoman|la portavoz
+coming from (2 words 2nd word is de)|procedente de
+to take away (starts with q)|quitar
+to carry out (starts with r)|realizar
+to take refuge (reflexive)|refugiarse
+the refugee (male)|el refugiado
+the refugee (female)|la refugiada
+to return (starts with "reg")|regresar
+to rescue|rescatar
+the social security|la seguridad social
+to survive (starts with s)|sobrevivir
+the birth rate (4 words)|la tasa de natalidad
+to relocate/to move (starts with t) (reflexive)|trasladarse
+the wall/border (starts with v)|la valla
+despite (3 words)|a pesar de
+to have just (done something)|acabar de
+to show gratitude for, to thank|agradecer
+to feed|alimentar
+to yearn|anhelar
+the ancestry|la ascendencia
+the quality of life (1st word starts with c)|la calidad de vida
+to change|cambiar
+the census|el censo
+the citizenship|la ciudadanía
+the colonies|las colonias
+to share (starts with c)|compartir
+to live with|convivir
+to grow up (also "to grow")|crecer
+to leave (starts with d)|dejar
+the destination|el destino
+to spread (starts with d)|difundir
+to lead, to head (starts with d)|dirigir
+the stability|la estabilidad
+to break out (starts with e)|estallar
+the lack of (starts with f)|la falta de
+the training (starts with f)|la formación
+to earn (starts with g)|ganar
+the war (starts with g not "guerra")|la guerrilla
+the hunger|la hambre
+to flee (starts with h)|huir
+to increase (starts with i)|incrementar
+the links with|los lazos con
+the freedom|la libertad
+to make ends meet|llegar a fin de mes
+to fight (starts with L)|luchar
+to improve|mejorar
+the spanish-speaking world|el mundo hispánico
+to be born|nacer
+wave/surge/flood of (3 words starts with o)|la oleada de
+to stay (starts with p)|permanecer
+to try your luck|probar suerte
+the post/position (starts with p)|el puesto
+to strengthen/to reinforce|reforzar
+to live (starts with r)|residir
+to return (starts with "ret")|retornar
+the Castro revolution|la revolución castrista
+the wealth|la riqueza
+to save (starts with s)|salvar
+to carry on/to follow|seguir
+to highlight (starts with "se")|señalar
+the European Union|la Unión Europea
+to travel (starts with v)|viajar
+to camp out|acampar
+to accept/to embrace, take in|acoger
+to go deep into (starts with "ad")|adentrar
+to drown (reflexive)|ahogarse
+to arrest (starts with "ap")|apresar
+the support (starts with "arra")|el arraigo
+the arrival|el arribo
+the legal advice|el asesoramiento jurídico
+native (starts with a) (masculine)|autóctono
+native (starts with a) (feminine)|autóctona
+to help (starts with "au")|auxiliar
+to fall (starts with c)|caer
+the refugee centre|el centro de asistencia
+to get (starts with c)|conseguir
+the smuggler (male)|el contrabandista
+the smuggler (female)|la contrabandista
+to cross|cruzar
+to look after|cuidar
+to deport|deportar
+the rights|los derechos
+to discover|descubrir
+to arrest (starts with d)|detener
+to register (starts with e)|empadronar
+to head/to lead (starts with e)|encabezar
+the straits (of gibraltar)|el estrecho
+to avoid (starts with "eva")|evadir
+to die (starts with f)|fallecer
+to sign|firmar
+the civil servant (male)|el funcionario
+the civil servant (female)|la funcionaria
+to hit|golpear
+to shout|gritar
+injured person (male)|el herido
+injured person (female)|la herida
+to sink|hundir
+the immigrants without any documents/papers|los indocumentados
+to enter (starts with i)|ingresar
+to invest|invertir
+to achieve (starts with L)|lograr
+nevertheless|no obstante
+western (adjective ends in "al")|occidental
+to pay|pagar
+the native population (last word starts with "au")|la población autóctona
+the poverty|la pobreza
+the policy (or the politics)|la política
+to start, to set in motion (3 words)|poner en marcha
+the press|la prensa
+the GDP|el producto interior bruto
+to resort to|recurrir
+to legalise (starts with r)|regularizar
+the remittances|las remesas
+the risk|el riesgo
+the survivor (male)|el sobreviviente
+the survivor (female)|la sobreviviente
+suspicious (starts with s) (masculine)|sospechoso
+suspicious (starts with s) (feminine)|sospechosa
+the rate of|la tasa de
+to land (2 words 1st word starts with t)|tocar tierra
+the trafficker (male)|el traficante
+the trafficker (female)|la traficante
+to process (paperwork)|tramitar
+to carry (starts with "tran")|transportar
+to move (starts with "tras")|trasladar
+the treatment/the agreement|el trato
+the journey (starts with "trav")|la travesía
+the journey (starts with "tray")|el trayecto
+the threshold|el umbral
+to get together (starts with u) (reflexive)|unirse
+to bully, to harass|acosar
+to act|actuar
+to attack, to assault|agredir
+the attacker (male)|el agresor
+the attacker (female)|la agresora
+to encourage (starts with "al")|alentar
+to threaten|amenazar
+shocked (starts with "an") (masculine)|anonadado
+shocked (starts with "an") (feminine)|anonadada
+to stab|apuñalar
+the weapon|el arma
+to astonish, to amaze (starts with "as")|asombrar
+to disgust|asquear
+to frighten (starts with "as")|asustar
+the slap|la bofetada
+xenophobic outbreak|el brote xenófobo
+to make fun of|burlarse de
+the slum dweller (male)|el chabolista
+the slum dweller (female)|la chabolista
+the behaviour (starts with com)|el comportamiento
+to behave (starts with c) (reflexive)|comportarse
+the behaviour (starts with "con")|la conducta
+to set an example (2 words)|dar ejemplo
+to slap somebody (3 words)|dar un manotazo
+narrow minded|de mente cerrada
+the hate crime|el delito de odio
+to discourage|desalentar
+the push|el empujón
+to get angry (starts with "enf") (reflexive)|enfadarse
+the confrontation|el enfrentamiento
+to face, to confront (has a after the word) (reflexive)|enfrentarse a
+to sing racist chants|entonar cantos racistas
+to stereotype|estereotipar
+to expel|expulsar
+the gesture|el gesto
+to hit|golpear
+to record (starts with "gr")|grabar
+the grandstand|la grada
+to shout|gritar
+the football fan (male)|el hincha
+the football fan (female)|la hincha
+jewish (masculine)|judío
+jewish (feminine)|judía
+the thief (male)|el ladrón
+the thief (female)|la ladrona
+to beg (starts with m)|mendigar
+the muslim|el musulmán
+to suffer (starts with p)|padecer
+to beg (starts with p, 2 words)|pedir limosna
+to come from (starts with "proc")|proceder de
+to reject|rechazar
+to laugh at (reflexive)|reírse de
+to reproach|reprochar
+the stir/disturbance|el revuelo
+to save (someone) (starts with s)|salvar
+to be witness to (3 words)|ser testigo de
+to surprise (starts with s)|sorprender
+the suffering (starts with s)|el sufrimiento
+to fear|temer
+to offend, to insult (starts with u)|ultrajar
+to value|valorar
+shameful (starts with v) (masculine)|vergonzoso
+shameful (starts with v) (feminine)|vergonzosa
+to link, to connect|vincular
+to tackle|abordar
+to welcome|acoger
+to put up with, to tolerate|aguantar
+to reach|alcanzar
+the field (starts with á)|el ámbito
+to encourage someone|animar a
+to announce/to advertise (starts with "an")|anunciar
+to applaud|aplaudir
+to support|apoyar
+to warn (starts with "av")|avisar
+the warning|el aviso
+two yearly|bienal
+the CCTV camera|la cámara de vigilancia
+the poster|el cartel
+blind (masculine)|ciego
+blind (feminine)|ciega
+to combat (starts with "com")|combatir
+to make aware (starts with c)|concienciar
+to become aware (reflexive)|concienciarse
+to debate|debatir
+the challenge (starts with d)|el desafío
+disabled (starts with d) (masculine)|discapacitado
+disabled (starts with d) (feminine)|discapacitada
+to eradicate|erradicar
+limited/scarce (masculine)|escaso
+limited/scarce (feminine)|escasa
+to make an effort (starts with e) (reflexive)|esforzarse
+the show (starts with e)|el espectáculo
+to label (starts with e)|etiquetar
+to exclude|excluir
+to express rejection|expresar el rechazo
+leaflet|el folleto
+to encourage something (starts with f)|fomentar
+to make an effort (starts with h 3 words)|hacer un esfuerzo
+to impose|imponer
+to launch a campaign|lanzar una campaña
+the slogan (starts with L)|el lema
+to protest (starts with "man") (reflexive)|manifestarse
+the measure|la medida
+to make aware, mentally prepare (starts with m)|mentalizar
+to deserve|merecer
+the goal (starts with m)|la meta
+to mix with one another (reflexive)|mezclarse
+disabled (starts with m) (masculine)|minusválido
+disabled (starts with m) (feminine)|minusválida
+to put together a campaign|montar una campaña
+the NGO|la ONG
+the banner (starts with p)|la pancarta
+the profile|el perfil
+the graffiti|las pintadas
+the spokesman|el portavoz
+the spokeswoman|la portavoz
+to pay attention|prestar atención
+to promote (starts with "promov")|promover
+to provide with|proporcionar
+to recriminate|recriminar
+the (short) story (starts with r)|el relato
+to repatriate|repatriar
+to support (starts with r)|respaldar
+to restrict (starts with "res")|restringir
+awareness (starts with s)|la sensibilización
+to make aware (starts with s)|sensibilizar
+deaf (masculine)|sordo
+deaf (feminine)|sorda
+to overcome (starts with s)|superar
+the lead singer (male)|el vocalista
+the lead singer (female)|la vocalista
+to approach (reflexive)|acercarse
+alarming (adjective ends in e)|alarmante
+to get further away (from) (reflexive)|alejarse
+the quarrel, altercation|el altercado
+the warning, eprimand (starts with "am")|la amonestación
+the criminal record|los antecedentes penales
+the house arrest|el arresto domiciliario
+skinhead|la cabeza rapada
+the life sentence|la cadena perpetua
+the prison|la cárcel
+the identity card (4 words)|el carnet de identidad
+to punish|castigar
+to grant (starts with c)|conceder
+the (criminal) sentence (starts with "con")|la condena
+to sentence, to condemn|condenar
+the alcohol test|el control de alcoholemia
+the crime rate|la criminalidad
+to criminalise|criminalizar
+to beat (3 words)|dar/propinar una paliza
+the crime (starts with "delin")|la delincuencia
+the criminal, delinquent (male)|el delincuente
+the criminal, delinquent (female)|la delincuente
+to commit a crime (starts with "deli")|delinquir
+the crime (starts with d)|el delito
+to get rid of (starts with d 2 words) (reflexive)|deshacerse de
+the arrest|la detención
+to apologise (starts with d) (reflexive)|disculparse
+to disclose, make public (starts with "di")|divulgar
+to jail|encarcelar
+chilling (adjective ends in e)|escalofriante
+the hooligan (male)|el gamberro
+the hooligan (female)|la gamberra
+to guarantee|garantizar
+to stop (starts with "im")|impedir
+the compensation (starts with i)|la indemnización
+to compensate (starts with i)|indemnizar
+the minor offence|la infracción leve
+the judge (male)|el juez
+the judge (female)|la jueza
+the court/tribunal (starts with j)|el juzgado
+to judge|juzgar
+to fine (1 word)|multar
+to refuse to (reflexive)|negarse a
+to force (starts with o)|obligar
+the restraining order|la orden de alejamiento
+to apologise (2 words)|pedir disculpas
+the death penalty|la pena de muerte
+to penalise|penalizar
+to harm/to be detrimental (starts with p)|perjudicar
+to give a fine (3 words)|poner una multa
+the benefits (starts with p)|las prestaciones
+ban, prohibition|la prohibición
+to ban, to prohibit|prohibir
+on purpose|a propósito
+to remove, take away (starts with q)|quitar
+to fine, sanction|sancionar
+to sentence (starts with s)|sentenciar
+to be aware of (3 words)|ser consciente de
+to bear in mind (3 words)|tener en cuenta
+the harassment/poor treatment|las vejaciones
+throughout (4 words) (1st word starts with a)|a lo largo de
+welcoming (masculine)|acogedor
+welcoming (feminine)|acogedora
+from alicante (masculine)|alicantino
+from alicante (feminine)|alicantina
+the ceasefire|el alto el fuego
+the threat|la amenaza
+peaceful (adjective ends in e) (starts with a)|apacible
+deep-rooted, entrenched (masculine)|arraigado
+deep-rooted, entrenched (feminine)|arraigada
+self-government|el autogobierno
+the political wing|el brazo político
+to lack (2 words starts with c)|carecer de
+to confer|conferir
+the belief|la creencia
+in fact|de hecho
+to weaken|debilitar
+the challenge (starts with d)|el desafío
+uninhabited (masculine)|deshabitado
+uninhabited (feminine)|deshabitada
+the site, location, summons (to appear in court) (starts with e)|el emplazamiento
+to shut away|encerrar
+to enlarge (starts with e)|engrandecer
+to enrich|enriquecer
+to come into force (a law)|entrar en vigor
+to school, to teach, provide regular schooling|escolarizar
+state (adjective form)|estatal
+to stigmatise|estigmatizar
+to strengthen (starts with f)|fortalecer
+to fail (starts with "fra")|fracasar
+appropriate, fit, ideal (starts with i) (masculine)|idóneo
+appropriate, fit, ideal (starts with i) (feminine)|idónea
+the nature/kind (starts with í)|la índole
+to encourage/to induce|inducir a
+to register (reflexive) (starts with i)|inscribirse
+inclusive (masculine ends in r) (masculine)|integrador
+inclusive (feminine ends in "ra") (feminine)|integradora
+retired (masculine)|jubilado
+retired (feminine)|jubilada
+to retire (reflexive)|jubilarse
+the legacy (starts with L)|el legado
+the coast (starts with L)|el litoral
+the mix|la mezcla
+to mould|moldear
+the moor (person) (male)|el moro
+the moor (person) (female)|la mora
+from orihuela (masculine)|oriolano
+from orihuela (feminine)|oriolana
+the roll/register|el padrón
+paradoxically|paradójicamente
+the supporter (starts with p) (male)|el partidario
+the supporter (starts with p) (female)|la partidaria
+full (starts with p) (masculine)|pleno
+full (starts with p) (feminine)|plena
+appreciated (starts with p) (masculine)|preciado
+appreciated (starts with p) (feminine)|preciada
+to prevail|prevalecer
+to predominate (starts with "pri")|primar
+comes from|procedente de
+to provide (starts with "pro")|proporcionar
+the people|el pueblo
+to reject|rechazar
+spread, distributed (starts with r) (masculine)|repartido
+spread, distributed (starts with r) (feminine)|repartida
+to restrict|restringir
+the political persuasion|el signo político
+the workshop|el taller
+to tend to|tender a
+to bring|traer
+verifiable (adjective ends in e)|verificable
+the housing (starts with v)|la vivienda
+to get close, to approach (reflexive) (starts with "ac")|acercarse
+to harass, to bully (starts with a)|acosar
+to attack (starts with "ag")|agredir
+the mayor (male)|el alcalde
+the mayor (female)|la alcaldesa
+to bet on|apostar por
+to appreciate (like the english word)|apreciar
+the learning|el aprendizaje
+the asylum|el asilo
+the groups (starts with b)|las bandas
+the surgeon (male)|el cirujano
+the surgeon (female)|la cirujana
+to condemn|condenar
+to trust (starts with c)|confiar
+combination/outfit/music group (starts with "con")|el conjunto
+to convince|convencer
+to run the risk|correr el riesgo
+second hand|de segunda mano
+the right (to do something)|el derecho
+the MP (male)|el diputado
+the MP (female)|la diputada
+to set off for (reflexive)|dirigirse a
+to reduce (starts with "dis")|disminuir
+the dominicans|los dominicanos
+to destroy (3 words)|echar por tierra
+to choose (starts with "es")|escoger
+to avoid (starts with "evi")|evitar
+the success|el éxito
+foreign (masculine)|extranjero
+foreign (feminine)|extranjera
+the failure|el fracaso
+the thumps|los golpes
+the guatemalans|los guatemaltecos
+to pay attention to (3 words starts with h)|hacer caso a
+humble (adjective ends in e)|humilde
+together (plural) (masculine)|juntos
+together (plural) (feminine)|juntas
+the godmother|la madrina
+to enroll (reflexive) (starts with m)|matricularse
+the myth|el mito
+the level|el nivel
+the chest (anatomy)|el pecho
+to damage (starts with p)|perjudicar
+to remain (starts with p)|permanecer
+the politicians (male)|los políticos
+the politicians (female)|las políticas
+to put a stop to (3 words) (last word is "a")|poner remedio a
+the puerto ricans|los puertoriqueños
+to complain (reflexive)|quejarse
+the rage|la rabia
+to lower|rebajar
+to remember (starts with r)|recordar
+the performance; efficiency; output, capacity; yield (monetary return) (starts with r)|el rendimiento
+to delay (starts with r)|retrasar
+the salvadorians|los salvadoreños
+to kidnap|secuestrar
+to feel (emotions) (reflexive)|sentirse
+to request (starts with s)|solicitar
+to underline (starts with "su")|subrayar
+the luck|la suerte
+to bear in mind|tener en cuenta
+the fortune telling (like "divination")|la adivinación
+clinging (starts with a) (masculine)|aferrado
+clinging (starts with a) (feminine)|aferrada
+the scope/area/environment/field (starts with á)|el ámbito
+the wide range|la amplia gama
+the apostasy|la apostasía
+leant on, leaning on (masculine)|apoyado en
+leant on, leaning on (feminine)|apoyada en
+to hurry (refelxive) (starts with a)|apresuarse
+harmoniously (adjective ends in e)|armónicamente
+the fasting|el ayuno
+the witch|la bruja
+the witchcraft|la brujería
+the burst of laughter|la carcajada
+the candle (starts with c)|el cirio
+committed to (has "a" after the word) (masculine)|comprometido a
+committed to (has "a" after the word) (feminine)|comprometida a
+the convert (masculine)|el converso
+the convert (feminine)|la conversa
+to convene (starts with "con")|convocar
+the religion (starts with c)|el culto
+facing (3 words)|de cara a
+the deity|la deidad
+the deviation|la desviación
+to deviate|desviar
+to double (starts with "du")|duplicar
+prominent (starts with e) (masculine)|emblemático
+prominent (starts with e) (feminine)|emblemática
+to establish, start something, begin something (starts with "en")|entablar
+to hand over (starts with e)|entregar
+the ladder|la escalera
+the scorn (starts with e)|el escarnio
+to spit (starts with e)|escupir
+to show off clothes, wear them for the first time|estrenar
+to experience|experimentar
+the façade|la fachada
+to pretend (starts with f)|fingir
+to attend, to frequent (a place) (starts with f)|frecuentar
+the spring (place name) (starts with F)|la Fuentecilla
+to gain ground|ganar terreno
+the heretic (male)|el hereje
+the heretic (female)|la hereje
+the boost (starts with i)|el impulso
+to institute|instituir
+to succeed (starts with l)|lograr
+the order (starts with m)|el mandato
+to hinder, hamper, obstruct (starts with o)|obstaculizar
+the hit from a stone (starts with pe)|la pedrada
+to pursue/to prosecute|perseguir
+the firecracker (starts with p)|el petardo
+to try (in a case)|procesar
+related to (masculine)|relacionado con
+related to (feminine)|relacionada con
+unusual (starts with s)|singular
+the noose|la soga
+the magic, sorcery|el sortilegio
+the fabric (starts with t)|el tejido
+the witness (male)|el testigo
+the witness (female)|la testigo
+to shiver (starts with "ti")|tiritar
+the court (starts with t)|el tribunal
+the score (of 20)|la veintena
+to defeat (starts with v)|vencer
+to monitor|vigilar
+to go to the polls (starts with acudir)|acudir a las urnas
+to go to the polls (starts with ir)|ir a las urnas
+somebody else's/foreign (can only find masculine examples of this word)|ajeno
+apolitical (masculine)|apolítico
+apolitical (feminine)|apolítica
+to back a party|apostar por un partido
+the grant|la beca
+citizenship/the citizens|la ciudadanía
+the elections (starts with c)|los comicios
+committed (masculine)|comprometido
+committed (feminine)|comprometida
+the demonstrations, protests (starts with c)|las concentraciones
+the civic awareness|la conciencia cívica
+the approval (starts with c)|la conformidad
+the consent|el consentimiento
+the certainty|la convicción
+to fulfil (starts with c)|cumplir
+the defender (male)|el defensor
+the defender (female)|la defensora
+the mistrust, distrust|la desconfianza
+desireable (adjective ends in e)|deseable
+to wish, desire|desear
+disenchanted, disillusioned (starts with "dese") (masculine)|desencantado
+disenchanted, disillusioned (starts with "dese") (feminine)|desencantada
+desperate (masculine)|desesperado
+desperate (feminine)|desesperada
+the ills, misfourtunes|las desgracias
+disappointed/disillusioned (starts with "desi") (masculine)|desilusionado
+disappointed/disillusioned (starts with "desi") (feminine)|desilusionada
+the lack of interest, indifference|el desinterés
+the member of parliament (male)|el diputado
+the member of parlliament (female)|la diputada
+the electorate (can only find masculine version of this word)|el electorado
+to worsen|empeorar
+to strengthen|fortalecer
+rogue (un + noun)|un granuja
+to campaign (literally: to make a campaign)|hacer campaña
+angry (starts with i) (masculine)|indignado
+angry (starts with i) (feminine)|indignada
+individual (adjective)|individual
+"an individual" (male)|un individuo
+"an individual" (female)|una individua
+the concern, worry|la inquietud
+to get involved (reflexive)|involucrarse
+the working day|la jornada laboral
+to achieve (starts with L)|lograr
+to express/to state (starts with m)|manifestar
+to lie|mentir
+the activist (male)|el militante
+the activist (female)|la militante
+to be a member of/to be active in a party|militar en un partido
+to demonstrate, to protest (reflexive) (starts with "mo")|movilizarse
+the wave|la ola
+the supporter (male)|el partidario
+the supporter (female)|la partidaria
+the apathy, indifference (starts with p)|la pasividad
+apathetic (starts with p)|pasota
+to afford (also: to allow) (starts with p) (reflexive)|permitirse
+the stance|la postura
+the job insecurity|la precariedad laboral
+the proposal|la propuesta
+to claim/to demand|reclamar
+to reclaim (starts with "rei")|reivindicar
+the representative (male)|el representante
+the representative (female)|la representante
+the trade union|el sindicato
+supportive/caring (masculine)|solidario
+supportive/caring (feminine)|solidaria
+to put up with (starts with s)|soportar
+to put up with (starts with a)|aguantar
+to brand someone|tachar a alguien
+the voter (male)|el votante
+the voter (female)|la votante
+in the long term|a largo plazo
+to sign up (starts with a) (reflexive)|apuntarse
+the help|la ayuda
+to look for (starts with b)|buscar
+to take (starts with "co")|coger
+to fight (starts with c)|combatir
+to get (starts with c)|conseguir
+a contract|un contrato
+to pay contributions|cotizar
+to register (3 words)|dar de alta
+the unemployment (starts with d)|el desempleo
+the employees (from "empresa") (male)|los empresarios
+the employees (from "empresa") (female)|las empresarias
+in cash|en efectivo
+the job (starts with e)|el empleo
+to find (starts with e)|encontrar
+to be unemployed (3 words)|estar en paro
+to be fed up (masculine)|estar harto
+to be fed up (feminine)|estar harta
+to demand (starts with e)|exigir
+the experience|la experiencia
+the lack of (3 words)|la falta de
+the training (like "formation")|la formación
+the lost generation|la generación perdida
+the job centre (special name)|el INEM
+the income|el ingreso
+the youth|la juventud
+to launch|lanzar
+to demonstrate (reflexive) (starts with "ma")|manifestarse
+to leave (starts with m) (reflexive)|marcharse
+to improve|mejorar
+the labour market|el mercado laboral
+to show (starts with m)|mostrar
+the guidance (like "orientation")|la orientación
+the youth unemployment|el paro juvenil
+the work experience (this is plural)|las prácticas laborales
+to claim, try to (starts with p)|pretender
+the position/post (starts with p)|el puesto
+to carry out (starts with r)|realizar
+to solve (starts with r)|resolver
+the security|la seguridad
+the unemployment benefit|el subsidio del paro
+to represent/to make up, to suppose|suponer
+the rate|la tasa
+to work (starts with t)|trabajar
+to aquire (a bit like the english)|adquirir
+to face, to confront (starts with a)|afrontar
+to reach (like "to reach out")|alcanzar
+the anxiety/anguish|la angustia
+the outbreak/bud (starts with b)|el brote
+the alley|el callejón
+the career/degree|la carerra
+to collaborate|colaborar
+the group (starts with "col")|el colectivo
+the committment (also "engagement")|el compromiso
+the comsumer (ends in "ista") (male)|el consumista
+the comsumer (ends in "ista") (female)|la consumista
+to turn around (metaphorically like "to turn your life around") (has a c in it) (3 words)|dar un vuelco
+to owe|deber
+selfish (ends in a always)|egoísta
+to enrich|enriquecer
+the effort|el esfuerzo
+the hope|la esperanza
+to be prepared to (3 words) (masculine)|estar dispuesto a
+to be prepared to (3 words) (feminine)|estar dispuesta a
+to be hopeful (masculine)|estar esperanzado
+to be hopeful (feminine)|estar esperanzada
+the success|el éxito
+the murder of a woman|el femicidio
+the signature|la firma
+the funds|los fondos
+to face, to confront (3 words) (includes "forehead")|hacer frente a
+the orphan (male)|el huérfano
+the orphan (female)|la huérfana
+the tax|el impuesto
+unattainable, unachievable (resembles "to reach") (adjective ends in e)|inalcanzable
+the income (plural form)|los ingresos
+worrying (adjective ends in e)|inquietante
+to instil|instilar
+unfortunate/terrible (starts with L)|lamentable
+the freedom of speech|la libertad de expresión
+the university degree (starts with L)|la licenciatura
+the enrolment fee (starts with m)|la matrícula
+the nature (starts with n)|la naturaleza
+the leisure (starts with o)|el ocio
+permissive/indulgent (masculine)|permisivo
+permissive/indulgent (feminine)|permisiva
+the request (starts with p)|la petición
+the pleasure|el placer
+to consider (starts with p) (reflexive)|plantearse
+to happen (starts with p) (reflexive)|producirse
+the parent (ends in r) (male)|el progenitor
+the parent (ends in "ra") (female)|la progenitora
+promising (ends in "dor") (masculine)|prometedor
+promising (ends in "dora") (feminine)|prometedora
+to complain (reflexive)|quejarse
+the radio listener (noun ends in e) (male)|el radioyente
+the radio listener (noun ends in e) (female)|la radioyente
+to raise money|recaudar
+to collect/to gather up (starts with r)|recoger
+to reinforce|reforzar
+to be hopeful (of something) (masculine)|ser esperanzador
+to be hopeful (of something) (feminine)|ser esperanzadora
+the solidarity/support|la solaridad
+to dream of/about|soñar con
+the rise, increase (starts with s)|la subida
+the salary (starts with "su")|el sueldo
+the dream|el sueño
+the university fee (literally: university rate)|la tasa universitaria
+the voluntary work|el vuluntariado
+the shelter (same word for "coat")|el abrigo
+the pavement|la acera
+the event (starts with a)|el acontecimiento
+the agreement|el acuerdo
+the nickname|el apodo
+to take advantage of, leverage, make the most of|aprovechar
+to show (starts with a)|asomar
+the great grandfather|el bisabuelo
+the great grandmother|la bisabuela
+the corpse|el cadáver
+the cart (in mexican this means "car")|el carro
+ashen (masculine)|ceniciento
+ashen (feminine)|cenicienta
+the comfort|la comodidad
+to grow up|crecer
+the dubbing (giving something a name)|el doblaje
+to dub|doblar
+the dramatist (male)|el dramaturgo
+the dramatist (female)|la dramaturga
+the army (starts with e)|el ejército
+the guts (like "entrails")|las entrañas
+to hand over|entregar
+to break out (starts with e)|estallar
+to avoid (starts with "evi")|evitar
+ghostly|fantasmal
+to sign|firmar
+the extract|el fragmento
+the forge (starts with "fr")|la fragua
+the war front|el frente
+the flight (starts with f)|la fuga
+the gun (starts with f)|el fusil
+the scythe|la hoz
+to flee|huir
+to work (starts with L) (has an o in it)|laborar
+distant (masculine)|lejano
+distant (feminine)|lejana
+the leadership|el liderazgo
+to carry out (3 words)|llevar a cabo
+to fight for|luchar por
+the early hours|la madrugada
+birth (adjective) (e.g birth country)|natal
+the working class (starts with o)|el obrero
+the squad|el pelotón
+sadly (starts with p) (adjective ends in e)|penosamente
+the lead (the metal)|el plomo
+the prisoner (starts with p) (masculine)|el preso
+the prisoner (starts with p) (feminine)|la presa
+to star in (starts with p)|protagonizar
+to travel through|recorrer
+to examine/search (starts with r)|registrar
+to return (starts with "reg")|regresar
+to pray|rezar
+to shake/disturb|sacudir
+the trade union|el sindicato
+to fly over|sobrevolar
+to provide (starts with s)|suministrar
+season (1 word) (starts with t)|la temporada
+the passerby (only article changes between genders) (male)|el transeúnte
+the passerby (only article changes between genders) (female)|la transeúnte
+the burial mound|el túmulo
+the executioner (male)|el verdugo
+the executioner (female)|la verduga
+the anvil|el yunque
+DNA|ADN
+agrarian (masculine)|agrario
+agrarian (feminine)|agraria
+the isolation|el aislamiento
+the uprising (starts with a)|el alzamiento
+to put before|anteponer
+the self-rule|la autonomía
+the endorsement (starts with a) (4 letters)|el aval
+buoyant (always ends in e)|boyante
+the fall|la caída
+the criminal charge (2 words)|el cargo penal
+controversial (masculine)|controvertido
+controversial (feminine)|controvertida
+to play a part (3 words) (1st word starts with d)|desempeñar un papel
+to stand out|destacar
+the effigy|la efigie
+to draw up|elaborar
+to lead/to head|encabezar
+to face|enfrentar
+to be wrong (reflexive)|equivocarse
+the expectation|la expectativa
+to die (starts with f)|fallecer
+failed (starts with "fal") (masculine)|fallido
+failed (starts with "fal") (feminine)|fallida
+the grave (starts with f)|la fosa
+to become (starts with h) (reflexive)|hacerse
+heir/successor (male)|el heredero
+heir/successor (female)|la heredera
+in honour of (3 words)|en honor a
+the strike|la huelga
+unexpected (masculine)|improvisto
+unexpected (feminine)|improvista
+to establish (starts with i)|instaurar
+the attempt|el intento
+to manage/to succeed|lograr
+by means of (starts with m)|mediante
+the currency (same as "coins")|la moneda
+to grant (starts wih o)|otorgar
+peacefully (starts with p) (adjective ends in e)|pacíficamente
+the location (starts with p)|el paradero
+to perish|perecer
+the permanence/remaining|la permanencia
+to survive (starts with p)|pervivir
+the commoner (male)|el plebeyo
+the commoner (female)|la plebeya
+to bring to light (3 words) (starts with poner)|poner de manifiesto
+as, given that (2 words) (starts with p)|puesto que
+to revive (it's reavivar) (there are like 5 synonyms for this all starting with r)|reavivar
+the regime|el régimen
+the reign|el reinado
+to reestablish|restablecer
+to restore (sounds a bit like the english)|restaurar
+to withdraw|retirar
+the womens' suffrage|el sufragio femenino
+the lieutenant (only article changes between genders) (male)|el teniente
+the lieutenant (only article changes between genders) (female)|la teniente
+to move (starts with t)|trasladar
+on the eve of|en vísperas de
+the act of contrition|el acto de contrición
+the avenue, tree-lined path, poplar grove (starts with "al")|la alameda
+the breath (starts with a)|el aliento
+to burn (starts with a)|arder
+to overrun (starts with a)|avasallar
+to launder|blanquear
+the barrel of a gun|el cañón
+the prison|la cárcel
+the censorship|la censura
+to concede|conceder
+to condemn|condenar
+the behaviour (starts with "con") (feminine)|la conducta
+the fulfilment|el cumplimiento
+to overthrow (starts with "derri")|derribar
+to overthrow (starts with "derro")|derrocar
+the overthrow (starts with "derro")|el derrocamiento
+to break out (starts with d)|desembocar
+the dismantling|el desmantelamiento
+to dismantle (starts with "desma")|desmantelar
+the fate|el destino
+the radio station|la emisora
+faltering (masculine)|entrecortado
+faltering (feminine)|entrecortada
+to hide (reflexive) (starts with e)|esconderse
+to extradite|extraditar
+to fail (starts with "fal")|fallar
+fateful (masculine)|fatídico
+fateful (feminine)|fatídica
+the railways|los ferrocarriles
+the farm/estate|la hacienda
+relentless (no gender) (starts with i)|implacable
+to initiate (starts with i)|iniciar
+to barge in|irrumpir
+the opponent (like "opposition") (male)|el opositor
+the opponent (like "opposition") (female)|la opositora
+the penalty, sentence (starts with p)|la pena
+the (metaphorical) damage (e.g to a reputation) (starts with p)|el perjuicio
+to persue|perseguir
+subsequent (starts with p)|posterior
+last (it's "postre" with an extra letter)|postrer
+to catch fire (reflexive)|prenderse fuego
+to bring about (starts with "propi")|propiciar
+to cause (starts with p)|provocar
+to be lowered (reflexive)|rebajarse
+the imprisonment (starts with r)|la reclusión
+the resource|el recurso
+the surrender|la rendición
+the prisoner (starts with r) (masculine)|el reo
+the prisoner (starts with r) (feminine)|la rea
+repressive (masculine)|represivo
+repressive (feminine)|represiva
+the break (starts with "ru")|la ruptura
+the preist (starts with s)|el sacerdote
+to come to light|salir a la luz
+to kidnap (starts with s)|secuestrar
+without trial|sin juicio
+to ask for (starts with "so")|solicitar
+the subordinate (male) (not subordinado)|el subalterno
+the subordinate (female) (not subordinada)|la subalterna
+to happen (starts with s)|suceder
+to plunge (starts with s)|sumir
+the traitor (male)|el traidor
+the traitor (female)|la traidora
+the violation|la violación
+the mayor (male)|el alcalde
+the mayor (female)|la alcaldesa
+to threaten|amenazar
+to tie|atar
+to hang (also "to upload", starts with co)|colgar
+the summit|la cumbre
+to disappoint, to let down|decepcionar
+the crime (starts with d)|el delito
+to report|denunciar
+the right (e.g right to protest)|el derecho
+the eviction|el desahucio
+to sack|despedir
+the unfurling|el despliegue
+to broadcast (starts with d)|difundir
+the MP (male)|el diputado
+the MP (female)|la diputada
+come to and end, dissolved (masculine)|disuelto
+come to and end, dissolved (feminine)|disuelta
+to climb, (starts with "es")|escalar
+to make an effort (starts with e) (reflexive)|esforzarse
+the outbreak (of a conflict) (starts with e)|el estallido
+to be fed up of (masculine)|estar harto de
+to be fed up of (feminine)|estar harta de
+state (adjective form)|estatal
+to demand (starts with e)|exigir
+the force (starts with f)|la fuerza
+the tear gas|los gases lacrimógenos
+to record (starts with g)|grabar
+the inheritance (starts with h, also "lecacy")|la herencia
+the mortgage|la hipoteca
+the strike|la huelga
+to prevent (starts with i)|impedir
+to outrage (starts with i)|indignar
+the hierarchy|la jerarquía
+to retire (reflexive)|jubilarse
+the scourge (also "blot", "mark", starts with L)|la lacra
+the protestors (starts with m) (noun ends in e) (male)|los manifestantes
+the protestors (starts with m) (noun ends in e) (female)|las manifestantes
+to protest (starts with "ma")|manifestar
+the gag|la mordaza
+to fine, to impose a fine (1 word)|multar
+to oppose to (reflexive)|oponerse a
+the placard/banner|la pancarta
+the unemployment (starts with p)|el paro
+the patrol|la patrulla
+the danger|el peligro
+to punish (starts with p, has a after the word) (reflexive)|penarse a
+the permission|el permiso
+to try (starts with p)|pretender
+to promote (ends in "-ver")|promover
+to protest (starts with p)|protestar
+to cause (starts with p, like "provoke")|provocar
+the rejection|el rechazo
+the risk|el riesgo
+the headquarters|la sede
+the trade union|el sindicato
+the salary (starts with "su")|el sueldo
+to cover (like "tap")|tapar
+to tweet|tuitear
+approaching (starts with v) (masculine)|venidero
+approaching (starts with v) (feminine)|venidera
+the shame (starts with v)|la vergüenza
+the activism|el activismo
+the agreement|el acuerdo
+the membership (like "afiliation")|la afiliación
+the member (starts with "af") (male)|el afiliado
+the member (starts with "af") (female)|la afiliada
+the members (starts with "af") (male)|los afiliados
+the members (starts with "af") (female)|las afiliadas
+the altercations, rows|los altercados
+the field of work|el ámbito laboral
+to intimidate (starts with a)|amedrentar
+to support|apoyar
+the support (starts with "ap")|el apoyo
+to take advantage of (reflexive) (has "de" after the word)|aprovecharse de
+to suffocate (starts with "as")|asfixiar
+the austerity|la austeridad
+the wellbeing|el bienestar
+the prison|la cárcel
+to rub shoulders with (reflexive)|codearse con
+to call a strike|convocar a una huelga
+the leadership (starts with c)|la cúpula
+to defend (starts with d)|defender
+the inequality|la desigualdad
+to crush (like "un-inflate")|desinflar
+to negotiate (starts with "di")|dialogar
+the managers (starts with d) (noun ends in e) (male)|los dirigentes
+the managers (starts with d) (noun ends in e) (female)|las dirigentes
+the employees (starts with "em") (male)|los empleados
+the employees (starts with "em") (female)|las empleadas
+the businesses (starts with e)|las empresas
+to be in charge of (reflexive)|encargarse de
+the factories|las fábricas
+Public prosecutor (answer this with a capital and no article)|Fiscalía
+the guilds (starts with g)|los gremios
+the equality|la igualdad
+the impunity|la impunidad
+unfair (masculine)|injusto
+unfair (feminine)|injusta
+involved (masculine)|involucrado
+involved (feminine)|involucrada
+the uprising (starts with L)|el levantamiento
+to fight (starts with L)|luchar
+to mobilise (reflexive)|movilizarse
+to negotiate|negociar
+the businesses (starts with n)|los negocios
+the worker (male)|el obrero
+the worker (female)|la obrera
+the picket|el piquete
+the poverty|la pobreza
+to protect|proteger
+to bankrupt|quebrar
+the characteristic, feature|el rasgo
+the cuts|los recortes
+to support (starts with r)|respaldar
+unionised (masculine)|sindicalizado
+unionised (feminine)|sindicalizada
+the trend|la tendencia
+to look out for (starts with "ve")|velar
+the camp|la acampada
+to hound (same as "to bully")|acosar
+to encourage (starts with a)|animar
+to appeal|apelar
+to contribute (starts with a)|aportar
+to join up (starts with a) (reflexive)|apuntarse
+to attend|asistir
+the spoils of war|el botín de guerra
+the search (starts with b)|la búsqueda
+the Spanish (from castille)|el castellano
+to punish|castigar
+illegal (starts with c) (masculine)|clandestino
+illegal (starts with c) (feminine)|clandestina
+the key (starts with c)|la clave
+to calculate (starts with "comp") (reflexive)|computarse
+to make aware (starts with c)|concienciar
+to sentence (starts with c)|condenar
+to corrupt (starts with c)|corromper
+to blame (starts with c)|culpar
+the defence|la defensa
+the disagreements|los desacuerdos
+to disappear|desaparecer
+the development|el desarrollo
+the unemployed people (male)|los desempleados 
+the unemployed people (female)|las desempleadas 
+the hopelessness (starts with d)|la desesperación
+to march (also "to parade")|desfilar
+the disobedience|la desobediencia
+the detractors (male)|los detractores
+the detractors (female)|las detractoras
+the dictatorship|la dictadura
+to twist (starts with d)|distorsionar
 the abbey, the priest's house|la abadía
 to pounce on (reflexive)|abalanzarse
 the ceiling fan, the handhold fan|el abanico
@@ -3085,3 +4194,651 @@ the meaning|el sentido
 affable; good-natured, sociable (adjective ends in e)|afable
 bigshot (answer without article)|Cabarrús
 irreverent, disrespectful (adjective ends in e)|irreverente
+to pull someone's leg|tomar el pelo
+to be a piece of cake|ser pan comido
+to be straightforward|no tener pelos en la lengua
+to contribute a little bit (but at least it's still something)|poner un grnito de arena
+to be stunned|quedarse de piedra
+to be in a bad mood|tener un humor de perro
+my mouth is watering|se me hace agua la boca
+to be loaded with cash, to be absolutely stacked|tiene más lana que un borrego
+to be broke|estar sin blanca
+to be a night owl|ser un ave nocturna
+to find your soulmate|encontrar a tu media naranja
+to look for Mr Right|buscar al príncipe azul
+to view things a little too optimistically|ver todo de color rosa
+to be very old|ser del año de la pera
+to be here, there, and everywhere|estar hasta en la sopa
+to not make any sense|no tener pies ni cabeza
+to not be able to sleep|no pegar un ojo
+to cross the line|pasarse de la raya
+pick your poison (literally: "between the sword and the wall")|entre la espada y la pared
+of good faith|de buena fe
+to approach (reflexive) (has "a")|acercarse a
+to manage to (starts with ac) (has "a")|acertar a
+to be/get used to (reflexive) (has "a")|acostumbrarse a
+to manage to (starts with al) (has "a")|alcanzar a
+to encourage to (has "a")|animar a
+to learn to (has "a")|aprender a
+to dare to (reflexive) (has "a")|atreverse a
+to help (has "a")|ayudar a
+to go down to (has "a")|bajar a
+to begin to (starts with c) (has "a")|comenzar a
+to undertake to (reflexive) (has "a")|comprometerse a
+to lead to (starts with c) (has "a")|conducir a
+to contribute to (has "a")|contribuir a
+to invite to (starts with c) (has "a")|convidar a
+to take care of (has "a")|cuidar a
+to decide to (reflexive) (has "a")|decidirse a
+to devote oneself to (reflexive) (has "a")|dedicarse a
+to challenge to (has "a")|desafiar a
+to get ready to (starts with d) (reflexive) (has "a")|disponerse a
+to begin to (it is echar) (not reflexive) (has "a")|echar a
+to begin to (it is echarse) (reflexive) (has "a")|echarse a
+to begin to (starts with em) (has "a")|empezar a
+to teach to, show how to (has "a")|enseñar a
+to force to (starts with f) (has "a")|forzar a
+to urge to (has "a")|impulsar a
+to incite to (has "a")|incitar a
+to incline to (has "a")|inclinar a
+to invite to (starts with i) (has "a")|invitar a
+to go to (has "a")|ir a
+to limit oneself to (reflexive) (has "a")|limitarse a
+to manage to, succeed in, end up (i know youtubers say "hemos ______ a <number> seguidores") (has "a")|llegar a
+to become (______ a ser) (has "a")|llegar a ser
+to lead to (starts with L) (has "a")|llevar a
+to send to (has "a")|mandar a
+to start to (starts with m) (reflexive) (has "a")|meterse a
+to refuse to (starts with n) (reflexive) (has "a")|negarse a
+to force, compel to (starts with o) (has "a")|obligar a
+to go on to (starts with p) (has "a")|pasar a
+to begin to, set about (starts with pon) (reflexive) (has "a")|ponerse a
+to get ready to (starts with p) (kind of like "prepare") (reflexive) (has "a")|prepararse a
+to renounce (has "a")|renunciar a
+to resign oneself to (reflexive) (has "a")|resignarse a
+to resist (reflexive) (has "a")|resistirse a
+to tend to (has "a")|tender a
+to (do something) again (has "a")|volver a
+to threaten to (has "con")|amenazar con
+to begin with (starts with com) (has "con")|comenzar con
+to begin by (starts with com) (has "por")|comenzar por
+to count/rely on (has "con")|contar con
+to be satisfied with (kind of like "to be happy with oneself with") (reflexive) (has "con")|contentarse con
+to be concerned with (kind of like "to be/become worried with") (reflexive) (has "con")|preocuparse con
+to dream of (has "con")|soñar con
+to concern, have to do with ( ____ que ver con) (has "con")|tener que ver con
+to get further away from (reflexive) (has "de")|alejarse de
+to have just done something (has "de")|acabar de
+to remember to (uses acordar not recordar) (reflexive) (has "de")|acordarse de
+to accuse of (has "de")|acusar de
+to be happy, pleased to (reflexive) (has "de")|alegrarse de
+to regret (reflexive) (has "de")|arrepentirse de
+to be ashamed of (reflexive) (has "de")|avergonzarse de
+to tire of something (reflexive) (has "de")|cansarse de
+to cease (has "de")|cesar de
+to become convinced of (reflexive) (has "de")|convencerse de
+to take care, be careful of (has "de")|cuidar de
+to stop; to fail to (starts with d) (has "de")|dejar de
+to dissuade from (has "de")|disuadir de
+to take charge of (reflexive) (has "de")|encargarse de
+to take care, be careful not to (kind of like "to save oneself from" but doesn"t use salvar) (starts with gu) (reflexive) (has "de')|guardarse de
+to be fed up with (reflexive) (has "de")|hartarse de
+to boast about (starts with j) (reflexive) (has "de")|jactarse de
+to bemoan (reflexive) (has "de")|lamentarse de
+to forget to (reflexive) (has "de")|olvidarse de
+to stop (starts with p) (has "de")|parar de
+to be concerned about (uses "preocupar") (reflexive) (has "de")|preocuparse de
+to boast about (starts with p) (has "de")|presumir de
+to complain about (reflexive) (has "de")|quejarse de
+to stop (starts with t) (has "de")|terminar de
+to try to (it"s "tratar de") (has "de')|tratar de
+to be about, be a question of (reflexive) (has "de")|tratarse de
+to consist of (has "en")|consistir en
+to agree to (starts with c) (has "en")|convenir en
+to hesitate to (starts with d) (has "en")|dudar en
+to insist on (starts with e) (reflexive) (has "en")|empeñarse en
+to be right to ( ____ bien en) (has "en")|hacer bien en
+to be wrong to ( ____ mal en) (has "en")|hacer mal en
+to insist on (starts with i) (has "en")|insistir en
+to be interested in (reflexive) (has "en")|interesarse en
+to take the trouble to (reflexive) (has "en")|molestarse en
+to think about (has "en")|pensar en
+to persist in (has "en")|persistir en
+to agree to (starts with q) (has "en")|quedar en
+to take a long time to, delay in (has "en")|tardar en
+to hesitate over (starts with v) (has "en")|vacilar en
+to strive to (starts with af) (reflexive) (has "por")|afanarse por
+to strive to (starts with ap) (reflexive) (has "por")|apurarse por
+to apologise for (reflexive) (has "por")|disculparse por
+to struggle to (starts with e) (reflexive) (has "por")|esforzarse por
+to struggle for, fight for (starts with L) (has "por")|luchar por
+to opt for (has "por")|optar por
+to advise to (no preposition)|aconsejar
+to agree to (starts with a) (no preposition)|acordar
+to threaten to (no preposition)|amenazar
+to long to (no preposition)|anhelar
+to confess to (no preposition)|confesar
+to get, to succeed at/in, manage to, to get (starts with c) (no preposition)|conseguir
+to think, believe (no preposition)|creer
+should, must, to have to (no preposition)|deber
+to decide to (no preposition)|decidir
+to let, allow (no preposition)|dejar
+to want, desire (no preposition)|desear
+to hope to, wait, expect (no preposition)|esperar
+to avoid (no preposition)|evitar
+to try (to do something) (starts with i) (no preposition)|intentar
+to swear to (no preposition)|jurar
+to manage to, succeed in (e.g: women have won the right to vote over the sexist men) (no preposition)|lograr
+to order to, to send (starts with m) (no preposition)|mandar
+to deserve to (no preposition)|merecer
+to need, have to (no preposition)|necesitar
+to deny (no preposition)|negar
+to offer (no preposition)|ofrecer
+to hear (no preposition)|oír
+to forget (no preposition)|olvidar
+to order to (starts with o) (no preposition)|ordenar
+to seem (no preposition)|parecer
+to ask (starts with p) (no preposition)|pedir
+to think, to plan/intend to (no preposition)|pensar
+to allow (starts with p) (like "permit") (no preposition)|permitir
+to be able to (no preposition)|poder
+to prefer (no preposition)|preferir
+to try to (starts with p) (no preposition)|pretender
+to really try to (no preposition)|procurar
+to prohibit (no preposition)|prohibir
+to promise (no preposition)|prometer
+to want (no preposition)|querer
+to remember (like "record") (no preposition)|recordar
+to refuse to (starts with "re") (no preposition)|rehusar
+to resolve to (no preposition)|resolver
+to know how to, to know (no preposition)|saber
+to feel, to regret, to be sorry about (no preposition)|sentir
+to usually do something, to be used/accustomed to (no preposition)|soler
+to fear (no preposition)|temer
+to see (no preposition)|ver
+forehead|la frente
+scar|la cicatriz
+vanity case|el neceser
+sumptuous (masculine) (expensive looking e.g fake products)|suntuoso
+sumptuous (feminine) (expensive looking e.g fake products)|suntuosa
+cheekbone|el pómulo
+complexion (starts with t-)|la tez
+blusher (starts with c-)|el colorete
+blusher (starts with r-)|el rubor
+curling iron|el rizador
+mascara (starts with r-)|el rímel
+to higlight (not destacar, starts with r-)|realzar
+tweezers|las pinzas
+eyelash|la pestaña
+hairdresser's (the establishment)|la peluquería
+freckles|las pecas
+pale (masculine)|pálido
+pale (feminine)|pálida
+eye bags|las ojeras
+mixture|la mezcla
+face mask (spanish word)|la mascarilla
+to use make up|maquillarse
+mask (latin american word)|la máscara
+stain|la mancha
+battered (masculine)|maltratado
+battered (feminine)|maltratada
+mole (on someone's skin)|el lunar
+luminous (masculine)|luminoso
+luminous (feminine)|luminosa
+luxurious (masculine)|lujoso
+luxurious (feminine)|lujosa
+luxury|el lujo
+to shine (not brillar, starts with l-)|lucir
+healthy-looking (masculine)|lozano
+healthy-looking (feminine)|lozana
+lotion|la loción
+smooth (masculine)|liso
+smooth (feminine)|lisa
+cleanliness|la limpieza
+lipstick|el lápiz de labios
+tear|la lágrima
+unforgettable|inolvidable
+impeccable|impecable
+to illuminate|iluminar
+moisturising|hidratante
+cotton swab|el hisopo
+to hypnotise|hipnotizar
+swollen (masculine)|hinchado
+swollen (feminine)|hinchada
+to moisturise|hidratar
+to bewitch (starts with h-)|hechizar
+grease|la grasa
+dashing, striking (masculine)|gallardo
+dashing, striking (feminine)|gallarda
+to rub|frotar
+bottle (starts with b-)|la botella
+jar, (glass) bottle (starts with f-)|el frasco
+fragrance|la fragancia
+firm|firme
+features (starts with f-)|las facciones
+foam|la espuma
+pimple (starts with e-)|la espinilla
+mirror|el espejo
+nail polish|el esmalte de uñas
+aging|el envejecimiento
+enigmatic (masculine)|enigmático
+enigmatic (feminine)|enigmática
+to bewitch (starts with e-)|embrujar
+intoxicating|embrigador
+elegance|la elegancia
+to embellish|embellecer
+grace (starts with d-)|el donaire
+to hide, conceal (starts with "di"-)|disimular
+stunning (starts with d-)|deslumbrante
+dehydrated (masculine)|deshidratado
+dehydrated (feminine)|deshidratada
+to remove hair from|depilar
+eyeliner|el delineador
+self-care (el + 2 words)|el cuidado personal
+cutter|el cortador
+cologne (not the city) (4 words starts with "el-")|el agua de colonia
+advice|el consejo
+to cover|cubrir
+cosmetology|la cosmetología
+blusher|el colorete
+eyedrops (starts with c-) (this is a singular word)|el colirio
+to heal (starts with "cic-")|cicatrizar
+wax|la cera
+full eyebrows|las cejas pobladas
+chestnut brown (masculine) (starts with c-)|castaño
+chestnut brown (feminine) (starts with c-)|castaña
+layer|la capa
+suntan lotion|el bronceador
+lip gloss|el brillo de labios
+to shine (starts with b-)|brillar
+pimple|el grano
+balm|el bálsamo
+self-image|la autoimagen
+self-esteem|la autoestima
+daring (starts with "au"-)|audaz
+daring (masculine) (starts with "at-")|atrevido
+daring (feminine) (starts with "at-")|atrevida
+rough (masculine)|áspero
+rough (feminine)|áspera
+cleaning (starts with a-, not limpieza)|el aseo
+to clean your room (3 words starts with a-) (uses the word "c-"|arreglar el cuarto
+repaired|reparado
+anti-aging|antienvejecimiento
+cotton|el algodón
+acne|el acné
+nose|la nariz
+leg|la pierna
+cheeks|las mejillas
+arm|el brazo
+knee|la rodilla
+elbow|el codo
+hand|la mano
+lips|los labios
+a finger|un dedo
+teeth|los dientes
+breasts|los senos
+stomach|el estómago
+hip|la cadera
+ears|las orejas
+eyebrows|las cejas
+back|la espalda
+butt|el culo
+foot|el pie
+neck|el cuello
+shoulders|los hombros
+wrist|la muñeca
+rib|la costilla
+breast|el seno
+eyebrow|la ceja
+buttocks|las nalgas
+toe|el dedo del pie
+ankle|el tobillo
+waist|la cintura
+shoulder|el hombro
+body hair|el vello
+muscle|el músculo
+organ|el órgano
+joint|la articulación
+mouth|la boca
+face (starts with c)|la cara
+face (starts with r)|el rostro
+forehead|la frente
+tooth|el diente
+head|la cabeza
+eye|el ojo
+brain|el cerebro
+stomach|el estómago
+belly|la barriga
+bone|el hueso
+lung|el pulmón
+liver|el hígado
+the daisy|la maya
+the gardenia|la gardenia
+the orchid|la orquídea
+the tulip|el tulipán
+the marigold|la margarita
+the azalea|la azalea
+the geranium|el geranio
+the lavender|la lavanda
+the zinnia|la zinnia
+the rose|la rosa
+the sunflower|el girasol
+the poppy|la amapola
+the periwinkle|la teresita
+the daffodil|el narciso
+the petunia|la petunia
+the violet|la violeta
+the dusty miller|la dusty miller
+the hyacinth|el jacinto
+the hibiscus|la jamaica
+the hydrangea|la hortensia
+the jasmine|el jasmín
+the lilac|la lila
+the poinsettia|la noche buena
+the calendula|la caléndula
+the lily|el lirio
+the pansy|el pensamiento
+the primrose
+the alyssum|el aliso
+the verbena|la verbena
+the snapdragon|la boca de dragón
+the aster|el aster
+the chrysanthemum|el crisantemo
+the delphinium|la espuela de caballero
+the juniper|el enebro
+the iris|el iris
+the begonia|la begonia
+the camellia|la camelia
+the abutilon|el amantillo
+the clematis|la clemátide
+the forget me not|el nomeolvides
+the snowdrop|la campanilla de invierno
+the california poppy|la amapola de California
+the cardinal flower|la cardenala encarnada
+the water lilies|las ninfeáceas
+the columbine|la aguileña
+the foxglove|la dedalera
+the lantana|la lantana
+the lobelia|la lobelia
+the aconite|el acónito
+the african daisy|la arcotis
+the laelia|la laelia
+the agapanthus|el agapanto
+the statice|la lavanda marina
+the peruvian lily|el lirio peruano
+the amaranthus|el amaranto
+the bluebonnets|el lupino
+the amaryllis|la añañuca
+the lavatera|la malva
+the anemone|la anémona
+the anise|el anís
+the ballota|la ballota
+the duranta|la duranta
+the bellflower|la campanula
+the bergenia|la vergenia
+the black-eyed susan|la rudbeckia bicolor
+the wildflowers|las flores salvajes
+the larkspur|la consolida
+the bletilla|la bletilla
+the ageratum|la yerba de zopilote
+the bluestar flower|la amsonia azul
+the lemon verbena|el cidrón
+the bottlebrush|los limpiatubos
+the nierembergia|la estrellita de las vegas
+the brassica|la mostaza india
+the broom|las retamas
+the buttercup|la trompeta amarilla
+the oriental lily|el lirio oriental
+the catharanthus|la chavelita
+the lewisia|la lewisia
+the celosia|la celosia
+the dianthus barbatus|el clavel del poeta
+the coneflower|el dracopis
+the mimosa|la mimosa
+the coral bells|la heuchera
+the coreopsis|la calliopsis
+the lotus|la flor de loto
+the corydalis|la corydalis
+the eremurus|la cola de zorro
+the crocus|el azafrán
+the daphne|el laurel
+the linaria|la linaria
+the deutzia|la celinda de espigas
+the nemopila|la flor ojos de bebé
+the diascia|la diáscia
+the disa|la disa
+the dutch iris|el iris holandés
+the silene|la colleja
+the echinops|la rolandra
+the lunaria|la moneda del Papa
+the firethorn|los espinos de fuego
+the erigeron|la margarita cimarrona
+the lubin|el lubiín
+the magnolia|la magnolia
+the feverfew|la hierba santa
+the mandevilla|la mandevilla
+the kniphofia|la bandera española
+the flaming katy|la flor de la fortuna
+the mayflower|el berro del prado
+the forsythia|la campania china
+the marguerite daisy|la magarza común
+the french marigold|el clavel de moro
+the gaillardia|la gallardía
+the sedum|la uña de gato
+the gazania|la gazania
+the peony|la flor maldita
+the gerbera flower|la margarita africana
+the matthiola|el alhelí
+the kalmia|el laurel de monaña
+the gladiolas|el lirio común
+the freesia|la fresilla
+the goldenrod|la vara de oro de Canadá
+the guzmania|la flor del incienso
+the hawthorn|los majuelos
+the heather|la brecina
+the hebe|la verónica
+the helenium|la enula
+the ixora|la cruz de Malta
+the ornamental cherry|el cerezo en flor japonés
+the pelargonium|el geranio
+the quince|el membrillo
+the heliotrope|la vainilla de jardín
+the scaevola|la flor de abanico
+the penstemon|las campanitas
+the nemesia|la nemesia
+the impatiens|la balsamina
+the scilla|la escila
+the the cowslip|la flor de la primavera
+https://www.berlitz.com/blog/flowers-in-spanish
+
+
+
+
+
+
+
+
+
+
+
+
+the human trafficker (nickname, uncommon) (male)|el pollero
+the border (between countries)|la frontera
+the wagon (starts with v)|el vagón
+to borrow|pedir prestado
+in a line|en fila
+risky, dangerous|arriesgado
+the migration politics|la política migratoria
+the life jacket|la salvavida
+the crossing|la travesía
+uno|1
+dos|2
+tres|3
+cuatro|4
+cinco|5
+seis|6
+siete|7
+ocho|8
+nueve|9
+diez|10
+once|11
+doce|12
+trece|13
+catorce|14
+quince|15
+dieciséis|16
+diecisiete|17
+dieciocho|18
+diecinueve|19
+veinte|20
+veintiuno|21
+veintidós|22
+veintitrés|23
+veinticuatro|24
+veinticinco|25
+veintiséis|26
+veintisiete|27
+veintiocho|28
+veintinueve|29
+treinta|30
+treinta y uno|31
+treinta y dos|32
+treinta y tres|33
+treinta y cuatro|34
+treinta y cinco|35
+treinta y seis|36
+treinta y siete|37
+treinta y ocho|38
+treinta y nueve|39
+cuarenta|40
+cuarenta y uno|41
+cuarenta y dos|42
+cuarenta y tres|43
+cuarenta y cuatro|44
+cuarenta y cinco|45
+cuarenta y seis|46
+cuarenta y siete|47
+cuarenta y ocho|48
+cuarenta y nueve|49
+cincuenta|50
+cincuenta y uno|51
+cincuenta y dos|52
+cincuenta y tres|53
+cincuenta y cuatro|54
+cincuenta y cinco|55
+cincuenta y seis|56
+cincuenta y siete|57
+cincuenta y ocho|58
+cincuenta y nueve|59
+sesenta|60
+sesenta y uno|61
+sesenta y dos|62
+sesenta y tres|63
+sesenta y cuatro|64
+sesenta y cinco|65
+sesenta y seis|66
+sesenta y siete|67
+sesenta y ocho|68
+sesenta y nueve|69
+setenta|70
+setenta y uno|71
+setenta y dos|72
+setenta y tres|73
+setenta y cuatro|74
+setenta y cinco|75
+setenta y seis|76
+setenta y siete|77
+setenta y ocho|78
+setenta y nueve|79
+ochenta|80
+ochenta y uno|81
+ochenta y dos|82
+ochenta y tres|83
+ochenta y cuatro|84
+ochenta y cinco|85
+ochenta y seis|86
+ochenta y siete|87
+ochenta y ocho|88
+ochenta y nueve|89
+noventa|90
+noventa y uno|91
+noventa y dos|92
+noventa y tres|93
+noventa y cuatro|94
+noventa y cinco|95
+noventa y seis|96
+noventa y siete|97
+noventa y ocho|98
+noventa y nueve|99
+cien|100
+doscientos|200
+trescientos|300
+cuatrocientos|400
+quinientos|500
+seiscientos|600
+setecientos|700
+ochocientos|800
+novecientos|900
+mil|1000
+mil novecientos ochenta y uno (year of legalisation of divorce in spain)|1981
+dos mil cinco (year of legalisation of gay marriage in spain)|2005
+mil cuatrocientos noventa y dos (year that chrisopher columbus (aka Cristóbal Colón) discovered America AND the year Fernando and Isabel expelled the jews and muslims in the south)|1492
+dos mil diez (year of legalisation of abortion in spain)|2010
+es increíble que|It's incredible that
+es preciso que|It's essential that
+es de esperar que|It's to be hoped that
+es importante que|It's important that
+hagamos lo que hagamos|whatever we do
+hagan lo que hagan|whatever they do
+pase lo que pase|whatever happens
+venga lo que venga|come what may
+sea lo que sea|be that as it may
+cueste lo que cueste|whatever the cost
+me alegro de que|I'm happy that
+me indigno de que|I'm indignant that
+lamento que|I'm sorry that
+me extraña que|I'm surprised that
+me asombra que|I'm astonished that
+me sorprende que|It surprises me that
+que yo sepa|as far as i know
+que yo recuerda|as far as i can remember
+a menos que|unless
+sin que|without
+hasta que|until that
+para que|In order that
+¡Ojalá que venga pronto!|I hope he/she comes soon
+¡Ojalá lo pudiera hacer!|If only i could do it
+¡Ojalá no lo hubieran hecho!|If only they hadn't done it
+¡Ojalá todos fueran como...!|If only everyone were like
+quienquiera que|whoever
+dondequiera que|wherever
+comoquiera que|however
+es mejor que|It's better that
+es imprescindible que|It's essential that (it's indispensable, imperative that)
+es justo que|It's fair that
+es estupendo que|It's great that (it's stupendous that)
+es lógico que|It's logical that
+es una lata que|It's a shame that
+es una pena que|It's a shame that (it's a pain that)
+es una lástima que|It's a shame that
+no creo que|I don't think that
+no pienso que|I don't think that
+no me parece que|It doesn't seem to me that
+no veo que|I don't see that
+no recuerdo que|I don't remember that
+no aguanto que|I can't stand that
+dudo que|I doubt that
+querer que|to want (i want you to... + subjunctive)
+aconsejar que|to advise that
+mandar que|to command that
+impedir que|to prevent that
+en cuanto|as soon as
+antes de que|before that
+por mucho que|no matter how much
+no es que|It's not that
+a no ser que|unless
+para que|so that
+a fin de que|so that
+espero que|I hope that
+me alegra que|I'm glad that
+temo que|I'm afraid that
