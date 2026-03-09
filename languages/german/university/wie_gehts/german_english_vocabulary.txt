@@ -63,7 +63,7 @@ to add|addieren
 the adjective|das Adjektiv(e)
 the adjectival noun|das substantivierte Adjektiv
 the eagle|der Alder(-)
-the address|die Addresse(n)
+the address (sounds like English)|die Addresse(n)
 the Advent wreath|der Adventskranz(¨e)
 the adverb|das Adverb(ien)
 the aerobics|die Aerobik
@@ -144,14 +144,157 @@ the other one (masculine)|der ander
 the other one (feminine)|die andere
 the others|die anderen
 something quite (lit. "entirely") different|etwas ganz anderes
-
-
-
-
-
-
-
-
+on the other hand (starts with a-)|andererseits
+to change (starts with ä-) (more of a fundamental change, transformation)|ändern
+different(ly), in other ways|anders
+Say it differently!|Sagen Sie es anders!
+recognized, accredited|anerkannt
+to recognize; acknowledge (separable verb)|anerkennen
+the beginning, start|der Anfang(¨e)
+at the beginning of the week|am Anfang der Woche
+in the beginning|am Anfang
+to begin, start (starts with a-) (separable verb)|anfangen
+the beginner (male)|der Anfänger(-)
+the beginner (female)|die Anfängerin(nen)
+to cheer for (separable verb)|anfeuern
+the information (starts with A-)|die Angabe(n)
+the offering, offer|das Angebot(e)
+on special offer|im Angebot
+the matter; thing (starts with A-)|die Angelegenheit(en)
+to fish|angeln
+to go fishing|angeln gehen
+geared / adjusted to (starts with a-)|angepasst
+posted; chipped (furniture); under the weather, groggy (illness) (starts with a-)|angeschlagen
+the employee; clerk (noun with definite article doesn't change based on gender)|der/die Angestellte(n)
+an employee; clerk  (male)|ein Angestellter
+an employee; clerk  (female)|eine Angestellte(n)
+to be dependent on (starts with a-) (+ case)|angewiesen sein auf (+ acc.)
+the English studies|die Anglistik
+tha attack; raid|der Angriff(e)
+the fear, anxiety|die Angst(¨e)
+to fear, be afraid of (has "vor" after the word) (+ case)|Angst haben vor (+ dat.)
+Don't worry!|Keine Angst!
+to become afraid, get scared|Angst bekommen
+to continue (starts with a-) (separable verb)|anhalten
+the appendix|der Anhang(¨e)
+devoted, attached|angänglich
+to listen to (used for sounds e.g. music) (reflexive) (separable verb)|sich anhören
+Listen to that! / Listen to that sound!|Hör dir das an!
+to arrive (in) (has "in" after the word + case) (separable verb)|ankommen (in + dat.)
+That depends.|Das kommt darauf an.
+to mark with an X (separable verb)|ankreuzen
+the arrial|die Ankunft
+to turn on (a radio etc.) (separable verb)|anmachen
+the reception desk; registration (starts with A-)|die Anmeldung
+the hypothetical statement or question; supposition|die Annahme(n) 
+to accept; to suppose (starts with a-) (separable verb)|annehmen
+the parka (coat)|der Anorak(s)
+adaptable|anpassungsfähig
+to try on (separable verb)|anprobieren
+the address (to a crowd)|die Anrede(n)
+the form of address|die Anredeform(en)
+to address (starts with "anr-") (separable verb)|anreden
+to do (damage) (starts with a-) (separable verb)|anrichten
+the (phone) call|der Anruf(e)
+the answering machine|der Anrufbeantworter(-)
+to call, phone (separable verb)|anrufen
+to announce (starts with a-) (separable verb)|ansagen
+to look at; to watch (starts with "ansc") (reflexive) (separable verb)|sich anschauen
+to post (starts with a-) (separable verb)|anschlagen
+afterwards (starts with a-)|anschließend
+the connection (starts with a-)|der Anschluss(¨e)
+the address (place of residence) (starts with "An-")|die Anschrift(en)
+to look at; to watch (starts with "anse") (reflexive) (separable verb)|sich ansehen
+the opinion; attitude; view (starts with A-)|die Ansicht(en)
+the postcard (with a picture)|die Ansichtskarte(n)
+otherwise (starts with a-)|ansonsten
+to address, speak to (starts with "ans-") (separable verb)|ansprechen
+instead of (+ case)|(an)statt
+strenuous, stressful|anstrengend
+the share, proportion (starts with A-)|der Anteil(e)
+the antique mall|der Antikmarkt(¨e)
+the antique|die Antiquität(en)
+the application (starts with "Ant-")|der Antrag(¨e)
+the ansewr|die Antwort(en)
+to answer|antworten
+to increase (starts with a-) (separable verb)|anwachsen
+the law firm|die Anwaltsfirma(-firmen)
+the number, amount (starts with A-)|die Anzahl
+the advertisement (starts with A-)|die Anzeige(n)
+the scoreboard|die Anzeigetafel(n)
+to put on (clothing), get dressed (reflexive) (separable verb)|sich anziehen
+the men's suit (starts with A-)|der Anzug(¨e)
+to light (starts with a-) (separable verb)|anzünden
+the apple|der Apfel(¨)
+the apple juice with sparkling water|die Apfelschorle
+the apple strudel|der Apfelstrudel(-)
+the pharmacy|die Apotheke(n)
+the pharmacist (job title) (male)|der Apotheker(-)
+the pharmacist (job title) (female)|die Apothekerin(nen)
+to appeal|appellieren
+the appetite|der Appetit
+Enjoy your meal!|Guten Appetit!
+tha apricot|die Aprikose(n)
+April|April
+in April|im April
+the equator|der Äquator
+the equivalent|das Äquivalent
+the Arab (male)|der Araber(-)
+the Arab (female)|die Araberin(nen)
+Arabic|arabisch
+the work; term (of work); paper (at uni)|die Arbeit(en)
+at work|bei der Arbeit
+Labor Day|Tag der Arbeit
+to work|arbeiten
+the (blue-collar) worker (male)|der Arbeiter(-)
+the (blue-collar) worker (female)|die Arbeiterin(nen)
+the foreman|der Vorarbeiter(-)
+the forewoman|die Vorarbeiterin(nen)
+the employer (starts with A-) (male)|der Arbeitgeber(-)
+the employer (starts with A-) (female)|die Arbeitgeberin(nen)
+the eomployee (starts with A-) (male)|der Arbeitnehmer(-)
+the eomployee (starts with A-) (female)|die Arbeitnehmerin(nen)
+hardworking|arbeitsam
+extremely hardworking|arbeitsam wie ein Pferd
+the workbook|das Arbeitsbuch(¨er)
+the work permit|die Arbeitserlaubnis(se)
+the work climate|das Arbeitsklima
+the worker|die Arbeitskraft(¨e)
+the output; performance (starts with A-)|die Arbeitsleistung(en)
+unemployed|arbeitslos
+the unemployed person (noun with definite article doesn't change based on gender)|der Arbeitslose(n)
+an unemployed person (male)|ein Arbeitsloser
+an unemployed person (female)|eine Arbeitslose
+the unemployment|die Arbeitslosigkeit
+the job market|der Arbeitsmarkt(¨e)
+the job; place of employment|der Arbeitsplatz(¨e)
+the study (room in a house)|das Arbeitszimmer(-)
+archaic|archaisch
+the archeology|die Archäologie
+the architect (male)|der Architekt(en)
+the architect (female)|die Architektin(nen)
+architectural(ly)|architektonisch
+the architecture|die Architektur
+the archive|das Archiv(e)
+annoying|ärgerlich
+to get annoyed / upset about (reflexive)|sich ärgern über
+That makes me angry / mad.|Das ärgert mich.
+the arcade|die Arkade(n)
+poor|arm
+the arm|der Arm(e)
+the wristwatch|die Armbanduhr(en)
+the army|die Armee(n)
+the poverty|die Armut
+arrogant|arrogant
+the kind, type (of) (something)|die Art (von)
+the article (of) (has "von" after the word)|der Artikel(-) (von)
+the physician; doctor (male)|der Artzt(¨e)
+the physician; doctor (female)|die Ärtztin(nen)
+the ashes|die Asche
+the Aisan|der Asiate(n)
+the Aisan|der Asiatin(nen)
+to associate|assoziieren
+aesthetic|ästhetisch
 
 
 
