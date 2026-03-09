@@ -54,7 +54,7 @@ the distraction; variety|die Abwechslung(en)
 oh!|ach!
 Oh, I see!|Ach so!
 Oh, come on!|Ach was!
-to pay attention to, watch out for (+ case)|achten auf (+ acc.)
+to pay attention to, watch out for (starts with "ach-") (+ case)|achten auf (+ acc.)
 the attention; warning (noun / interjection)|die Achtung
 Watch out! / Be careful!|Achtung!
 German automobile association|der ADAC (Allgemeiner Deutscher Automobil-Club)
@@ -295,6 +295,88 @@ the Aisan|der Asiate(n)
 the Aisan|der Asiatin(nen)
 to associate|assoziieren
 aesthetic|ästhetisch
+the assistant (male)|der Assistent(en)
+the assistant (female)|die Assistentin(nen)
+the astronomy|die Astronomie
+the asylum seeker (male)|der Asylant(en)
+the asylum seeker (female)|die Asylantin(nen)
+the breath|der Atem
+to breathe|atmen
+the atmosphere|die Atmosphäre
+the attraction|die Attraktion(en)
+attractive|attraktiv
+also, too|auch
+the main (university) auditorium|das Audimax
+on (top of) (+ case/case); open (starts with a-)|auf
+up, open (prefix) (starts with a-)|auf-
+to breathe a sigh of relief (separable verb)|aufatmen
+to build, put up (separable verb)|aufbauen
+to rebuild (separable verb)|wiederaufbauen
+to come together (separable verb)|aufeinandertreffen (ist)
+the stay, stopover|der Aufenthalt(e)
+the stay abroad|der Auslandsaufenthalt(e)
+the residence permit|die Aufenthaltserlaubnis(se)
+to eat up (separable verb)|aufessen
+to consider (to be) (separable verb)|auffassen
+the assignment; task (starts with A-)|die Aufgabe(n)
+to give up (starts wtih a-) (separable verb)|aufgeben
+to rise (sun) (separable verb)|aufgehen
+to hold open; to stay (separable verb)|aufhalten
+to catch up (separable verb)|aufholen
+to stop (doing something)|aufhören (zu + inf.)
+the enlightenment|die Aufklärung
+the sticker (starts with A-)|der Aufkleber(-)
+the edition (starts with A-)|die Auflage(n)
+to open (starts with a-)|aufmachen
+the acceptance, reception|die Aufnahme
+to take (a picture)|aufnehmen
+to pay attention (starts with "auf-") (separable verb)|aufpassen
+the essay, composition, paper|der Aufsatz(¨ë)
+the assorted meats / cheeses, cold cuts|der Aufschnitt
+to write down (separable verb)|aufschreiben
+to get up (separable verb)|aufstehen
+to put up, set up (separable verb)|aufstellen
+the sharing|die Aufteilung
+to wake up (separable verb)|aufwachen (ist)
+to grow up (separable verb)|aufwachsen
+the elevator|der Aufzug(¨e)
+the eye|das Auge(n)
+the moment|der Augenblick(e)
+Just a minute!|Einen Augenblick!
+the eyebrow|die Augenbraue(n)
+August|August
+in August|im August
+out of, from (a place of origin) (+ case)|aus (+ dat.)
+I'm from (a native of) ... (a place of origin)|Ich bin aus ...
+to be over|aus sein
+out, out of (prefix) (starts with a-)|aus-
+to work out (separable verb)|ausarbeiten
+to pay out (separable verb)|aus(be)zahlen
+to train, educate|ausbilden
+the training, education|die Ausbildung
+the expression|der Ausdruck(¨e)
+to develop apart (reflexive)|sich auseinander entwickeln
+the excursion|der Ausflug(¨e)
+the excursion into nature|der Ausflug ins Grüne
+the export|die Ausfuhr
+to fill out (separable verb)|ausfüllen
+the exit|der Ausgang(¨e)
+to spend (money) (separable verb)|ausgeben
+trained (as) (has "als" after the word)|ausgebildet
+well-trained|gut ausgebildet
+extravagant, unusual|ausgefallen
+to go out (separable verb)|ausgehen
+excellent (starts with a-)|ausgezeichnet
+to help out (separable verb)|aushelfen
+the temporary help|die Aushilfskraft(¨e)
+to be familiar with (has "mit" after the word)|sich auskennen mit
+
+
+
+
+
+
+
 
 
 
