@@ -370,7 +370,19 @@ excellent (starts with a-)|ausgezeichnet
 to help out (separable verb)|aushelfen
 the temporary help|die Aushilfskraft(¨e)
 to be familiar with (has "mit" after the word)|sich auskennen mit
-
+the foreign country|das Ausland
+abroad|im Ausland
+the foreigner (male)|der Ausländer(-)
+the foreigner (female)|die Ausländerin(nen)
+the xenophobia|der Ausländerhass
+foreign|ausländisch
+the foreign-study program|das Auslandsprogramm(e)
+to loan, lend out (separable verb)|ausleihen
+to pick out (separable verb)|auslesen
+to turn off (separable verb)|ausmachen
+the excuse|die Ausrede(n)
+to suffice|ausreichen
+sufficient|ausreichend
 
 
 
