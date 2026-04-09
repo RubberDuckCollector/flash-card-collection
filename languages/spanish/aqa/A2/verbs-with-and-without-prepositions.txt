@@ -106,7 +106,7 @@ to get, to succeed at/in, manage to, to get (starts with c) (no preposition)|con
 to think, believe (no preposition)|creer
 should, must, to have to (no preposition)|deber
 to decide to (no preposition)|decidir
-to let, allow (no preposition)|dejar
+to let, allow (starts with d-) (no preposition)|dejar
 to want, desire (no preposition)|desear
 to hope to, wait, expect (no preposition)|esperar
 to avoid (no preposition)|evitar
@@ -124,7 +124,7 @@ to order to (starts with o) (no preposition)|ordenar
 to seem (no preposition)|parecer
 to ask (starts with p) (no preposition)|pedir
 to think, to plan/intend to (no preposition)|pensar
-to allow (starts with p) (like "permit") (no preposition)|permitir
+to allow (starts with p) (no preposition)|permitir
 to be able to (no preposition)|poder
 to prefer (no preposition)|preferir
 to try to (starts with p) (no preposition)|pretender
