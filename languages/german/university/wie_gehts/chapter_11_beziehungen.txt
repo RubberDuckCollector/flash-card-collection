@@ -35,7 +35,7 @@ to fall in love (with) (reflexive) (has "in" after the word)|sich verlieben (in)
 to lose|verlieren
 to get engaged (to) (reflexive) (has "mit" after the word)|sich verloben (mit)
 to promise|versprechen
-to try|versuchen
+to try (starts with v-)|versuchen
 alone|allein
 poor|arm
 attractive|attraktiv
