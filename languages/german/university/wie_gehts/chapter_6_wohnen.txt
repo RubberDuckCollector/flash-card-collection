@@ -1,5 +1,5 @@
 the work|die Arbeit
-the study|das Arbeitszimmer(-)
+the study (room in a house)|das Arbeitszimmer(-)
 the bathroom|das Bad(¨er)
 the balcony|der Balkon(s)
 the tree|der Baum(¨e)
@@ -34,7 +34,7 @@ the carpet|der Teppich(e)
 the table|der Tisch(e)
 the curtain|der Vorhang(¨e)
 the apartment|die Wohnung(en)
-the living room|die Wohnzimmer(-)
+the living room|das Wohnzimmer(-)
 the room|das Zimmer(-)
 to take a bath; to swim|baden
 to build|bauen
@@ -57,7 +57,7 @@ to stand something up, to put something up|stellen
 to rent out|vermieten
 to wash|waschen
 to know a fact|wissen
-excellent(ly)|ausgezeichnet
+excellent(ly) (starts with a-)|ausgezeichnet
 dark|dunkel
 light; brightly(ly)|hell
 easy; easily (lit. light(ly))|leicht
@@ -70,9 +70,9 @@ on, on top of; onto a horizontal surface|auf
 behind|hinter
 in; into; inside of|in
 beside, next to|neben
-over; above; about (context: "'we talk about ...'")|über
+over; above; about (e.g. "we talk about ...")|über
 under; below|unter
-before (context: the time, "'before we read ...'"), in front of|vor
+before (e.g. "before we read ..."), in front of|vor
 between|zwischen
 in the evening|am Abend
 during the day|am Tag
@@ -86,7 +86,7 @@ a little bit; a little bit of, some|ein bisschen
 almost (starts with f-)|fast
 in the bathroom|im Bad
 in the basement|im Keller
-in the kitchen|im der Küche
+in the kitchen|in der Küche
 on the ground level|im Erdgeschoss
 on the ground floor (European)|im Parterre
 on the first floor (European)|im ersten Stock
@@ -96,8 +96,8 @@ in the middle of|mitten in
 not yet|noch nicht
 up; upstairs|oben
 even (starts with s-)|sogar
-nevertheless, in spite of that|trotzdem
+nevertheless, in spite of that (starts with t-)|trotzdem
 down; downstairs|unten
 where|wo
 where to; to where| wohin
-quite, rather (starts with z-)|zeimlich
+quite, rather (starts with z-)|ziemlich
