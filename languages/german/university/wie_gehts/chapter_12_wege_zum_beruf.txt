@@ -1,4 +1,4 @@
-the employee (same noun>regardless of gender)|der/die Angestellte(n)
+the employee (same noun regardless of gender) (starts with A-)|der/die Angestellte(n)
 (blue-collar) worker (male)|der Arbeiter(-)
 (blue-collar) worker (female)|die Arbeiterin(nen)
 the unemployment|die Arbeitslosigkeit
@@ -25,7 +25,7 @@ the special knowledge, skill in a particular area (starts with F-)|die Fachkennt
 the company; business|die Firma, Firmen
 the business; store, shop (starts with G-)|das Geschäft(e)
 the businesswoman|die Geschäftsfrau(en)
-the businessman|der Geschäftsman(¨er)
+the businessman|der Geschäftsmann(¨er)
 the businesspeople (pl.)|die Geschäftsleute
 the trade (starts with H-)|der Handel
 the housewife|die Hausfrau(en)
@@ -75,11 +75,11 @@ to explain; clarify|erklären
 to believe (in) (has "an" after the word)|glauben (an)
 to hope|hoffen
 to be right|recht haben
-to be concerned / worried (about) (has "um" after the word)|sich Sorgen machen (um)
+to be concerned / worried (about) (has "um" after the word) (reflexive)|sich Sorgen machen (um)
 to earn, make money|verdienen
 to imagine (separable verb) (reflexive)|sich vorstellen
 to become; to be (a profession when you grow up)|werden
-strenuous, stressful (starts with a-)|anstregend
+strenuous, stressful (starts with a-)|anstrengend
 unemployed|arbeitslos
 better|besser
 best|best-
@@ -96,7 +96,7 @@ closer|näher
 closest|nächst-
 safe, secure|sicher
 unsafe, insecure|unsicher
-definitely, absolutely|unbedingt
+definitely, absolutely (starts with u-)|unbedingt
 Oh, come on!|Ach was!
 ... than|... als
 therefore (starts with "dar-")|darum
@@ -109,5 +109,5 @@ however (starts with j-)|jedoch
 at the moment, right now|momentan
 not as ... as|nicht so ... wie
 Well, ...|Nun/Also/Na ja/Tja
-among|unter (+ Akk. / Dat.)
+among|unter (+ akk. / dat.)
 What do you want to be one day?|Was willst du (ein)mal werden?

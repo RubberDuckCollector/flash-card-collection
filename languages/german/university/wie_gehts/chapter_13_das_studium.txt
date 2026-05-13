@@ -18,32 +18,32 @@ the seminar|das Seminar(e)
 the scholarship|das Stipendium, Stipendien
 the (college) student (male)|der Student(en)
 the (college) student (female)|die Studentin(nen)
-the (course of) study|das Studium
+the (course of) study (starts with "Studiu-")|das Studium
 the system|das System(e)
-the science|das Wissenschaft(en)
-the natural science|das Naturwissenschaft(en)
+the science|die Wissenschaft(en)
+the natural science|die Naturwissenschaft(en)
 to finish one's degree, graduate (separable verb)|das Studium abschließen
 to fear, be afraid of (+ case) (has "vor" after the word)|Angst haben vor (+ dat.)
-to suppose; to accept (separable verb)|annehmen
+to suppose; to accept (starts with "an-") (separable verb)|annehmen
 to end; to stop doing something (separable verb)|aufhören
 to fill out (separable verb)|ausfüllen
-to sign up for, take (a course) (starts with b)|belegen
+to sign up for, take (a course) (starts with b-)|belegen
 to mind (something); (lit. to have something against something)|etwas dagegen haben
 to teach|lehren
-to take an exam|eine Prüfung machen
+to take an exam (has "Prüfung")|eine Prüfung machen
 to pass (a test)|(eine Prüfung) bestehen
 to flunk, fail (a test) (separable verb)|(bei einer Prüfung) durchfallen
-to give an oral presentation|ein Refarat halten
-to share; to divide (starts with t)|teilen
+to give an oral presentation|ein Referat halten
+to share; to divide (starts with t-)|teilen
 to participate in (has "an" after the word) (+ case) (separable verb)|teilnehmen an (+ dat.)
 foreign|ausländisch
-surely, for sure; certain(ly)|bestimmt
+surely, for sure; certain(ly) (starts with "be-")|bestimmt
 difficult, with difficulty|schwierig
 in you/his/her shoes; if i were you/him/her|an deiner/seiner/ihrer Stelle
 (in) this way|auf diese Weise
-therefore (starts with d)|deshalb
+therefore (starts with "desh-")|deshalb
 Do you mind, if ...?|Hast du etwas dagegen, wenn ...?
 in any case|jedenfalls
 so that|so dass
-probably (starts with w)|wahrscheinlich
-Why?, How come?|Wieso?
+probably (starts with w-)|wahrscheinlich
+Why?, How come? (starts with "Wi-")|Wieso?

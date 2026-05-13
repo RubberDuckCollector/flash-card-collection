@@ -209,7 +209,7 @@ the opinion; attitude; view (starts with A-)|die Ansicht(en)
 the postcard (with a picture)|die Ansichtskarte(n)
 otherwise (starts with a-)|ansonsten
 to address, speak to (starts with "ans-") (separable verb)|ansprechen
-instead of (+ case)|(an)statt
+instead of (+ case)|(an)statt (+ gen.)
 strenuous, stressful|anstrengend
 the share, proportion (starts with A-)|der Anteil(e)
 the antique mall|der Antikmarkt(¨e)

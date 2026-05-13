@@ -20,7 +20,7 @@ the pea|die Erbse(n)
 the strawberry|die Erdbeere(n)
 the fish|der Fisch(e)
 the meat|das Fleisch
-the breakfast|das Frühstuck
+the breakfast|das Frühstück
 the vegetable|das Gemüse(-)
 the store (starts with G-)|das Geschäft(e)
 the glass|das Glas(¨er)
@@ -79,7 +79,7 @@ everything, all|alles
 you're welcome|bitte, bitte!
 then (temporal)|dann
 that's all; that's it|das ist alles
-because, for (starts with d-)|denn
+because, for (starts with "de-")|denn
 yes (affirmative response to negative statement)|doch
 a few, some|ein paar
 there is, there are|es gibt

@@ -75,12 +75,12 @@ something|etwas
 something to eat|etwas zu essen
 usual(ly)|gewöhnlich
 Bon appétit!|Guten Appetit!
-Waiter! (2nd word starts with O-)|Herr Ober
+Waiter! (2nd word starts with O-)|Herr Ober!
 I don't like ...|Ich mag kein ...
 I would like to have ... (2nd word starts wtih m)|Ich möchte gern ...
 I would like to have ... (2nd word starts wtih h)|Ich hätte gern ...
 I'd like to pay please|Ich möchte zahlen bitte
-one (e.g one would not run in the corridoors)|man
+one (e.g "one would not run in the corridoors")|man
 sometimes|manchmal
 towards home|nach Hause
 not only ... but also ...|nicht nur ... sondern auch ...
