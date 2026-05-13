@@ -65,7 +65,7 @@ with; together with|mit
 after (time e.g: Virtel ____ eins); to (far away cities, countries continents); to (in certain expressions)|nach
 since; for (duration e.g: "studying for 2 years", used with continuous things/over a long period of time)|seit
 of; from; by (creator, doer of an action)|von
-to (int he direction of); at (in certain expressions) for (purpose e.g: i buy a pan to cook)|zu
+to (in the direction of); at (in certain expressions) for (purpose e.g: i buy a pan to cook)|zu
 Waiter!/Waitress! (starts with B-)|Bedienung!
 especially|besonders
 Thanks, you too!|Danke, gleichfalls!

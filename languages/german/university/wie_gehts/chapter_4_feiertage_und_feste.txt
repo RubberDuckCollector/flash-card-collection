@@ -19,7 +19,7 @@ to think|denken
 to fall|fallen
 to celebrate, party (starts with f-)|feiern
 to be lucky|Glück haben
-to congratulate|gratulieren
+to congratulate (dative verb)|gratulieren
 to name, call (starts with n-)|nennen
 to be unlucky|Pech haben
 to give a gift|schenken
@@ -59,8 +59,8 @@ yesterday|gestern
 I (you were, she was, etc.) lucky (exclamation)|Glück gehabt!
 Get well soon!|Gute Besserung!
 Best wishes!|Herzliche Glückwünsche!
-Congratulations!|Herzlichen Glückwünsch!
-Congratulations on your birthday!|Herzlichen Glückwünsch zum Geburtstag!
+Congratulations!|Herzlichen Glückwunsch!
+Congratulations on your birthday!|Herzlichen Glückwunsch zum Geburtstag!
 Today is the first of may (5/1)|Heute ist der erste Mai (1.5.)
 I was born in 1993|Ich bin in 1993 geboren
 I was born on the first of May 1993|Ich bin am ersten Mai 1993 geboren
