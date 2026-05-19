@@ -1,4 +1,4 @@
-the employee (same noun regardless of gender) (starts with A-)|der/die Angestellte(n)
+the employee (same noun regardless of gender) (starts with "An-")|der/die Angestellte(n)
 (blue-collar) worker (male)|der Arbeiter(-)
 (blue-collar) worker (female)|die Arbeiterin(nen)
 the unemployment|die Arbeitslosigkeit

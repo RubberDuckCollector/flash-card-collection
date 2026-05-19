@@ -24,11 +24,11 @@ the remind of (has "an" after the verb) (+ case)|erinnern an (+ acc.)
 to remember (has "an" after the verb) (+ case) (reflexive) (separable verb)|sich erinnern an (+ acc)
 to recognise|erkennen
 to lead|führen
-to change|(sich) verändern
+to change (starts with "ver-")|(sich) verändern
 to leave (a place e.g. West Berlin)|verlassen
 to disappear|verschwinden
 to pass by (something); to guide (someone) along (something) (+ case) (separable verb)|vorbeiführen an
-famous (starts with b)|berühmt
+famous (starts with "ber-")|berühmt
 unique; incredible|einmalig
 once|einst
 historical(ly)|historisch
@@ -37,7 +37,7 @@ united|vereint
 very beautiful(ly)|wunderschön
 then (e.g. in "then and now") (starts with d)|damals
 somewhere|irgendwo
-all sorts of|jede Menge
+all sorts of (2 words)|jede Menge
 hardly, barely, scarcely|kaum
 isn't it?, don't you think so? (colloquial)|oder?
 since then|seitdem
