@@ -48,7 +48,7 @@ the return address|der Absender(-) (Abs.)
 intentional(ly)|absichtlich
 absolute(ly)|absolut
 to complete (starts with a-)|absolvieren
-to turn off (starts with a-) (separable verb)|abstellen
+to turn off (starts with "ab-") (separable verb)|abstellen
 to take turns (reflexive) (separable verb)|sich abwechseln
 the distraction; variety|die Abwechslung(en)
 oh!|ach!
@@ -68,7 +68,7 @@ the Advent wreath|der Adventskranz(¨e)
 the adverb|das Adverb(ien)
 the aerobics|die Aerobik
 the monkey|der Affe(n)
-the agency¹die Agentur(en)
+the agency|die Agentur(en)
 the advertising agency|die Werbeagentur(en)
 Egypt|(das) Ägypten
 the Egyptian (male)|der Ägypter(-)
@@ -111,7 +111,7 @@ the alphabet|das Alphabet
 as (conj.) (at the time) (e.g. "i work as a ...")|als
 when (after comp.) (e.g. "when i came home ...")|als
 than (comparative) (e.g. better than ...)|als
-therefore, thus, so; in other words; well (starts with a-)|also
+therefore, thus, so; in other words; well (starts with "al-")|also
 old (ä)|alt
 very old (starts with s-)|steinalt
 ancient (starts with u-)|uralt
@@ -168,7 +168,7 @@ posted; chipped (furniture); under the weather, groggy (illness) (starts with a-
 the employee; clerk (noun with definite article doesn't change based on gender)|der/die Angestellte(n)
 an employee; clerk  (male)|ein Angestellter
 an employee; clerk  (female)|eine Angestellte(n)
-to be dependent on (starts with a-) (+ case)|angewiesen sein auf (+ acc.)
+to be dependent on (starts with "an-") (+ case)|angewiesen sein auf (+ acc.)
 the English studies|die Anglistik
 tha attack; raid|der Angriff(e)
 the fear, anxiety|die Angst(¨e)
@@ -183,7 +183,7 @@ Listen to that! / Listen to that sound!|Hör dir das an!
 to arrive (in) (has "in" after the word + case) (separable verb)|ankommen (in + dat.)
 That depends.|Das kommt darauf an.
 to mark with an X (separable verb)|ankreuzen
-the arrial|die Ankunft
+the arrival|die Ankunft
 to turn on (a radio etc.) (separable verb)|anmachen
 the reception desk; registration (starts with A-)|die Anmeldung
 the hypothetical statement or question; supposition|die Annahme(n) 
@@ -215,9 +215,9 @@ the share, proportion (starts with A-)|der Anteil(e)
 the antique mall|der Antikmarkt(¨e)
 the antique|die Antiquität(en)
 the application (starts with "Ant-")|der Antrag(¨e)
-the ansewr|die Antwort(en)
+the answer|die Antwort(en)
 to answer|antworten
-to increase (starts with a-) (separable verb)|anwachsen
+to increase (starts with "anw-") (separable verb)|anwachsen
 the law firm|die Anwaltsfirma(-firmen)
 the number, amount (starts with A-)|die Anzahl
 the advertisement (starts with A-)|die Anzeige(n)
@@ -289,7 +289,7 @@ arrogant|arrogant
 the kind, type (of) (something)|die Art (von)
 the article (of) (has "von" after the word)|der Artikel(-) (von)
 the physician; doctor (male)|der Artzt(¨e)
-the physician; doctor (female)|die Ärtztin(nen)
+the physician; doctor (female)|die Ärztin(nen)
 the ashes|die Asche
 the Aisan|der Asiate(n)
 the Aisan|der Asiatin(nen)

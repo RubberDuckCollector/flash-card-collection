@@ -8,7 +8,7 @@
         * [German](#german)
         * [Japanese](#japanese)
         * [Spanish](#spanish)
-* [Stem](#stem)
+* [STEM](#stem)
     * [Computer Science](#computer-science)
 
 <!-- vim-markdown-toc -->
@@ -17,12 +17,20 @@
 
 Find the Quizlet forms of my cards [here!](https://quizlet.com/Eingabeaufforderung/folders) This Github repo will be more up-to-date though.
 
-**These flash cards are stored in text files in the format `term|definition`. Feel free to write your own code that parses them and quizzes you.
-I have gotten the vocab from other places naturally, I can't conjure up vocab for languages I'm learning, but I have also tried my best to alter them to fit me the best (e.g adding the feminine versions of adjectives and jobs for Spanish)**
+**These flash cards are stored in text files in the format `term|definition`.
+Feel free to write your own code that parses them and quizzes you. I have
+gotten the vocab from other places naturally, I can't conjure up vocab for
+languages I'm learning, but I have also tried my best to alter them to fit me
+the best (e.g adding the feminine versions of adjectives and jobs for
+Spanish)**
 
-For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
+***THERE WILL BE SPELLING MISTAKES AND FACTUAL ERRORS IN THE FLASHCARDS, COPY BLINDLY AT YOUR OWN RISK.***
+
+I am actively working on fixing spelling mistakes and factual errors but I'm not perfect.
 
 **If you find an error, submit a pull request and I'll try to figure out how that works and fix the error**
+
+For my own version of this that redoes quizlet write in my own style, check out [quizlet-write](https://github.com/RubberDuckCollector/quizlet-write)!
 
 # How to add one of these flash card sets to Quizlet
 
@@ -74,6 +82,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - **If an adjective such as „letzt-” is written with a - on the end, it means you add the conjugation as necessary. E.g: „letzte Woche”**
 
 ### Japanese
+
 - Flash cards:
     - From the Marugoto textbooks
     - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
@@ -91,7 +100,7 @@ For my own version of this that redoes quizlet write in my own style, check out 
             - Réquiem cards slightly adapted where I think I've made them more usable for this quizlet-style setting (ISBN: 978-0-7190-3222-6)
                 - **note: these spanish words are from the 30s and some are archaic (or at least may have old spelling)**
 
-# Stem
+# STEM
 
 ## Computer Science
 
