@@ -64,7 +64,6 @@ For my own version of this that redoes quizlet write in my own style, check out 
 
 - Flash cards:
     - Cannot find any active GCSE or A level courses on Dutch in the UK. The closest I can find is an old OCR course however I haven't found any textbooks and the course was discontinued just before the switch from A*-U to 9-1.
-    - Have fun with a sparratic mix of topics
     - Dutch flash cards have plurals for all nouns because it's a bit confusing
 
 ### German
