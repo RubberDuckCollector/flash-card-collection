@@ -382,8 +382,10 @@ to pick out (separable verb)|auslesen
 to turn off (separable verb)|ausmachen
 the excuse|die Ausrede(n)
 to suffice|ausreichen
-sufficient|ausreichend
-
+sufficient; approx. Grade D|ausreichend
+to tell (separable verb)|ausrichten
+Can I take a message?|Kann ich etwas ausrichten?
+the exclamation mark|das Ausrufungszeichen(-)
 
 
 

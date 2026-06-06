@@ -10,6 +10,7 @@
         * [Spanish](#spanish)
 * [STEM](#stem)
     * [Computer Science](#computer-science)
+* [Todo](#todo)
 
 <!-- vim-markdown-toc -->
 
@@ -116,3 +117,8 @@ For my own version of this that redoes quizlet write in my own style, check out 
     I didn't use JSON to store the flash cards because the <code>term|definition</code> is sufficient imo
     It's also quicker to write the flash cards in this format, and I could make vim remaps (easier and quicker than with json at my skill level) to find the | and put extra data in the flash card with just 1 keystroke; <code>(reflexive)</code> and <code>(starts with <letter>)</code>. Writing with remaps and vim is much quicker than on the quizlet webiste at least
 </details>
+
+# Todo
+
+- [ ] GERMAN: quality control on all AQA units past GCSE Unit 2
+- [ ] GERMAN: complete Wie Geht's German-English vocabulary
