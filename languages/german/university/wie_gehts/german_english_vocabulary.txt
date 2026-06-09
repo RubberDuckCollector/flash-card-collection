@@ -388,12 +388,107 @@ Can I take a message?|Kann ich etwas ausrichten?
 the exclamation mark|das Ausrufungszeichen(-)
 the statement|die Aussage(n)
 to look (like) (+ case) (separable verb)|aussehen (wie + nom.)
-besides, except (+ case) (starts with a-)|außer
-outer|äußer
+besides, except for (+ case) (starts with a-)|außer
+outer|äußer-
 besides, in addition|außerdem (adv.)
 outside (of) (+ case)|außerhalb (+ gen.)
-
-
+the prospect (for); view (of) (has "auf" after the word)|die Aussicht(en) auf (+ acc.)
+the observation deck|die Aussichtsplattform(en)
+the emigrant; ethnic immigrant (historically someone who emigrates from an eastern European country to Germany) (male)|der Aussiedler(-)
+the emigrant; ethnic immigrant (historically someone who emigrates from an eastern European country to Germany) (female)|die Aussiedlerin(nen)
+the pronunciation|die Aussprache
+to get off (e.g. on a train) (separable verb)|aussteigen
+to issue; to exhibit (starts with "aus-") (separable verb)|ausstellen
+the exhibition, show (starts with "Aus-")|die Ausstellung(en)
+to become extinct (separable verb)|aussterben
+the exhaust|der Ausstoß(¨e)
+the exchange|der Austausch
+the exchange program|das Austauschprogramm(e)
+to exchange (separable verb)|austauschen
+sold out|ausverkauft
+the choice, selection (of) (starts with A-) (+ case)|die Auswahl (an) (+ dat.)
+the ID, identification|der Ausweis(e)
+by heart (starts with a-)|auswendig
+to evaluate, assess (starts with "au-") (separable verb)|auswerten
+to affect (+ case) (separable verb) (reflexive)|sich auswirken auf (+ acc.)
+to pay out (separable verb)|auszahlen
+the time-out|die Auszeit(en)
+to get undressed (separable verb)|(sich) ausziehen
+the trainee (starts with A-) (gender neutral)|der/die Auszubildende(n)
+the trainee (coll.) (starts with A-)|der/die Azubi(s)
+the trainee (starts with A-) (male)|der Auszubildender
+the trainee (starts with A-) (female)|die Auszubildende(n)
+authentic|authentisch
+the car|das Auto(s)
+the motorway, freeway|die Autobahn(en)
+the motorway intersection|das Autobahnkreuz(e)
+free of cars; no cars (permitted)|autofrei
+the machine (starts with A-)|der Automat-(en)
+automated|automatisiert
+the car industry|die Automobilbranche
+the author|der Autor(en)
+believing in authority|autoritätsgläubig
+the cheek|die Backe(n)
+to bake|backen (bäckt), buk (backte), gebacken
+the baker|der Bäcker(-)
+the bakery|die Bäckerei(en)
+the bath, bathroom|das Bad(¨er)
+the swimsuit|der Badeanzug(¨e)
+the swimming trunks|die Badehose(n)
+to bathe, swim|baden
+to take a bath (separable verb)|sich baden
+the bathtub|die Badewanne(n)
+the bathroom|das Badezimmer(-)
+the railway, train (starts with B-)|die Bahn(en)
+the railroad crossing|der Bahnübergang(¨e)
+to clear / prepare the way|bahnen
+the train station (starts with B)|der Bahnhof(¨e)
+the platform (starts wih B-)|der Bahnsteig(e)
+soon|bald
+See you soon!|Bis bald!
+as soon as (conj.)|sobald
+soon-to-come|baldig
+the balcony|der Balkon(s)(e)
+the ball|der Ball(¨e)
+the ballet|das Ballett
+the ballet dancer (male)|der Balletttänzer(-)
+the ballet dancer (female)|die Balletttänzerin(nen)
+the banana|die Banane(n)
+Everything's nuts!|Alles Banane!
+worried (starts with b-)|bange
+the bank|die Bank(en)
+the bench|die Bank(¨e)
+the banker|der Bankier(s)
+the ban (starts with B-)|der Bann
+the bar, pub (starts with B-)|die Bar(s)
+the bear|der Bär(en)
+You're a grouch.|Du bist ein Brummbär.
+barefoot|barfuß
+the cash|das Bargeld
+the beard|der Bart(¨e)
+to do crafts (starts with b-)|basteln
+the battry|die Batterie(n)
+the build, building construction|der Bau(ten)
+the stomach, belly (starts with B-)|der Bauch(¨e)
+to build|bauen
+to have built|bauen lassen
+the farmer|der Bauer(n)
+the farm|der Bauernhof(¨e)
+the building code|das Baugesetz(e)
+the structural engineer|der Bauingenieur(e)
+the building lots|das Bauland
+the tree|der Baum(¨e)
+the cotton|die Baumwolle
+the construction site|die Baustelle(n)
+the building material|der Baustoff(e)
+the Bavarian (male)|der Bayer(n)
+the Bavarian (female)|die Bayerin(nen)
+Bavaria|Bayern
+Bavarian (adj.)|bayerisch
+the civil servant (male)|der Beamte(n)
+the civil servant (female)|die Beamtin(nen)
+to answer (starts with b-)|beantworten
+the need (for) (starts with B-)|der Bedarf (für)
 
 
 
