@@ -386,6 +386,12 @@ sufficient; approx. Grade D|ausreichend
 to tell (separable verb)|ausrichten
 Can I take a message?|Kann ich etwas ausrichten?
 the exclamation mark|das Ausrufungszeichen(-)
+the statement|die Aussage(n)
+to look (like) (+ case) (separable verb)|aussehen (wie + nom.)
+besides, except (+ case) (starts with a-)|außer
+outer|äußer
+besides, in addition|außerdem (adv.)
+outside (of) (+ case)|außerhalb (+ gen.)
 
 
 

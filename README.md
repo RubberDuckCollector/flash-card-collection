@@ -10,6 +10,7 @@
         * [Spanish](#spanish)
 * [STEM](#stem)
     * [Computer Science](#computer-science)
+* [Philosophies and thought processes](#philosophies-and-thought-processes)
 * [Todo](#todo)
 
 <!-- vim-markdown-toc -->
@@ -45,12 +46,12 @@ For my own version of this that redoes quizlet write in my own style, check out 
 1. On Quizlet, click on "Import"
 ![Step 4: Click on "Import".](assets/step_4.png)
 1. Paste the text into the text box on Quizlet.
-1. Edit the "Custom" field under "Between Term and Definition" to be a `|` character.
+2. Edit the "Custom" field under "Between Term and Definition" to be a `|` character.
 ![Step 5: Edit the "Custom" field under "Between Term and Definition" to be a | character.](assets/step_5.png)
 1. Click "Import" in the bottom right.
 ![Step 6: Click "Import" in the bottom right.](assets/step_6.png)
 1. Give the flash card set a name.
-1. Done! 
+2. Done! 
 
 # Humanities
 
@@ -112,11 +113,21 @@ For my own version of this that redoes quizlet write in my own style, check out 
     - A2:
         - From OCR H446
 
-<details>
-    <summary>Technical note:</summary>
-    I didn't use JSON to store the flash cards because the <code>term|definition</code> is sufficient imo
-    It's also quicker to write the flash cards in this format, and I could make vim remaps (easier and quicker than with json at my skill level) to find the | and put extra data in the flash card with just 1 keystroke; <code>(reflexive)</code> and <code>(starts with <letter>)</code>. Writing with remaps and vim is much quicker than on the quizlet webiste at least
-</details>
+# Philosophies and thought processes
+
+I intentionally didn't incorporate a tag system (like in Anki) because:
+
+1. The environment in which I made this system and its supporting project <https://github.com/RubberDuckCollector/quizlet-write>.
+2. Programming skill
+
+- I was about to do A Levels and needed an offline solution to vocab practise.
+Making the flash card system as simple as possible allowed me to build core
+functionality quickly to start vocab revision as soon as I could.
+
+- Not having sophisticated systems like Anki's tracking or tags also helps me
+to stay focused on the most important aspects of the task, which is "learn
+these X words by Y date". I don't need to continuously monitor my activity, I
+either know the vocab or I don't.
 
 # Todo
 
