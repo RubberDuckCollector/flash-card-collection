@@ -248,7 +248,7 @@ the biologist (male)|der Biologe(n)
 the biologist (female)|die Biologin(nen)
 the biology|die Biologie
 the pear|die Birne(n)
-to, until|bis
+to, until (starts wtih b-)|bis
 See you later! So long!|Bis später!
 See you soon!|Bis bald!
 See you in a few minutes!|Bis gleich!
