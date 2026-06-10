@@ -1,0 +1,252 @@
+the cheek|die Backe(n)
+to bake|backen (bäckt), buk (backte), gebacken
+the baker|der Bäcker(-)
+the bakery|die Bäckerei(en)
+the bath, bathroom|das Bad(¨er)
+the swimsuit|der Badeanzug(¨e)
+the swimming trunks|die Badehose(n)
+to bathe, swim|baden
+to take a bath (reflexive)|sich baden
+the bathtub|die Badewanne(n)
+the bathroom|das Badezimmer(-)
+the railway, train (starts with B-)|die Bahn(en)
+the railroad crossing|der Bahnübergang(¨e)
+to clear / prepare the way|bahnen
+the train station (starts with B)|der Bahnhof(¨e)
+the platform (starts wih B-)|der Bahnsteig(e)
+soon|bald
+See you soon!|Bis bald!
+as soon as (conj.)|sobald
+soon-to-come|baldig
+the balcony|der Balkon(s)(e)
+the ball|der Ball(¨e)
+the ballet|das Ballett
+the ballet dancer (male)|der Balletttänzer(-)
+the ballet dancer (female)|die Balletttänzerin(nen)
+the banana|die Banane(n)
+Everything's nuts!|Alles Banane!
+worried (starts with b-)|bange
+the bank|die Bank(en)
+the bench|die Bank(¨e)
+the banker|der Bankier(s)
+the ban (starts with B-)|der Bann
+the bar, pub (starts with B-)|die Bar(s)
+the bear|der Bär(en)
+You're a grouch.|Du bist ein Brummbär.
+barefoot|barfuß
+the cash|das Bargeld
+the beard|der Bart(¨e)
+to do crafts (starts with b-)|basteln
+the battry|die Batterie(n)
+the build, building construction|der Bau(ten)
+the stomach, belly (starts with B-)|der Bauch(¨e)
+to build|bauen
+to have built|bauen lassen
+the farmer|der Bauer(n)
+the farm|der Bauernhof(¨e)
+the building code|das Baugesetz(e)
+the structural engineer|der Bauingenieur(e)
+the building lots|das Bauland
+the tree|der Baum(¨e)
+the cotton|die Baumwolle
+the construction site|die Baustelle(n)
+the building material|der Baustoff(e)
+the Bavarian (male)|der Bayer(n)
+the Bavarian (female)|die Bayerin(nen)
+Bavaria|Bayern
+Bavarian (adj.)|bayerisch
+the civil servant (male)|der Beamte(n)
+the civil servant (female)|die Beamtin(nen)
+to answer (starts with b-)|beantworten
+the need (for) (starts with B-)|der Bedarf (für)
+to mean, signify (starts with b-)|bedeuten
+the meaning; significance, importance|die Bedeutung(en)
+to take care of, serve (starts with b-)|bedienen
+Help yourself!|Bedient euch!
+the server, service|die Bedienung
+Waiter! / Waitress!|Bedienung!
+on a limited scale|bedingt
+threatened|bedroht
+to feel threatened (reflexive)|sich bedroht fühlen
+to hurry (reflexive)|sich beeilen
+to impress|beeindrucken
+to influence|beeinflussen
+to finish, complete|beenden
+the instruction, request, command|der Befehl(e)
+to order, command|befehlen (befiehlt), befahl, befohlen
+satisfactory; approx. grade C|befriedigend
+to fear (starts with b-)|befürchten
+to encounter|begegnen (ist)
+desired (starts with b-)|begehrt
+enthusiastic(ally) (starts with b-)|begeistert
+the beginning (starts with B-)|der Beginn
+in the beginning (starts with B-)|zu Beginn
+to begin|beginnen, begann, begonnen
+the accompaniment|die Begleitung
+to understand, grasp (starts with b-)|begreifen
+limited (starts with b-)|begrenzt
+the limit(ation), restriction (starts with B-)|die Begrenzung(en)
+to greet, welcome (starts with b-)|begrüßen
+the greeting|die Begrüßung(en)
+as a greeting|zur Begrüßung
+to keep (starts with b-)|behalten
+the container|der Behälter(-)
+to treat like (has "wie" after the word) (starts with b-)|behandeln (wie)
+the treatment|die Behandlung(en)
+to dominate, rule (starts with b-)|beherrschen
+at (e.g. a company, place), near, at the home of __ (prep.)|bei
+This is __'s office / residence.|Hier bei __.
+both|beide
+beige|beige
+to enclose (starts with b-) (separable verb)|beilegen
+the leg|das Bein(e)
+on the go|auf den Beinen
+the example|das Beispiel(e)
+for example|zum Beispiel
+to contribute (to) (has "zu" after the word) (separable verb)|beitragen (zu)
+to combat (starts with b-)|bekämpfen
+well-known|bekannt
+That seems familiar to me.|Das kommit mir bekannt vor.
+the acquaintance|der/die Bekannte(n)
+to get, receive (starts with b-)|bekommen
+sad (starts with b-)|bekümmert
+to burden; pollute|belasten
+to sign up for, take (a course)|belegen
+Belgian (adj.)|belgisch
+popular (starts with b-)|beliebt
+the reward (starts with B-)|die Belohnung(en)
+to notice (starts with b-)|bemerken
+to try (hard) (reflexive)|sich bemühen
+to name after (has "nach" after the word)|benennen nach
+to use (starts with b-)|benutzen
+the petrol|das Benzin
+the petrol can, jerry can|der Benzinkanister(-)
+the gas guzzler|der Benzinschlucker(-)
+to watch, observe (starts with b-)|beobachten
+the observation (starts with B-)|die Beobachtung(en)
+comfortable, convenient (starts with b-)|bequem
+the counselor, adviser, consultant (male)|der Berater(-)
+the counselor, adviser, consultant (female)|die Beraterin(nen)
+the counseling|die Beratung
+to rob (starts with b-)|berauben
+the area, field (starts with B-)|der Bereich(e)
+the enrichment|die Bereicherung
+the mountain|der Berg(e)
+downhill|bergab
+uphill (has "auf")|bergauf
+the mountain train|die Bergbahn(en)
+the mining|der Bergbau
+uphill (has "hoch")|berghoch
+to go mountain climbing|bergsteigen gehen
+the report (starts with B-)|der Bericht(e)
+to report (starts with b-)|berichten
+here: to shower with|berieseln
+the profession (starts with B-)|der Beruf(e)
+profesional(ly)|beruflich
+professionally active|beruflich engagiert
+the vocational school|die Berufsschule(n)
+working (professionally) (adj.)|berufstätig
+somebody working in a profession|der/die Berufstätige(n)
+the choice of profession|die Berufswahl
+famous|berühmt
+to be occupied with (reflexive)|sich beschäftigen mit
+the activity; occupation|die Beschäftigung
+embarrassing|beschämend
+to verify, to document (starts with b-)|bescheinigen
+labeled|beschriftet
+to accuse|beschuldigen
+the complaint (starts wtih B-)|die Beschwerde(n)
+to give trouble|Beschwerden machen
+to fill, occupy (starts with b-)|besetzen
+to visit (an attraction)|besichtigen
+the property, prossession (starts with B-)|der Besitz
+to own (starts with b-)|besitzen
+the owner (male)|der Besitzer(-)
+the owner (female)|die Besitzerin(nen)
+especially|besonders
+nothing special|nichts Besonderes
+to discuss, talk about (starts with b-)|besprechen
+better|besser
+the improvement|die Besserung
+Get well soon!|Gute Besserung!
+best|best-
+it's best|am besten
+to confirm|bestätigen
+to pass (an exam)|bestehen
+to consist of (has "aus" after the word)|bestehen aus
+there is (uses "bestehen")|es besteht
+to insist on (+ case) (uses "bestehen") (has "auf" after the word)|bestehen auf (+ dat.)
+to climb on (starts with b-)|besteigen
+to order|bestellen
+the order|die Bestellung(en)
+surely, for sure (starts with b-)|bestimmt
+the visit; visitor(s)|der Besuch(e)
+to visit; attend (e.g. a school, a class)|besuchen
+the visitor (male)|der Besucher(-)
+the visitor (female)|die Besucherin(nen)
+to pray|beten
+the concrete|der Beton
+to stress, emprasise (starts with b-)|betonen
+concerning|Betr(eff)
+to concern|betreffen
+to take part in sports / a hobby (starts with b-)|betreiben
+to enter, step on (starts with b-)|betreten
+the graduate in business management (male)|der Betriebswirt(e)
+the graduate in business management (female)|die Betriebswirtin(nen)
+the business administration|die Betriebswirtschaft
+the bed|das Bett(en)
+to bed|ins Bett
+to bend|beugen
+to bend over (+ case) (reflexive)|sich beugen über (+ acc.)
+the booty, loot|die Beute
+the population (starts with B-)|Bevölkerung
+before (starts with b-) (conj.)|bevor
+to guard, watch over (starts with b-)|bewachen
+to overcome, cope with; finish|bewältigen
+to move (starts with b-) (reflexive)|sich bewegen
+the movement (starts with B-)|die Bewegung(en)
+the proof (starts with B-)|der Beweis(e)
+the (piece of) evidence|das Beweisstück(e)
+to apply (for) (has "um" after the word) (starts with b-)|sich bewerben (um)
+the application (for) (has "um" after the word) (+ case)|die Bewerbung(en) (um + acc.)
+the job interview|das Bewerbungsgespräch(e)
+to rate|bewerten
+the evaluation, grading|die Bewertung(en)
+the inhabitant; resident (starts with B) (male)|der Bewohner(-)
+the inhabitant; resident (starts with B) (female)|die Bewohnerin(nen)
+cloudy|bewölkt
+conscious(ly)|bewusst
+the awareness|das Bewusstsein
+to pay (for)|bezahlen
+to refer to, relate to (+ case) (has "auf" after the word) (starts with b-) (reflexive)|sich beziehen auf (+ acc.)
+the relationship (starts with B-)|die Beziehung(en)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
