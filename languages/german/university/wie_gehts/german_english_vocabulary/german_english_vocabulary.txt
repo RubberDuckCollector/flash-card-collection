@@ -642,4 +642,203 @@ the application (for) (has "um" after the word) (+ case)|die Bewerbung(en) (um +
 the job interview|das Bewerbungsgespräch(e)
 to rate|bewerten
 the evaluation, grading|die Bewertung(en)
-the inhabitant; resident (starts with B)
+the inhabitant; resident (starts with B) (male)|der Bewohner(-)
+the inhabitant; resident (starts with B) (female)|die Bewohnerin(nen)
+cloudy|bewölkt
+conscious(ly)|bewusst
+the awareness|das Bewusstsein
+to pay (for)|bezahlen
+to refer to, relate to (+ case) (has "auf" after the word) (starts with b-) (reflexive)|sich beziehen auf (+ acc.)
+the relationship (starts with B-)|die Beziehung(en)
+the district (starts with B)|der Bezirk(e)
+the Bible|die Bibel(n)
+the library|die Bibliothek(en)
+the bee|die Biene(n)
+the beer|das Bier
+the draught beer|das Bier vom Fass
+the beer garden|der Biergarten
+the stein|der Bierkrug(¨e)
+to offer (starts with b-)|bieten, bot, geboten
+the bikini|der Bikini(s)
+the evaultation|die Bilanz(en)
+to make an evaulation (separable verb)|eine Bilanz aufstellen
+the picture (starts with B-)|das Bild
+to form (starts with b-)|bilden
+Make / Form a sentence.|Bilden Sie einen Satz!
+the education (starts with B-)|die Bildung
+the billiards|das Billard
+cheap(ly), inexpensive(ly) (starts with b-)|billig
+to bind|binden, band, gebunden
+the biochemistry|die Biochemie
+the biochemist (male)|der Biochemiker(-)
+the biochemist (female)|die Biochemikerin(nen)
+biographical data (no article)|Biographisches data
+the health-food store|der Bio-laden(¨)
+the biologist (male)|der Biologe(n)
+the biologist (female)|die Biologin(nen)
+the biology|die Biologie
+the pear|die Birne(n)
+to, until|bis
+See you later! So long!|Bis später!
+See you soon!|Bis bald!
+See you in a few minutes!|Bis gleich!
+until now|bisher
+previous (starts with b-)|bisherig
+some, a little bit of|(ein) bisschen
+please|bitte
+You're welcome! (2nd word starts with b-)|bitte bitte!
+You're welcome! (2nd word starts with s-)|bitte schön!
+Here you are.|Hier bitte!
+May I help you?|Bitte schön?
+Pardon?|Wie bitte?
+the request (starts with B-)|die Bitte(n)
+to ask (for), request (has "um" after the word)|bitten, bat, gebeten (um)
+the leaf; sheet|das Blatt(¨er)
+blue|blau
+the blazer|der Blazer(-)
+the lead (metal)|das Blei
+to stay, remain|bleiben, blieb, ist geblieben
+the pencil|der Bleistift(e)
+the view (of); glance at (has "in / auf" after the word) (+ case)|der Blick (in / auf) (+ acc.)
+the focus (starts with B-)|der Blickpunkt(e)
+blind|blind
+the flash of lightning|der Blitz(e)
+to sparkle|blitzen
+there's lightning|es blitzt
+the quick reaction|die Blitzreaktion(en)
+the block|der Block(¨e)
+the blockade|die Blockade(n)
+the recorder|die Blockflöte(n)
+to block (starts with b-)|blockieren
+stupid (starts with b-)|blöd
+the nonsense (starts with B-)|der Blödsinn
+What nonsense! (starts with B-)|So ein Blödsinn!
+blond|blond
+only (starts with b-)|bloß
+what on earth ...?|was bloß ...?
+how on earth ...?|wie bloß ...?
+to flourish; to bloom, blossom|blühen
+flourishing|blühend
+the flower|die Blume(n)
+the cauliflower|der Blumenkohl
+the blouse|die Bluse(n)
+the blossom|die Blüte(n)
+the ground floor (starts with B-)|der Boden(¨)
+the bow; arch|der Bogen(¨)
+the bean|die Bohne(n)
+the bomber|der Bomber(-)
+the sweet|das Bonbon(s)
+the bonus|der Bonus(se)
+the boat|das Boot(e)
+the pedal boat|das Tretboot
+to borrow|borgen
+the stockmarket|die Börse(n)
+the stockbroker (male)|der Börsenmakler(-)
+the stockbroker (female)|die Börsenmaklerin(nen)
+angry, mad, upset (starts with b-)|böse
+the messenger (starts with B-) (male)|der Bote(n)
+the messenger (starts with B-) (female)|die Botin(nen)
+the boutique|die Boutique(n)
+the alcoholic punch|die Bowle(n)
+to box|boxen
+the branch|die Branche(n)
+the Brasilian (male)|der Brasilianer(-)
+the Brasilian (female)|die Brasilianerin(nen)
+Brasilian (adj.)|brasilianisch
+to fry|braten (brät), briet, gebraten
+the roast|der Braten(-)
+the pork roast|der Schweinebraten
+the beef roast|der Rinderbraten
+the marinated pork roast|der Sauerbraten
+the fried potatoes (pl.)|die Bratkartoffeln
+the fried sausage|die Bratwurst(¨e)
+the custom (starts with B-)|der Brauch(¨e)
+to need|brauchen    
+to brew|brauen
+the brewery|die Brauerei(en)
+brown|braun
+tanned|braungebrannt
+the bride|die Braut(¨e)
+the bridegroom|der Bräutigam(e)
+the wedding dress|das Brautkleid(er)
+the FRG (Federal Republic of Germany)|die BRD (Bundesrepublik Deutschland)
+to break|brechen (bricht), brach, gebrochen
+broad, wide (starts with b-)|breit
+the board|das Brett(er)
+the bulletin board|das Schwarze Brett
+the prezel|die Brezel(n)
+the letter|der Brief(e)
+the letterbox|der Briefkasten(¨)
+by letter|brieflich
+the stamp|die Briefmarke(n)
+the mailman (male)|der Briefträger(-)
+the mailman (female)|die Briefträgerin(nen)
+the glasses|die Brille(n)
+to bring|bringen, brachte, gebracht
+to bring with itself / o.s. (reflexive)|mit sich bringen
+the broccoli (pl.)|die Brokkoli
+the brochure|die Broschüre(n)
+the bread|das Brot(e)
+the toast|das Toast
+the bread with wheat and rye|das Graubrot
+the bread with cracked rye and wheat grains|das Vollkornbrot
+the bread with linseed|das Leinsamenbrot
+the bread with sunflower seeds|das Sonnenblumenkernbrot
+the bread roll|das Brötchen(-)
+the sandwhich|das belegte Brötchen
+the bread crumb|der Brotkrümel(-)
+the small piece of bread, cube|der Brotwürfel(-)
+the bridge|die Brücke(n)
+the brother|der Bruder(¨)
+the little brother|das Brüderchen(-)
+brotherly|brüderlich
+to scream (starts with b-)|brüllen
+grouchy|brummig
+the fountain|der Brunnen(-)
+the chest, breast (starts with B-)|die Brust(¨e)
+the book|das Buch(¨er)
+the bookworm|der Bücherwurm(¨er)
+the bookkeeping|die Buchführung
+the bookkeeper (male)|der Buchhalter(-)
+the bookkeeper (female)|die Buchhalterin(nen)
+the bookshop|die Buchhandlung(en)
+the booklet, little book|das Büchlein(-)
+the letter of the alphabet|der Buchstabe(n)
+to spell|buchstabieren
+Spell in German!|Buchstabieren Sie auf Deutsch!
+the booth, stand|die Bude(n)
+the shooting gallery|die Schießbude(n)
+the dining room cabinet; buffet|das Büffet(s)
+the clothing iron|das Bügeleisen(-)
+the stage (starts with B-)|die Bühne(n)
+on stage (starts with B-)|auf der Bühne
+the stroll|der Bummel
+to stroll|bummeln (ist)
+the confederation; federal government (starts with B-)|der Bund(¨e)
+the central bank|die Bundesbank
+the citizen of the Federal Republic (male)|der Bundesbürger(-)
+the citizen of the Federal Republic (female)|die Bundesbürgerin(nen)
+the Swiss national holiday|die Bundesfeier(n)
+the state, province|das Bundesland(¨er)
+the federal postal service|die Bundespost
+the federal state|der Bundesstaat(en)
+the German federal parliament|der Bundestag
+colourful; multicoloured; diverse (starts with b-)|bunt
+the castle, fortress (starts with B-)|die Burg(en)
+the citizen (male)|der Bürger(-)
+the citizen (female)|die Bürgerin(nen)
+the fellow citizen (male)|der Mitbürger(-)
+the fellow citizen (female)|die Mitbürgerin(nen)
+bourgeois, middle-class|bürgerlich
+the pavement|der Bürgersteig(e)
+the citizenry|das Bürgertum
+the office|das Büro(s)
+the bureaucracy, red tape|die Bürokratie
+the brush|die Bürste(n)
+the bus|der Bus(se)
+to take the bus|mit dem Bus fahren
+the bus depot|der Busbahnhof(¨e)
+the bush|der Busch(¨e)
+the bosom|der Busen(-)
+the butter|die Butter
+Evertything is all right (uses "Butter")|alles in Butter.
