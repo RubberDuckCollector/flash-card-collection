@@ -90,7 +90,7 @@ to greet, welcome (starts with b-)|begrüßen
 the greeting|die Begrüßung(en)
 as a greeting|zur Begrüßung
 to keep (starts with b-)|behalten
-the container|der Behälter(-)
+the container (starts with B-)|der Behälter(-)
 to treat like (has "wie" after the word) (starts with b-)|behandeln (wie)
 the treatment|die Behandlung(en)
 to dominate, rule (starts with b-)|beherrschen
