@@ -1,0 +1,18 @@
+padre|aita
+hermano (de una hermana)|neba
+hermano (de un hermano)|anaia
+hermana (de una mujer)|ahizpa
+hermana (de un hombre)|arreba
+abuela|amona
+abuelo|aitona
+tía|izeba
+tío|osaba
+primo|lehengusua
+prima|lehengusina
+suegro|aitaginarreba
+suegra|amaginarreba
+cuñado|koinatua/koinata
+gato|katua
+perro|txakurra
+pez|arraina
+pájaro|txoria
