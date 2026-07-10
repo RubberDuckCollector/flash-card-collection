@@ -1,0 +1,12 @@
+yo tengo (1 cosa)|nik daukat
+tú tienes (1 cosa)|zuk daukazu
+él/ella tiene (1 cosa)|berak dauka
+nosotros tenemos (1 cosa)|guk daukagu
+vosotros tenéis (1 cosa)|zuek daukazue
+ellos/ellas tienen (1 cosa)|haiek daukate
+yo tengo (2+ cosas)|nik dauzkat
+tú tienes (2+ cosas)|zuk dauzkazu
+él/ella tiene (2+ cosas)|berak dauzka
+nosotros tenemos (2+ cosas)|guk dauzkagu
+vosotros tenéis (2+ cosas)|zuek dauzkazue
+ellos/ellas tienen (2+ cosas)|haiek dauzkate
