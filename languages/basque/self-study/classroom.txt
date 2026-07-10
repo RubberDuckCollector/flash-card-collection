@@ -1,0 +1,17 @@
+el bolígrafo|boligrafoa
+el lápiz|arkatza
+la mesa|mahaia
+el escritorio|idazmahaia
+el ordenador|ordenagailua
+la puerta|atea
+el estuche|estutxea
+el libro|liburua
+el libro de texto|testuliburua
+los apuntes|apunteak
+el móvil|mugikorra
+el teclado|teklatua
+el ratón|xagua
+la goma de borrar|borragoma
+el cuaderno|kuadernoa
+la lámpara|lanpara
+la carpeta|fitxategia
