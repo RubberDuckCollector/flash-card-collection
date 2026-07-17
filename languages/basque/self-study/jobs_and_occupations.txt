@@ -1,0 +1,22 @@
+abogado, abogada|abokatu
+fotógrafo, fotógrafa|argazkilari
+diseñador, diseñadora|diseinatzaile
+enfermero, enfermera|erizain
+secretario, secretaria|idazkari
+peluquero, peluquera|ile-apaintzaile
+ingeniero, ingeniera|ingeniari
+profesor, profesora|irakasle
+fontanero, fontanera; linternero, linternera|iturgin
+periodista|kazetari
+coordinador, coordinadora|koordinatzaile
+jardinero, jardinera|lorezain
+el médico, la médica|mediku
+el mecánico, la mecánica|mekanikari
+el músico, la música|musikari
+cartero, cartera|postari
+psicólogo, psicóloga|psikologo
+bombero, bombera|suhiltzaile
+cocinero, cocinera|sukaldari
+polícia municipal (agente)|udaltzain
+camarero, camarera|zerbitzari
+estudiante|ikasle
