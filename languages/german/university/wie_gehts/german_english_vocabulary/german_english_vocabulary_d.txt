@@ -74,7 +74,7 @@ to think (starts with d)|denken
 to think of / about (has "an" after the word) (+ case)|denken an (+ acc.)
 the thinker|der Denker(-)
 the monument|das Denkmal(¨er)
-because, for (flavoring particle expressing curiosity, interest) (starts with d-)|denn
+because, for (flavouring particle expressing curiosity, interest) (starts with d-)|denn
 the deodorant stick|der Deo-Stift(e)
 the (mental) depression|die Depression(en)
 therefore (starts with "desh-")|deshalb
@@ -127,43 +127,74 @@ the headmistress|die Direktorin(nen)
 the (music) conductor (male)|der Dirigent(en)
 the (music) conductor (female)|die Dirigentin(nen)
 the discotheque|die Diskothek(en), Disko(s)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+the discussion|die Diskussion(en)
+to discuss|diskutieren
+to keep apart (reflexive)|sich distanzieren
+the discipline|die Disziplin
+the doberman|der Dobermann(¨er)
+yes (I do), indeed, but; on the contrary; flavoring particle expressing concer, impatience, assurance|doch
+the documentary|der Dokumentarfilm(e)
+the dollar|der Dollar(s)
+the interpreter (male)|der Dolmetscher(-)
+the interpreter (female)|die Dolmetscherin(nen)
+the cathedral|der Dom(e)
+to dominate|dominieren
+to thunder|donnern
+it's thundering|es donnert
+rumbling|donnernd
+Thursday|Donnerstag
+on Thursday|am Donnerstag
+on Thursdays|donnerstags
+the colon|der Doppelpunkt(e)
+double|doppelt
+the double room|das Doppelzimmer(-)
+the village (starts with D-)|das Dorf(¨er)
+there; over there|dort
+to there|dorthin
+the hangglider|der Drachenflieger(-)
+at it (starts with d-)|dran
+Now it's your turn|Jetzt sind Sie dran!
+outside; outdoors|draußen
+out here|hier draußen
+far out|weit draußen
+the woman in her 30s|die Dreißigerin(nen)
+urgent(ly)|dringend
+the drug|die Droge(n)
+the drugstore|die Drogerie(n)
+the druggist (male)|der Drogist(en)
+the druggist (female)|die Drogistin(nen)
+to threaten|drohen
+the jungle|der Dschungel
+to smell good|duften
+fragrant|duftend
+stupid, silly (starts with d-)|dumm
+That's (really) too bad|Das ist (wirklich) zu dumm
+the stupidity|die Dummheit(en)
+thhe dummy|der Dummkopf(¨e)
+the dune|die Düne(n)
+the fertiliser|das Düngemittel(-)
+dark (adj.)|dunkel
+dark-haired|dunkelhaarig
+in the dark(ness)|im Dunkeln
+the darkness|die Dunkelheit
+thin, skinny|dünn
+through (+ case)|durch (+ acc.)
+right through; by (agent)|mittendurch
+to break through, penetrate|durchbrechen
+the breakthrough|der Durchbruch
+mixed up, confused|durcheinander
+to flunk (an exam) (separable verb)|durchfallen
+the average|der Durchschnitt
+on average|im Durchschnitt
+to be allowed to, may|dürfen
+May I help you?|Was darf's sein?
+the thirst|der Durst
+I'm thirsty|Ich habe Durst.
+the shower|die Dusche(n)
+to take a shower (reflexive)|(sich) duschen
+the shower curtain|der Duschvorhang(¨e)
+the dozen|das Dutzend(e)
+to call each other "du" (reflexive)|sich duzen
+the DVD|die DVD(s)
+the dynamics|die Dynamik
+dynamic (adj.)|dynamisch
