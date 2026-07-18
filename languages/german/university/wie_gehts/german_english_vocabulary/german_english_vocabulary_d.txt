@@ -21,7 +21,112 @@ the dahlia|die Dahlie(n)
 the da-compound|das da-Kompositum (Komposita)
 then (starts with d-) (adj.)|damalig
 then, in those days (starts with d-)|damals
-
+the lady (starts with D-)|die Dame(n)
+Ladies and gentlemen!|Sehr geehrte Damen und Herren!
+to play checkers (starts with D-)|Damen spielen
+later, after that|danach
+the Dane (male)|der Däne(n)
+the Dane (female)|die Dänin(nen)
+Denmark|Dänemark
+Thank you very much!|Vielen / Herzlichen Dank!
+the thanks|der Dank
+Thank God!|Gott sei Dank!
+grateful, thankful|dankbar
+thank you (1 word)|danke
+Thank you very much!|danke schön!
+Thanks, you too|Danke, gleichfalls!
+to thank|danken
+You're welcome! (3 words)|Nichts zu danken!
+then|dann
+to portray (separable verb)|darstellen
+the actor (starts with D-) (male)|der Darsteller(-)
+the actor (starts with D-) (female)|die Darstellerin(nen)
+above it|darüber
+beyond that|darüber hinaus
+therefore (starts with "dar-")|darum
+that's why|eben darum
+that; the (neuter)|das
+that (conj.)|dass
+so that (conj.)|sodass
+the dative (case)|der Dativ(e)
+the (calendar) date|das Datum, Daten
+What date is it today?|Welches Datum ist heute?
+the length, duration (starts with D-)|die Dauer
+to last (duration)|dauern
+How long does that take?|Wie lange dauert das?
+constantly, all the time|dauernd
+the thumb|der Daumen(-)
+the blanket; tablecloth (starts with D-)|die Decke(n)
+to define|definieren
+your (sg., informal)|dein
+the decoration|die Dekoration(en)
+to decorate|dekorieren
+before long, soon (starts with d-)|demnächst
+the democrat (male)|der Demokrat(en)
+the democrat (female)|die Demokratin(nen)
+the democracy|die Demokratie
+democratic|demokratisch
+the demonstrator (male)|der Demonstrant(en)
+the demonstrator (female)|die Demonstrantin(nen)
+the demonstration|die Demonstration(en)
+to demonstrate|demonstrieren
+to think (starts with d)|denken
+to think of / about (has "an" after the word) (+ case)|denken an (+ acc.)
+the thinker|der Denker(-)
+the monument|das Denkmal(¨er)
+because, for (flavoring particle expressing curiosity, interest) (starts with d-)|denn
+the deodorant stick|der Deo-Stift(e)
+the (mental) depression|die Depression(en)
+therefore (starts with "desh-")|deshalb
+descriptive|deskriptiv
+therefore (starts with "desw-")|deswegen
+in German|auf Deutsch
+Do you speak German? (formal)|Sprechen Sie Deutsch?
+High (standard) German|Hochdeutsch
+Low German|Plattdeutsch
+the German|der/die Deutsche
+a German (male)|ein Deutscher
+a German (female)|eine Deutsche
+German-speaking|deutschsprachig
+motto|die Devise
+(the) December|der Dezember
+in December|im Dezember
+to turn (starts with d-) (reflexive)|sich drehen
+that is... (lit. "that's called")|das heißt...
+the slide (photograph)|das Dia(s)
+the dialect|der Dialekt(e)
+the conflicting nature, dialectics|die Dialektik
+the dialogue|der Dialog(e)
+the diamond|der Diamant(en)
+thick, fat|dick
+to be fattening|dick machen
+stubborn|dickköpfig
+the thief|der Dieb(e)
+the (entrance) foyer|die Diele(n)
+to serve|dienen
+the servant; restaurant server (male)|der Diener(-)
+the servant; restaurant server (female)|die Dienerin(nen)
+the service (government provided)|der Dienst(e)
+civil service|öffentliche Dienst
+Tuesday|Dienstag
+on Tuesday|am Dienstag
+on Tuesdays|dienstags
+this, these (root)|dies-
+misty (starts with d-)|diesig
+this time|diesmal
+the dictation|das Diktat(e)
+the dimension|die Dimension(en)
+the thing|das Ding(e)
+mainly (3 words) (lit. "above all things")|vor allen Dingen
+the diploma (e.g. in natural and social sciences, engineering)|das Diplom(e)
+the diplomat (male)|der Diplomat(en)
+the diplomat (female)|die Diplomatin(nen)
+direct(ly)|direkt
+the headmaster|der Direktor(en)
+the headmistress|die Direktorin(nen)
+the (music) conductor (male)|der Dirigent(en)
+the (music) conductor (female)|die Dirigentin(nen)
+the discotheque|die Diskothek(en), Disko(s)
 
 
 
