@@ -1,0 +1,11 @@
+cero|zero, hutsa
+uno|bat
+dos|bi
+tres|hiru
+cuatro|lau
+cinco|bost
+seis|sei
+siete|zazpi
+ocho|zortzi
+nueve|bederatzi
+diez|hamar

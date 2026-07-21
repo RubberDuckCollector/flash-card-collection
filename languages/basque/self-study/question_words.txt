@@ -1,0 +1,17 @@
+adónde|nora
+cuáles|zeintzuk
+cuál|zein
+cuándo|noiz
+cuántos|zenbat
+cómo|nola
+cómo|nola
+por qué|zergatik
+quiénes|nortzuk
+quién|nor
+qué|zer
+¿Cuál es tu nombre?|Zein da zure izena?
+¿Cuáles son tus apellidos?|Zeintzuk dira zure abizenak?
+¿Dónde vives tú?|Non bizi zara zu?
+¿Dónde vivís vosotr@s?|Non bizi zarete?
+¿En qué ciudad vives?|Zein hiritan bizi zu?
+¿En qué provincia vives?|Zein probintziatan bizi zara?
