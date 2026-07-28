@@ -411,4 +411,4 @@ the bus depot|der Busbahnhof(¨e)
 the bush|der Busch(¨e)
 the bosom|der Busen(-)
 the butter|die Butter
-Evertything is all right (uses "Butter")|alles in Butter.
+Everything is all right (uses "Butter")|alles in Butter.

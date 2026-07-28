@@ -15,3 +15,6 @@ qué|zer
 ¿Dónde vivís vosotr@s?|Non bizi zarete?
 ¿En qué ciudad vives?|Zein hiritan bizi zu?
 ¿En qué provincia vives?|Zein probintziatan bizi zara?
+¿Cuál es el nombre de tu gato?|Zein da zure katuaren izena?
+¿Cuánto cuesta eso?|Zenbat da?
+Yo vivo en un pubelo pequeño|Ni herri txiki batean bizi naiz
