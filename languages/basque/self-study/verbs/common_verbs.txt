@@ -1,0 +1,21 @@
+ser|izan
+estar|egon
+vivr|bizi
+comer|jan
+beber|edan
+jugar|jokatu
+estudiar|ikasi
+leer|irakurri
+pensar|pentsatu
+creer|sinestu
+ir|joan
+venir|etorri
+comprar|erosi
+dar|eman
+escribir|idatzi
+hablar|hitz egin
+dormir|lo egin
+hacer|egin
+despertarse|esnatu
+levantarse|altxatu
+limpiar(se)|garbitu

@@ -13,7 +13,7 @@ qué|zer
 ¿Cuáles son tus apellidos?|Zeintzuk dira zure abizenak?
 ¿Dónde vives tú?|Non bizi zara zu?
 ¿Dónde vivís vosotr@s?|Non bizi zarete?
-¿En qué ciudad vives?|Zein hiritan bizi zu?
+¿En qué ciudad vives?|Zein hiritan bizi zara?
 ¿En qué provincia vives?|Zein probintziatan bizi zara?
 ¿Cuál es el nombre de tu gato?|Zein da zure katuaren izena?
 ¿Cuánto cuesta eso?|Zenbat da?
