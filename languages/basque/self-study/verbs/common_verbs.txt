@@ -1,6 +1,6 @@
 ser|izan
 estar|egon
-vivr|bizi
+vivir|bizi
 comer|jan
 beber|edan
 jugar|jokatu
