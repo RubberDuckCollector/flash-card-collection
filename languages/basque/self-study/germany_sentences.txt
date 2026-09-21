@@ -1,0 +1,32 @@
+Es obligatorio (starts with b-)|beharrezkoa
+Es obligatorio (starts with d-)|derrigorrezkoa
+Está prohibido|Debekatuta dago
+Hay que asistir a las clases.|Klaseetara joan behar da.
+Hay que comparar los billetes/las entradas.|Tiketak erosi behar dira.
+Hay que matricularse.|Izena eman behar da.
+Hay que|Behar da
+La piratería está prohibida.|Pirateria debekatuta dago.
+No se puede gritar en clase.|Ezin da oihukatu klasean.
+No se puede olvidar las fechas límites.|Ezin dira epeak ahaztu.
+No se puede|Ezin da
+Para graduarse, es obligatorio hacer los exámenes|Graduatzeko, beharrezkoa da klaseetara joatea
+asistir, ir|joan
+cenar|afaldu
+comida|janari
+comprar|erosi
+el klub|klubea
+evento|ekitaldi
+fumar|erre
+gosaldu|desayunar
+gritar|oihukatu
+hasi|comenzar, empezar
+la fecha límite|epea
+matricularse|izena eman
+olvidar|ahaztu
+tradición|ohitura
+encontar|aukitu
+llave|giltza
+No puedes olvidar el libro.|Ezin duzu liburua ahatzu.
+No puedes olvidar los libros.|Ezin dituzu liburuak ahatzu.
+usar|erabili
+Está prohibido usar el móvil.|Mobila erabiltzea debekatuta dago.

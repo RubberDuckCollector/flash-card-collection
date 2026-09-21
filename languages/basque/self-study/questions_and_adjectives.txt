@@ -1,0 +1,26 @@
+aburrido, aburrida|aspergarria
+alto, alta|altua
+bajo, baja|baxua
+bonito, bonita|polita
+caliente|beroa
+corto, corta (de )|motza
+divertido, divertida|dibertigarria
+el sitio|lekua
+feo, fea|itsusia
+frío, fría|hotza
+grande|handia
+interesante|interesgarria
+largo, larga|luzea
+las noticias|berria
+limpio, limpia|garbia
+nuevo|berria
+pequeño, pequeña|txikia
+sucio, sucia|zikina
+viejo, vieja|zaharra
+¿Cómo es?|Nolakoa da?
+¿Cómo son?|Nolakoak dira?
+el dormitorio, la habitación|logela
+corto, corta, breve|laburra
+estrecho, estrecha|estua
+la edad|adina
+la personalidad|nortasuna
