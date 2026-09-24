@@ -1,0 +1,30 @@
+fretless|bundlos
+the 4-string bass guitar|die viersaitige Bassgitarre
+the bass tone|der Basston(¨e)
+the body|das Korpus
+the bridge (of an instrument)|der Steg(e)
+the electric current|der Stromfluss(¨e)
+the electricity|der Strom
+the fretting hand|die Griffhand(¨e)
+the movement, motion|die Bewegung(en)
+the neck|der Hals
+the note|die Note
+the order|die Ordnung(en)
+the pickup|der Tonabnehmer
+the playing hand|die Spielhand(¨e)
+the plectrum|das Plektrum
+the sound|der Klang(¨e)
+the string|die Saite(n)
+the sustain|die Ausklingzeit
+the technique|die Spieltechnik(en)
+the tone|der Ton(¨e)
+the tuner|das Stimmgerät(e)
+the tuning fork|der Stimmgabel
+the tuning peg|die Wirbel(-)
+the tuning|die Stimmung(en)
+the wood|das Holz
+the wrist|das Handgelenk(e)
+to move (starts with b-)|bewegen
+to mute|dämpfen
+to tune (an instrument)|stimmen
+to vibrate|vibrieren
