@@ -7,12 +7,12 @@ the controls|die Steuerung
 the electric current|der Stromfluss(¨e)
 the electricity|der Strom
 the fretting hand|die Griffhand(¨e)
-the fret|der Bund
+the fret|der Bund(¨e)
 the high frequency|der höhe Ton
 the knob|der Knopf(¨e)
 the low frequency|der tiefe Ton
-the magnet|das Magnet
-the movement, motion|die Bewegung(en)
+the magnet|der Magnet
+the movement, motion (starts with B-)|die Bewegung(en)
 the neck|der Hals
 the note|die Note
 the nut|der Sattel
