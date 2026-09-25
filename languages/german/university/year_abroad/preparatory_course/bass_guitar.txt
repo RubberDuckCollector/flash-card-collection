@@ -3,12 +3,19 @@ the 4-string bass guitar|die viersaitige Bassgitarre
 the bass tone|der Basston(¨e)
 the body|das Korpus
 the bridge (of an instrument)|der Steg(e)
+the controls|die Steuerung
 the electric current|der Stromfluss(¨e)
 the electricity|der Strom
 the fretting hand|die Griffhand(¨e)
+the fret|der Bund
+the high frequency|der höhe Ton
+the knob|der Knopf(¨e)
+the low frequency|der tiefe Ton
+the magnet|das Magnet
 the movement, motion|die Bewegung(en)
 the neck|der Hals
 the note|die Note
+the nut|der Sattel
 the order|die Ordnung(en)
 the pickup|der Tonabnehmer
 the playing hand|die Spielhand(¨e)
@@ -20,10 +27,12 @@ the technique|die Spieltechnik(en)
 the tone|der Ton(¨e)
 the tuner|das Stimmgerät(e)
 the tuning fork|der Stimmgabel
-the tuning peg|die Wirbel(-)
+the tuning peg|die Stimmwirbel(-)
 the tuning|die Stimmung(en)
+the wire|der Draht(¨e)
 the wood|das Holz
 the wrist|das Handgelenk(e)
+to generate (electric current)|erzeugen
 to move (starts with b-)|bewegen
 to mute|dämpfen
 to tune (an instrument)|stimmen
