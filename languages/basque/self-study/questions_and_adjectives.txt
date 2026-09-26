@@ -11,9 +11,8 @@ frío, fría|hotza
 grande|handia
 interesante|interesgarria
 largo, larga|luzea
-las noticias|berria
 limpio, limpia|garbia
-nuevo|berria
+nuevo; la(s) noticia(s)|berria
 pequeño, pequeña|txikia
 sucio, sucia|zikina
 viejo, vieja|zaharra
