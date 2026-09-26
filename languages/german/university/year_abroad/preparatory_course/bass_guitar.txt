@@ -37,3 +37,4 @@ to move (starts with b-)|bewegen
 to mute|dämpfen
 to tune (an instrument)|stimmen
 to vibrate|vibrieren
+the rhythm|der Rhythmus
