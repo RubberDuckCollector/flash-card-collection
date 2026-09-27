@@ -3,7 +3,7 @@ alto, alta|altua
 bajo, baja|baxua
 bonito, bonita|polita
 caliente|beroa
-corto, corta (de )|motza
+corto, corta (de longitud)|motza
 divertido, divertida|dibertigarria
 el sitio|lekua
 feo, fea|itsusia
@@ -19,7 +19,7 @@ viejo, vieja|zaharra
 ¿Cómo es?|Nolakoa da?
 ¿Cómo son?|Nolakoak dira?
 el dormitorio, la habitación|logela
-corto, corta, breve|laburra
+corto, corta, breve (de duración)|laburra
 estrecho, estrecha|estua
 la edad|adina
 la personalidad|nortasuna
