@@ -1,0 +1,13 @@
+la camiseta|kamiseta
+el vestido|soinekoa
+el abrigo|berokia
+la chaqueta|txaketa
+el pañuelo|zapia
+los guantes|eskularruak
+los zapatos|zapatak
+el chándal|txandala
+los calcetines|galtzerdiak
+la falda|gona
+la bufanda|bufanda
+el gorro|txanoa
+el traje|trajea
