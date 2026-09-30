@@ -1,28 +1,33 @@
 aburrido, aburrida|aspergarria
 alto, alta|altua
 bajo, baja|baxua
+barato|merkea
 bonito, bonita|polita
 caliente|beroa
+caro|garestia
 corto, corta (de longitud)|motza
+corto, corta, breve (de duración)|laburra
+difícil|zaila
 divertido, divertida|dibertigarria
+el dormitorio, la habitación|logela
 el sitio|lekua
+el tren de alta/gran velocidad|abiadura handiko trena
+erraza|fácil
+estrecho, estrecha|estua
 feo, fea|itsusia
 frío, fría|hotza
+gracioso, graciosa|barregarria
 grande|handia
+inteligente|azkarra
 interesante|interesgarria
+la edad|adina
+la personalidad|nortasuna
 largo, larga|luzea
 limpio, limpia|garbia
 nuevo; la(s) noticia(s)|berria
 pequeño, pequeña|txikia
 sucio, sucia|zikina
+un poco|pixka bat
 viejo, vieja|zaharra
 ¿Cómo es?|Nolakoa da?
 ¿Cómo son?|Nolakoak dira?
-el dormitorio, la habitación|logela
-corto, corta, breve (de duración)|laburra
-estrecho, estrecha|estua
-la edad|adina
-la personalidad|nortasuna
-un poco|pixka bat
-gracioso, graciosa|barregarria
-inteligente|azkarra
