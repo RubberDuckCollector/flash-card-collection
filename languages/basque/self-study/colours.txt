@@ -1,0 +1,8 @@
+rojo, roja|gorria
+negro, negra|beltza
+auzl|urdina
+blanco, blanca|zuria
+verde|berdea
+marrón|marroia
+amarillo, amarilla|horia
+gris|grisa
