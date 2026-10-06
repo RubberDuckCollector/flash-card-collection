@@ -6,3 +6,4 @@ verde|berdea
 marrón|marroia
 amarillo, amarilla|horia
 gris|grisa
+rosa|arrosa
