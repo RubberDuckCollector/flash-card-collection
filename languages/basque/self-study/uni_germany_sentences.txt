@@ -30,3 +30,4 @@ No puedes olvidar el libro.|Ezin duzu liburua ahatzu.
 No puedes olvidar los libros.|Ezin dituzu liburuak ahatzu.
 usar|erabili
 Está prohibido usar el móvil.|Mobila erabiltzea debekatuta dago.
+la prueba|azterketa

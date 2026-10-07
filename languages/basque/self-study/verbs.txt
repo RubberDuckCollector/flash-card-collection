@@ -19,3 +19,8 @@ hacer|egin
 despertarse|esnatu
 levantarse|altxatu
 limpiar(se)|garbitu
+caminar|ibili
+correr|korrika egin
+trabajar|lan egin
+viajar|bidaiatu
+caminar|ibili

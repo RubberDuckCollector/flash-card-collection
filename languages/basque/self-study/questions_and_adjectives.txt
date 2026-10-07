@@ -2,6 +2,7 @@ aburrido, aburrida|aspergarria
 alto, alta|altua
 bajo, baja|baxua
 barato|merkea
+bastante|nahiko
 bonito, bonita|polita
 caliente|beroa
 caro|garestia
@@ -23,6 +24,7 @@ interesante|interesgarria
 la edad|adina
 la personalidad|nortasuna
 largo, larga|luzea
+lento|motela
 limpio, limpia|garbia
 nuevo; la(s) noticia(s)|berria
 pequeño, pequeña|txikia
@@ -31,3 +33,16 @@ un poco|pixka bat
 viejo, vieja|zaharra
 ¿Cómo es?|Nolakoa da?
 ¿Cómo son?|Nolakoak dira?
+cómodo|erosoa
+incómodo|deserosoa
+la cama|ohea
+la sofa|sofa
+viajar|bidaiatu
+leer|irakurri
+caminar|ibili
+correr|korrika egin
+tranquilo, tranquila|lasaigarria
+estudiar|ikasi
+trabajar|lan egin
+necesario, necesaria|beharrezkoa/k
+importante|beharrezkoa

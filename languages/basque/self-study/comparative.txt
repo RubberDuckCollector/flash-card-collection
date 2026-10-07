@@ -1,0 +1,38 @@
+el avión|hegazkina
+el caballo|zaldia
+la universidad|unibertsitatea
+la seria|telesaila
+la película|pelikula
+la prueba|azterketa
+el chocolate|txokolatea
+la cama|ohea
+la sofa|sofa
+la biblioteca|liburutegia
+viajar|bidaiatu
+caminar|ibili
+correr|korrika egin
+leer|irakurri
+importante|beharrezkoa
+tan ... como|bezain ...
+más ~ que|baino ~ago/ak (quitar la -a)
+el/lo/la más ~|~ena (sustantivo obtiene -[r]ik)
+Este coche es nuevo|Auto hau berria da
+Estas casas son muy viejas|Etxe hauek oso zaharrak dira
+Ese libro es bastante caro|Liburu hori nahiko garestia da
+La prueba es un poco difícil|Azterketa pixka bat zaila da
+La serie es más vieja que la película|Telesaila pelikula baino zaharragoa da
+El caballo es más lento que el coche|Zaldia auto baino motelagoa da
+Las universidades de Inglaterra son más caras que las universidades europeas|Ingalaterrako unibertsitateak europako unibertsitateak baino garestiagoak dira
+El seminar es más difícil que la clase|Seminaroa klasea baino zailagoa da
+El avión es más rápido que el autobus|Hegazkina autobusa baino azkarragoa da
+La paella es más rica que el chocolate|Paella txokolatea baino goxoagoa da
+El hotel es tan caro como la casa|Hotela etxea bezain garestia da
+La cama es tan cómoda como la sofa|Ohea sofa bezain erosoa da
+(El) viajar es tan interesante como (el) leer|Bidaiatzea irakurtzea bezain interesgarria da
+(El) caminar es tan divertido como (el) correr|Ibilitzea korrika egitea dibertigarria da
+(El) estudiar es tan difícil como (el) trabajar|Ikastea lan egitea bezain zaila da
+Mi hermano es tan alto como mi madre|Nire anaia nire ama bezain altua da
+Mi perro es tan listo como mi gato|Nire takurra nire katua bezain azkarra da
+Los profesores son tan importantes como los estudiantes|Irakasleak ikasleak bezain beharrezkoak dira
+Es el libro de la biblioteca más caro|Liburutegiko liburuik garestiena da
+Mark es el chico más inteligente del grupo|Mark taldeko mutikorik azkarrena da
