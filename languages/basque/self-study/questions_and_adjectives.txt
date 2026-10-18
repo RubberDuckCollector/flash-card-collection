@@ -46,3 +46,4 @@ estudiar|ikasi
 trabajar|lan egin
 necesario, necesaria|beharrezkoa/k
 importante|beharrezkoa
+popular|famatua

@@ -36,3 +36,5 @@ Mi perro es tan listo como mi gato|Nire takurra nire katua bezain azkarra da
 Los profesores son tan importantes como los estudiantes|Irakasleak ikasleak bezain beharrezkoak dira
 Es el libro de la biblioteca más caro|Liburutegiko liburuik garestiena da
 Mark es el chico más inteligente del grupo|Mark taldeko mutikorik azkarrena da
+Él es el que más cocina|Bera da gehien sukaldatzen duena
+Él es el que menos cocina|Bera da gutxien sukaldatzen duena
