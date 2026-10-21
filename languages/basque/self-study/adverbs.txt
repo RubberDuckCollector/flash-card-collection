@@ -1,0 +1,4 @@
+el tiempo (reloj)|denbora
+la frequencia|maiztasuna
+la cantidad|kantitatea
+
