@@ -1,0 +1,8 @@
+the minimal pair|das Minimalpaar
+the phrase|die Wortgruppe
+the stress|die Betonung
+the syllable|die Silbe(n)
+the word stress|der Wortakzent
+the vowel chart, vowel diagram|das Vokaltrapez
+voiced|stimmhaft
+voicless, unvoiced|stimmlos
