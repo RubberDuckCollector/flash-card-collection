@@ -1,0 +1,147 @@
+the exam|die Prüfung
+the sign-up deadline|die Anmeldefrist(en)
+to sign up to (has "zu" after the word) (+ case) (reflexive)|sich anmelden zu (+ dat.)
+to drop out of (a module) (has "bei" after the word) (+ case)|abmelden bei (+ dat.)
+to drop out of uni|exmatrikulieren
+the submission deadline|der Abgabetermin(e)
+to research (starts with r-)|recherchieren
+the module (starts with K-)|der Kurs(e)
+the module (starts with M-)|das Modul(e)
+the umbrella term (starts with O-)|der Oberbegriff(e)
+the (lexical) field|der Bereich(e)
+to notice, see (starts with m-)|merken
+to find out (starts with h-) (separable verb)|herausfinden
+to think about, reflect upon, consider whether (reflexive)|sich überlegen
+(the faculty of) Information Systems and Applied Computer Science|die Wirtschaftsinformatik und Angewandte Informatik (WiAi)
+the context|der Kontext(e)
+the homework|die Hausaufgabe(n)
+the university studies|das Studium
+the exchange student (male)|der Austauschstudent
+the exchange student (female)|die Austauschstudentin(nen)
+to describe (starts with b-)|beschreiben
+the statemetn (starts with A-)|die Aussage(n)
+the system|das System(e)
+to think about (starts with n-) (separable verb)|nachdenken
+to look up (starts with n-) (separable verb)|nachschlagen
+the (almost always graded) presentation (starts with R-)|das Referat(e)
+the presentation (generic)|die Präsentation(en)
+to call each other "Sie"|sich siezen
+to call each other "du"|sich duzen
+the board (e.g. whiteboard)|die Tafel(n)
+objective (adj.)|sachlich
+the deadline (angl.)|die Deadline(s)
+to hint at, indicate (starts with a-) (separable verb)|andeuten
+to take criticism on board|Kritik einstecken
+the workplace counsellor (female)|die Betriebsrätin
+the (faculty of) Humanities|die Geistes- und Kulturwissenschaften (GuK)
+the Business Management|die Betriebswirtschaftslehre
+the module handbook|das Modulhandbuch
+the module directory|das Vorlesungsverzeichnis(se)
+the building|das Gebäude(-)
+the room (starts with R-)|der Raum(¨e)
+the [general term for any timetabled teaching event you attend] (starts with L-)|die Lehrveranstaltung(en)
+the seminar|das Seminar(e)
+the lecture|die Vorlesung(en)
+the (practical) exercise [type of course]|die Übung(en)
+the advanced seminar|das Hauptseminar(e)
+the Teaching Studies|das Lehramt
+the Language Centre|das Sprachenzentrum
+studied (adj.)|studiert-
+the student ID|der Studierendenausweis(e)
+the lift|der Aufzug(¨e)
+the emergency call|der Notruf(e)
+[pertaining to all students, regardless of faculty or field of study or course]|Hörer aller Fakultäten (HaF)
+the offer (starts with A-)|das Angebot(e)
+to offer (starts with a-) (separable verb)|anbieten
+to attend (a class, lecture, etc.) (starts with b-)|besuchen
+the lecture hall|der Hörsaal(¨e)
+the lab (room with scientific equipment for practical work)|das Labor(e)
+to sign (with a signature)|unterschreiben
+the signature|die Unterschrift
+the chemistry|die Chemie
+the topic|das Thema(en)
+the placement test|der Einstufungstest
+to reach (starts with e-)|erreichen
+the stairs (starts with T-)|die Treppe(n)
+the stair (single step)|die Stufe(n)
+In the event of a fire|Im Brandfall
+In an emergency|Im Notfall
+maybe (starts with v-)|vielleicht
+maybe (starts with w-)|wahrscheinlich
+the door|die Tür(en)
+Driveway in use 24/7 - Keep Clear|Ein- und Ausfahrt - Tag und Nacht freihalten!
+the computer keyboard|die Tastatur(en)
+the screen|das Bildschirm(e)
+the computer|der Computer(-)
+punctual|pünktlich
+the punctuality|die Pünktlichkeit
+to walk (starts with lowercase l-)|laufen
+to walk (3 words)|zu Fuß gehen
+the background|der Hintergrund
+the foreground|der Vordergrund
+at the front (starts with v-)|vorne
+in the foreground (2 words)|im Vordergrund
+in the background|im Hintergrund
+Right at the front|Ganz vorne
+to run (starts with r-)|rennen
+the Examination Office|das Prüfungsamt(¨er)
+the paper|das Papier
+the sheet; the leaf|das Blatt(¨er)
+to read directly off your notes (starts wtih a-) (separable verb)|ablesen
+to speak freely|frei sprechen
+Mind the Step|Vorsicht Stufe!
+Please mind the gap between the train and the platform.|Bitte zurück bleiben.
+the figure of speech, idiom, turn of speech|die Redewendung(en)
+the textbook|das Lehrbuch(¨er)
+the exercise book|das Übungsbuch(¨er)
+th exercise (i.e. worksheet task in a lesson)|die Aufgabe(n)
+the [general term for the people that teach at a Hochschule] (male)|der Dozent(en)
+the [general term for the people that teach at a Hochschule] (female)|die Dozentin(nen)
+the classmates (at uni, only used in formal situations)|die Komilitone
+the tutorial|das Tutorium(-en)
+cum tempore (event starts at 15 past the hour)|c.t.
+sine tempore (event starts exactly on the hour)|s.t.
+(the faculty of) Social Sciences and Education|die Humanwissenschaften (HuWi)
+the faculty|die Fakultät(en)
+the copy room, printing room|der Kopierraum(¨e)
+the printer|der Drucker(-)
+the key|das Schlüssel(-)
+the lock; the castle|das Schloss(¨er)
+the vocabulary (of a language)|das Wortschatz
+to pass (an exam) (starts with b-)|bestehen
+to fail (an exam) (separable verb)|durchfallen
+the entry (e.g. dictionary entry for ...)|der Eintrag(¨e)
+the result (starts with E-)|der Ergebnis(se)
+the search result (starts with S-)|der Suchtreffer(-)
+the deadline (starts with F-)|die Frist(en)
+the main clause|der Hauptsatz
+the subordinate clause|der Nebensatz
+the term paper (not spoken of in British English?)|die Seminararbeit(en)
+the entrance (of a building)|der Eingang(¨e)
+the exit (of a building)|der Ausgang(¨e)
+'inwards' [von draußen nach drinnen] (starts with h-)|hinein
+to require (formal) (starts with b-)|benötigen
+to possess (formal)|besitzen
+seldom, rarely, scarcely (starts with s-)|selten
+the usage (e.g. the usage of a word) (starts with G-)|der Gebrauch
+to prepare oneself for (something) (has "auf" after the word) (+ case) (separable verb)|sich vorbereiten auf (+ acc.)
+the (almost always written) exam at the end of a module (starts with K-)|die Klausur(en)
+to switch off (e.g. the lights) (a bit formal) (separable verb)|ausschalten
+to switch on (e.g. the lights) (a bit formal) (separable verb)|einschalten
+No matter what|Auf jedem Fall
+the entry, the access (starts with Z-)|der Zutritt(e)
+No Entry|Kein Zutritt!
+the electrical plug|der Stecker(-)
+the plug socket|die Steckdose(n)
+Understood.|Einverstanden.
+the paragraph|der Absatz
+the essay (starts with E-)|das Essay
+the essay (starts with A-)|der Aufsatz
+the [final exam one does at the end of their degree]|die Abschlussprüfung
+the presentation topic (starts with R-)|das Referatsthema
+to hold, to keep (starts with h-)|halten
+the Romance language Studies|die Romanistik
+the German Studies|die Germanistik
+the English Studies|die Anglistik
+the eastern European/Slavik Studies|die Slavistik
+to stay the night/overnight|übernachten
