@@ -7,6 +7,7 @@
         * [Dutch](#dutch)
         * [German](#german)
         * [Japanese](#japanese)
+        * [Russian](#russian)
         * [Spanish](#spanish)
 * [STEM](#stem)
     * [Computer Science](#computer-science)
@@ -87,6 +88,12 @@ For my own version of this that redoes quizlet write in my own style, check out 
 - Flash cards:
     - From the Marugoto textbooks
     - [Link I used to get the marugoto vocab lists](https://words.marugotoweb.jp/mylist_top.php?lv=A1&lang=en)
+
+### Russian
+
+- Flash cards:
+    - Jasno! Яасно! neu A1-A2 (ISBN: 978-3-12-527674-1)
+
 
 ### Spanish
 
