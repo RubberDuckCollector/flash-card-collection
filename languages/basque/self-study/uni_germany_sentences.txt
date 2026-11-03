@@ -14,7 +14,7 @@ asistir, ir|joan
 cenar|afaldu
 comida|janari
 comprar|erosi
-el klub|klubea
+el club|klubea
 evento|ekitaldi
 fumar|erre
 gosaldu|desayunar
