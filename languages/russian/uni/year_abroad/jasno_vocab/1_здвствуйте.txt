@@ -1,5 +1,5 @@
-* Guten Tag! (formell sg./pl., informell pl.)|Эдравствуйте!
-* Guten Tag! (informell sg.)|Эдравствуй!
+* Guten Tag! (formell sg./pl., informell pl.)|Здравствуйте!
+* Guten Tag! (informell sg.)|Здравствуй!
 * Hallo!|Привет!
 * Auf Wiedersehen!|До свидания!
 * Tschüss!|Пока!
@@ -49,7 +49,7 @@ der Schaschlik|шашлык
 * der Transport, hier: das Verkehrsmittel|транспорт
 der Fußball|футбол
 die Rockmusik|рок
-die Kiwi|кофе
+die Kiwi|киви
 * der Kaffee|кофе
 die Banane|банан
 das Smartphone|смартфон
