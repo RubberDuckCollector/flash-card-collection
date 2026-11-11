@@ -12,7 +12,7 @@
 * du|ты
 * Sie, ihr|вы
 * ja|да
-* neine|нет
+* nein|нет
 * nicht|не
 * und (als Gegensatz)|а
 der Takt [the rhythmical beat]|такт
