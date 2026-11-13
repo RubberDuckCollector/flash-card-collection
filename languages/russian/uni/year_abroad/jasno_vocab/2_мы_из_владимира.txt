@@ -9,7 +9,7 @@
 * normal|нормально
 * gut|хорошо
 * schlecht|плохо
-* woher?|откуда
+* woher?|откуда?
 * Woher kommen Sie / kommst du?|Откуда вы / ты?
 * aus|из
 * Welche Nationalität haben Sie?|Кто вы по национальности?
